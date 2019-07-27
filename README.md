@@ -1,2 +1,2 @@
-# compendium
-Compendium of open source community development best practices; is very opinionated.
+# guidebook
+Guidebook of open source community management best practices; is somewhat opinionated.
