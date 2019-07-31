@@ -1,0 +1,378 @@
+This chapter explains the basic structure of a community that is succeeding and evolving.
+
+<!-- Principle-->
+We often call this ''community growth'', with the caveat that healthy growth is not boundless growth.
+
+<!-- Implementation-->
+Control the growth -- you water and feed, but you also prune.
+
+<!-- Example-->
+If you look at an open source project with a long history, you see these guiding principles of how to loosely organize a community. Going through the history of the BSD project, you see they discovered and iterated through everything from mailing lists to open access code repositories. Their 30+ year lifespan can be viewed as a stretched out version and variation of the Fedora Project's 15 year lifespan from Red Hat Linux to Fedora Linux.
+
+The content in this chapter can be viewed as a [[Organizing a community - checklist|checklist]].
+
+__TOC__
+
+''(Short URL: http://bit.ly/TOSWOrgComm )''
+
+== Community soil - truisms to grow with ==
+
+<!-- Principle-->
+You have one of two goals in your community building plans.
+
+# You want to create and be central to the success of a community effort.
+# You want to be a catalyst in a community that includes you but is not relying upon your individual or team efforts for survival.
+
+<!-- Implementation-->
+Arguably, the second goal is the preferred goal for any Red Hat community activity that leverages community growth to continuously increase the value of our investment, while not having to increase the actual investment.
+
+Regardless of which goal you have, the methodology is the same:
+
+# Get things going, then
+# Get out of the way.
+
+<!-- Example-->
+When we look at the most successful Red Hat products, they come from projects where Red Hat's relative investment over time remains flat or decreases in comparison to the ongoing value. The Linux kernel forms the core of the Red Hat Enterprise Linux distribution, but Red Hat does not employ the greatest number of kernel contributors, just the ones that do the most work that matters to Red Hat as well as the kernel community.
+
+When we look at Red Hat projects that fail, the early investment was high and stayed high throughout the project's lifespan while the community continued to never appear.
+
+=== Initial soil building or 'Get it going' ===
+
+==== Practice radical transparency from day zero ====
+''(Short URL: http://bit.ly/TOSWDay0)''
+
+<!-- Principle-->
+'''''"[http://producingoss.com/en/setting-tone.html#avoid-private-discussions Making important decisions in private is like spraying contributor repellent on your project.]"'''''
+
+<!-- Implementation-->
+# From the earliest project moments all discussions and content (documents) need to be openly available and version controlled.
+# All discussions and decisions must be done in the open and be archived.
+# Wiki page changes (such as [[Special:RecentChanges]]) and code commit logs to the mailing list until it becomes annoying.
+
+'''Do not''' fall into the mistake of doing private email discussions to "get things started quickly." You can have all of the needed collaboration tools available within 2 hours and $US15/mon under a custom domain on any number of Linux-based hosting services (at a bare, bare minimum.)
+
+'''Do not''' underestimate the importance of the right set of tools available at community start or continuance.
+
+<!-- Example-->
+''[[Example needed]]''
+
+==== Get things started immediately with the simplest and most open communication methods available plus a meeting time ====
+''(Short URL: http://bit.ly/StartingTOSW)''
+
+<!-- Principle-->
+Focus first on enabling communication, then people can self-organize around the work that needs to get done.
+
+Don't try to get everything ready before revealing to the world. Other people want to help get it ready; it won't be any fun if you do all the work before they get there.
+
+Choose the lowest barrier medium, such as IRC. A text-based interaction is easier if you are not a native-English speaker or reader; it can be easily logged for review later; it can be translated; it can be easier to follow discussions than when battling different accents on the phone; it is a protocol that nearly anyone can use with a low-power, low-bandwidth device.
+
+<!-- Implementation-->
+# Make sure that meeting happens regularly.
+# Use it to discuss tasks, leave tactics and strategy for the mailing list.
+#* This ensures the widest participation in the important guiding activities (tactics and strategy).
+#* The meetings become a regular check point/drum beat to ensure progress is made and things are not forgotten.
+
+<!-- Example-->
+This principle is some of the success behind events organized using Meetup.com. The tool is a single, relatively simple interface to find events you can attend in person. People looking to organize an event have all the tools they need. The tools are ultimately responsible for getting people to meet physically. In-person meetings are a relatively low barrier considering the Meetup goal is to get local people together.
+
+While some Meetup groups may end up limiting membership or controlling access, ultimately all groups start with the lowest barriers possible - simple tools, a meeting time that is automatically rebroadcast by meetup.com, and a straightforward way to attract people to your event.
+
+==== Start open marketing soonest ====
+<!-- Principle-->
+You aren't working on a stealth-mode start-up, you are trying to grow an open project. Make appropriate-sized noise at the earliest opportunities.
+
+Remember that ''it is better to do than to seem''. Don't just talk about ideas -- talk about ideas and do stuff about them, too.
+
+<!-- Implementation-->
+# At least the leadership needs to blog on relevant technical planets (GNOME, Fedora, etc.)
+# Social media information feeds aggregated on a page for reference.
+#* If you are like many people, you are the most excited at the beginning of a new venture. That is when you want to set your tone of voice and participation bar, to give yourself the highest open marketing standards to maintain throughout the community life.
+# Keep the project social media identities (e.g. @projectname, plus.google.com/projectname+, etc.) separate from the social media identity of people guiding the community.
+#* This may seem counter-intuitive or be harder for small projects that are essentially a single developer, but it's a good separation to keep at all times. That way people who care about the individual people don't have to read about the project, and vice-versa. If the project grows, everyone will be glad the separation was created and enforced.
+ 
+This ties back in to [[How to loosely organize a community#Practice radical transparency from day zero|Practice radical transparency from day zero]].
+
+<!-- Example-->
+'''''"Sometimes communicating about what's being done is more important than doing more." --[http://blog.spang.cc Debian Developer Christine Spang], [http://blog.spang.cc/posts/on_transparency/ commenting] on [http://debian.org Debian] Project Leader [http://upsilon.cc/~zack/ Stefano Zacchiroli's] [http://www.debian.org/vote/2011/platforms/zack reelection platform]'''''
+
+''[[Example needed]]''
+
+==== Quiet projects stay quiet. Noisy projects get noisier. ====
+''(Short URL: http://bit.ly/TOSWNoisyMktg)''
+
+<!-- Principle-->
+At this point, you have things moving in some direction, even if it is only three of you discussing things loudly in public. One of your goals is to increase participation - make your project noisier with more people, doing and talking and showing and being.
+
+What is going to draw new people are:
+
+* Activity within the project - people like to see there is something there, that other people care to be present.
+* Interesting parts of the project that match their passions.
+* The project itself inspires passion in people.
+* Some other passion drives people toward the project.
+
+<!-- Implementation-->
+People find out about these draws through your rigorous open marketing efforts.
+
+What are developers working on and why? Expose every part and reason in a well organized wiki page. Show activity live via RSS feeds and any means you can.
+
+What supportive pieces are not owned or in danger of being orphaned? Make a list and keep it updated. It helps people to see what they can be doing in the project.
+
+<!-- Example-->
+<!-- Week example, Example needed -->
+
+This principle is general to humans - we like to see what is happening. When people are walking in a city choosing amongst restaurants, what do they look for?
+
+* "Are there other people eating there?"
+* "Do they look like people I think would like that place?" I.e., fancy people in a fancy place, local cuisine packed with local people, etc.
+* "Does it look like a place that is active, so I know the food is fresh and the ideas and skills are tested by many patrons?"
+* "What do the online reviews say?"
+
+===== Tasks, tasks, tasks or 'Project management matters' =====
+''(Short URL: http://bit.ly/TOSWTasks)''
+
+<!-- Principle-->
+The first item on your task list should be, "Write initial task list, prioritize, assign dates and doers."
+
+An updated task list says, "We're getting things done, here's where you can help."
+
+<!-- Implementation-->
+Make it easy for people to fill in the blanks of a few "Unassigned" items without making it totally scary by being too empty. 
+
+One simple project management method is to assign around 50% of the unassigned tasks to the project leader, who then has a lot to delegate when asked.
+
+'''''Too empty is scary. Too full makes it look too late to help. Balance your task list, have at least 60% of your tasks assigned.'''''
+
+If you have more unassigned tasks than 40%, take out some tasks, or mark them as a lower priority. It is a sign that you are reaching too far at this stage. You aren't going to do them anyway, and they can be added back later if still viable.
+
+<!-- Example-->
+Think of it like putting a few euros and coins in a guitar case when busking (playing for money in public), or seeding a tip (gratuity) jar with a few dollar bills. No one wants to be the first, but there still being music to play and room in the guitar case, why not toss in a buck?
+
+This principle is similar to what happens with ad hoc work efforts, such as a group of friends building a shed over the weekend. The core team may begin working on essential items, such as a level foundation and floor, and can point others and late comers at piles of lumber waiting to become walls and roof trusses.
+
+==== Make your contribution policy clear and as low as possible ====
+''(Short URL: http://bit.ly/TOSWLowerContribBarriers )''
+
+<!-- Principle -->
+When people want to add some value and do some work in the community, make it as easy and clear and possible to know what is expected of them.
+
+<!-- Implementation -->
+Have one single page that clearly states what the policy is around contributions. It should mention licensing (if any), means and methods, and anything unique to the project.
+
+An example of a unique aspect to a project is where digital art is a product. If a goal is 100% free and open content, then the contribution policy should specify that source components of an image must be 100% freely licensed to be included in the aggregate picture.
+
+<!-- Example -->
+The [[Contribution policy]] for The Open Source Way is a good (and reusable) example of how to make a clear policy:
+
+https://www.theopensourceway.org/wiki/Contribution_policy
+
+==== Governance that is good enough to get going ====
+
+<!-- Principle -->
+Your project has a way of making decisions and gettings things done, and ultimately that is what governs your project. Regardless of the complexity of your initial or ongoing governance, people must be able to clearly see how it works, where to open a dialogue, and how to work with or become part of the governance.
+
+Some communities have significant structure around their governance, and some have a very loose governance. Ideally, the governance evolves from influence and involvement of the community members.
+
+<!-- Implementation -->
+
+# Start with whatever governance works for the initial people working the project.
+# Write down what that structure is in a prominent location, such as your website or community bulletin board.
+#* Be sure to cover the basics - who does what, where and when discussions and meetings happen, how to work with or become part of the governance structure, and why this organization structure is being used so potential participants can get the flavor of the contributing community.
+#* This structure can range from a very formal project board and named leader to a loose confederation making decisions by [https://blogs.apache.org/comdev/entry/how_apache_projects_use_consensus consensus on an email list], or some other (re)combination.
+# Include provisions in the initial governance plan so the community can start iterating from the initial leadership structure.
+#* For example, the first appointed project board can have an explicit task of replacing itself and/or the governance model with an elected board/model by a specific date. This may not end up with anything being different than the initial model, but it now comes with community interest, support, and understanding.
+
+<!-- Example -->
+Urban and semi-urban communities across the world have been reclaiming open lots for community gardens for many years - this derives from gardening the commons.
+
+Many groups get their initial start with a core group of people who work out how they are going to work and make decisions as they go. It becomes self-evident when things need to be written down, usually when the first new people come and it takes a long time to explain all the community norms.
+
+As the groups mature, the rules become time-tested and potentially more formal. This helps the community gardens over the long-term, as people move in/out of the neighborhood, pass on their plots to others, bring family and friends in to work plots, and interact with any threats to the community existence.
+
+=== Ongoing soil support principles or 'Get out of the way' ===
+
+We presume you are looking to get the most value from your community growth, meaning you understand you want it to scale beyond your ability to be the central person. You are seeking a leaderless organization, or as near as you can make it.
+
+==== Maintain an open roadmap for the project ====
+''(Short URL: http://bit.ly/TOSWOpenRoadmap )''
+
+<!-- Principle-->
+For people to get involved in a project or community, they need to see where the community is and where it is going. We call this a roadmap, a usage derived from [http://en.wikipedia.org/wiki/Technology_roadmap technology roadmap].
+
+This roadmap is not a promise of where you are going to get in the future - it is not a list of destinations chiseled in to stone to hang your hopes on. It says where the people who are steering today are trying to take things. This helps people find their way, if they want to go where this community is going, and imagine how to help.
+
+The roadmap also serves to speak for you, other community leaders, and members who help shape that roadmap when not available or gone. In this way it helps with [[Raptor proofing]] the community.
+
+<!-- Implementation-->
+You need to get down all the ideas that you have for the project, ordered for delivery over time. That is the roadmap as you see it. That gives others something (ANYTHING!) to start from. Then work with others to grow that roadmap to fit their vision, recognizing the limits of resources, looking ways to combine and innovate together.
+
+# Write down a roadmap page, such as [[Roadmap]].
+# Work with others to expand that page. Be willing to project to a very far time horizon.
+# Put ideas on there as "maybe" for the future, so at minimum the ideas (and how you got there) are not lost for future endeavors.
+
+<!-- Example-->
+<!-- Weak example - Example needed -->
+This is a core need in any modern developer-focused platform or environment. Developers are constructors who need to know what is coming down the road that can effect what they are doing right now. A roadmap provides enough for them to make good decisions now, without locking them or the platform in premature decisions.
+
+==== Turn over leadership tasks to natural community leaders ====
+''(Short URL: http://bit.ly/TOSWNaturalLeaders )''
+
+<!-- Principle-->
+As you lower the barriers to participation, as contributors arise from the participants, natural leaders arise from the contributors.
+
+These are people not only strong with technical skills that advance the project, but they are good at rallying and organizing others with necessary skills to get things done.
+
+<!-- Implementation-->
+You can tell a natural community leader:
+
+* They listen when people talk.
+* They talk, people listen.
+* They get stuff done as much as or more than talking.
+* They inspire other people.
+* They demonstrate a sense of ownership of part of or the entire project.
+* They are eager to own a task or project from the beginning.
+* They work and play well with others.
+* They show common sense.
+* They do not run with scissors.
+* They tend not [http://en.wikipedia.org/wiki/Internet_troll to feed the trolls].
+
+Take that person aside and say, "Hey, you seem to be in charge of/most interested in Foo, can you be the project leader there?" At worst, they say no. At best, you just helped give birth to another community leader. Congratulations!
+
+<!-- Example-->
+When Fedora decided to migrate to MediaWiki, the Infrastructure team got an interesting email. Ian Weller wrote, "If you need any help, give me a shout." Turns out he was a minor participant/contributor in Fedora but was passionate about MediaWiki. Within a few weeks, he was debugging migration scripts, writing how-tos, and leading various Fedora teams in best-practices about using MediaWiki. After a highly successful migration and subsequent build-out, Ian was named 'Wiki Czar' in January 2009, [http://lists.fedoraproject.org/pipermail/fedora-wiki/2009-January/000089.html nominated by a member of the Community Architecture team].
+
+==== Turn over project leaders regularly ====
+''(Short URL: http://bit.ly/TOSWProjectLeaders )''
+
+<!-- Principle-->
+Often a single person sits in the center of a group of contributors, acting as a go-between, arbiter, soother of feelings, and go-to person. We call such people "project leaders". They are your best friends. They might even be you!
+
+<!-- Implementation-->
+If they are you, you need a six month exit plan.
+
+You may not pull the trigger right away, but you need to be prepared to.
+
+'''''The sign of a true open source leader is they know when to call it quits.'''''
+
+<!-- Example-->
+At the [http://www.moosewoodrestaurant.com/aboutus.html Moosewood Restaurant], the collective [http://search.barnesandnoble.com/Sundays-At-Moosewood-Restaurant/Moosewood-Collective/e/9780671679903 runs the kitchen using a rotational scheme]. A kitchen worker rotates roles:
+
+* One week as the head chef -- plan menus, order food, touch each plate before it goes to a diner.
+* One week as the sous chef -- right-hand to the head chef, responsible for food before it leaves the kitchen/line.
+* One week as a line or prep chef -- fixed work station area, run the process and work hard.
+* One week as a dish washer -- nothing like seeing up close what people don't eat.
+* Back to the top.
+
+There is no job in the world that cannot gain from a fresh mind and perspective.
+
+'''''Most of us are not Linus Torvalds. Don't be afraid to find a leader to replace you.'''''
+
+== Community building tools - just enough to get the job done ==
+
+=== Initial tooling or 'Get it going' ===
+
+==== Set up a mailing list first ====
+''(Short URL: http://bit.ly/TOSWMailList1st)''
+
+<!-- Principle -->
+An open collaboration needs a relatively low barrier to entry communication method that is:
+
+# Open to all to read;
+# Open to many to write to;
+# Subscribable;
+# Openly archived.
+
+<!-- Implementation -->
+A mailing list fulfills this need.
+
+Bonus for doing it on open infrastructure using open source software.
+
+That is a recursive use of the value of the open source way as experienced through quality software.
+
+[http://list.org Mailman] is the de facto standard.
+
+<!-- Example -->
+This principle works in nearly every online community, where the main communication medium is a mailing list or web forum. No matter what the subject, gardening to grandparenting, having an open, low-barrier-to-entry communication method is key to getting started and growing the community.
+
+==== You need a version controlled repository for content - code and documentation and art and etc. ====
+For more information on version control, read [[Introduction#Version control]].
+
+<!-- Principle-->
+Version control is the insurance that makes you and your contributor community bold.
+
+<!-- Implementation-->
+# This is a code repository (git, Subversion) and a document system that has the lowest barrier to entry (wiki).
+# Look at existing best-of-breed hosting, e.g. fedorahosted.org.
+# Making giving access to this as easy as possible; do not let the administration fall between the cracks.
+
+<!-- Example-->
+A version-controlled repository is more useful to community building than being a nice disaster recovery plan. It enables collaboration across time and distance without driving people crazy. As participants learn it is possible and easy to rollback changes, they are more bold in bringing forth and testing ideas.
+
+'''''Version control is the rewind button you wish you had for your life.'''''
+
+==== Use lightweight, open collaboration tools - wikis, mailing lists, IRC, version control, bug trackers - and give out access ====
+''(Short URL: http://bit.ly/TOSWOpenTooling)''
+
+<!-- Principle-->
+To quickly gain momentum, a series of small and useful tools always trumps a monolithic, inappropriate, hard to use tool.
+
+People are familiar with certain tools already -- give the people what they want.
+
+The tools you start with here are not always going to be be open source. Sometimes you are stuck accepting non-free and open source software solutions in pursuit of a goal you put higher. Be aware that if you choose a non-open solution, you incur additional risk for whatever opportunity you are trying to capture. Make sure that a move to fully open tools is part of your roadmap for the project. These are the parts you cannot compromise or eventually they will be the downfall of your openness and transparency.
+
+Some people will show up to participate no matter what tool you choose. Another group will participate only if the tool is open source, with some preferring popular tools. Why not choose an open, popular solution and capture all groups?
+
+<!-- Implementation-->
+# Default open subscription is the rule.
+# Spread admin rights to anyone responsible; try to pair with non-@redhat.com people.
+# Encourage people to be bold.
+## Don't be afraid to roll back bad decisions, that is what version control is for.
+# Be bold yourself.
+
+<!-- Example-->
+This is where domain-of-interest online communities gain some of their power. A web forum is a combination communication, collaboration, publication, idea/issue tracker, and content management tool. But it doesn't need to be giant and monolithic, and if it's a commonly known platform, readers and moderators can take skills learned from other forums and apply them to this one.
+
+=== Ongoing tools or 'Get out of the way' ===
+
+<!-- Principle -->
+
+The more that you can enable people to get things done with a culture and infrastructure of participation, the more they can get done for themselves that might end up mattering to you.
+
+One of the main ways to accomplish this is to get out of other people's way.
+
+<!-- Implementation -->
+
+This means:
+
+* Say "yes" by default;
+* Be careful of behaviors that block or derail people;
+* While making sure your voice is part of the important discussions, don't let it take over as the only voice;
+* Have a goal to make the project not require specifically-you;
+** Don't just document what you do, but encourage others to actually start doing the work themselves;
+** Look to eliminate all ways a catastrophe might occur if you were eaten by a raptor;
+* Look for ways to grow experts;
+** Who can takeover your role(s)!
+* Focus on transparency and communication;
+* If you are the gateway between communities or between an organization (academia, corporation) and an open project, double-focus on communication and networking;
+** The more people who know each other, the less they need you to be a go-between;
+
+<!-- Example -->
+Some of the success of the Fedora community is due to the rather abrupt and clear split-out from Red Hat's product line. Where the community efforts were one entirely Red Hat-centric, the first years of the Fedora Project were focused on creating the scaffolding of participation. This included bringing in Fedora Extras as a front-line repository, working hard at not shutting down community innovations in areas where Red Hat was leaving work on the table, trying to listen in the areas where Red Hat was working, and eventually externalizing all the code from internal-to-Red Hat build servers.
+
+In all this, the Fedora Project was often left on it's own to decide what was needed. Without an overlord commanding that infrastructure had to follow such-and-such a protocol, the smart and passionate people in the community (which included Red hat and non-Red Hat folks) continued to build a 100% open source-based community mostly from scratch. At all turns, these efforts were helped by people who started work, got it going, and then got out of the way to let things flourish.
+
+==== Improve your infrastructure to improve your project ====
+
+<!-- Principle-->
+The community needs to keep finding and building tools, processes, and especially automation.
+
+<!-- Implementation-->
+Automated testing, automated building, automated error checking, lint scanners run on code and content, wiki patrolling, etc.
+
+You do not need to always build all this yourself. For example, projects hosted on fedorahosted.org gain everytime a new project is hosted or Fedora Infrastructure adds features to the web apps or the [http://fedoraproject.org/wiki/MyFedora Fedora community panel].
+
+<!-- Example-->
+One of the core duties to making a Fedora Linux distribution release is managing packages of software from many and myriad upstreams. Packagers do this work using a tools evolved over the years, available as Fedora packages, and time-tested through all the ups-and-downs of the iteration process over the years.
+
+While packaging is complex, it is a far, far easier task in Fedora due to the excellent infrastructure of participation the Fedora teams have created and maintan.
+
+[[Category:The Open Source Way book]]

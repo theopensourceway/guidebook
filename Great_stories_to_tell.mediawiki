@@ -1,0 +1,34 @@
+This chapter is a growing list of stories that tell one or more aspects of the open source way.
+
+Each section has a descriptive title, short summary, link to more information, and a bulleted list of one or more sections of [[The Open Source Way]] that the story is associated with.
+
+== Making and learning from tough choices - a story of virtualization ==
+
+Red Hat made a bet on XEN for RHEL 5 virtualization, not knowing if our ability to shore up the engineering effort would make it a sustainable choice.  Just in case, we prepared for an ability to switch out virtualization mechanisms by extrapolating with libvirt.  In the meantime, the advancement of virt in the Linux kernel became KVM.  In the end, Red Hat bought the company behind the initial KVM creation, and included KVM in an update to RHEL 5.
+
+(URL for this story)
+
+* 2.4.1. Design for evolution
+* 2.4.2. Open a dialogue between inside and outside perspectives
+* 4.1. Embrace failure
+* 4.13. Evolve with the growth of your audience and contributors
+* 5.2. Funds key open source development
+
+== Math research done TOSW ==
+
+http://www.scientificamerican.com/article.cfm?id=problem-solved-tic-tac-toe-blog
+
+"In a blog post in January 2009, Gowers asked whether spontaneous online collaborations could crack hard mathematical problems - and if they could do so in the open, laying the creative process out for the world to see."
+
+== IBM's billion dollar bet ==
+
+As one good story of how an organization has learned from community interaction mistakes and turned that learning into valuable contributor creating and scaling, check out Dr. Dan Frye's keynote from the Linux Foundation Collaboration Summit.
+
+http://video.linux.com/videos/keynote-dan-frye-10-years-of-linux-at-ibm
+
+== Climate science ... ==
+
+http://opendotdotdot.blogspot.com/2010/06/something-in-air-open-source-way.html
+
+[[Category:TOSW]]
+[[Category:The Open Source Way book]]

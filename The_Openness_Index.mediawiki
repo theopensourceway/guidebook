@@ -1,0 +1,108 @@
+'''NOTE:''' Original content developed through the [https://wiki.jasig.org/display/2398/Openness+Index JASIG 2-3-98 Project's Openness Index] (Apereo Foundation).
+
+
+== Objective ==
+
+The term ''Open Source'' -- or as frequently shortened, ''Open'' -- has become popularly used to describe a variety of activities, communities and objects: [http://opensource.org open source software], [http://www.teachthought.com/technology/5-sources-of-open-source-textbooks/ open source textbooks], [http://www.oshwa.org/ open source hardware ], [http://opensource.com/tags/open-source-culture open source culture], to name a few. As interest in ''open sourcing'' projects increases, ambiguity and possibly authenticity in the tenets -- and thus potentially value -- has grown. For example [http://opensource.com/education ''open education''] may refer to, 1. learners within a cohort that participate in readily available teaching and learning activities without admission requirements and only a registration fee, or 2. educational content that available to anyone without a cost ([http://listserv.educause.edu/cgi-bin/wa.exe?A2=ind1206&L=OPENNESS&P=R51179 1]). 
+
+In addition to the ambiguity and confusion around ''open source'' or ''open'', there is also ambiguity around how communities of practice might organize and operate to inculturate The Open Source Way and realize the value of ''open sourcing'' their development.
+
+The Openness Index attempts to define attributes that enable and authenticate the practices offered in The Open Source Way. The Openness Index serves a means to assess the authenticity and maturity of practices (i.e. governance, policies, behavior, etc.) believed to promote and enhance the benefits of the ''open source way'' within a community of practice responsible for the design, development, and distribution of the open artifact. This will be a useful tool for both the ''open'' organizations themselves, to reflect on and develop best practices, as well as external communities (even a single individual), who wish to assess an organization as part of their own due-diligence before joining or contributing to an ''open'' community of practice.
+
+Importantly, the Openness Index is not designed to assess the ''openness'' of an artifact itself (software, a learning object, some piece of hardware, etc.)–there are plenty of other resources for that (OSI Approved Licenses, Creative Commons Licenses, etc.).
+
+==== Please Contribute ====
+
+Importantly this section, like all of ''The Open Source Way'' should eat it's own dog food. In line with the Openness Index we will seek to uphold the values, principles and objectives of ''The Open Source Way'' and invite your contributions.
+
+== Semiotics ==
+
+==== The Capability Maturity Model (CMM) ====
+
+The term "maturity" relates to the degree of formality and optimization of processes, from ad hoc practices, to formally defined steps, to managed result metrics, to active optimization of the processes ([http://en.wikipedia.org/wiki/Capability_Maturity_Model Capability Maturity Model], ''Wikipedia'').
+
+Fundamentally, such models identify five levels of maturity along a continuum:
+
+* '''Initial''' (chaotic, ad hoc, individual heroics) - the starting point for use of a new or undocumented repeat process.
+* '''Repeatable''' - the process is at least documented sufficiently such that repeating the same steps may be attempted.
+* '''Defined''' - the process is defined/confirmed as a standard business process, and decomposed to levels 0, 1 and 2 (the latter being Work Instructions).
+* '''Managed''' - the process is quantitatively managed in accordance with agreed-upon metrics.
+* '''Optimizing''' - process management includes deliberate process optimization/improvement.
+
+==== The Open Maturity Model (OMM) ====
+
+Using the above as a framework, the following can be applied to access the maturity of an open project and or community:
+
+* '''Initial/Aware''' (chaotic, ad hoc, individual heroics) - the starting point for use of a new or undocumented open project.
+* '''Repeatable''' - openness is at least documented sufficiently such that repeating the same steps toward openness may be attempted.
+* '''Defined''' - openness is defined/confirmed as a standard business process, and decomposed to levels 0, 1 and 2 (the latter being Work Instructions).
+* '''Managed''' - openness is quantitatively managed in accordance with agreed-upon metrics (those of the OMM)
+* '''Optimizing''' - openness management includes deliberate principle/process/practice optimization/improvement.
+
+== The OMM Framework / Causality ==
+
+...and may be expressed as:
+
+'''Values <font color="red"><=></font> Principles <font color="red"><=></font> Objectives <font color="blue">=></font> Practices'''
+
+ <font color="red"><=> Necessary & Sufficient</font>:
+ If and only if, x is a necessary cause of y, then the presence of y necessarily implies the presence of x.
+ The presence of x, however, does not imply that y will occur. Sex and only sex can cause pregnancy.
+ <font color="green"><=  Necessary</font>:
+ If x is a necessary cause of y, then the presence of x alone does not imply the presence of y. A marriage 
+ license is a necessary cause of marriage, but a marriage license alone does not cause marriage.
+ <font color="blue">=>  Sufficient</font>:
+ If x is a sufficient cause of y, then the presence of x necessarily implies the presence of y. Letting go
+ of a coffee cup will cause it to fall.
+ <font color="GoldenRod">++  Contributory</font>:
+ If x is a contributory cause of y, then the existence of x contributed to the existence of  y  but alone
+ does not imply the presence of y. Another cause, perhaps z, could have contributed to y. The presence of x,
+ however, does not imply that y will occur. Telephone contributed to the Internet.
+
+==== Values ==== 
+
+'''(Courage <font color="blue">=></font> Participation <font color="green"><=</font> Honesty <font color="red"><=></font> Reflection <font color="blue">=></font> Humility) <font color="red"><=></font> Values'''
+
+''Courage'' is sufficient to motivate one to participate in open communities of practices, however participants may be motivated by other causes, such as: a condition of employment; direction from a supervisor; peer pressure; or, a hidden agenda—perhaps to influence (or sabotage) direction. 
+
+''Participation'' in open communities of practice is necessary in order to contribute. While there is no guarantee the contributions will be ''honest'', participation is necessary in order to offer an honest contribution.
+
+''Reflection''' in open communities of practice requires honesty and can only exist if it is present. Assessment of one's ideas or self can only be genuine if one is honest.
+
+Reflection is sufficient to evoke ''humility''. Knowing one's limits or failures is fundamental to acknowledging them, however recognizing one's limitations does not mean one would admit to them.
+
+==== Principles ==== 
+
+'''(Communication <font color="green"><=</font> Transparency <font color="GoldenRod">++</font> Self-Organization <font color="green"><=</font> Collaboration <font color="GoldenRod">++</font> Evidence <font color="green"><=</font> Meritocracy ) <font color="red"><=></font> Principles'''
+
+''Communication'' is necessary for transparency in open communities of practice. While some communities may participate in communication, this may be promotional, marketing or spin rather than substantive. Yet in order for transparency to exist at all in open communities of practice, some form of communication must take place that conveys relevant information, exposing organizational and operational artifacts.
+
+''Transparency'', or access to information, contributes to the development of affinity groups, ''Self-Organization'' (i.e. self-organizing, self-organized and self-directed, Appelo, 2010). If an organization provides access to information, individuals can find topics of interest and others who share those interests (self-organizing), they may then select roles within the group (self-organized) and ultimately define want they want to do (self-directed). How transparency is neither necessary (groups may be organized by management for reasons unknown to them) or sufficient (individuals may be aware of issues, but choose not to form/join a group).
+
+A group of at least two people is necessary for ''collaboration'' in open communities of practice. However collaboration can occur outside of self-organizing groups, such as committees, departments, etc. who collaborate as part of their jobs or who may have been appointed, rather than based on an affinity for the topic. In addition, just because a group can be identified, it does not ensure collaboration will occur.
+
+Collaboration contributes to the identification of ''evidence'' in decision-making, but is not necessary. Individuals can gather and point to evidence independent of their role in a group. 
+
+A ''meritocracy'' can exist if evidence can be presented in order to derive the best ideas, projects and people. However, even if evidence exists it, alone, is not sufficient to form a meritocracy, as the evidence may not be considered. In addition, even if evidence is considered, it may not be the most valuable in decision-making.
+
+==== Objectives ====
+
+'''(Simplicity <font color="green"><=</font> Emergence <font color="GoldenRod">++</font> Incremental & Incremental Development <font color="green"><=</font> Rapid Feedback <font color="GoldenRod">++</font> Continuous Feedback) <font color="red"><=></font> Objectives'''
+
+''Simplicity'' is necessary for the emergence of direction. Reducing communities of practice to their fundamental elements alone does not allow direction to emerge, they may be ignored, but if issues are complex, ideas and issues may not be recognized or understood and direction will not be evident.
+
+''Incremental and Iterative Development'' (IID) allows the identification and adoption of emergent ideas. However IID can be based on predetermined decisions or standard processes that do not allow for emergence.
+
+IID is necessary for ''Rapid Feedback'' but alone will not ensure responsiveness from an open community of practice. With each action, the community can review outputs/outcomes to provide critique and offer further development. If development is broad in scope or requires multiple phases, assessment and feedback will be delayed or uninformed.
+
+If opportunities for rapid feedback remain active, they can contribute to ''continuous feedback''.
+
+== Implementations (Reference Implementations) ==
+
+The following have expressed interest in applying the Open Index to their organizations. As a working project, the Openness Index can be informed through actual use, iterating through development as information is learned in its application. These initial tests will provide the Openness Index with reference models for refinement and enhancement. The results of these initial assessments are not intended to provide an actual index of the organizations reviewed, rather provide direction for further development efforts. We are extremely grateful for this early participation from interested organizations, without whom the project could not advance.
+
+* '''Apereo Foundation''' ([http://www.apereo.org/ website]) <br /> The Apereo Foundation assists and facilitates educational organizations which collaborate to foster, develop, and sustain open technologies and innovation to support learning, teaching, and research.
+* '''Open Education Resource Foundation''' ([http://wikieducator.org/OERF:Home website]) <br /> The Open Education Resource Foundation is an independent, not-for-profit organisation that provides leadership, international networking and support for educators and educational institutions to achieve their objectives through Open Education. 
+* '''Project Kaleidoscope''' ([http://www.project-kaleidoscope.org/ website]) <br /> Project Kaleidoscope is implementing a set of fully open general education courses across eight colleges serving predominantly at-risk students. The project will dramatically reduce textbook costs and allow collaborative improvement of course design to improve student success.
+
+== References ==

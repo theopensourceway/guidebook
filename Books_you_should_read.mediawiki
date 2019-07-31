@@ -1,0 +1,88 @@
+== Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers==
+
+''by Alexander Osterwalder,  Yves Pigneur''
+
+http://businessmodelgeneration.com/
+http://ISBN.nu/9782839905800
+
+== Cultivating Communities of Practice ==
+
+''by Etienne Wenger, Richard A. McDermott, William M. Snyder''
+
+http://www.amazon.com/Cultivating-Communities-Practice-Managing-Knowledge/dp/B000SEOINI/ref=dp_kinw_strp_1
+
+ASIN: B000SEOINI
+
+==Digital Habitats: stewarding technology for communities==
+
+''by Etienne Wenger, Nancy White, and John D. Smith''
+
+http://www.amazon.com/dp/B007P6I7SO
+
+Kindle edition: http://www.amazon.com/dp/B007P6I7SO
+
+== Groundswell ==
+
+''by Josh Bernoff and Charlene Li''
+
+http://www.forrester.com/Groundswell
+
+ISBN-10: 1422125009
+
+ISBN-13: 978-1422125007
+
+== Producing OSS ==
+
+''by Karl Fogel''
+
+http://www.amazon.com/Producing-Open-Source-Software-Successful/dp/0596007590
+
+http://producingoss.com/
+
+ISBN-10: 0596007590
+
+ISBN-13: 978-0596007591
+
+== The Cathedral and the Bazaar ==
+
+''by Eric S. Raymond''
+
+Print version: http://shop.oreilly.com/product/9780596001087.do
+
+Online version: http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/index.html#catbmain
+
+Print ISBN: 978-0-596-00108-7 | ISBN 10: 0-596-00108-8
+
+Ebook ISBN: 978-0-596-15309-0 | ISBN 10: 0-596-15309-0
+
+== The Starfish and the Spider ==
+
+''by Ori Brafman and Rod A. Beckstrom''
+
+http://www.starfishandspider.com/
+
+http://www.amazon.com/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437
+
+ISBN-10: 1591841836
+
+ISBN-13: 978-1591841838
+
+== Wikinomics ==
+
+''by Don Tapscott and Anthony D. Williams''
+
+http://www.wikinomics.com/book
+
+ISBN-10: 184354637X
+
+ISBN-13: 978-1843546375
+
+== The Open Organization ==
+
+''by Jim Whitehurst''
+
+https://www.redhat.com/en/explore/the-open-organization-book
+
+http://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/
+
+[[Category:The Open Source Way book]]

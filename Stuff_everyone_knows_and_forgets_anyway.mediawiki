@@ -1,0 +1,474 @@
+Use this chapter to remind yourself and everyone else.
+
+== Embrace failure ==
+''(Short URL: http://bit.ly/TOSWFailure)''
+
+<!-- Principle -->
+Fail spectacularly, and don't forget to take notes.
+
+There is a lot of crowd wisdom at work here. It's basic physics, too -- if you charge ahead and fall on your face, you at least made headway. Like feeling your way around in the dark, each touch, bump, and stub of the toe teaches you more about the environment.
+
+<!-- Implementation -->
+When you drive your processes and technology to the brink of failure, repeatedly, you get very comfortable somewhere most people don't even want to go. You also get to set a new standard for what is comfortable for your community, giving you new room to expand even further.
+
+<!-- Example -->
+Honda Engine company engineers tell how they use failure to drive innovation. In 1994 when Honda Performance Development started working with the Formula One racing engines, the program was a huge failure. They had engines failing in races and turbochargers blowing off the engine, including blowing the bottom out of the engine and "in to ... a million pieces." Former division president Robert Clarke describes a five-gallon bucket of engine parts collected from the track.
+
+The main part of this story [http://www.youtube.com/watch?v=OiaPNlR5A4I#t=2m52s starts at 2:52, as linked here], and includes this from Takeo Fukui, President and CEO of Global Honda:
+
+<blockquote>
+"All the demands from Soichiro Honda were to take risks and fail. The idea is that you can fail 100 times as long as you suceed once. 'Trial and Error' sums up Soichiro Honda's ideas. We can only make fantastic adances in technology through many failures. I think that's what he wanted to say."
+</blockquote>
+
+These experiences taught them a lot, which made it's way back in to the engine design immediately.  In 1995, they won their first race, and in 1996 they won the championship. Honda now is now a major or sole supplier of engines to racing leagues.
+
+<!-- ''Another example to finish later.''
+
+Another example is mechanical engineer Nate Ball. His team was working on a faster way to pull people in to helicopters in search and rescue or military situations. Their invention, the Ascender, was a
+
+http://www.pbs.org/wgbh/nova/secretlife/scientists/nate-ball/ -->
+
+== Communities require care and feeding to get started ... ==
+
+<!-- Principle -->
+Imagine if you grow a garden and are very ambitious. The first year you overplant and are unwilling to thin out the seedlings. You end up with overcrowded, unhealthy plants.
+
+<!-- Implementation -->
+In online communities (including open source communities), there is a strong drive for immediate and explosive growth. This is usually achieved by promoting the project in as many environments as are appropriate, with the result that many people join the community out of casual interest. There's usually a strong impulse to accept early adopters as committers, to create the impression of a viable, strong team.
+
+Contributing community members - those who affect the actual direction of the project - should be chosen based on merit (how much they actually contribute, and the value of their contributions) and consensus. If someone contributes fixes to a number of critical bugs, perhaps they should get write access for the project (and a corresponding voice); if, however, that same person creates a poisonous atmosphere for the community, perhaps promotion is not such a great idea.
+
+It's also worthwhile to take note of core community members, rewarding those who contribute regardless of coding ability. For example, consider someone who is great at helping new users but hasn't tried to fix bugs - recognizing the contribution creates a positive impression for that user and everyone else. Positive motivation encourages others to do what garnered the reward, which - again - makes the entire community more strong.
+
+Growth should always be encouraged, by the entire community; just try to assure that the growth is composed of candidates who've earned membership. This does not mean that everyone has to get along perfectly at all times; personality conflicts are certainly possible (and likely, in some cases). However, the community at large shouldn't allow specific members' opinions to make primary decisions like this; seek consensus rather than responding to the urging of a small subset.
+
+Of course, a member's actions might be severe enough to warrant a response. Use reason; consider whether anyone would be caught by surprise if an action is taken.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== ... And communities need to be left to grow and evolve ==
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Remember what you learned in Kindergarten ==
+
+<!-- Principle -->
+* Play nice
+* Share
+* Don't run with scissors
+
+Seriously, you would be surprised at how many of the most basic rules are broken that our parents and teachers thought they taught us many years ago.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Four new virtues to live by ===
+
+<!-- Principle -->
+These four virtues were described by Brian Fitzpatrick and Ben Collins-Sussman in their [http://www.youtube.com/watch?v=-F-3E8pyjFo seminal talk on avoiding poisonous people in communities].
+
+* Politeness
+* Respect
+* Trust
+* Humility
+
+<!-- Implementation -->
+These virtues are implemented in every part of the community. Public and private discussions, all communication channels from in person to IRC, and sometimes even in the nature of the project itself.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Turn newbies in to instant contributors with the power of To Document ==
+
+<!-- Principle -->
+Make your community culture be to document answers when asking for help. The documenting should be done by the asker.
+
+<!-- Implementation -->
+People offering help should require that the help be documented.
+
+When the asker is a new member of the community (newbie), this is a great way to turn them from an annoyance in to an instant contributor.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Take extra extra extra care to have all discussions in the open ==
+''(Short URL: http://bit.ly/TOSWOpenDiscussions )''
+
+<!-- Principle -->
+Even if it means stopping and restarting a conversation in a public/archived location, keep this in mind at all times.
+
+If it's not in the public record, then it doesn't exist.
+
+<!-- Implementation -->
+This means that when you have private discussions, and such ''hallway conversations'' do happen, the responsibility is on the participants to record as best as possible the conversation -- notes taken in the middle and at the end can suffice as such documentation. The results of this discussion, minus privately sensitive matters, '''must''' be sent to the main openly archived discussion area, such as the community mailing list.
+
+Remember that such discussions are not where decisions are made. You can decide on a recommendation, but that must be made to the larger body and openly decided with all able to participate.
+
+'''Trust but verify'''. A commitment to participatory transparency invests into the mutually held bank of trust. "Just trust us" decisions done behind closed doors spend from the bank of trust. The bank can go broke all too easily.
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Radically visible meetings at all times ===
+
+<!-- Principle -->
+Any private interactions, from the hallway to email/irc to phone calls, are a risk to the project. At the minimum, you must be mindful of reporting back the results of direct conversation.
+
+However, this isn't really good enough. A summary of a meeting never shows the reasoned discussion, effectively cutting the community out of the decision making process.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+There is a reason mailing lists and open chat networks are the baseline for all communication in successful open source projects.
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== No decision point is too small to pre-announce to a mailing list ===
+
+<!-- Principle -->
+While we can grow trust in the community about technical or other decisions, there are common problem circumstances we can avoid:
+
+* The corporate sponsor and staff are always more suspect, so need to take extra care to share the decision making process
+* We cannot guess what is important to contributors, nor why. Presuming they don't care about a decision is a bad idea.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+The method is to take all decisions to the open forums, until people start complaining that a particular class of decisions can happen in another way/place. This is called, "Building trust by proof through annoying transparency."
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== It's okay to be disappointed but never okay to be surprised ===
+''(Short URL: http://bit.ly/TOSWSurpriseNotOK)''
+
+<!-- Principle -->
+No one is going to like every decision made, and people will be disappointed. That is a fact of life we cannot avoid.
+
+However, no one should ever be surprised, especially by something perceived as negative. It is a morale killer and eventually drives people away.
+
+<!-- Implementation -->
+Sometimes we hold back on letting people know information because we are concerned they'll be disappointed. When mishandled, those folks end up disappointed ''and'' surprised, which is a potently negative combination.
+
+You may need to inform people in a private communication channel, and should do so often where there is a chance they may not know or could not know a decision.
+
+If you find people being surprised too often, do a serious review of your communication methods. For some reason, you are not reaching enough of the people for word to spread.
+
+Don't bury decisions in other text that people don't read. As with a software patch, people can understand changes better when they arrive in discrete chunks to the community commons, such as a mailing list or blog planet. You may need to split decisions or discussion points out to individual threads so people can see the various trees as well as the forest.
+
+If you find a decision or detail is buried in a discussion and people might miss it, find a way to highlight it so that people are not surprised later.
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== How to let a mailing list run itself ===
+
+A mailing list is the core of any active community that gets things done. It is the equivalent to having everyone in the same office all the time. The functionality has not been duplicated, replicated, or replaced with any other technology in more than twenty years. News service is arguably better, but mailing lists are ubiquitous.
+
+It's not hard to run a mailing list, in fact the best ones really run themselves. In order to get it to that state:
+
+# Everything must be discussed on the list.
+# If you break rule 1, you must make sure that whatever the discussion was, the details and results are published on the list
+#* This happens often, so it is incumbent that decisions come back to the list from IRC, phone calls, f2f meetings
+
+== Take even more care to do all design decisions in the open ==
+
+<!-- Principle -->
+Even when all content is done using open resources, if you make design decisions via in-person meetings, hallway discussions, over lunch, during the daily commute, and so forth, then you are leaving the community out of work that really matters. They'll notice and care.
+
+<!-- Implementation -->
+People talk with each other, and that's fine. Just consider it to be pre-decision discussions and follow these rules:
+
+# A decision doesn't exist unless it's discussed on the mailing list first.
+# A conclusion isn't justified unless the discussion demonstrating it and evidence backing it up are visible publicly.
+# A discussion doesn't exist unless it's on the mailing list - send at least a summary of all non-public discussions to the mailing list, with the conclusions open for further discussion.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Do not put any non-public blocking steps in your process ==
+<!-- Principle -->
+You must not have anything that can block a release or development process be non-public. For example, you don't want to be in the position of telling your community something is broken in a private test environment and you can't recreate if for their review.
+
+<!-- Implementation -->
+Look through your entire process, identify the non-public parts, and figure out how to expose them.
+
+You may have some testing and development infrastructure that is non-public and need to work out how to make them public. In some cases, the best you can do (for at least the short-term) is to make reports public. You may end up helping other people to create a similar environment in a public cloud simply to make sure processes are kept flowing.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Use version control for your content as well as code - everyone watches the changes ==
+
+<!-- Principle -->
+Being able to roll back work encourages people to be bold and innovative. One of the currencies of project work is simply making a change to a codebase or a document as an explanation itself. Changes are self-evident in the commit itself. This is why all changes must be accompanied with a comment or summary that explains the reasons behind the change.
+
+<!-- Implementation -->
+
+Equally important is that all project members watch these changes. Responding to the changes on a mailing list, bug report, or wiki discussion page keeps the discussion associated with the node of origin.
+
+<!-- Example -->
+''[[Example needed]]''
+
+For example, major design decisions need to ...
+
+== Choose open tools that can be extended ==
+
+<!-- Principle -->
+Don't choose tools just because your small team knows them the best. Be careful of choosing something because you are in a hurry and need something quickly.
+
+When it comes to tools, talk with trusted community leaders about what you should use. Even if you choose something out of step with other community members, you will at least know why you did and be prepared to mitigate risk.
+
+'''It is risky to choose closed tools that a community cannot easily scale itself.'''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Make sure everyone has an equal and clear method for access to write-commit to open tools ===
+
+<!-- Principle -->
+<!-- Implementation -->
+With version control under code and content, you can open access to more people. For example, don't require people to go through a lengthy process or to "prove" themselves with X number of patches. Give people access to whatever they need to make a difference, even if they don't use the access.
+
+<!-- Example -->
+Wikipedia is a prime example here. They use the power of the community size to police bad content changes, rather than limiting the community size behind rules of what it takes to write content changes.
+
+''More people want to do good for your project than want to do bad. Don't punish the do-gooders because of the potential evil someone might do.''
+
+=== Tie this together with open content ===
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+Don't forget to document code, processes, methods, reasons, etc. 
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Focus on healthy and open community interaction ==
+''(Short URL: http://bit.ly/TOSWHealthyInteraction )''
+
+<!-- Principle -->
+If your goal is to have a healthy community that can grow to scale while supporting itself, then you have to think of it as you would any other relationship.
+
+Perhaps you do business based on your project's output, such as selling support for open source software you help create. In that class, the community is your ''[[open supply chain]]''. The healthier that supply chain is, the better the product is that you do business around.
+
+<!-- Implementation -->
+The key to healthy community interaction is focusing on transparent communication.
+
+* Every decision is not real and binding until it has been discussed openly.
+* Organizations that have private communication on other matters, such as corporations, ''must'' take extra vigilence to keep communication open and transparent. It's too easy to make decisions in the hallway, which creates community mistrust.
+* If your supply chain is important to you, you and all your people ''must'' keep healthy communication as a higher priority than personal agendas and taking offense.
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Make governance as clear as possible ===
+''(Short URL: http://bit.ly/TOSWClearGovernance )''
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Use your lawyers well while avoiding too much legalese ===
+''(Short URL: http://bit.ly/ )''
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Do not let poisonous people bog down the community ===
+''(Short URL: http://bit.ly/ )''
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Communicators need to communicate - do not let liaisons go silent ===
+''(Short URL: http://bit.ly/ )''
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Disable poisonous communication ===
+''(Short URL: http://bit.ly/ )''
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Seek consensus - use voting as a last resort ==
+
+<!-- Principle -->
+Most decisions in an open community are not decided by a vote. As in a well-working democracy, decisions are handled by the experts and knowledgeable people who are in charge at the will of the people around them. 
+
+<!-- Implementation -->
+Voting is best left for deciding who is in charge and the occasional ''very contentious issue''. Don't you wish it weren't contentious? Wish you could go back and make a consensus?
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Reassign your benevolent dictators while evolving toward a consensus-based democracy ==
+''(Short URL: http://bit.ly/TOSWConsensusDemo )''
+
+http://producingoss.com/en/consensus-democracy.html
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Do not forget to release early and release often ==
+
+<!-- Principle -->
+It's crucial to the success of an open collaboration that no part of the work is held back "until it's just right."
+
+Many of us have the tendency to keep code, content, or ideas to ourselves until we get them finished enough, polished enough for others to review. In open source development methodologies, that perfection seeking is the enemy of the good enough.
+
+Innovation is a process of building on existing ideas, in novel or even repetitive ways. We need others to see our ideas early and often so their influence can improve the ideas before they are too fixed to be improved.
+
+<!-- Implementation -->
+Make it the rule that '''nothing is held back''' until ''finished''. Treat it like a Zen practice - release early and often, every day or every hour if need-be.
+
+<!-- Example -->
+''[[Example needed]]''
+
+=== Release early and release often is for more than just code ===
+''(Short URL: http://bit.ly/TOSWReleaseEarly )''
+
+<!-- Principle -->
+Every idea deserves the light of day as early as possible.
+
+<!-- Implementation -->
+A common mistake is to wait to release a document, process, marketing plan, etc. until it is "just right". People who otherwise fully understand how not to do this in code forget when it comes to other parts of a project.
+
+Apply this rule:
+
+* If a piece of information is confidential, keep it private;
+* Otherwise, get it out in the public soonest ...
+
+... using techniques such as these ...
+
+* Bounce the idea off the mailing list(s)
+* Make a wiki page
+* Add to another wiki page
+* File a ticket in a tracking system
+* Make a non-coding prototype
+** ''Wireform'' web page in a wysiwyg editor
+** Inkscape or GIMP mock-up/collage
+** Bar napkin and pen, scanned or photographed
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Evolve with the growth of your audience and contributors ==
+
+<!-- Principle -->
+It's easy to say, "We designed this for such-and-such a reason for this particular audience." It's not so easy to be the only creator and maintainer, though. If you want to grow beyond just you and your niche group, you have to be willing to accept the influx of new ideas and directions that comes with open collaboration.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Use a predictable schedule type and stick to it ==
+<!-- Principle -->
+There is a lot of disagreement over how fast an open source project should move. Many projects have found the six month release cycle is not too long nor too short.
+
+Regardless of what type of schedule you choose, you need to stick to it and keep your community informed about the status of the schedule. Remember, [[Stuff_everyone_knows_and_forgets_anyway#It.27s_okay_to_be_disappointed_but_never_okay_to_be_surprised|it's OK to disappoint people sometimes, but not surprise them]].
+
+<!-- Implementation -->
+
+There are two main types of schedule for delivering open source:
+
+* Time based
+* Feature based
+
+One reason time based schedules are used so often in open source is that it forces developers to release early and often, and not sit on code waiting for a feature to be completed. Incremental updates provide the community a chance to keep up, help, and contribute.
+
+Even if you follow a feature based schedule, it is useful to break it down to smaller, time-based deliverables. This keeps your community interested and able to test, knowing that at regular, predictable intervals there will be something for them to try out.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== A good teacher is a good student - ask questions and put yourself in a position of being taught by others ==
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+Part of practicing the open source way is teaching others about how and why they want to adopt this way of working, thinking, and acting.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+Remember that in all your interactions, it helps for you not to presume that you are an expert and know all there is to know. Even in domains you are familiar with, ask basic and dumb and open and revealing questions. Ask any questions that help you make sure to reveal and map the principles of [[The Open Source Way]] to an individual domain.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Strive to drive barriers as low as possible ==
+''(Short URL: http://bit.ly/TOSWLowBarriers )''
+
+<!-- Principle -->
+Open projects need to have low barriers of entry. People and organizations are giving of their time and other resources, so if you are going to make them leap over any barrier, it needs to be a clear barrier with a clear reason. Otherwise, it's an invisible problem that makes people disappear before you even know they are there.
+
+If new participants come along and run in to a real, implied, or accidental barrier, a certain percentage of them will just walk away at that moment. At the very least, if you inform those people of what the barriers are and why they are there, then these folks will walk away informed instead of bailing out of ignorance.
+
+<!-- Implementation -->
+If you want open collaborators, you ''must'' make all barriers as low as possible. You ''must'' advertise this access-level clearly.
+
+If there are levels of access, such as "can write to the mailing list and file bugs" all the way over to "can commit major code changes to the source repository", then you ''must'' make it clear what these levels are and how to obtain them.
+
+<!-- Example -->
+Wikipedia is an example of everyone entering at the same level. There are, however, community levels that are implied and centered around a group of information pages. It is easy to make an edit on a page, even anonymously, but to get that edit to stick (not be reverted by another page watcher in the information community), other, more invisible barriers need to be overcome. This may discourage some casual editors, if the information community around a set of pages are very strict about allowing anonymous edits. Other pages may not have that strict of an information community around them, so anonymous edits are stickier. In the end, this gives Wikipedia a mark down in their reputation -- some people have experienced or perceive that Wikipedia has an invisible barrier to entry they can't see or overcome.
+
+[[Category:The Open Source Way book]]

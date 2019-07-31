@@ -1,0 +1,200 @@
+''(Short URL: http://bit.ly/TOSWDoneWrong)''
+
+If you belong to an organization, such as a business, you may apply the open source way to how you do business.  How you plan long-term strategy and how you execute short-term tactics.  This is one way that the open source way is as set of principles applied to differing disciplines.
+
+For more of an overview on applying the open source way to business practices, read [[Business the open source way]].
+
+In this chapter, various common mistakes are discussed.  Red Hat shares some examples, do you have any others from your team or other organizations that apply?
+
+== Burns projects and loses momentum in technology leadership by ignoring community fundamentals ==
+''(Short URL: http://bit.ly/TOSWIgnoreFundamentals )''
+
+<!-- Principle -->
+One of the challenges of doing business the open source way is the balance of experience and expectations in your employees and shareholders.  Accurately practicing the principles of open source requires diligence and patience.  Sometimes other instincts and requirements cross the pathway of essential community principles.
+
+Putting your community principles first in action and in risk analysis is essential to accurate practice of the open source way.
+
+<!-- Implementation --> 
+Ironically, even the best organizations are not always the best at what they do.  Sometimes they break every rule in [[The Open Source Way]].
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Breaks fundamental rules of community ==
+''(Short URL: http://bit.ly/TOSWBreaksCommunity  )''
+
+<!-- Principle -->
+In fact, every rule is being broken right now, somewhere inside of our favorite organizations.
+
+<!-- Implementation -->
+Somewhere project team members are designing in the hallway instead of on a mailing list.
+
+A team leader is wondering if they really need to go through the trouble of getting community input on their work.
+
+Someone in a sales organization is failing to show customers the value of being involved in the design and development of the software core to running the customer's business.
+
+<!-- Example -->
+For example, there is a common practice of having two mailing lists for open projects.  One is an internal list that too often gets used for development discussions before bringing them in to the open.  The other is the public discussion and development list.
+
+Similarly, when dealing with ISV partners, the partner team makes tools, content, and collaborates all on a back-channel.
+
+The problem is, community members either know or can feel there is work happening before conversations get to the public list.
+
+<!-- Example -->
+As an example of the value of including community considerations in any work, often it takes longer to document a procedure for a task than it does to complete the task. 
+
+If this is a procedure you do only one time, then there's no real problem if you fail to document it.  However, if it's something that your community members are likely to need to do themselves, take the time.  It will mean the knowledge of the process is shared among many, and refinements can be made.  Doing so also avoids the danger of losing undocumented knowledge if a community member moves on to other things.
+
+The Fedora Design team has found over time that the initial larger time investment in creating "Design Team Bounties" has paid off in recruiting new team members and increasing capacity, even where the design work involved would have taken less time to complete than the work of setting up and running the bounty.
+
+== Fails to learn from mistakes ==
+
+<!-- Principle -->
+Our ability to institutionally learn from past mistakes can be hobbled.  This is particularly challenging when the open source way is not ingrained in all aspects of your business; this is rather common, keeping open source as a development methodology but otherwise running the business in a traditional fashion.
+
+[[The Open Source Way]] is one part of fixing this.  We need roadmaps even when we think we know all the routes by heart.
+
+As with many of these "does it right, does it wrong" items, there is an irony at work here.  You may have learned serious lessons from past mistakes, yet still see many of the same ones repeated continuously.
+
+<!-- Implementation -->
+You find this when the organization is not listening to the memory keepers, who attempt to speak up and note this has been tried before.  
+
+<!-- Example -->
+For example, trying to solve problems with closed, proprietary software because of a desire to get something running quickly.  Experience shows that, just as we try to teach our customers, over the medium to long term, that decision is going to cost more than engaging with an open solution from the start.
+
+== Misses the opportunity to adopt and grow key or future open source technology for your own IT ==
+
+<!-- Principle -->
+Even open source businesses have a history that is riddled with decisions to use a piece of proprietary technology for internal or external purposes.  In some cases there was no open source choice to adopt and the cost of starting from the beginning was considered prohibitive.
+
+<!-- Implementation-->
+There are, however, as many cases where the open source software could have been adopted and fixed up to the needed enterprise standard by using the open source methodology.
+
+<!-- Example -->
+''[[Example needed]].''
+
+== Does not include community strategy in all new projects ==
+
+<!-- Principle -->
+Even a project that is only for internal focus and consumption can benefit from considering and including its community.
+
+<!-- Implementation -->
+In other words, we can adopt open source methodologies for everything from our internal communication to brand marketing.
+
+<!-- Example -->
+At the Google headquarters, there are brief articles posted on the bathroom walls, along with encouraging signs.  The articles are short and technical, detailing how to use and test a particular piece of Google technology.  The other signs and branding encourage Googlers to beta test their own software.  This is sometimes called ''[http://en.wikipedia.org/wiki/Eat_one%27s_own_dog_food eating your own dog food]'', that is, using the products and methods yourself that you sell and encourage your customer communities to use.
+
+== Separates community from business ==
+<!-- Principle -->
+Like many other companies, your business distinguishes clearly between the worlds of "development" where you support and work with communities, and "business", where you have adopted hierarchical controlled structures.
+
+This mirrors a traditional business approach, where interacting with communities members is analagous with customer service, a sub-branch without real power to change the rest of the business.
+
+<!-- Implementation -->
+Sometimes from a historical evolution, this separation is comprehensible.  Unfortunately, we can't always explain these histories so they make sense in the modern context where open community organizations act in a more integrated manner.
+
+A key community growth initiative that will benefit the bottom line is to make growing various types of communities (customers, sales, partners, etc.) a top-level strategic goal.  Agree that you need to include community interaction as part of the feedback loop that improves your business and processes.
+
+Think of every way that "customer" and "customer service" have integrated with various parts of successful customer-focused businesses.  Then substititue "community" and "community enablement".
+
+<!-- Example -->
+There are examples out there, where companies successfully integrate community principles into their business and gain benefits from their customer and partner contributions as they do from development.
+
+A good exercise is the comparison of community integration on the web sites between [http://www.redhat.com Red Hat] and [http://www.jboss.com JBoss] on one hand and [http://www.oracle.com Oracle], [http://www.sap.com SAP], [http://www.novell.com Novell], and [http://www.ibm.com IBM] on the other hand.  You can see the strength of the stand-alone community, but in the former you don't see obvious community offered for customers and partners.  In the larger, traditional, proprietary companies, they have put forth the face of having learned they need to be a leading member in the community of their customers and partners.
+
+A similar exercise can be done with smaller pure and mixed open source ISVs.  The community is forefront and listening to/interacting with users is a key to their growth.
+
+Ironically, applying the open source way via community principles is sometimes more evident in companies that do not practice open source development.  Twitter, for example, builds on open technologies, has a rapid and iterative approach to incorporating user ideas, and otherwise shows a high level of listening to and learning from end-users that is similar to how open source listens to end-users.
+
+== Only part way to free and open leaves you in limbo ==
+
+<!-- Principle -->
+If you only go part of the way with making your efforts fully free and open source software and content licensed, you gain none of the supposed benefits of closed and proprietary source while losing much of the benefits of the free and open model.
+
+<!-- Implementation -->
+
+This is easy enough to implement.  Choose not to be afraid of a full commitment to following the open source way.  In your licensing choices, make sure your license is one known not to restrict essential freedoms.  You can refer to the Fedora licensing list for information on good licenses to use and bad licenses to avoid.
+
+<!-- Example -->
+
+''[[Example needed]].''
+
+== Reduces trust by playing games with money ==
+
+<!-- Principle -->
+''[[Principle needed]]''
+
+
+Here is a hint: when you find you are thinking of taking your customers to court, you are about to rob your own bank of trust.
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+
+<!-- Example -->
+''[[Example needed]]''
+
+Ideas:
+* RIAA / Grandma & student lawsuits
+* (Canonical / Banshee but let's find non-FOSS examples)
+* Paramount Pictures suing Trekkie fan sites; Lucasfilm suing Star Wars fans
+
+== Uses legalese to confuse and cheat community ==
+''(Short URL: http://bit.ly/TOSWLegalNoise )''
+
+''[[Principle needed]]''
+
+It has to be a given that many community members cannot or will not hire a lawyer to provide the with legal advise about participating in your project.
+
+Even well-meaning legal documents can have a chilling effect, scaring away potential contributors.  When a lawyer writes up a contract for their client, such as a license agreement for software or terms-of-use for a website, the interests of the client are put first.  This might be to the detriment, intentionally or not, of the community members.
+
+'''When there are more lawyers than developers at your technology company, its OVER.''' - [https://identi.ca/notice/69371723 Jon Phillips @rejon]
+
+''[[Implementation needed]]''
+
+If your goal is to grow a community of contributors, then you need to think of your own lawyers as also working for the community. If an open, vibrant community is in the best interest of your company, so is protecting their legal rights.  One way to do this is to help all those who don't have their own lawyer or who shy from legal content. Help them by making your legal requirements few, unobfuscate them, and don't engage in any legal trickery to gain an advantage over anyone.
+
+Your competitor today may be your collaborator in your community tomorrow.  If you write legal agreements to block them out today, they may not be able to help you tomorrow.
+
+<!-- Example -->
+''[[Example needed]]''
+* One example might be how sites you purchase products from add you to their spam newsletter, they legally can since you initiated contact even though you never opted in, you implicitly agree by hitting the submit button
+** Use of the EULA + submit button to hide egregious privacy skating?
+* Obfuscates the fact that copyright assignment may put work under control over an acquiring company in the future, who then have all the rights to do what they wish regardless of original intent.
+* OpenOffice.org copyright assignment leading to the formation of LibreOffice.
+
+== Setting high standards for all contributions ==
+
+<!-- Principle -->
+When you've got a paid staff working on an open project, it's easy to slip in to the habit of comparing community work with that produce by full-time staff. Frankly, the people paid to work on the project have time for niceties of development.
+
+A community participant may only have a small amount of time to work on a contribution. If you set a standard that says all submissions have to be of the same quality as the paid staff at the time of submission, you are setting too high of a barrier.
+
+<!-- Implementation -->
+For starters, realize that many contributions are building blocks in a larger puzzle. If a contribution doesn't break anything, even if you aren't sure of the full value and potential, accept the contribution with a smile.
+
+By bringing all ideas and work in to the commons, we make it possible for other people to see and be involved. What is a small, broken component from one part-time contributor may become the cornerstone for a whole endeavor by another contributor. Being unable to predict the future, we ''must'' leave such building blocks strewn around for others to use.
+
+<!-- Example -->
+''[[Example needed]]''
+
+== Blocks submissions from fear of harm ==
+
+<!-- Principle -->
+Even though you and your staff paid to work on a project make mistakes, or occasionally insert a colorful comment in to the source code, you may not give the same leeway to community contributors.
+
+Whether it's concern about a poor translation or buggy code, it's too easy to say, "These people aren't paid to do this work so it probably doesn't matter as much to them, and I can't risk their mistakes."
+
+In fact, [http://opensource.com/business/10/7/why-incentives-dont-work-education%E2%80%94or-business-world studies show] that people are [http://opensource.com/business/10/4/upgrading-motivational-operating-system-conversation-daniel-pink ''more'' committed to projects that align to their ideals and give them a sense of purpose] -- more committed than they are to a job that just pays them to do whatever.
+
+<!-- Implementation -->
+''[[Implementation needed]]''
+
+# All contributions need to be brought to the table as equals.
+# Even if mistakes are made in a contribution, that's one of the reasons for open development. For example, another translator (or end-user) will recognize a mistake or poor word choice and report back the bug.
+
+
+<!-- Example -->
+''[[Example needed]]''
+
+
+[[Category:The Open Source Way book]]

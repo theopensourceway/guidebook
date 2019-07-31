@@ -1,0 +1,185 @@
+This book provides an introduction to creating and nurturing communities of contributors.
+
+Many people are experienced with growing active communities. The origin of this handbook came from the collective wisdom of [http://www.redhat.com Red Hat] and all the books and experiences learned from. Red Hat employs contributors who work directly in upstream development as a core part of doing business the open source way. That is a large number of people over more than two decades, across many thousands of projects. That is significant institutional knowledge. The origin of this handbook was a '''distillation of that knowledge in to a set of guiding principles'''.
+
+'''This book captures distilled knowledge'''. It works and learns from the [[Data and references|many guiding lights]] that have come before, and [http://opensource.com still keep coming].
+
+'''This handbook is an active document'''. As knowledge grows and changes, so do its contents. This is why we keep the original as a wiki.
+
+'''This book is written using the open source way''', as an open collaboration. If you have ideas to improve the [[The Open Source Way]], you are encouraged to just start writing it down. Use a page's "discussion" tab to access the talk page. More information on the [[How to contribute]] page.
+
+==  What this book is ==
+
+# A book that:
+## ... describes a principle
+## ... explains how to implement it
+## ... and gives real world examples.
+# A thin reference guide to richer, thicker works that explain Big Principles in Lots of Fancy Words.
+# An open how-to manual, initially authored by the Red Hat [http://fedoraproject.org/wiki/Community_Architecture Community Architecture] team.
+# Useful for much more than just code - art/design, documentation, education, marketing, sales, translation, IT, and so on.
+
+== What it is not ==
+
+# Comprehensive for the sake of inclusion.
+#* We are focused on slim and useful.
+# Overly repetitive of content already said and available elsewhere as free and open.
+#* We build on the work of others via the power of reference.
+# Boring.
+
+== What it is influenced by ==
+
+There are some very comprehensive, thorough, and useful works, such as:
+
+* ''[http://producingoss.com/en/index.html Producing Open Source Software]''
+* ''[http://www.amazon.com/gp/product/1578513308/ Cultivating Communities of Practice]''.
+
+More influencers and good reads are found in [[Books you should read]] and [[Data and references]].
+
+== Essential terminology or 'Read this even if you think you know what it means' ==
+
+''This section is growing for a while as the [[The Open Source Way]] is written and terms need defining.''
+
+=== Community ===
+
+When people talk about community, they may be talking about very different things:
+
+* People who ''use'' something.
+* People who ''like'' something.
+* People who ''advocate'' for something.
+* People who ''enable others'' to use something.
+* People who ''contribute to improve'' something.
+* ... and so on.
+
+When we talk about community in the [[The Open Source Way]], we mean the community of contributors who are enablers for all other communities. The ones who, by getting things done, make it possible for many, many more to get much, much more done.
+
+This is the group of people who form intentionally and spontaneously around something important to them. It includes the people who use or benefit from the project, those who participate and share the project to wider audiences, and the contributors who are essential to growth and survival.
+
+Contributors are the oxygen. Without it, the animal chokes and dies.
+
+''The community that contributes to improve something is the one that defines something for the next generation of users, advocates, and enablers''.
+
+=== Contributor ===
+
+A contributor is someone who contributes anything to the project - be it code, bug reports, answers to questions in forums, documentation, tutorials, web pages, infrastructure/operations, marketing, organization, translations, leadership, evangelism, time. (The list can go on.)
+
+In general, all contributions are considered of equal value to the project. Clearly, code that goes in to the main software produced by a project is going to be a more visible support of the project's goals. But in practice, successful projects work to value, honor, and acknowledge contributions of all types from all directions.
+
+In projects where merit gained is part of the community structure, gaining merit is more about doing hard work, communicating, showing up, and fulfilling agreements than any arbitrary measurement of the actual contributions.
+
+=== Tactics ===
+
+This is derived from military terminology.  The common example is a group of soldiers who work with a squad leader to take and secure a hill.
+
+''Tactics'' are the ideas, plans, methods, and means used to accomplish a goal.  That is, tactics are the maneuvers used to achieve an objective that is set by strategy.
+
+In Fedora, the strict yet clever [http://fedoraproject.org/wiki/Packaging packaging guidelines] are a strong-arm tactic that enforces the Fedora strategy of good packaging of only free and open source software.
+
+=== Strategy ===
+
+''Strategy'' focuses on everything from which hill to secure, to deciding which military campaigns to engage in.
+
+A term from military science, strategy is the focus of the command group.  Strategy focuses on setting goals and which groups can obtain the goals.
+
+Once the "who, what, where, when, and why" is decided, tactics takes over as the "how".
+
+The Fedora strategy of creating and supporting only FLOSS* is derived from the culture of the community combined with a pragmatic view of the legal and business landscape.
+
+<nowiki>*</nowiki>free/libre/open source software
+
+=== Planets and blogs ===
+
+A [http://en.wikipedia.org/wiki/Blog blog] is a mix of personal and project writing that comes from a participant or contributor.
+
+The idea of a ''blog planet'' is to show the width and depth of personalities in a community, and what they are doing.
+
+It intentionally allows for personal expression.  In other words, the content is not all community-specific.  It is sometimes wildly off topic.
+
+The [http://planet.fedoraproject.org Fedora Planet] is a good example, with blogs aggregated from willing contributors.  People add themselves to the planet, and it is a mix of languages, topics, skill levels, and project interest.  All aspects of the Fedora Project are covered there on a daily basis, with a wide variety of contributors from Packaging, Art and Design, Marketing, upstream development, and so on.
+
+=== Leaderless organizations ===
+
+A leaderless organization is ''decentralized'', meaning it does not rely upon a central authority for leadership, strategy, or tactics.  Being decentralized makes it easier to heal, faster to respond and innovate, and more able to grow in scale.
+
+An example of a large leaderless organization is the Internet.  Not just the set of agreements that makes the structure work, but all the way down to the wire protocols that route around damage in the network, such as when a backhoe slices through a fiber link between two ISPs.
+
+In projects, [http://wikipedia.org Wikipedia] is a decentralized organization, while the [http://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica Encyclopaedia Brittanica] is a classic centralized organization.
+
+The idea of the leaderless organization is put forth in the book [http://www.starfishandspider.com/ The Starfish and The Spider].
+
+=== Version control ===
+
+Version control is the comfortable insurance that means you can sleep soundly at night.
+
+A ''version control system (VCS)'' keeps track of the differences in versions of content.  Properly implemented, it is nearly disaster proof.
+
+When a document is saved into a VCS, the difference between the current saved copy and the one just before it is stored.  The same occurred at all previous saves.  This makes it possible to restore a document to any point in its save history.  It is also possible to return to a previous save point and start a new pathway of saves from there.  In code this is called ''branching'', with the original code in the central ''trunk''.
+
+When you work with a web-based tool to write, edit, and display a document, you are using version control.  All content management systems and wikis use a form of version control to capture and display the differences between edits.
+
+Version control provides noisy reporting.  Anyone who is interested or able may watch the stream of changes, or derive reports from them.  Watching and commenting on version saves as they occur is a hallmark of the open source methodology.
+
+=== Content v. code repositories ===
+
+Code is a specialized form of content.  There are many similarities between repositories of code and content.  The major difference is in the tools.
+
+Code repository tools focus on centralized or decentralized development of the code.  The ability to return to a point in time and branch from there is essential.
+
+Content repository tools also include the ability to return to previous points in a documents save history.  They also include management tools, such as team automation in MediaWiki, and workflow, publishing, and lifecycle components in a content management system (CMS).
+
+=== Open collaboration tools ===
+
+These are examples of open collaboration tools used in the open source communities.  The same or similar tools apply to any online community of practice.
+
+* What is a wiki?
+* What is a mailing list?
+* What is IRC?
+
+=== Open marketing ===
+
+This is marketing done entirely in the open, no secret discussions on brand tactics behind the Wizard's curtain.  You talk about your strengths, weaknesses, brand position, and so forth as an ongoing open discussion.
+
+Central to this are social media tools.  Some are used for discussions, some are for information dispersal, but any vector is a potential for learning and spreading the word.
+
+* Blogging planet or otherwise aggregated feed of all contributors
+* Publicly displayed and discussed content and code committing
+* Always being watched
+** All mailing list traffic
+** All IRC logs
+** All voice sessions logged and available
+** 100% totally accountable discussions
+** Radically transparent
+
+==== Fundamental rule - do not bash competitors ====
+
+In fact, ignore them when talking about your project.  Why waste the attention you've got on your project to point attention at something else?
+
+==== Fundamental rule - be radically transparent ====
+
+There is no such thing as too much information.  Everything you can legally say, you should be saying.
+
+Don't use this as an excuse to be verbose or disorganized.
+
+==== Fundamental rule - explain what you know and how you know it ====
+
+In the general category of being honest, spend some time with revealing sources and means. Bad numbers are everywhere in software and communities.  Make sure your numbers are real and provable.
+
+This also falls in the general methodology of thinking like a scientist.
+
+=== Science ===
+
+We may all be social artists in our communities, but in the end, our understanding of this is all driven by science.
+
+There is an active feedback loop happening right now:
+
+# [http://en.wikipedia.org/wiki/Scientific_method Scientific method] wildly successful and bringing forth new, life altering ideas and innovations ...
+# Scientific method is a direct parent of the open source methodology ...
+# Open source way practiced in business/private sector ...
+# Influences academia ...
+# Influences public/government ...
+# Funds science and supports innovation ...
+# Iterating through more ideas for the Great Ones ...
+# (Back to top)
+
+The open source way is breaking through to help make new ideas happen ... in organizations that brought us the ideas of free government and free, public education ... ideas that were revolutionary and evolutionary in the 19th century ... that fueled a century of innovation ... and are now getting refueled by new ways of openly collaborating on infrastructures of freedom.
+
+[[Category:The Open Source Way book]]

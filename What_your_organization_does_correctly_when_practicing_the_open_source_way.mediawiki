@@ -1,0 +1,124 @@
+<!-- Principle -->
+This chapter is a pat on the back for what you do correctly.
+
+<!-- Implementation-->
+It is also your reminder -- don't forget to keep on doing these parts that work well.
+
+''Continuous improvement'' means we are always building on what we have learned before.  It is not a single state that you achieve to remain static.
+
+<!-- Example-->
+For example, the course of the Fedora Project as a source for a Linux distribution demonstrates the spirit of continuous improvement in the open.  Simply converting the community Linux distro to a non-commercial project was not enough.  It took six releases of Fedora to get over the hump of enabling the wider community to contribute without inhibition or barriers.
+
+== Identifies and focuses on key future technology ==
+<!-- Principle -->
+The technology you defined two years ago, perfected a year ago, and are making money on today, is going to be a commodity a year or two from now.  This is one constant we can rely upon.
+
+<!-- Implementation-->
+Open source communities force your organization to keep moving, to never get comfortable in one spot for too long.  This is an effect of the rapid way open source software can advance, and it works to your advantage to always have little brothers and sisters nipping at your heels.
+
+<!-- Example-->
+Early in the 2000s, Red Hat provided the industry's best system management for Linux via RHN.  Because that project was internal only and so was limited in its future by exactly how many people Red Hat hired to work on it, there was a natural limit to how long RHN would remain in a leadership position.
+
+Although arguably Red Hat was able to keep RHN relevant for an additional few years by not engaging in external system management projects, the resulting situation in 2009 is quite opposite.  RHN has now drifted backward in relevancy compared to open source alternatives, and the open source tools far outstrip RHN capabilities where it matters the most to customers.
+
+The technologies in the best position to replace RHN include Nagios, Puppet, Cobbler, Func, and Yum -- a few of those were even started by or promoted from within the Fedora community, some by Red Hat engineers, and all are strongly influenced by Red Hat needs, as well as customer and community needs.  It took a few years longer in this case, but Red Hat is getting to the next level by re-focusing on the key technology.
+
+== Funds key open source development ==
+<!-- Principle -->
+You may have the power of the pocket book.  By applying funding intelligently, you can be instrumental in the initiation and growth of important open source projects.
+
+<!-- Implementation-->
+The best implementations of this idea are when an initial high investment is followed by a low and ongoing investment that remains relatively level or linear in progression.  As the project grows, your relative investment grows at a fraction of the rate of the overall project; this is where the low-investment, high-return of open source contribution occurs.
+
+Another interesting implementation is when you can direct ''other'' organization's funds at open source.
+
+By learning from when your investment does not pay off, such as ongoing high-investment with not enough return, you gain value from mistakes made.
+
+<!-- Example-->
+For example, the NSA partnered with Red Hat to work on getting SELinux upstream in the Linux kernel.  The NSA goal was to have Red Hat bake SELinux in to a commercial off-the-shelf (COTS) package that US Government agencies could procur.  While Red Hat was making a technology bet that included hiring key and unique developers from the communities, it was also helping the NSA to direct their efforts in the open community.
+
+Back to the idea of spending your own money, there are a number of key technologies and projects that stand-alone now, but owe some initial lifeblood to market interests.  At Red Hat, these include: GNOME; XEN virtualization and the advancement of virt under Linux (libvirt, oVirt, etc.); RPM.
+
+For a more comprehensive list, refer to http://fedoraproject.org/wiki/Red_Hat_contributions .
+
+== Makes mistakes and learns from them ==
+''(Short URL: http://bit.ly/TOSWLearnFromMistakes )''
+
+<!-- Principle -->
+Mistakes happen, and if your organization is [[Stuff_everyone_knows_and_forgets_anyway#Embrace_failure|embracing failure]], then you are working in the open source way.
+
+Being open and honest about mistakes, discussing what happened and why in the commons of your community, are all part of being radically transparent. You maintain trust, prevent bad surprises, and gain from the insight and wisdom of your community.
+
+<!-- Implementation -->
+When you do make mistakes, you need to take care not to bury them on purpose or by accident. 
+
+# At the earliest possible opportunity, identify that a mistake has been made and talk about the steps being done to review and improve.
+# Proceed to conduct the steps in your community commons.
+#* If there are legal or other reasons that part of the steps need to be private, be honest about that, and discuss as much about it as possible. It is key that your community maintain trust in your to learn from and fix the mistake, even when you can't make them aware of every part of the mistake.
+# Have one or more post-discussions to review what happened and what is being done to prevent the mistake(s) from happening again.
+
+<!-- Example -->
+In March 2011 the PHPFog hosting company discovered their services were cracked by a few teenagers due to exploits in their own code and a series of mistakes in securing systems, removing old untrustworthy servers, and leaving open risky infrastructure.
+
+In his [http://blog.phpfog.com/2011/03/22/how-we-got-owned-by-a-few-teenagers-and-why-it-will-never-happen-again/ open and honest account], PHPFog CEO Lucas Carlson detailed the mistakes he and his team made, how they cleaned up their mistakes, and sufficient details on how they are preventing a similar situation occurring in the future.
+
+By responding early and publicly, Carlson is able to prevent the rumors that come up in a community when something secret is happening and only a few know what and why. This honest account served to assure customers, investors, and open community participants that the PHPFog team was doing all they could to learn from the mistake across the breadth of their organization.
+''Example needed''
+
+== Is daring about applying the open source way to non-engineering teams ==
+
+<!-- Principle -->
+This is the core principle to consider in the open source way. How successful are you at applying the principles in [[The Open Source Way]] on non-engineering considerations?
+
+For you to gain the best operational efficiencies and outlook for innovation you must apply the principles of the open source way to non-technical projects and people.
+
+<!-- Implementation -->
+You have to be bold in looking for where and how to apply the open source way.
+
+First you must try. Trying openly, failing quickly and learning, then moving on are part of the open source way. You can't begin to do the open source way until you actually try.
+
+Turn to the teams doing the work on the project or product. Ask them to look for ways they can immediately start to create transparency and opportunities for open collaboration. Give them the mandate to open components rapidly and sanely.
+
+<!-- Example -->
+''Example needed''
+
+== Works hard to preserve culture in a fast growing company ==
+
+<!-- Principle -->
+''Principle needed''
+
+<!-- Implementation -->
+''Implementation needed''
+
+<!-- Example -->
+''Example needed''
+
+== Takes people who think they understand the open source way and really teaches them how it works ==
+
+<!-- Principle -->
+''Principle needed''
+
+<!-- Implementation -->
+''Implementation needed''
+
+<!-- Example -->
+''Example needed''
+
+Including discussion around open source in new hire training is an example of this.
+
+Rethinking how departments are structured and combined, and how they collaborate, is another way of teaching and permeating a culture of open source.
+
+== Has a strong brand and steers that consistently through community interactions at all levels ==
+
+<!-- Principle -->
+''Principle needed''
+
+<!-- Implementation -->
+''Implementation needed''
+
+<!-- Example -->
+''Example needed''
+
+From CxO interactions to customer and free community relationships, there is a remarkable consistency to the Red Hat brand.  This is due to more than a strong campaign by the Brand team.  It also requires the brand message to live inside of Red Hat associates.  It comes from people associating the open source way with the way Red Hat does business.
+
+[[Category:The Open Source Way book]]

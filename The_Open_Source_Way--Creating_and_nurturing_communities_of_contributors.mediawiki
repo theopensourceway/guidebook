@@ -1,0 +1,43 @@
+'''The Open Source Way is a book shows how to (and how ''not'' to) engage with the community members on projects of any type by practicing the open source way.'''
+
+'''This handbook distills years of knowledge our community members have gained while running open source projects.'''
+
+[[File:Barnraising_TOSW.jpg|right]]
+
+For stories and discussions about the open source way, visit our sister-site [http://opensource.com opensource.com].
+
+__NOTOC__
+
+== Book format ==
+
+This content is converted regularly to other formats for web and printing publication:
+
+* [http://www.theopensourceway.org/book Multi-page HTML]
+* [http://www.theopensourceway.org/book/single-page Single-page HTML]
+* [http://www.theopensourceway.org/book/The_Open_Source_Way.pdf PDF]
+* [http://www.theopensourceway.org/book/The_Open_Source_Way.epub Epub]
+
+== Wiki upstream content -- the raw content workshop ==
+
+This is [[The Open Source Way]] ''wiki upstream''.  It is ready for you to read and add to.
+
+# [[The Open Source Way: Creating and nurturing communities of contributors]] -- Main wiki page
+# [[Introduction]] -- What this book is, what it is not, essential terminology (definitions and pointers)
+# [[Communities of practice]] -- The science behind the open source way
+# [[How to loosely organize a community]] -- Structure of a sustainable community
+# [[Stuff everyone knows and forgets anyway]] -- Common knowledge, common mistakes, common recoveries
+# [[What your organization does correctly when practicing the open source way]] -- Distilled "Right Way"
+# [[What your organization does wrong when practicing the open source way]] -- Distilled "Wrong Way"
+# [[Business the open source way]] -- Applying the open source way to business
+# [[The Openness Index]] -- A maturity model for assesing alignment with the Open Source Way.
+# [[Who else to watch]] -- People in the wider world who write, talk, and lead community-oriented discussions and actions
+# [[Books you should read]] -- Online and offline resources
+# [[Great stories to tell]] -- Stories that illustrate the open source way
+# [[Community Architecture dashboard]] -- Overview of this effort with pointers
+# [[Data and references]] -- Data and references that support the book
+# [[How to tell if a FLOSS project is doomed to FAIL]] - A system for evaluating the potential of an open source project
+# [[Appendix]] -- What fits not elsewhere but only here <!-- Remove if no content appears -->
+
+{{admon/tip|How to contribute and participate|Please join us; start by reading the [[How to contribute]] page.}}
+
+[[Category:The Open Source Way book]]
