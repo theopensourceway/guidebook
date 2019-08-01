@@ -16,300 +16,375 @@ Use a similar method to make changes to assignments already merged into this fil
 |Introductions
 |
 |
+|
 
 |Community 101
+|
 |
 |
 
 |Youve decided you want a community project
 |
 |
+|
 
 |Who Are The Community
+|
 |
 |
 
 |Real-World Benefits of Community
 |
 |
+|
 
 |Drawbacks of Community
+|
 |
 |
 
 |Community Health
 |
 |
+|
 
 |Defining Community Manager
+|
 |
 |
 
 |Balancing The Needs of Upstream-Downstream
 |
 |
+|
 
 |Maximizing Value
+|
 |
 |
 
 |Terminology and Lexicon
 |
 |
+|
 
 |Why each chapter has a lexicon
+|
 |
 |
 
 |Essential terminology or Read this even if you think you know already
 |
 |
+|
 
 |Attracting Users
+|
 |
 |
 
 |Basics of A Project
 |
 |
+|
 
 |An artifact - something to download-try out-read-listen to-watch
+|
 |
 |
 
 |Users who use the artifact - who may become-
 |
 |
+|
 
 |Participants who are REALLY EXCITED about the artifact and want you to use it too - who may become-
+|
 |
 |
 
 |Contributors to a transparently run community that provides the artifact to users and extends every courtesy to the participants
 |
 |
+|
 
 |Driving Adoption
+|
 |
 |
 
 |What is the Goal
 |
 |
+|
 
 |Making a Plan
+|
 |
 |
 
 |Guiding Participants
 |
 |
+|
 
 |What participants want
+|
 |
 |
 
 |To use more of your cool software
 |
 |
+|
 
 |To tell other people about the software maybe recommend they use it
+|
 |
 |
 
 |Wear swag of projects they love
 |
 |
+|
 
 |Participate in online forums to get help and help others
+|
 |
 |
 
 |Go to events and meet some of the people who work on the project
 |
 |
+|
 
 |How participants help the projects they love so much
+|
 |
 |
 
 |Share their personal story around your software with their friends family co-workers complete strangers etc
 |
 |
+|
 
 |Generate energy at events talks etc
+|
 |
 |
 
 |Cross connect people and events with you and your software
 |
 |
+|
 
 |Help amplify your messages
+|
 |
 |
 
 |Growing Contributor
 |
 |
+|
 
 |What is a contribution
+|
 |
 |
 
 |How a contribution is different than other actions
 |
 |
+|
 
 |What it constitutes aka types of contribution
+|
 |
 |
 
 |Directly feed into project - software roles,
 |
 |
+|
 
 |Getting Organized
+|
 |
 |
 
 |Good enough to get started
 |
 |
+|
 
 |What you will need -- defining your project roadmap
+|
 |
 |
 
 |Lowering Barriers to Use Participation and Contribution
 |
 |
+|
 
 |Outreach to find new Contributors - being active from the start
+|
 |
 |
 
 |Onboarding
 |
 |
+|
 
 |Principles of onboarding
+|
 |
 |
 
 |Building Onboarding Platforms
 |
 |
+|
 
 |Attracting Contributors
+|
 |
 |
 
 |Legal and Governance
 |
 |
+|
 
 |Free Software
+|
 |
 |
 
 |Open Source Software
 |
 |
+|
 
 |Which Is Better - Tell Me
+|
 |
 |
 
 |Standards Matter
 |
 |
+|
 
 |Why Governance
+|
 |
 |
 
 |Governance Models
 |
 |
+|
 
 |Who Makes the Decisions
+|
 |
 |
 
 |Foundations
 |
 |
+|
 
 |Who Can Participate
+|
 |
 |
 
 |Trademarks - Putting Your Mark on It
 |
 |
+|
 
 |Community Roles
+|
 |
 |
 
 |Advocacy and Marketing
 |
 |
+|
 
 |Resource Management
+|
 |
 |
 
 |Migrating Code
 |
 |
+|
 
 |Identify Your Code
+|
 |
 |
 
 |Classify the Code
 |
 |
+|
 
 |Code Refactoring
+|
 |
 |
 
 |Update Dependencies
 |
 |
+|
 
 |Documentation
+|
 |
 |
 
 |Public Code Repository
 |
 |
+|
 
 |Test
+|
 |
 |
 
 |Measuring Success
 |
 |
+|
 
 |Defining Healthy Communities
+|
 |
 |
 
 |Developing a Metrics Plan
 |
 |
+|
 
 |Avoiding Pitfalls - Learning From Mistakes
 |
 |
+|
 
 |Proof and References
+|
 |
 |
 
