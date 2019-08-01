@@ -1,6 +1,7 @@
 This document is manually maintained between the project tracker (Smartsheet, link TBD) and this git repo.
 
 How to add yourself:
+
 . Open this file to edit, which you can do directly in GitHub
 . Add your name to the section(s) under either writer or editor
   * You may only fill one role for a specific section, i.e., you cannot be both the writer and editor of the same section.
