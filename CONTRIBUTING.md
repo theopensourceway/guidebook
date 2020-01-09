@@ -1,3 +1,3 @@
-# Contributing to The Open SOurce Way
+# Contributing to The Open Source Way
 
 Placeholder for contribution instructions
