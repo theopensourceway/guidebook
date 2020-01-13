@@ -1,0 +1,84 @@
+= Mentoring
+Karsten Wade
+2019-12-17
+
+Part of starting, or growing, a successful open source community is designing the community to be sustainable. This means the project needs to be able to reliably, and repeatedly, bring in new people and help them become ongoing contributors. Let's talk about how mentoring new contributors is crucial to enabling a community to be sustainable.
+
+If this matches your projects's version of sustainable, then a mentoring program is absolutely crucial. It's at the center of how to take a project from "three people who know and do everything" to make it something many people can contribute to in a self-sustaining fashion.
+
+Self-sustainability is an important focus for a mentoring program. And don't think I went from "mentoring people" to "a mentoring program" by accident. Here's the argument:
+
+1. If we can agree that lowering the barriers for entry into a project is key to bringing in new people; and
+2. If we can agree that people coming into a new project benefit from having one or more people they feel permitted and even encouraged to ask questions and learn from; and
+3. If we can agree new people having lackluster or negative interactions with existing project members is likely to drive the new people away; and
+4. If we can agree that having a person (mentor, friend) for new people to turn to is a way to prevent the driving-away and especially prevent silent segfaults (people just disappearing with no explanation);
+5. Then we can see that doing mentoring with even a tiny bit of repeatable process support is going to yield better, more satisfying results than an ad-hoc process.
+
+Once you agree that an even a lightweight program is better than an ad-hoc process, we're going in the right direction. With this in mind, here are a few absolute must-have elements to include in your mentoring program.
+
+== Written, iterative process
+
+Even if it's lightweight, write it down and give it an initial try.
+
+For that first e.g. six months, get a handful of volunteers to try out the program. This gives time to work out the kinks in processes, and to attract more mentors for when you make the program more prominent.
+
+When you have a process you have tried and tested once or twice, put up a "Mentoring" section on your project website and include links to all the elements of your mentoring program.
+
+Make sure people who have even the slightest inkling of getting involved in the project can look ahead and see how they are going to be taken care of as a new contributor.
+
+After each full mentoring period (refer to time commitment, below), conduct a retrospective to learn from the mentoring period and improve the process iteratively.
+
+It's not just promising there will be a map and directions, it is showing the actual map and idea of what the directions will be.
+
+== Mentoring guidelines and a Code of Conduct for your mentors
+
+Even people who are very experienced at mentoring benefit from having guidelines for how to mentor and work with mentoring subjects (mentees), mentoring ethics, and so forth.
+
+I'm excited about this project I learned about recently, https://www.mentorship.guide/[an upstream guide to mentoring itself].You can use materials such as from that project to create the elements your mentoring program needs.
+
+Mentors have a special role of trust—the project trusts them to represent the community, and the mentees (mentoring subjects) trust the mentor to lead them down the right path. Mentors need to conduct themselves with an appropriate standard, and there needs to be a way to keep them accountable to that standard and report problems or abuses of conduct by mentors. Such a Code of Conduct needs to be visible up front and prominent for everyone looking at your mentoring program.
+
+Not having a Code of Conduct for your mentors, or making it hard to find, is a warning signal to potential new contributors that this project should be avoided.
+
+== Mentors make mentors
+
+I've been thinking about this one a lot since https://events19.linuxfoundation.org/events/open-source-summit-europe-2019/program/schedule/[I gave a talk about it at Open Source Summit Europe in October].
+
+The key idea is that new mentors are made of people who have had positive mentoring experiences that also taught them "how to be a mentor." Your mentors should be thinking overall and in specific instances, How can I help this person be successful at mentoring other contributors?
+
+A new contributor who is mentored well can immediately turn around and offer similar mentoring lessons to other contributors, new and existing alike.
+
+Even if you are just answering a question for a new contributor, how you answer that question is where mentoring comes in. You can answer in such a way that this new contributor feels empowered to share their new-found knowledge. If they take in the lesson of not just what was conveyed but how it was conveyed, they carry this simple lesson of mentoring forward with their own interactions across the project.
+
+== Easy norms for mentees
+
+Unlike your mentors, you want the fewest demands and lightest burdens for your mentees.
+
+This is information that should be prominent on your mentoring program webpages, and can cover:
+
+* In our project, here is how to find and/or approach a mentor.
+* What the work/effort commitment for a mentee is likely to be.
+* Clarify the relationship, e.g., a mentor is specifically not a friendship role; the mentoring may be time-bound (six months, etc.) or otherwise have a box once left means the mentoring has concluded; mentors are volunteers and deserve equal respect; mentors are held to a Code of Conduct that mentees should know and follow as well. And so forth.
+* What does a normal mentor/mentee relationship look like in this specific project.
+
+You are looking for a balance where mentees know what is expected of them, while leaving space for the mentor to help grow that understanding of project norms, from technical to cultural.
+
+== Named person or group who leads the mentoring program
+
+For everything from people being stuck through to disappearing mentors to Code of Conduct violations, there needs to be a clear and obvious person or persons to contact.
+
+This contact information and its purpose should be prominent on your mentoring program webpages.
+
+This group will be one of the rare areas of your project that maintains privacy and a well-understood barrier to transparency for specific topics. Mentors need to be able to talk with other mentors to seek guidance; this group can provide that private space. It can also help with any sensitive matters that arise.
+
+The governance for this group or role needs to have a clear and short escalation path to the highest levels of project leadership.
+
+== A reasonable time and effort commitment plan for mentors
+
+Mentoring relationships can last years or be completed in a weekend. Make a reasonable schedule, perhaps one that is tied to your release schedule or other rhythms such as specific conferences or events you organize around.
+
+In my experience so far, the six-month commitment seemed to work well. It was enough time to get to know each other, talk through how I can help as a mentor/be helped as a mentee, and then some months in the middle for the mentees to actually get feedback on real activities.
+
+Especially if you are starting out, you want to attract mentors. If there is too long of a time and effort commitment, or if there is not clear closure to a round of mentoring, many potential mentors will not join or even inquire further about your program.
+
+Making the time and effort commitment nebulous is like sprinkling mentoring repellant on your project. Be clear on what participants are getting into, and your mentoring program can be on a path to success.
