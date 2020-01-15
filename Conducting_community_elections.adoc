@@ -56,6 +56,6 @@ Several projects use online counting software. Options to consider include:
 
 If you are planning to propose an election system, begin with a mission statement. For example:
 
->The goal is to ensure the technical steering committee represents everyone contributing actively to the project, valuing non-code contributions equally to code contributions, in the definition of the technical scope and direction of the project.
+> The goal is to ensure the technical steering committee represents everyone contributing actively to the project, valuing non-code contributions equally to code contributions, in the definition of the technical scope and direction of the project.
 
 The mission statement clarifies several things: who is being represented by the elected body, what their authority will be, and why they are being elected. Once you have agreed on the goal of the elected body, choose the simplest ways to define membership in the body being represented. Then, choose the simplest voting and counting system possible.
