@@ -1,0 +1,23 @@
+# Content for various needs around the workshop
+
+## Description
+
+This is a workshop for understanding and participating in the 2.0
+update to the community management best practices guide, The Open
+Source Way. We'll be leading new contributors through the
+participation process. There are activities for short (30 to 60
+minutes) and longer (1 to 4 hours) periods of time, so you can fit
+this into your busy Friday at SCaLE.
+
+If you are a practitioner of open source community management, you are
+likely familiar with how often you need to provide the same advice and
+guidance to members of your community.
+
+This guide is *for* community managers, written *by* community
+managers. It is a collaboration, a sharing of opinions and practices,
+so you get a diverse and wider-ranging set of viewpoints and
+experience informing the guide.
+
+Join us, bring your laptop, and participate in the planning,
+reviewing, and creation of content for the next version of The Open
+Source Way.
