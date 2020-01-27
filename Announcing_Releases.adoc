@@ -1,0 +1,126 @@
+= Guidelines for Announcing Software Releases
+Brian Proffitt
+2019-07-24
+
+One of any open source project's functions is releasing software with the goal of reaching as many users as possible. To help projects succeed, you'll need to ensure that you distribute news of your release in a timely fashion, to the widest relevant audience, and with the right information.
+
+Following some basic guidelines for coordinating release announcements can ensure that your excellent work doesn't get lost in the shuffle. Remember that these are only guides; you community's practices may differ.
+
+== General guidelines
+
+* Do not set any release date for a Friday or significant holiday. The ideal release date for maximum coverage is Tuesday.
+* If at all possible, coordinate major releases with relevant conferences and events.
+* Tailor release announcements and blogs to encourage both _use_ of the software as well as _contributions_ to it.
+* Talk about how a project benefits the user; explain benefits rather than focusing on technical details.
+
+== Track: Release candidate and final release for major point release X.0
+
+*No less than three weeks from release date:*
+* Create a collaborative document (Etherpad, Google Doc) to include highlighted features for the release announcement, press release, and blog.
+
+*Two weeks from release date:*
+* Generate a changelog outlining notable changes to the release that will need to be documented and included within the main changelog file.
+* Merge any relevant content from the updated changelog into the release announcement, press release, and blog.
+* Create press release and send to your organization's media relations team for vetting
+
+*One week from release date:*
+* Schedule social media content for distribution before, during, and after release date.
+
+*Three days from release date:*
+* Confirm release manager and engineering lead have signed off on release announcement and blog.
+* Confirm media relations staff have signed off on press release.
+
+*Two days from release date:*
+* Complete all final QA/smoke tests.
+* Place build on appropriate servers.
+* Stage all documentation and review it for display issues.
+
+*One day before release date:*
+* Send copies of press release to relevant media outlets.
+
+*Day of release:*
+* Make all code and documentation visible to the world.
+* Begin publishing scheduled social media and blog materials.
+* Post press release on newswires (in conjunction with media relations team)
+
+== Track: Release candidate and final release for point release X.Y
+
+*No less than 2 weeks from release date:*
+* Create a collaborative document (Etherpad, Google Doc) to include highlighted features for the release announcement and blog.
+
+*One week from release date:*
+* Schedule social media content for distribution before, during, and after release date.
+* Generate a changelog outlining notable changes to the release that will need to be documented and included within the main changelog file.
+* Merge any relevant content from the updated changelog into the release announcement and blog.
+
+*Two days from release date:*
+* Ensure the release manager and engineering lead have signed off on release announcement and blog.
+* Complete all final QA/smoke tests.
+* Place build on appropriate servers.
+* Stage all documentation and review it for display issues.
+
+*Day of release:*
+* Make all code and documentation visible to the world.
+* Begin publishing scheduled social media and blog materials.
+* Send copies of press release to relevant media outlets.
+
+
+== Track: Final release for minor point release X.Y.Z
+
+*No less than one week from release date:*
+* Schedule social media content for distribution before, during, and after release date.
+* Generate a changelog outlining notable changes to the release that will need to be documented and included within the main changelog file.
+* Merge any relevant content from the updated changelog into the release announcement and blog.
+
+*Two days from release date:*
+* Ensure the release manager and engineering lead have signed off on release announcement and blog.
+* Complete all final QA/smoke tests.
+* Place build on appropriate servers.
+* Stage all documentation and review it for display issues.
+
+*Day of release:*
+* Make all release artifacts and documentation visible to the world, if not already (release may be synced to mirrors ahead of actual release announcement).
+* Begin publishing scheduled social media and blog materials.
+
+== After all major releases and significant point releases
+
+* Conduct a post-mortem to see what, if anything, could be done to improve the next release cycle.
+
+== Writing a press release/release announcement
+
+Writing and distributing a release announcement would seem relatively straightforward; however, some strategies for doing this work are more effective than others. Specifically, you should write your release announcement in a way that make it most likely for a media outlet to pick it up.
+
+Below is a template for a release announcement, with some guidelines. Please note that this is only a guide; copying exactly what's here may not be effective for your project.
+ 
+Be direct and factual about information you share in public statements. Avoid hyperbole ("the bestest project ever made!!!") and speculation ("the only project that can do this"). Media outlets rapidly disregard such hyperbole and might avoid spreading the word about your release altogether.
+ 
+Release announcements are not opportunities to hype your project (as tempting as using them for this purpose may be). You can and should take the opportunity to thank your hard-working community. This gives credit to those who've done the work and emphasizes the free and open source nature of the project.
+
+Be clear and concise. Support your claims with facts. This will help get your announcement more broadly disseminated.
+
+== Sample press release/release announcement
+
+`Project X`, the `[main purpose of project: goals, functions, governance...]` project, today announced the general availability of `Project X x.y`, a community-driven `[description of project]`. This latest community release includes several new features, including `[list of newest features]`.
+ 
+Developed by a global community, `Project X` is a `[detailed paragraph of what the project is, what it does, and any other pertinent information should be included here.]`
+ 
+Notable enhancements to `Project X x.y` include:
+
+`[Detailed paragraph describing a first major feature]`
+`[Detailed paragraph describing a second major feature]`
+`[Detailed paragraph describing a third major feature]`
+ 
+A complete list of `Project X x.y` features is available on the Project X community release announcement page `[URL]`. `Project X x.y` `[detailed description of a two or three additional features]`.
+ 
+`[If possible, add a quote from a prominent community member or technical lead about the new release here.]`
+
+*Additional Resources*
+- Read more about the `Project X x.y` release highlights `[URL]`
+- Get more `Project X` updates on Twitter `[URL]`
+- Read more about `Project X` community events `[URL]`
+ 
+*About `Project X`*
+
+`Project X` is `[a very detailed description of what the project is and what it can do]`.
+
+
