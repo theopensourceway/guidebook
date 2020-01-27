@@ -53,9 +53,11 @@ Following some basic guidelines for coordinating release announcements can ensur
 == Track: Release candidate and final release for point release X.Y
 
 *No less than 2 weeks from release date:*
+
 * Create a collaborative document (Etherpad, Google Doc) to include highlighted features for the release announcement and blog.
 
 *One week from release date:*
+
 * Schedule social media content for distribution before, during, and after release date.
 * Generate a changelog outlining notable changes to the release that will need to be documented and included within the main changelog file.
 * Merge any relevant content from the updated changelog into the release announcement and blog.
