@@ -1,0 +1,47 @@
+= From users to contributors
+Dave Neary
+2019-06-12
+
+Every open source project begins with code and one or more developers. What turns that _project_ into a _community_ are the people who engage with one another _around_ that code. No matter the maturity level of your project, one of the most important things you can do to ensure its success is encourage and maintain engagement with its users and contributors.
+
+When a user of your project makes the effort to engage with the developers of the project, treat the contribution as you would a gift from someone close to you. This person has taken time they could have spent on something else and chosen to use that time to engage with the project. Perhaps they've submitted bug reports, offered feature requests, or made pull requests; whatever the contribution, the initial interactions they create are critical for determining whether that person will develop a positive or negative impression of your project and its community.
+
+Here are a few steps you can take to create a welcoming culture that treats user engagement as the gift it is.
+
+== Accept the gift
+
+Reacting positively to user engagement might be difficult if, for example, a user is upset because something in your project doesn't work as they'd expect. At times like this, remember that this person is making an effort to tell you about their issue. Think of it like the time your well-meaning aunt got you the cheap knock-off building blocks instead of the Lego set you were hoping for; when someone engages with your project for the first time, you have a single opportunity to make a good first impression.
+
+First, thank the person for their contribution and acknowledge it. Many times, when people turn up to your project upset, the very first thing they want is reassurance that they aren't the source of the trouble–reassurance that, yes, this is harder to use than it should be. Helping them over the particular speed bump they're hitting will turn them from critics to cheerleaders for the project.
+
+== Provide actionable, useful feedback
+
+Feedback for new contributors is only useful tot eh extent that it's actionable—that is, that the contributor can _do something_ as a result of what you've offered.
+
+In the case that someone is asking a question, you may need more information from them in order to answer it. For instance, if you're reviewing a pull request containing materials that don't not match the project's coding conventions, you'll want the contributor to make some changes to their contribution. In the event that you're giving feedback or asking for something from them, it's important to look at your project with a beginner's eye. There's nothing more frustrating than having a question answered with something completely esoteric—"Just frobding the dollygagger!"—and scratching your head, saying "How on Earth do I do that?"
+
+When reviewing code, do not assume a high level of proficiency with the programming language, your project, or even with how to update a pull request in GitHub. If your project runs on Kubernetes, do not assume that the person you are dealing with is an admin on the Kubernetes cluster, or is familiar with Kubernetes internals.
+
+If in doubt, you can always ask some level-setting questions. But if you're telling someone to change an option in a config file, be sure to provide instructions on where to _find_ the file and explain the file's format.
+
+== Give engaged users a good experience
+
+When someone engages with your project, do everything in your power to ensure they come away from the interaction feeling good. This is important—not just for the person you are dealing with, but for all of the people you'll never hear from who are looking on. The latter person might be a reader who finds a StackOverflow question six months later, or a bystander in a community chat forum. When these users observe others having a good experience, they'll feel better about the project too.
+
+== People over process
+
+Large development teams rely on process for efficient operation. Whether they use bug tracker workflow management to validate whether and when changes can be merged, or perform smoke tests that run on every pull request, they build layers of tooling to help developers work through a large number of changes without going mad.
+
+For someone active in the project, this kind of infrastructure provides huge value! But for a newcomer to your project, it's all very mysterious.
+
+As a community-focused software developer, you'll need to be mindful of newcomers to your project. If their first PR does not pass smoke tests, it is worth taking an extra minute to explain what the tests are and why they are important, rather than just commenting "CI fail" or "whitespace issues" without any context.
+
+In short, value the person making the contribution more highly than the contribution itself.
+
+== Build relationships
+
+Finally, when a new contributor shows up to your project, remember that you're facing an opportunity to engage with someone who is using your project, to find out more about how they found it, what they like and dislike about it, and more. That information is golden; direct access to users is one of the advantages open source software development has over proprietary software development. Take advantage of it!
+
+These conversations will have another by-product: For a user who may have been considering your software as the product of a faceless corporation, you are putting a name and face to the project. In short, you are building a relationship.
+
+Think about the first time you turn up in a new school, neighborhood, or company. What makes you feel like you belong is that _human connection_ with someone who, just a few minutes before, was a stranger. This relationship, as small and nascent as it is, is what will bring this person back to your project and turn them from a consumer into a community participant.
