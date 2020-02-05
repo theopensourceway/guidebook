@@ -1,1 +1,5 @@
-Placeholder file for section: What_is_the_Goal
+= Defining project goals
+Dave Neary
+2020-02-04
+
+This chapter outlines
