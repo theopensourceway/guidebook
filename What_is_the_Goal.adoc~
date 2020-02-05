@@ -121,7 +121,6 @@ A good open source product strategy provides clarity on which markets you are ta
 
 A small number of people who will care deeply about your project, and can represent a group of people or interests which affect the project.
 These people are your stakeholders.
-
 In the case of vendor-sponsored projects, this group typically includes an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales).
 You may also want to include in this group someone from your content services or support organizations and someone from product security.
 This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals.
@@ -133,5 +132,4 @@ After running this exercise, your team or community should share some understand
 You will be able to communicate the value of your project in language that makes sense in your potential users' frame of reference.
 You will understand how your project fits into a market, and what you want to achieve with it there.
 Finally, you will have identified the key group inside your organization who should be aligned on your current status and future strategy.
-
-Combining the answers to these seven questions, next steps for your project should become obvious to all involved—and your community will be ready to help your project succeed in achieving its goals.
+Combining the answers to these seven questions together, the next steps usually become obvious to all involved, and will help your project be more successful in achieving its goals.
