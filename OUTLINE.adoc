@@ -3,7 +3,6 @@
 .. Terminology and Lexicon
 . Attracting Users
 .. Basics of A Project
-participants
 .. Driving Adoption
 . Guiding Participants
 .. What participants want
