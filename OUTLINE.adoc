@@ -1,21 +1,23 @@
 . Introductions
 .. Community 101
-.. Terminology and Lexicon
+.. Terminology and lexicon
 . Attracting Users
-.. Basics of A Project
-.. Driving Adoption
-. Guiding Participants
+.. Basics of a project
+.. Driving adoption
+. Guiding participants
 .. What participants want
 .. How participants help the projects they love so much
 . Growing Contributors
 .. What is a contribution
-.. Getting Organized
+.. Getting organized
 .. Onboarding
-.. Legal and Governance
-.. Community Roles
-.. Migrating Code
+.. Legal and governance
+.. Community roles
+.. Migrating code
 . Measuring Success
-.. Defining Healthy Communities
-.. Developing a Metrics Plan
-. Avoiding Pitfalls - Learning From Mistakes
-. Proof and References
+.. Defining healthy communities
+.. Developing a metrics plan
+. Avoiding Pitfalls and Learning From Mistakes
+. References and Case Studies
+.. References
+.. Case studies
