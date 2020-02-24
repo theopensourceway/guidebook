@@ -1,0 +1,7 @@
+. Growing Contributors
+.. What is a contribution
+.. Getting organized
+.. Onboarding
+.. Legal and governance
+.. Community roles
+.. Migrating code

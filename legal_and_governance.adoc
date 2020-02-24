@@ -1,0 +1,110 @@
+= Legal and governance
+Authors: Dave Neary <dneary@redhat.com>
+2019-12-31
+
+== Introduction
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed luctus erat magna, non cursus erat aliquam quis.
+Aliquam egestas porta congue.
+Suspendisse vitae tincidunt lacus.
+Aliquam sit amet efficitur enim.
+Nunc et urna justo.
+Nulla mattis metus ac neque elementum tempus.
+Donec a risus sapien.
+Fusce ut nibh porta, venenatis nunc ut, dapibus enim.
+Praesent tellus velit, tincidunt nec purus eu, venenatis scelerisque tortor.
+Nunc condimentum vitae nisl nec sodales.
+Praesent sodales pellentesque ligula luctus dignissim.
+
+Vivamus eleifend odio in mollis vehicula.
+Fusce sed sodales mauris.
+Donec libero ex, facilisis sed mattis sit amet, imperdiet ac mauris.
+Integer ac convallis est.
+Phasellus viverra fermentum libero, vel viverra dui dictum ut.
+Donec et libero posuere, vehicula nunc eget, commodo enim.
+Fusce porta fringilla feugiat.
+Nam quis vulputate massa.
+
+Cras dictum ut magna ut tempus.
+In hac habitasse platea dictumst.
+Phasellus sed tristique odio.
+Cras elit velit, lacinia ut tellus ac, porta.
+
+== Conducting community elections
+
+As community projects grow, many choose to select community representatives.
+This process may occur when a community loses a founder, a group decides to move to a "ruling technical council" governance model, or when a project moves to a non-profit governing body with paying members.
+
+Regardless of the circumstances, many projects opt to select their community representatives through elections.
+Historically, choosing a voting system, defining an electorate, and limiting the pool of eligible candidates has proven complicated for community projects.
+
+This section summarizes project election best practices, including who gets to vote, who can be a candidate, and how elections are run.
+
+=== Electorate and eligible candidate pool
+
+Establishing franchise rules is critical.
+Some projects have allowed anyone registered for a project's site to vote in an election—a very low bar—but have specified that only project committers could be election candidates—a high bar.
+However, almost all projects eventually broaden the pool of potential candidates to equal the pool of voters.
+Anyone who can vote in the election is therefore eligible to become a candidate.
+
+Projects typically take one of three approaches to defining the electorate and candidate pools:
+
+- *High bar:* Voters are members of an inside group—such as committers, maintainers, and core contributors.
+Membership requires a long history of participation and seniority recognized by peers.
+
+- *Medium bar:* Active participants or foundation members can vote, as long as they meet a clearly articulated definition of participation.
+
+- *Low bar:* Anyone can vote as long as they complete some basic steps, like signing up to the program or joining the mailing list.
+
+Defining an activity metric and minimum bar specifying what qualifies as "participation" can become contentious, mainly because it involves drawing arbitrary lines delimiting eligible participants.
+Generally, projects specify that quantified, ongoing participation is necessary to become part of the electorate.
+
+One common election fear is ballot stuffing or cohort effects, where large companies dominate the representative bodies by having a large voting bloc, or where friends of candidates will pass the low bar to become voters simply to vote for their candidate.
+In most cases, however, such fears are unfounded.
+Technical communities often try to create rules to mitigate against possible abuses of the system, but in most cases, these rules are "premature optimization," which Donald Knuth, author of _The Art of Computer Programming_, has famously described as "the root of all evil."footnote:[Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-Wesley Pub. Co, 1968. Print.]
+Avoiding special rules—and addressing issues with the electoral process as they arise—is generally the better practice.
+
+One final consideration is the process for becoming a candidate in the election.
+The most popular option is self-nomination, where candidates post election information and their reasons for running.
+Another option is nomination,which is often the same as self-nomination as the candidate typically asks people to nominate them and second their nomination.
+
+=== Voting system
+
+Another complex community decision is the voting system.
+Any community will include people passionate about how to vote—and how to count votes.
+Without proper care, conversations about these issues can go on for months and result in proposals that are almost impossible to implement.
+
+Most community projects have used:
+
+- Voting by secret ballot.
+
+- Online voting, with a personal token to ensure each person may only vote once.
+
+- Some form of preferential voting, listing candidates in order of preference.
+
+- https://en.wikipedia.org/wiki/Condorcet_method[Condorcet] or https://en.wikipedia.org/wiki/Single_transferable_vote[single transferable vote] (STV) to count the votes and identify winners
+
+Some projects continue to use alternative voting systems like "first past the post" or weighted voting systems, in which voters receive 12 tokens to allocate to candidates however they wish, and the candidates with the most tokens win the election.
+
+Several projects use online counting software.
+Options to consider include:
+
+- http://civs.cs.cornell.edu/[Condorcet Internet Voting Service], a free, online voting and Condorcet counting system.
+
+- https://www.opavote.com/[OpaVote] (formerly OpenSTV), a commercial election counting Software-as-a-Service.
+
+- https://github.com/Conservatory/openstv[OpenSTV], formerly available under the General Public License (GPL) and still used by several projects to count elections.
+
+- https://vote.heliosvoting.org/[Helios], another free election service that allows online voting and several different vote counting methods.
+
+=== How to start
+
+If you are planning to propose an election system, begin with a mission statement.
+For example:
+
+> The goal is to ensure the technical steering committee represents everyone contributing actively to the project, valuing non-code contributions equally to code contributions, in the definition of the technical scope and direction of the project.
+
+The mission statement clarifies several things: who is being represented by the elected body, what their authority will be, and why they are being elected.
+Once you have agreed on the goal of the elected body, choose the simplest ways to define membership in the body being represented.
+Then, choose the simplest voting and counting system possible.
