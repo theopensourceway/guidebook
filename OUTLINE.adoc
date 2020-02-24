@@ -19,3 +19,5 @@
 .. Developing a metrics plan
 . Avoiding Pitfalls and Learning From Mistakes
 . References and Case Studies
+.. References
+.. Case studies
