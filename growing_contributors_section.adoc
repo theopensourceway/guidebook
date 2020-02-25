@@ -1,4 +1,5 @@
 . Growing Contributors
+.. From users to contributors
 .. What is a contribution
 .. Getting organized
 .. Onboarding

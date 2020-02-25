@@ -1,6 +1,6 @@
 = Creating an Open Source Product Strategy
-Dave Neary
-2018-04-19
+Authors: Dave Neary <dneary@redhat.com>
+Updated: 2018-04-19
 
 "Should we open source this project?"
 
