@@ -1,6 +1,8 @@
 = From users to contributors
-Dave Neary
-2019-06-12
+Authors: Dave Neary <dneary@redhat.com>
+Updated: 2019-06-12
+
+== Introduction
 
 Every open source project begins with code and one or more developers. What turns that _project_ into a _community_ are the people who engage with one another _around_ that code. No matter the maturity level of your project, one of the most important things you can do to ensure its success is encourage and maintain engagement with its users and contributors.
 

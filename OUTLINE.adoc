@@ -8,6 +8,7 @@
 .. What participants want
 .. How participants help the projects they love so much
 . Growing Contributors
+.. From users to contributors
 .. What is a contribution
 .. Getting organized
 .. Onboarding
@@ -17,6 +18,7 @@
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
+.. Announcing software releases
 . Avoiding Pitfalls and Learning From Mistakes
 . References and Case Studies
 .. References

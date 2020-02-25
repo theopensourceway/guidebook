@@ -1,6 +1,6 @@
 = Legal and governance
 Authors: Dave Neary <dneary@redhat.com>
-2019-12-31
+Updated: 2019-12-31
 
 == Introduction
 
@@ -16,20 +16,6 @@ Fusce ut nibh porta, venenatis nunc ut, dapibus enim.
 Praesent tellus velit, tincidunt nec purus eu, venenatis scelerisque tortor.
 Nunc condimentum vitae nisl nec sodales.
 Praesent sodales pellentesque ligula luctus dignissim.
-
-Vivamus eleifend odio in mollis vehicula.
-Fusce sed sodales mauris.
-Donec libero ex, facilisis sed mattis sit amet, imperdiet ac mauris.
-Integer ac convallis est.
-Phasellus viverra fermentum libero, vel viverra dui dictum ut.
-Donec et libero posuere, vehicula nunc eget, commodo enim.
-Fusce porta fringilla feugiat.
-Nam quis vulputate massa.
-
-Cras dictum ut magna ut tempus.
-In hac habitasse platea dictumst.
-Phasellus sed tristique odio.
-Cras elit velit, lacinia ut tellus ac, porta.
 
 == Conducting community elections
 

@@ -1,3 +1,4 @@
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
+.. Announcing software releases

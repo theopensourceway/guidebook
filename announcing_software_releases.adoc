@@ -1,6 +1,8 @@
-= Guidelines for Announcing Software Releases
-Brian Proffitt
-2019-07-24
+= Announcing Software Releases
+Authors: Brian Proffitt <bproffit@redhat.com>
+Updated: 2019-07-24
+
+== Introduction
 
 One of any open source project's functions is releasing software with the goal of reaching as many users as possible. To help projects succeed, you'll need to ensure that you distribute news of your release in a timely fashion, to the widest relevant audience, and with the right information.
 
