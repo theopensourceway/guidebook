@@ -1,5 +1,5 @@
 = Community 101
-Authors: Bryan Behrenshausen <bbehrens@redhat.com>
+Authors: Bryan Behrenshausen <bbehrens@redhat.com>, Dave Neary <dneary@redhat.com> 
 Updated: 2020-02-27
 
 == Introduction
