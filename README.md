@@ -4,7 +4,15 @@ This repository contains source materials for The Open Source Way 2.0, a (somewh
 
 The Open Source Way 2.0 refreshes [pre-existing materials](https://www.theopensourceway.org/) on these topics.
 
-## Contributing
+## Getting started
+
+This project uses AsciiDoc and a git-based workflow. We track editorial, technical, governance, and marketing discussions on [their respective project boards](https://github.com/theopensourceway/guidebook/projects).
+
+Want to get involved?
+
+Come talk with us on [the mailing list](https://lists.theopensourceway.org/admin/lists/contrib.theopensourceway.org/) and see [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to learn how to make your first contribution.
+
+## Community architecture
 
 For the 2.0 refresh, we've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to reflect current contribution guidelines.
 
@@ -14,8 +22,4 @@ At the moment:
 * Lead Editor Brian Proffitt (@bproffitt) is responsible for leading a team of editors to work with multiple authors and content sources toward a cohesive, highly readable guide
 * Lead Writer Shaun McCance (@shaunix) is responsible for working directly with writers to shape their content into the level, style, and narrative of the overall guide
 * Editing team (Brian Proffitt, Karsten Wade, Shaun McCance) is responsible for polishing and integrating submissions to ensure consistency of quality and voice
-* Writing team (Bryan Behrenshausen, Brian Proffitt, Karsten Wade, Shaun McCance) is responsible for composing, collecting, and otherwise curating materials included in the guidebook.
-
-We're using AsciiDoc and using GitHub for a git-based workflow with issues for tracking each chapter and other discussions.
-
-Want to get involved? Come talk with us on [the mailing list](https://lists.theopensourceway.org/admin/lists/contrib.theopensourceway.org/).
+* Writing team (Bryan Behrenshausen (@semioticrobotic), Brian Proffitt, Karsten Wade, Shaun McCance) is responsible for composing, collecting, and otherwise curating materials included in the guidebook.
