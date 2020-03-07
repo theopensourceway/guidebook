@@ -1,6 +1,6 @@
 = Onboarding
-Authors: Karsten Wade <kwade@redhat.com>
-Updated: 2019-12-17
+Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>
+Updated: 2020-02-27
 
 == Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -17,6 +17,75 @@ Nunc commodo dolor quis porttitor imperdiet.
 Ut imperdiet egestas diam nec pretium.
 Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
 Nulla non leo pellentesque.
+
+== Responding to new contributors
+
+Speed is a critical factor in growing your contributor base.
+The moment a new contributor submits a pull request or draft patch, a timer starts.
+And the longer maintainers take to respond to their submission, the lower the chance that person will ever contribute to the project again.
+If you're running a young project and looking to attract lots of new contributors, there may be no higher priority than dealing with first-time contributions quickly.
+
+Minutes to hours is the target.
+
+You can understand this if you put yourself in the shoes of someone making their first contribution.
+If that person is an open source novice in general, submitting for the first time is a frightening experience, easily on a par with asking someone out on a first date.
+For as long as the response to their submission is undetermined, they're going to be in an anxious state.
+After a few days, the new contributor will start to imagine that the radio silence is a message of rejection, and (given long enough) will read rejection into any response you eventually post—or not read it at all.
+
+The experienced open source hacker who sends something into your project for the first time has a different sort of timer.
+Often, this veteran is going to be interested in your project for only a short time, so responding to their contribution before they move on to another project is critical.
+If you can catch them during the week their attention is on you, you can get them in the habit of contributing to your project in addition to the others they support.
+If you wait, re-engaging with them may be difficult.
+
+=== Two deadlines for contributions
+
+This race against time and impatience has two finish lines: the time to the project's first response to the contributor, and the time until their contribution gets accepted and merged.
+
+The first is measured in hours, the second in days to weeks.
+This time-to-acceptance matters if you want that contributor to keep contributing.
+Few people will submit a second contribution while their first one is still pending.
+
+Giving an initial response quickly is your first goal.
+Ideally, this response should include general thoughts on the submission and indicate your likely timeline for reviewing it.
+If the submission arrives at a bad timefor you—such as when you're in the middle of a major release—explain this to the contributor so they know what's going on.
+They'll be vastly more patient if they know why they need to be.footnote:[If you're the sole maintainer on the project, this may mean that you also want to post vacation notices to your main developer list.]
+
+Your next goal is to get that first pull request or patch merged as soon as possible.
+
+This is no small thing; chances are, an initial submission will need extensive work before it's acceptable.
+Consider asking the submitter to do work and revise—but know that you don't want them waiting too long for your responses to their questions and revisions.
+Speeding up the acceptance process is critical to growing your contributor base.
+
+Fortunately, there are tools for that.
+
+=== Continuous integration, continuous delivery, and speed
+
+The primary methods that software projects—both community and corporate—have been using to speed up integration of patches is continuous integration and continuous delivery (CI/CD).
+The idea behind these technologies is to automate, as much as possible, the acceptance and integration of patches and new features.
+Continuous integration involves accepting pull requests and patches as soon as they pass automated tests and a simple evaluation threshold.
+Continuous delivery involves deploying new versions of the software whenever a new, tested build is ready.
+
+Much of the focus on CI/CD has been on speeding up delivery of software to users.
+But these technologies can also be very helpful for providing contributors with "immediate gratification" by seeing their patches get merged and go out quickly.
+This is perhaps their most valuable aspect, as the pace of contributions is often determined by the pace of acceptance.
+If you accept faster, then you usually get new code faster.
+
+However, implementing CI/CD can be difficult for project leaders, because their automated testing isn't comprehensive, their builds aren't fully automated, and the consequences of letting a major bug get merged into the code can be very severe.
+Despite a good deal of lip service to the values and desirability of having a continuous code pipeline, irregular batch committer review is generally the reality, especially for smaller projects.
+Additionally, CI/CD software like Gerrit, Jenkins, and Travis can be difficult to set up in a way that supports projects' real releases.
+
+There is, however, one area where CI/CD is easier to implement—and most projects should be doing it right now.
+
+=== Automating documentation contributions
+
+Documentation is one area in which most open source projects sorely need more contributions, and where acceptance of imperfect submissions carries relatively low risk.
+If your project is like most, you have a long list of things with obsolete or non-existent documentation, few documentation contributors, and little time for documentation review.
+And unless you have a large, mature, and heavily cross-referenced documentation set, the problems caused by accepting documentation errors are smaller than those caused by not having documentation on certain features at all.
+
+This means that, for most projects, self-serve CI/CD for documentation would be a real benefit.
+This is the reason why many projects adopt wikis for their documentation, since those allow for immediate editing and display.
+However, wikis make structuring documentation, rendering it in formats other than screen, or tying it to specific release versions difficult.
+For these reasons (and others), some projects have transitioned to building docs using CI/CD in DocBook, Sphinx, or AsciiDoc.
 
 == Mentoring
 
@@ -71,7 +140,8 @@ Not having a Code of Conduct for your mentors, or making it hard to find, is a w
 
 I've been thinking about this one a lot since https://events19.linuxfoundation.org/events/open-source-summit-europe-2019/program/schedule/[I gave a talk about it at Open Source Summit Europe in October].
 
-The key idea is that new mentors are made of people who have had positive mentoring experiences that also taught them "how to be a mentor." Your mentors should be thinking overall and in specific instances, How can I help this person be successful at mentoring other contributors?
+The key idea is that new mentors are made of people who have had positive mentoring experiences that also taught them "how to be a mentor."
+Your mentors should be thinking overall and in specific instances, How can I help this person be successful at mentoring other contributors?
 
 A new contributor who is mentored well can immediately turn around and offer similar mentoring lessons to other contributors, new and existing alike.
 
