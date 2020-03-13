@@ -3,7 +3,11 @@ Authors: Ray Paik
 Updated: 2020-03-12
 
 == Introduction
-Why metrics are important
+Why metrics are important in Open Source communities
+-Know who is contributing and where contributions are happening (especially as project/community grows)
+-Help with objective measurements
+-Identify bottlenecks (e.g. in reviews/responsiveness)
+-Transparency 
 
 Choosing the right metrics for your community
 
