@@ -1,19 +1,16 @@
-= Developing a Metrics Plan
-Authors:
-Updated:
+= Developing a Metrics Plan/Community Metrics
+Authors: Ray Paik
+Updated: 2020-03-12
 
 == Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
-Aliquam tempus ornare metus nec accumsan.
-Nulla et dui arcu.
-Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
-Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
-Nunc commodo dolor quis porttitor imperdiet.
-Ut imperdiet egestas diam nec pretium.
-Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
-Nulla non leo pellentesque.
+Why metrics are important
+
+Choosing the right metrics for your community
+
+Resources/examples from other communities
+
+Metrics dos and don'ts 
+
+Evolving metrics with the community
+
+
