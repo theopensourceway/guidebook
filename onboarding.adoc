@@ -1,6 +1,6 @@
 = Onboarding
-Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>
-Updated: 2020-02-27
+Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>, Brian Proffitt <bproffit@redhat.com>
+Updated: 2020-03-30
 
 == Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -17,6 +17,71 @@ Nunc commodo dolor quis porttitor imperdiet.
 Ut imperdiet egestas diam nec pretium.
 Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
 Nulla non leo pellentesque.
+
+== Building a clear contributor pathway
+
+Nearly everyone who is working on an open source project likely has motives beyond helping others.
+It can be as straightforward as a personal "I need something to help me do X, and I am willing to work with others to help me achieve that goal."
+Or perhaps a company is heavily using the project's software and the contributor needs to be active as part of their job.
+
+Regardless of how a person comes to the open source table, it's very possible that they will find themselves wanting to do more.
+Again, this could be to help their company make a bigger impact in the project, or something desired out of a sense of personal gain.
+As community organizers, it's very important to recognize these needs and foster them, lest you lose a potentially fantastic contributor to your project.
+
+One path projects can provide to those who want to do more is enabling contributor/commiter permissions, ultimately with an eye towards giving that person more say into the direction of the project through the contributions of others as a maintainer.
+Setting up a path to maintainership can be very important as a community onboarding best practice, because it says to contributors, this is a goal you can achieve in our community, should you wish to go in this direction.
+
+A clear maintainer path is a mutual benefit to the other maintainers of the project as well, since a broader distribution of maintainer tasks can help balance workload, reduce the chance of burnout, and introduce greater diversity into the decision-making process.
+It's also important to the health of a project long-term.
+A project that isn't growing new contributors, committers and maintainers is in danger when its existing maintainers and committers find themselves too busy, changing jobs, or otherwise unable to drive the project with the same commitment they have today.
+
+So how does one create a maintainer path?
+
+The paths are, like most things in open source, hugely varied.
+Some communities take an aggressive  approach and give commit access to anyone who contributes to the project.
+Others follow a well-documented, intensive process that rates potential maintainers with multiple criteria  and vets their identities before awarding maintainer status.
+Everyone else is somewhere in-between.
+
+Clearly there are a lot of options from which a community can choose to set up a maintainer path.
+But the core decision you must make is this: what is the level of trust you and your community need to have to accept a new maintainer?
+If you are a small project just getting started, a come-one-come-all approach to maintainership may work very well.
+If your project is more mature, you may want to put a more rigorous process in place. Such a process can help take care of two issues:
+
+* Gives community members a consistent path to maintainership
+* Deters the "why them and not me?" conversations
+
+There is no perfect path to maintainership, but there are some basic guidelines that you may want to follow as you consider what path to set up.
+
+*Number of contributions.*
+If a potential maintainer has made some really amazing contributions, but they have only recently arrived in the community, you may want to hold off offering them a maintainership.
+Is their work consistently good?
+Do they follow the contributor guidelines you might have for your project?
+Quantity isn't the only metric to use, but a baseline of contributions will give you and your project team a better idea of how consistent this person is.
+
+*Introduce review process.*
+Potential maintainers should have a chance to participate in content review before they achieve maintainer status.
+They may create the best content under the Sun, but if they don't have a knack for thorough and constructive reviews, they may not be a good maintainer.
+Project leaders should try to afford every opportunity to give solid contributors a chance to review others’ content, to see if they like doing it and have a talent for it.
+
+*Length of time.*
+Some people might not be as prolific contributors as others, but that should not deter them from being a potential maintainer.
+In that case, noting the amount of time they have spent with the project is also a good indicator.
+Again, this metric should be used in conjunction with the others, not as a sole determinant.
+
+*Communication skills.*
+This measurement is harder to quantify than the others, but you should examine it nonetheless.
+Effective communication is a good skill for anyone to have, but it is especially true for a maintainer.
+The ability to give praise or, when warranted, constructive criticism is something maintainers should have.
+
+This does not mean they have to be a perfect mesh for everyone's personalities or someone who is always nice 100% of the time.
+But they should be able to articulate the reasons why some contributions go through and some don't when asked.
+If a person has a history of brusque behavior or, worse, name calling, then this would be a deterrent to assigning them a maintainer role.
+
+Whichever the criteria you select, it is important that you publish this process somewhere within your community's assets.
+It does not have to be incredibly detailed, but you should at least list the criteria that will be measured for granting maintainership, as well as contact information for contributors to use if they have any questions or would like to make it known they would like to be considered for a reviewer or maintainer role.
+
+Giving community members a chance to grow within a project benefits those involved.
+Clearing the path to such opportunities is a great way to keep your project healthy and thriving.
 
 == Responding to new contributors
 
