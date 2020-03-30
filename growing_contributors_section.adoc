@@ -3,6 +3,7 @@
 .. What is a contribution
 .. Getting organized
 .. Onboarding
+... Contributors from easyfix to experienced
 .. Legal and governance
 .. Community roles
 .. Migrating code
