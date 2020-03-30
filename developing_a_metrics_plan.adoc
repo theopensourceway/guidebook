@@ -2,19 +2,38 @@
 Authors: Ray Paik
 Updated: 2020-03-12
 
-== Introduction
-Why metrics are important in Open Source communities
--Know who is contributing and where contributions are happening (especially as project/community grows)
--Help with objective measurements
--Identify bottlenecks (e.g. in reviews/responsiveness)
--Transparency 
 
-Choosing the right metrics for your community
+== Why metrics are important in Open Source communities
 
-Resources/examples from other communities
+=== Provide objective measures
+=== Transparency: Know who is contributing and where contributions are happening (especially as project/community grows)
+=== Encourage community participation: Are new contributors joining the community? Who are some of the regular contributors in the community? 
+=== Identify potential bottlenecks in the community: Are bugs/issues being close in a reasonable timeframe? Are reviews happening in timely manner? 
 
-Metrics dos and don'ts 
 
-Evolving metrics with the community
+== Choosing the right metrics for your community
 
+
+== Developing metrics for your community
+
+=== Take advantage of APIs, dashboards, plug-ins, etc. that are available in your software tools (e.g. forums, code repositories, issue trackers, wiki’s, etc.)
+=== Resources/examples from other communities: Lot of communities have good documentation/code for their dashboards (e.g. CNCF, Ruby, etc.)  
+=== The CHAOSS project (https://chaoss.community) develops metrics definition and sample implementation for open source communities. 
+
+== Metrics pitfalls
+
+=== Examples of poor uses of metrics (esp. in Open Source communities). 
+=== Shortcomings of metrics
+
+
+== Metrics dos and don'ts 
+
+=== Dos: Make metric public; use metrics for spotting outliers; Metrics should be used for gaining further insight into community health.
+=== Dont's: Using metrics as a sole basis for rewards; presenting metrics without proper context; ignoring non-metrics. 
+
+
+== Parting thoughts, resources, etc. 
+ 
+=== Your metrics should evolve with your community/Set of metrics you use should not be set in stone.
+=== Remember to continue having hallway conversations with the community. 
 
