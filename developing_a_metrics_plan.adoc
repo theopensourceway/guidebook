@@ -1,19 +1,39 @@
-= Developing a Metrics Plan
-Authors:
-Updated:
+= Developing a Metrics Plan/Community Metrics
+Authors: Ray Paik
+Updated: 2020-03-12
 
-== Introduction
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
-Aliquam tempus ornare metus nec accumsan.
-Nulla et dui arcu.
-Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
-Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
-Nunc commodo dolor quis porttitor imperdiet.
-Ut imperdiet egestas diam nec pretium.
-Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
-Nulla non leo pellentesque.
+
+== Why metrics are important in Open Source communities
+
+=== Provide objective measures
+=== Transparency: Know who is contributing and where contributions are happening (especially as project/community grows)
+=== Encourage community participation: Are new contributors joining the community? Who are some of the regular contributors in the community? 
+=== Identify potential bottlenecks in the community: Are bugs/issues being close in a reasonable timeframe? Are reviews happening in timely manner? 
+
+
+== Choosing the right metrics for your community
+
+
+== Developing metrics for your community
+
+=== Take advantage of APIs, dashboards, plug-ins, etc. that are available in your software tools (e.g. forums, code repositories, issue trackers, wiki’s, etc.)
+=== Resources/examples from other communities: Lot of communities have good documentation/code for their dashboards (e.g. CNCF, Ruby, etc.)  
+=== The CHAOSS project (https://chaoss.community) develops metrics definition and sample implementation for open source communities. 
+
+== Metrics pitfalls
+
+=== Examples of poor uses of metrics (esp. in Open Source communities). 
+=== Shortcomings of metrics
+
+
+== Metrics dos and don'ts 
+
+=== Dos: Make metric public; use metrics for spotting outliers; Metrics should be used for gaining further insight into community health.
+=== Dont's: Using metrics as a sole basis for rewards; presenting metrics without proper context; ignoring non-metrics. 
+
+
+== Parting thoughts, resources, etc. 
+ 
+=== Your metrics should evolve with your community/Set of metrics you use should not be set in stone.
+=== Remember to continue having hallway conversations with the community. 
+
