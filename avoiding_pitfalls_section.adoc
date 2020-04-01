@@ -1,1 +1,3 @@
 . Avoiding Pitfalls and Learning From Mistakes
+.. Home to all extra stories
+.. Open source practitioners interviews; transcripts and "why" stories
