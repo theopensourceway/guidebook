@@ -1,2 +1,2 @@
-= Community Manager Self-Care
-. _New section from FOSDEM BoF, chapters TBD_
+. Community manager self-care
+.. _New section from FOSDEM community brainstorm, chapters TBD_
