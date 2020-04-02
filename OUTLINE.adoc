@@ -1,5 +1,6 @@
 . Introductions
 .. Community 101
+.. Quickstart checklist
 .. Terminology and lexicon
 . Attracting Users
 .. Basics of a project
@@ -12,9 +13,12 @@
 .. What is a contribution
 .. Getting organized
 .. Onboarding
-.. Community governance
+... Contributors from easyfix to experienced
 .. Community roles
+.. Community governance
 .. Migrating code
+. Community Manager Self-Care
+.. _New section from FOSDEM BoF, chapters TBD_
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
@@ -25,5 +29,6 @@
 .. Legal issues in communities
 .. Open source practitioners interviews; transcripts and "why" stories
 .. Home to all extra stories
+. References and Case Studies
 .. References
 .. Case studies
