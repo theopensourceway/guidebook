@@ -12,14 +12,18 @@
 .. What is a contribution
 .. Getting organized
 .. Onboarding
-.. Legal and governance
+.. Community governance
 .. Community roles
 .. Migrating code
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
 .. Announcing software releases
+. Community manager self-care
+.. _New section from FOSDEM community brainstorm, chapters TBD_
 . Avoiding Pitfalls and Learning From Mistakes
-. References and Case Studies
+.. Legal issues in communities
+.. Open source practitioners interviews; transcripts and "why" stories
+.. Home to all extra stories
 .. References
 .. Case studies

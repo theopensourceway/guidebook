@@ -1,4 +1,4 @@
-= Legal and governance
+= Community Governance
 Authors: Dave Neary <dneary@redhat.com>
 Updated: 2019-12-31
 

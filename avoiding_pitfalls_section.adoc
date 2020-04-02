@@ -1,3 +1,4 @@
 . Avoiding Pitfalls and Learning From Mistakes
-.. Home to all extra stories
+.. Legal issues in communities
 .. Open source practitioners interviews; transcripts and "why" stories
+.. Home to all extra stories
