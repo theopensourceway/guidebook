@@ -1,6 +1,6 @@
 = Community Manager Self-Care
 Authors: Ashley Nicolson
-Updated: 2020-04-06
+Updated: 2020-04-07
 
 . Importance of Self-Care
     .. Leaders around the clock
@@ -12,12 +12,10 @@ Updated: 2020-04-06
 . Work/Life Balance
     .. Addiction
     .. Maintain boundaries
+    .. Sustainability
 . Self-Reflection
     .. Through the looking glass
     .. Tackling Impostor Syndrome
     .. Network of Support
-. Sustainability
-    .. Routine is key
-    .. The Support of the Community
 . Disclaimer
     .. Important to note that this isn’t medical advice and if you are concerned you are showing signs of burnout, please consult a doctor.
