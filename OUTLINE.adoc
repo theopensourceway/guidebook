@@ -17,16 +17,13 @@
 .. Community roles
 .. Community governance
 .. Migrating code
-. Community Manager Self-Care
-.. _New section from FOSDEM BoF, chapters TBD_
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
 .. Announcing software releases
-. Community manager self-care
-.. _New section from FOSDEM community brainstorm, chapters TBD_
 . Avoiding Pitfalls and Learning From Mistakes
 .. Legal issues in communities
+.. Community Manager Self-Care
 .. Open source practitioners interviews; transcripts and "why" stories
 .. Home to all extra stories
 . References and Case Studies

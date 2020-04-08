@@ -1,4 +1,5 @@
 . Avoiding Pitfalls and Learning From Mistakes
 .. Legal issues in communities
+.. Community Manager Self-Care
 .. Open source practitioners interviews; transcripts and "why" stories
 .. Home to all extra stories
