@@ -16,19 +16,6 @@ Want to get involved?
 
 Come talk with us on [the mailing list](https://lists.theopensourceway.org/admin/lists/contrib.theopensourceway.org/) and see [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to learn how to make your first contribution.
 
-### Workflow
-
-1. Look through the outline to pick one or more chapters you are interested in writing.
-   - You may find some source or seed material already contributed into that chapter from existing content being rolled into this projct as the upstream. You can use that content to start, fill-out, or complete a chapter; or for modification or inspiration if it does not fit as-is.
-   - There is also source and inspiration in the [1.0 guide](https://theopensourceway.org/wiki).
-1. Look on the [editorial board](https://github.com/theopensourceway/guidebook/projects/1) to find the corresponding issue for the chapter.
-1. Comment on the issue, expressing your interest and what you are thinking of writing about. If you are ready, propose an outline for your chapter.
-1. If you need more guidance on what should be in the outline, work with the [lead writer](https://github.com/shaunix) as well as any other interested commentors.
-   - You may find some existing content to see/work from in that chapter, and the original authors of that content may have additional insights for you.
-1. Once your outline is accepted, begin to write on your chapter as per the schedule.
-1. In the editorial board, the card for your chapter(s) will be moved between columns depending on who is responsible for working with it. Once you are ready for an editorial review, it will be shifted over in columns as that happens until the chapter is complete and ready for publication.
-  
-
 ## Community architecture
 
 For the 2.0 refresh, we've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to reflect current contribution guidelines.
