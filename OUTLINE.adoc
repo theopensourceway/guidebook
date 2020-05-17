@@ -6,7 +6,7 @@
 .. Basics of a project
 .. Driving adoption
 . Guiding participants
-.. What participants want
+.. Why do people participate in open source?
 .. How participants help the projects they love so much
 . Growing Contributors
 .. From users to contributors
