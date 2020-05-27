@@ -337,7 +337,7 @@ In this way, constructing a code of conduct can become a compelling community-bu
 
 To get started, view an example code of conduct from the https://www.contributor-covenant.org/[_Contributor Covenant_].
 
-== Holding community elections
+=== Holding community elections
 
 As community projects grow, many choose to select community representatives.
 This process may occur when a community loses a founder, a group decides to move to a "ruling technical council" governance model, or when a project moves to a non-profit governing body with paying members.
@@ -347,7 +347,7 @@ Historically, choosing a voting system, defining an electorate, and limiting the
 
 This section summarizes project election best practices, including who gets to vote, who can be a candidate, and how elections are run.
 
-=== Electorate and eligible candidate pool
+==== Electorate and eligible candidate pool
 
 Establishing franchise rules is critical.
 Some projects have allowed anyone registered for a project's site to vote in an election—a very low bar—but have specified that only project committers could be election candidates—a high bar.
@@ -373,7 +373,7 @@ One final consideration is the process for becoming a candidate in the election.
 The most popular option is self-nomination, where candidates post election information and their reasons for running.
 Another option is nomination,which is often the same as self-nomination as the candidate typically asks people to nominate them and second their nomination.
 
-=== Voting system
+==== Voting system
 
 Another complex community decision is the voting system.
 Any community will include people passionate about how to vote—and how to count votes.
@@ -396,7 +396,7 @@ Options to consider include:
 - https://github.com/Conservatory/openstv[OpenSTV], formerly available under the General Public License (GPL) and still used by several projects to count elections.
 - https://vote.heliosvoting.org/[Helios], another free election service that allows online voting and several different vote counting methods.
 
-=== How to start
+==== How to start
 
 If you are planning to propose an election system, begin with a mission statement.
 For example:
