@@ -1,4 +1,4 @@
-= The Open Source Way Publishing Process
+= The Open Source Way Publishing Process 
 
 The workflow of The Open Source Way is largely dependent on the functionality of the GitHub platform. GitHub is a web-based distributed version control tool that enables content creators build and collaborate on text-based creations (code, prose) wherever they can connect to the Internet.
 
