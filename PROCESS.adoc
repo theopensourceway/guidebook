@@ -12,4 +12,24 @@ Before beginning work on The Open Source Way, it is important for all participan
 
 == Contributing to The Open Source Way
 
-Contributing a new chapter to The Open Source Way is relatively easy. Content can be created locally on any system and then inserted into the GitHub interface
+Contributing a new chapter to The Open Source Way is relatively easy. Content can be created locally on any system and then inserted with the GitHub web interface.
+
+. Click create New File
+. Add a file name in the name field
+. Copy the text into the Edit new file field
+. In the `Commit new file` section, add a short commit message.
+. In the `Comment` field, add a short message with the number of the issue associated with the chapter. "Per #_XX_"
+. Click the `Create a new branch for this commit and start a new pull request` radio button. You can use the suggested branch name.
+. Click `Propose New File`. The `Open a Pull Request` window will open.
+. Click the gear icon in the Reviewers pane in the right column of the page.
+. Choose the reviewer recommended to you upon initial consultation about the chapter.
+. Click `Create pull request`.
+
+The chapter will be submitted for initial review. If it meets inclusion criteria, it will be merged into the Main branch.
+
+== Reviewing an Initial contribution
+
+
+
+
+=== Editing in The Open Source Way
