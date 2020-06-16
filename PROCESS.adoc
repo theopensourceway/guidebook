@@ -40,3 +40,18 @@ When the review is complete and the pull request is merged, the reviewer should 
 
 == Editing in The Open Source Way
 
+== Editing in The Open Source Way
+
+When a chapter has been merged into the Main branch, it is ready for the editorial process. This process will involve these main steps:
+
+. Subject-matter expert pass
+. Formatting pass
+. Development pass
+. Copy edit pass 
+
+Each pass will requite a different form of editorial and knowledge expertise, but the editing workflow will remain the same.
+
+. An editor will open the issue in the appropriate column on the project https://github.com/theopensourceway/guidebook/projects/1[Editorial Board].
+. Click the URL for the file to be edited. The file's page will open.
+. Click the Edit icon in the upper right section of the file's page.
+. 
