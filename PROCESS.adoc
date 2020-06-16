@@ -10,6 +10,7 @@ Editorial is the process or perfecting the created content, via various editing 
 
 Before beginning work on The Open Source Way, it is important for all participants to have a https://github.com/[GitHub account] if they don't have already. All work done on The Open Source Way will be done within the https://github.com/theopensourceway/guidebook[guidebook repository] of the https://github.com/theopensourceway[The Open Source Way organization].
 
+
 == Contributing to The Open Source Way
 
 Contributing a new chapter to The Open Source Way is relatively easy. Content can be created locally on any system and then inserted with the GitHub web interface.
@@ -27,9 +28,15 @@ Contributing a new chapter to The Open Source Way is relatively easy. Content ca
 
 The chapter will be submitted for initial review. If it meets inclusion criteria, it will be merged into the Main branch.
 
-== Reviewing an Initial contribution
+== Reviewing an initial contribution
 
+When receiving a review request for an initial contribution, a reviewer should use The Open Source Way guidelines to approve the chapter for further editing. 
 
+When the review is complete and the pull request is merged, the reviewer should perform one more additional step, so subsequent editors can find the file quickly.
 
+. Open the merged file in GitHub.
+. Copy and paste the full URL for the file into the relevant issue's comment section.
+. Click `Comment`.
 
-=== Editing in The Open Source Way
+== Editing in The Open Source Way
+
