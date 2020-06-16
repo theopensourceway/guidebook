@@ -1,0 +1,15 @@
+= The Open Source Way Publishing Process
+
+The workflow of The Open Source Way is largely dependent on the functionality of the GitHub platform. GitHub is a web-based distributed version control tool that enables content creators build and collaborate on text-based creations (code, prose) wherever they can connect to the Internet.
+
+The Open Source Way process will be divided into two distinct parts: contribution and editorial.
+
+Contribution is the process of initial creation; it will take full advantage of GitHub's distributed features, adding  content to GitHub in a separate branch, and then merging into the main content of The Open Source Way.
+
+Editorial is the process or perfecting the created content, via various editing passes. This can be done primarily within GitHub's issue-tracking tools, within the GitHub interface. 
+
+Before beginning work on The Open Source Way, it is important for all participants to have a https://github.com/[GitHub account] if they don't have already. All work done on The Open Source Way will be done within the https://github.com/theopensourceway/guidebook[guidebook repository] of the https://github.com/theopensourceway[The Open Source Way organization].
+
+== Contributing to The Open Source Way
+
+Contributing a new chapter to The Open Source Way is relatively easy. Content can be created locally on any system and then inserted into the GitHub interface
