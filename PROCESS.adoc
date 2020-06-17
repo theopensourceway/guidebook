@@ -1,38 +1,42 @@
 = The Open Source Way Publishing Process 
 
-The workflow of The Open Source Way is largely dependent on the functionality of the GitHub platform. GitHub is a web-based distributed version control tool that enables content creators build and collaborate on text-based creations (code, prose) wherever they can connect to the Internet.
+The Open Source Way's project workflow is largely dependent on the functionality of the GitHub platform.
+GitHub is a web-based, distributed version control tool that enables content creators build and collaborate on text-based creations (code, prose) wherever they can connect to the internet.
+Before beginning work on The Open Source Way, contributors must have a https://github.com/[GitHub account].
+All work done on The Open Source Way will be done within the https://github.com/theopensourceway/guidebook[guidebook repository] of the https://github.com/theopensourceway[The Open Source Way organization].
 
-The Open Source Way process will be divided into two distinct parts: contribution and editorial.
+The Open Source Way editorial process is divided into two distinct phases: **contribution** and **editorial**.
 
-Contribution is the process of initial creation; it will take full advantage of GitHub's distributed features, adding  content to GitHub in a separate branch, and then merging into the main content of The Open Source Way.
+**Contribution** involves the work of creation.
+Contributors propose content in individual https://help.github.com/en/github/getting-started-with-github/github-glossary#branch["branches,"] then ask project maintainers to review it and, ultimately, to merge the work into the project.
 
-Editorial is the process or perfecting the created content, via various editing passes. This can be done primarily within GitHub's issue-tracking tools, within the GitHub interface. 
-
-Before beginning work on The Open Source Way, it is important for all participants to have a https://github.com/[GitHub account] if they don't have already. All work done on The Open Source Way will be done within the https://github.com/theopensourceway/guidebook[guidebook repository] of the https://github.com/theopensourceway[The Open Source Way organization].
-
+**Editorial** is the process of refining contributed content via numerous editorial "passes."
+We perform this work primarily through GitHub's issue-tracking tools, using GitHub's web interface. 
 
 == Contributing to The Open Source Way
 
-Contributing a new chapter to The Open Source Way is relatively easy. Content can be created locally on any system and then inserted with the GitHub web interface.
+Contributing a new chapter to The Open Source Way is relatively easy. Contributors can write materials on any system, then propose them to the project via GitHub's web interface.
+Just follow these steps:
 
 . Click create New File
 . Add a file name in the name field
 . Copy the text into the Edit new file field
 . In the `Commit new file` section, add a short commit message.
-. In the `Comment` field, add a short message with the number of the issue associated with the chapter. "Per #_XX_"
+. In the `Comment` field, add a short message with the number of the issue associated with the chapter. (for example, "per discussion in #_XX_")
 . Click the `Create a new branch for this commit and start a new pull request` radio button. You can use the suggested branch name.
 . Click `Propose New File`. The `Open a Pull Request` window will open.
 . Click the gear icon in the Reviewers pane in the right column of the page.
 . Choose the reviewer recommended to you upon initial consultation about the chapter.
 . Click `Create pull request`.
 
-The chapter will be submitted for initial review. If it meets inclusion criteria, it will be merged into the Main branch.
+This will submit your chapter for initial review.
+If it meets inclusion criteria, project maintainers will merge it into the project's main branch.
 
-== Reviewing an initial contribution
+== Reviewing a contribution
 
-When receiving a review request for an initial contribution, a reviewer should use The Open Source Way guidelines to approve the chapter for further editing. 
+When receiving a request to review an initial contribution, reviewers should use The Open Source Way guidelines to approve the chapter for further editing.
 
-When the review is complete and the pull request is merged, the reviewer should perform one more additional step, so subsequent editors can find the file quickly.
+When review is complete and the pull request merged, reviewers should perform one  additional step so subsequent editors can find the file quickly.
 
 . Open the merged file in GitHub.
 . Copy and paste the full URL for the file into the relevant issue's comment section.
@@ -40,16 +44,19 @@ When the review is complete and the pull request is merged, the reviewer should 
 
 == Editing in The Open Source Way
 
-When a chapter has been merged into the Main branch, it is ready for the editorial process. This process will involve these main steps:
+When a chapter has been merged into the Main branch, it is ready to procede through the editorial process. This process will involve the following steps (or "passes"):
 
-. Subject-matter expert pass
+. Subject-matter expert (SME) pass
 . Formatting pass
 . Development pass
-. Copy edit pass 
+. Copy edit pass
 
-Each pass will requite a different form of editorial and knowledge expertise, but the editing workflow will remain the same.
+Each pass requires a different form of editorial and knowledge expertise, but in each pass the general editorial workflow remains the same. It looks like this:
 
 . An editor will open the issue in the appropriate column on the project https://github.com/theopensourceway/guidebook/projects/1[Editorial Board].
 . Click the URL for the file to be edited. The file's page will open.
 . Click the Edit icon in the upper right section of the file's page.
-. 
+. Perform the appropriate editorial work on the chapter
+. Complete at least the first field in the "Commit changes" field beneath the editing pane. Be sure to describe the type of editorial with you've performed (for example, "perform a development edit" or "formatting pass complete")
+. Select the "Commit directly to ``main`` branch radio button
+. Click the ``Commit changes`` button
