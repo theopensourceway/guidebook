@@ -1,0 +1,41 @@
+= Presenting The Open Source Way
+Author: Karsten Wade <quaid@iquaid.org>
+Updated: 2020-06-18
+
+== Presenting 'The Open Source Way' 2.0
+
+There is an English idiom that goes, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
+The 'madness' are the things you do that may not make sense to people outside of your situation.
+The 'method' means more than what and how you do the madness; it also refers to **why** you pursue that particular way of madness versus all other ways you could choose from.
+
+This guide is our attempt to address the question of not only what is our method for practicing the open source way, not only how that method works, but to really dig under the question of, "***Why do you do it that way?***"
+
+Your takeway from this introduction should be two things:
+
+1. There is a what, how, and why to the practice of open source software.
+2. This guide is a distillation of the loosely held opinions of a sizeable group of open source practitioners of all levels, who are the kind of people always having to answer the question of why we do this open source thing the way we do it.
+
+In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly and somewhat opinionated on the best ways to create and manage an open source software community.
+
+These voices are all part of https://theopensourcway.org[this community of practice around open source software community management].
+
+=== Assumptions we are making
+
+'Details of how we see growing a community via growing users, lowering barriers, and enabling people to participte and contribute at all levels. How the guide reflects this structure.'
+
+=== Structure of this guide
+
+Each section of this guide consists of one or more chapters.
+
+A chapter is a discrete discussion of a topic or a closely-related set of topics. Those topics are discussed in terms of a principle (what), implementation of that principle (how), and examples of why that principle is followed or recommended. This principle/implementation/example, or PIE, approach helps makes chapters consist for reading.
+
+The idea is that you can open and read a chapter as a stand-alone experience without needing to read the rest of the guide to understand and act from the material in that chapter. Having the PIE consideration helps as reader find themselves in the guide at any point.
+
+The chapter consists of several parts:
+
+* An introduction
+* Main material, written in third person POV, focusing on a balance of what, how, why content (PIE). The examples (stories) told here are brief and somewhat impersonal.
+* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person; that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
+** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
+* Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
+
