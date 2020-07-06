@@ -27,7 +27,7 @@ This experience can provide insight to developing and building up social norms a
 
 What exactly is self-care? The WHO (World Health Organization) definition of self-care is:
 
-> "Self-care is the ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a healthcare provider"
+> "Self-care is the ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a healthcare provider".footnote:[World Health Organization, https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions[website]]
 
 This, in a nutshell, is us making a conscious and mindful effort to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
 
@@ -184,7 +184,7 @@ By ignoring our physical and mental well being we will be more likely to succumb
 
 What exactly is burnout? The WHO (World Health Organization) definition of burnout is:
 
-> “Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. ”
+> “Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. ”.footnote:[World Health Organization, https://www.who.int/mental_health/evidence/burn-out/en/[website]]
 
 Burnout can affect us all and in any occupation, however it seems more prevalent in roles that are mentally and emotionally draining for extended periods of time. 
 This is common due to the prevailing norms within those roles of being selfless and putting others first: going the extra mile to maintain a happy and content environment or atmosphere either for the client or within a community. 
@@ -201,7 +201,7 @@ Burnout is extremely hard to detect as not only is it subtle and progressive, bu
 This is because the two are similar until it becomes too late and has developed into a much deeper and harder problem to treat.
 
 Psychologist Herbert Freudenberger has released multiple books and articles regarding his research of the possible causes, implications and affects of burnout since the 1970’s.
-His work has helped to define the different symptoms and thus the phases of experiencing burnout.
+His work.footnote:[Dr Herbert Freudenberger and Geraldine Richelson, "Burn-out : The High Cost of High Achievement"] has helped to define the different symptoms and thus the phases of experiencing burnout.
 
 Perhaps you recognize several of them in yourself; perhaps you recognize only one or two. 
 It’s not always easy to see the signs since not only do they gradually occur over time, but also hide behind our own denial of something being wrong.
@@ -278,7 +278,7 @@ Sometimes these illnesses mask the deeper more emotional stress that we feel but
 
 === Burnout cycle
 
-Freudenberger and his colleague Gail North later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome. 
+Freudenberger and his colleague Gail North.footnote:[Dr Herbert Freudenberger and Dr Gail North, "Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent It"] later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome. 
 Similar to the symptoms, sufferers may experience episodes in multiple phases, not in sequential order, and for any length of period of time.
 
 . *A compulsion to prove oneself*: having the obsession to try and prove to self and to others their worth; tends to affect those that are eager to excel within the organization and who accept responsibility readily.
@@ -520,13 +520,13 @@ However creating a routine of introspection and self-reflection as part of our s
 
 === Tackling Imposter Syndrome
 
-This term was first defined by psychologists Dr Pauline Clance and Dr Suzanne Imes in the 1970’s as the internal experience one feels, despite overwhelming amount of evidence proving other wise, that they are incompetent and that their success was a product of luck or fraud within their field of expertise.
+This term was first defined by psychologists Dr Pauline Clance and Dr Suzanne Imes.footnote:[Dr Pauline Clance and Dr Suzanne Imes, "The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention."] in the 1970’s as the internal experience one feels, despite overwhelming amount of evidence proving other wise, that they are incompetent and that their success was a product of luck or fraud within their field of expertise.
 
 Often those that experience impostor syndrome have a hard time internalizing and accepting their success by minimizing positive feedback and comparing other’s work to their own. 
 This more frequently happens if we have started a new job, take on new responsibilities or role, or returned from a recent career break. 
 In order to compensate for this chronic self-doubt we begin to work late, procrastinate or try and justify our position in unnecessary ways.
 
-Dr Valerie Young, further categorized these types of flawed thinking of what sufferers believe it takes to be component into the following subgroups:
+Dr Valerie Young.footnote:[Dr Valerie Young, "The Secret Thoughts of Successful Women"], further categorized these types of flawed thinking of what sufferers believe it takes to be component into the following subgroups:
 
 *Perfectionist*
 
