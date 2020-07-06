@@ -1,12 +1,16 @@
 = Developing a Metrics Plan/Community Metrics
 Authors: Ray Paik
-Updated: 2020-03-12
+Updated: 2020-07-06
 
 
-== Why metrics are important in Open Source communities
+== *Why metrics are important in Open Source communities*
 
-=== Provide objective measures
-=== Transparency: Know who is contributing and where contributions are happening (especially as project/community grows)
+=== *Provide objective measures*
+For any organization, you want to have a set of objective measurement to help you understand how you are performing. For businesses, it could be things like revenue, new customer aquisitions, costs, etc. that you can look at periodically (e.g. quarter-over-quarter) to measure how you are progressing. For open source projects, it is also helpful to have a set of metrics that can help measure the health of your community.  These could include things like number of contributors, how long it takes to close bugs/issues, responsiveness of reviewers, contributor diversity, etc. 
+
+=== *Transparency*
+Know who is contributing and where contributions are happening (especially as project/community grows)
+
 === Encourage community participation: Are new contributors joining the community? Who are some of the regular contributors in the community? 
 === Identify potential bottlenecks in the community: Are bugs/issues being close in a reasonable timeframe? Are reviews happening in timely manner? 
 
