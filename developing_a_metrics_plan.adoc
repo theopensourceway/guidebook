@@ -9,13 +9,16 @@ Updated: 2020-07-06
 For any organization, you want to have a set of objective measurement to help you understand how you are performing. For businesses, it could be things like revenue, new customer aquisitions, costs, etc. that you can look at periodically (e.g. quarter-over-quarter) to measure how you are progressing. For open source projects, it is also helpful to have a set of metrics that can help measure the health of your community.  These could include things like number of contributors, how long it takes to close bugs/issues, responsiveness of reviewers, contributor diversity, etc. 
 
 === *Transparency*
-Know who is contributing and where contributions are happening (especially as project/community grows)
+Transparency is a key ingredient in all open source projects, so it is important to have visibility into everyone that is contributing to your project. This isn't necessarily to rank or highlight the most active contributors. Rather, this is to get a better sense of where the contributions are coming from (e.g. different geography, organizations, etc.). When you start going beyond 20-30 community members, it starts to become more challenging to keep track of all contributors if you don't have a good set of metrics. 
 
-=== Encourage community participation: Are new contributors joining the community? Who are some of the regular contributors in the community? 
-=== Identify potential bottlenecks in the community: Are bugs/issues being close in a reasonable timeframe? Are reviews happening in timely manner? 
+=== *Encourage community participation*
+Community metrics will not necessarily provide a full picture of the community, but they do offer important insight into the state of the community. For example, metrics can show if there are regular activities on project's code, bugs/issues, documentation, etc. for the project. Also, when new community members join a new community, they typically struggle with connecting with more experienced members.  For example, a set of metrics dashboard that provides list of active documentation contributors could be handy for anyone interested in contributing to project documentation.  Some communities even have a dashboard of _first time_ contributors to highlight new community members. These may seem like small things, but they could go a long way to help new community members onboard into a project. 
+
+=== *Identify potential bottlenecks in the community*
+As open source projects grow, you will typically face challenges with responsiveness to community members. For example, code reviews may take longer or you may see a growing backlog of issues. If you have a good set of metrics (e.g. average time to close issues, median time for code review, etc.)that you review on a regular basis, they could server as early warning signs before you start to have a large number of dissatisfied community members. 
 
 
-== Choosing the right metrics for your community
+== *Choosing the right metrics for your community*
 
 
 == Developing metrics for your community
