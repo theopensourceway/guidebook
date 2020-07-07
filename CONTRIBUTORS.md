@@ -22,3 +22,4 @@ Sort: Unsorted
     dickersonpaula;Dickerson, Paula;Red Hat;guidebook editor;-
     acozine;Cozine, Alicia;Red Hat;guidebook editor,guidebook writer;-
     dajackso;Jackson, Danielle;Red Hat;guidebook editor;-
+    mscherer;Scherer, Michael;Red Hat;infrastructure operations;-
