@@ -200,7 +200,7 @@ This discussion is partly technical and partly business-focused.
 
 Before making a significant investment of engineering resources in a project, vendors will likely ask:
 
-1. Can we engage with the project on a level playing field? Or do stakeholders use different processes to evaluate changes from different vendors (Contributor Licensing Agreements that give additional rights to the originating vendor over others, for example)? One common way to ensure a level playing field from a legal perspective is to contribute the project’s management and trademark to a foundation.
+1. Can we engage with the project on a level playing field? Or do stakeholders use different processes to evaluate changes from different vendors (Contributor Licensing Agreements that give additional rights to the originating vendor over others, for example)? One common way to ensure a level playing field from a legal perspective is to contribute the project's management and trademark to a foundation.
 2. Does this project meet a customer need? Vendors will consider market fit, and how the project fits into their product portfolio.
 
 Accepting participation from additional vendors can significantly impact a project's governance.
@@ -251,6 +251,11 @@ But as we've already explained, such claims about an absence of governance are m
 Every open source project has a governance model. In the case of most do-ocracies, the governance model is merely implicit in the everyday interactions of project members.
 As a result, joining them can be difficult and intimidating for newcomers, as would-be contributors might not immediately know how to participate or seek approval for their contributions.
 
+*To get started in a project with this governance model:* Find an aspect of the project you feel you can improve and simply begin working.
+Review the recorded history of changes to the project to identify the participants whose feedback will be integral to your successful contribution.
+As the project accepts more of your contributions, you will gradually accrue influence in the community.
+Do not expect to influence decisions in a do-ocracy until you are able to demonstrate a history of successful contribution.
+
 === Founder-leader
 
 The founder-leader governance model is most common among new projects or those with a small number of contributors (and since most open source projects have only a small number of contributors, this is a rather popular model!).
@@ -264,6 +269,11 @@ In extreme cases, founder-leader models can create a kind of "caste" system in a
 Disagreements can lead to project splits.
 Worse, a founder-leader's disappearance, whether due to burnout or planned retirement, can cause a project to disintegrate entirely.
 
+*To get started in a project with this governance model:* Browse project mailing lists or discussion forums to identify the project's founder-leaders, then address questions about participation and contribution to those leaders through one of the community's public communication channels.
+Founder-leaders tend to have a comprehensive view of the project's needs and will direct you to areas of the project that will benefit most from your contribution.
+Be sure to understand founder-leaders' vision for the project, as most founder-leaders will veto proposed changes they feel conflict with that vision.
+When starting out, do not expect to propose changes that will not serve the founder-leaders' vision for the project.
+
 === Self-appointing council or board
 
 Recognizing shortcomings of the founder-leader model, the self-appointing council or board model aims to better facilitate community leadership turnover and succession.
@@ -274,6 +284,12 @@ And typically, these groups construct their own decision-making conventions and 
 The self-appointing council or board governance model is useful in cases where a project does not have a sponsoring foundation and establishing electoral mechanisms is prohibitively difficult.
 But the model's drawbacks become apparent when self-appointing governing groups grow insular and unrepresentative of the entire project community (as member-selection processes tend to spawn self-reinforcing leadership cultures).
 Moreover, this model can stymie community participation in leadership activities, as community members often feel like they must "wait to be chosen" before they can take initiative on work that interests them.
+
+*To get started in a project with this governance model:* Because this governance model is typical of more mature open source projects, communities adopting this model will often curate getting started documentation aimed at assisting potential contributors.
+Find this documentation and read it first.
+Then read the project's governance documentation to determine how its governing bodies are composed.
+In many cases, you can locate a council or board governing the aspect of the project to which you would like to make a contribution.
+That body will be able to oversee your contribution and answer questions you may have.
 
 === Electoral
 
@@ -290,6 +306,12 @@ But elections also have drawbacks.
 They can become contentious, distracting, and time-consuming for all project members (whether those members are running or not).
 Some communities promote elections as a solution to the indefinite tenure of well-known project members; however, elections don't generally cause turnover unless term limits are part of the project's policies.
 
+*To get started in a project with this governance model:* Communities appointing leaders through elections typically feature election results and a leadership roster prominently on their project websites.
+Review those documents to determine a point of contact in the project.
+Well- governed open source communities will make clear, also often on their project websites, their pro- cesses for proposing and reviewing items on which the community will vote.
+As you establish a reputation for making useful contributions to the project, you may eventually decide to be a candidate for a project leadership position.
+Be sure to interact productively and collaborate effectively with other contributors as they may be voting you into a leadership position some day.
+
 === Corporate-backed
 
 Occasionally, individual companies or industry consortia may choose to distribute software under the terms of an open source license as a way of reaching potential developers and users—even if they do not accept project contributions from those audiences.
@@ -300,6 +322,10 @@ Instead, open and closed source innovation occurs at the "edges" of the project.
 For this reason, some commentators call this the "walled garden" governance model.
 Occasionally, projects following this model will adopt license with strong "copyleft" requirements, which they see as a deterrent to commercial competitors benefitting from their work on the project (the goal is to force competitors and customers with production requirements to purchase a non-open source license for the software—what some call a "dual license" approach).
 This model becomes problematic in cases where a project claims to have an open community but is in fact wholly owned by a company or consortium.
+
+*To get started in a project with this governance model:* First, consider any existing relationship between your employer and the company originating the project, if applicable.
+Next, assess the project's licensing terms and review its change history and bug tracker to determine whether you are able to contribute to the aspect of the project that interests you — and in the way you would like.
+Given the project's particular licensing stipulations, you may find yourself working alongside or on top of a particular project rather than contributing to it directly.
 
 === Foundation-backed
 
@@ -318,6 +344,16 @@ It might also help prevent the commercialization of the project under a single v
 High overhead (not strictly financial, but particularly in terms of contributor time, which can be substantial) is a significant drawback of the foundation-backed governance model.
 Some foundations are incorporated as industry consortia, in which sponsoring companies govern the organization.
 Different consortia allow different degrees of participation from individual project contributors; some are fairly open groups, while in others only corporate managers have authority.
+
+To get started in a project with this governance model: If a foundation does not govern day-to-day project contribution activity, then locate the project's getting started documentation and follow it.
+Otherwise, note that individual projects under a particular foundation's umbrella will have their own sets of leaders, though some common guidelines may standardize basic contribution processes across all projects a foundation governs.
+To identify a specific project's leaders, consider addressing a request to the foundation members' mailing list.
+You might also examine the project's change history to identify frequent contributors and contact them.
+As many foundations feature a contribution-based voting system, familiarize yourself with steps required to become a full voting member of the foundation.
+If the foundation is a members-only industry consortium, determine whether your employer is already a member.
+If not, talk to your manager about the importance of the project to your work and ask whether your employer might consider joining.
+In either case, foundation projects may require signing contributor paperwork.
+Your legal department should assist with reviewing and signing this paperwork.
 
 == Conducting basic governance
 
