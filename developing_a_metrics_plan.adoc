@@ -25,9 +25,16 @@ As you are developing a set of community metrics, it is important to work with c
 
 == Developing metrics for your community
 
-=== Take advantage of APIs, dashboards, plug-ins, etc. that are available in your software tools (e.g. forums, code repositories, issue trackers, wiki’s, etc.)
-=== Resources/examples from other communities: Lot of communities have good documentation/code for their dashboards (e.g. CNCF, Ruby, etc.)  
-=== The CHAOSS project (https://chaoss.community) develops metrics definition and sample implementation for open source communities. 
+=== *Take advantage of available resources in your software tools*  
+In the past many people had to write complex scripts/queries to get metrics for their communities. Nowadays, most of the software tools (code repositories, forums, issue trackers, wiki's, etc.) that open source projects use have APIs, plug-ins or even built-in dashboards that makes it easy collect data for your metrics. So if you use tools like Discourse, GitHub, GitLab, Jira, or others, you may be able to save a lot of time by reading up their documentations prior to metrics implementation 
+
+=== *Resources/examples from other communities*  
+A number of open source communities have good documentation/code for their community dashboards that many other communities can learn from. Many people may have seen the CNCF dashboard is at https://k8s.devstats.cncf.io/ and you can find details on their `devstats` project for their dashboard in the CNCF's repo at https://github.com/cncf/devstats. 
+
+Another good example is the Ruby community dashboard at https://contributors.rubyonrails.org/contributors and their FAQ page (https://contributors.rubyonrails.org/faq) provides good insight into why they developed the dashboard and some of their implementation decisions. 
+
+=== *The CHAOSS project* 
+Not surprisingly, there's an open source project that is focused on community metrics. (https://chaoss.community) develops metrics definition and sample implementation for open source communities. 
 
 == Metrics pitfalls
 
