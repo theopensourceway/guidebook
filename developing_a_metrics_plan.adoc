@@ -28,7 +28,7 @@ As you are developing a set of community metrics, it is important to work with c
 In the past many people had to write complex scripts/queries to get metrics for their communities. Nowadays, most of the software tools (code repositories, forums, issue trackers, wiki's, etc.) that open source projects use have APIs, plug-ins or even built-in dashboards that makes it easy collect data for your community. So if you use tools like Discourse, GitHub, GitLab, Jira, or others, you may be able to save a lot of time by reading their documentations prior to implementing a new set of metrics from scratch. 
 
 === *The CHAOSS project* 
-Not surprisingly, there's also an open source project that is focused on community metrics. The project is called CHAOSS (Community Health Analytics for Open Source software) and it has community members from academia, companies that participate in many open source projects, open source foundations, and others.  On the CHAOSS website (https://chaoss.community), you will find details on metrics across different categories plus implementation example for many of these metrics.  
+Not surprisingly, there's an open source project that is focused on community metrics. The project is called CHAOSS (Community Health Analytics for Open Source software) and it has community members from academia, companies that participate in many open source projects, open source foundations, and others. If you visit the CHAOSS website (https://chaoss.community), you will find details on metrics across different categories plus implementation examples for many of these metrics.  
 
 If you browse through CHAOSS metrics, you will likely find plenty of metrics (and implementation) that will be applicable to your community. If you have an idea for new metrics that is not yet in CHAOSS, you can always start a discussion on a new metrics in the CHAOSS community. 
 
@@ -39,8 +39,12 @@ Another good example is the Ruby community dashboard at https://contributors.rub
 
 == Metrics pitfalls
 
+Metrics are certainly important, but there are definitely shortcomings that we want to be aware of. 
+. People often measure the most easily measurable in their metrics: This is human nature as we all want to do what's easier. However, you run the risk of neglecting  important aspects of the community if you only focus on easily mesurable metrics in your community. For example, it's often easier to focus on inputs (e.g. number of commits/merge requests/pull requests) compared to outputs (e.g. the impact of a commit/merge request/pull request). I'm sure we will all agree that ignoring outputs from the community will provide an incomplete picture of the community. 
+. Over-reliance on metrics can lead to less insight: No set of metrics will provide a full picture of communities (or any other organizations for that matter). Although it is important to have a standardized set of metrics so that you can gauge your community's health over time, there will always be things that are extremely difficult to measure or quantify. For example, we want contributors to feel a strong sense of belonging in the community and enjoy collaborating with other community members.  Whether this is happening or not would be difficult to quantify, but you still want have a good sense of if this is happening through means other than metrics collections. 
+. Ignoring intrnsic motivation: This is particularly important in open source communities as most of the contributors are volunteers who contribute in their own time. 
+
 === Examples of poor uses of metrics (esp. in Open Source communities). 
-=== Shortcomings of metrics
 
 
 == Metrics dos and don'ts 
