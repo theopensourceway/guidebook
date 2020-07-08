@@ -45,9 +45,9 @@ Metrics are certainly important, but there are definitely shortcomings that we w
 . Over-reliance on metrics will provide incomplete insight: No set of metrics will provide a full picture of communities (or any other organizations for that matter). Although it is important to have a standardized set of metrics so that you can gauge your community's progress over time, there will always be things that are extremely difficult to measure or quantify. For example, we want contributors to feel a strong sense of belonging in the community and enjoy collaborating with other community members.  Whether this is happening or not would be difficult to quantify, but you still want to have a good sense of this even if it requires other  means besides metrics collections. 
 . Ignoring intrnsic motivation: People often join (especially volunteer) organizations because they are intrincically motivated such as belief in group's mission or a sense of belonging with other members. If there is too much emphasis on people's contribution (or input) in metrics, you run the risk of losing sight of why people joined the organization in the first place. Most contributors in open source communities are volunteers who contribute in their own time, so ignoring their intrinscic motivation can lead to negative consequences in the community. 
 
-Following are examples of poor uses of metrics in Open Source communities. 
+Following are examples of poor uses of metrics in open source communities. 
 
-. Vanity metrics. 
+. Vanity metrics: Vanity metrics isn't just limited to open source, but I thought it was worth listing it here as it has the potential to discourage contributors. From time to time you see quotes like "Project XYZ is the fastest growing open source community based on ".   
 . Making comparisons between open source communities based on a few metrics. 
 . Gaming contribution metrics. 
 . Too much focus on code contributions.
