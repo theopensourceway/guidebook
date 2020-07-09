@@ -35,7 +35,7 @@ If you browse through CHAOSS metrics, you will likely find plenty of metrics (an
 === *Resources/examples from other communities*  
 A number of open source communities have good documentation/code for their community dashboards that many other communities can take advantage of. Many readers may be familiar with the https://k8s.devstats.cncf.io/[CNCF dashboard] and you can find details on their `devstats` project for their dashboard in the CNCF's repo at https://github.com/cncf/devstats. 
 
-Another good example is the https://contributors.rubyonrails.org/contributors[Ruby community dashboard] and their https://contributors.rubyonrails.org/faq[FAQ page] provides good insight into why they developed the dashboard and some of their implementation decisions. 
+Another good example is the https://contributors.rubyonrails.org/contributors[Ruby community dashboard] and their https://contributors.rubyonrails.org/faq[FAQ page], which provides good insight into why they developed the dashboard and some of their implementation decisions. 
 
 == Metrics pitfalls
 
