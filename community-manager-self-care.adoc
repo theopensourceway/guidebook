@@ -1,6 +1,6 @@
 = Community Manager Self-Care
 Authors: Ashley Nicolson <ashley@scotlandopensource.com>
-Updated: 2020-07-05
+Updated: 2020-07-09
 
 == Disclaimer
 
@@ -35,7 +35,7 @@ Most of us already practice self-care daily by ensuring that we are functional a
 However sometimes we can find that these acts are not sufficient to solely maintain our well being and thus a conscious effort and additional support is required.
 
 When we are in a happy state in mind we can usually handle stressors more effectively. 
-So by practicing self-care we can build a resilience to those stressors in life that you can’t eliminate.
+So by practicing self-care we can build a resilience to the unavoidable stressors of life.
 
 This concept of self-care may appear to be simplistic in theory but it is so commonly overlooked or neglected especially by community managers. 
 We explore some of those reasons and deconstruct them.
@@ -186,10 +186,10 @@ What exactly is burnout? The WHO (World Health Organization) definition of burno
 
 > “Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. ”.footnote:[World Health Organization, https://www.who.int/mental_health/evidence/burn-out/en/[website]]
 
-Burnout can affect us all and in any occupation, however it seems more prevalent in roles that are mentally and emotionally draining for extended periods of time. 
-This is common due to the prevailing norms within those roles of being selfless and putting others first: going the extra mile to maintain a happy and content environment or atmosphere either for the client or within a community. 
+Burnout can affect us all and in any occupation, however it seems more prevalent in roles that are mentally and emotionally draining for extended periods of time.
+This is common due to the prevailing norms within those roles of being selfless and putting others first.footnote:[Herbert J. Freudenberger, https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x[Staff Burn-Out]]: going the extra mile to maintain a happy and content environment or atmosphere either for the client or within a community. 
 
-It is also appearing more and more within the tech industry. 
+It is also appearing more and more within the tech industry.footnote:[Team Blind, https://www.teamblind.com/blog/index.php/2018/05/29/close-to-60-percent-of-surveyed-tech-workers-are-burnt-out-credit-karma-tops-the-list-for-most-employees-suffering-from-burnout/[Close to 60 Percent of Surveyed Tech Workers Are Burnt Out...]] 
 This increase has been attributed to the seemly accepted 24/7 work mentality and competitiveness of the industry, leading to workers involved in technology, particularly software development, to becoming overwhelmed and mentally exhausted to the point of risking their health.
 
 We should highlight that work related stress and burnout are very different, and in cases some amount of stress can provide a source of motivation but only if it is manageable and for a temporary period of time. 
@@ -208,7 +208,7 @@ It’s not always easy to see the signs since not only do they gradually occur o
 
 *Exhaustion*
 
-Loss of energy and accompanying feelings of weariness are usually the first distress signals especially when, being a community manager, we naturally have high energy levels.
+Loss of energy and accompanying feelings of weariness are usually the first distress signals especially when, being a community manager, we naturally have high energy levels.footnote:[Maslach, C., & Leiter, M. P. (2008), https://doi.apa.org/doi/10.1037/0021-9010.93.3.498[Early predictors of job burnout and engagement. Journal of Applied Psychology, 93(3), 498–512]]
 However, be careful not to push yourself harder if you do find yourself struggling to keep up with your usual round of activities. 
 Doing so will only exacerbate the problem.
 
@@ -257,9 +257,9 @@ We can then begin to feel like we’re being less appreciated from others in the
 “Can’t they see all the hard work I’m doing, staying late at night?” 
 This feeling can lead to being bitter and angry.
 
-*Paranoia*
+*Paranoia*.footnote:[ R Bianchi, L Janin https://academic.oup.com/occmed/article/69/1/35/5151234[Burnout, depression and paranoid ideation: a cluster-analytic study]]
 
-Leading from the signs of feeling unappreciated to feeling as though the world is against us. 
+Leading from the signs of feeling unappreciated to feeling as though the world is against us.
 When things go wrong, but we are unable to understand or see why, we tend to seek out a target, not ourselves, to blame regardless if there is little merit in the accusation. 
 Often the person labeled as the culprit becomes the target of our frustrations. 
 This can be team members, friends or even family.
@@ -278,32 +278,32 @@ Sometimes these illnesses mask the deeper more emotional stress that we feel but
 
 === Burnout cycle
 
-Freudenberger and his colleague Gail North.footnote:[Dr Herbert Freudenberger and Dr Gail North, "Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent It"] later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome. 
+Freudenberger and his colleague Gail North.footnote:[Dr Herbert Freudenberger and Dr Gail North, "Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent It"] later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome.footnote:[Freudenberger's 12 stages, https://www.burnoutgeese.com/freudenberger-burnout.html[Freudenberger's 12 stages]]. 
 Similar to the symptoms, sufferers may experience episodes in multiple phases, not in sequential order, and for any length of period of time.
 
-. *A compulsion to prove oneself*: having the obsession to try and prove to self and to others their worth; tends to affect those that are eager to excel within the organization and who accept responsibility readily.
+. *A compulsion to prove oneself*: desire to prove oneself, to have impact on one’s peers, initially seems beneficial until this desire turns into obsession.
 
-. *Working harder*: an inability to switch off.
+. *Intensity (Working Harder)*: compulsion becomes misconstrued as dedication and commitment. This can appear as an unwillingness to delegate work, for fear of losing perfect control, or working harder and longer.
 
-. *Neglecting their needs*: erratic sleeping, eating disrupted, lack of social interaction.
+. *Neglecting their needs*: work begins to dominate and subtler duties and pleasures are viewed as unnecessary like sleep, eating healthy, etc.
 
-. *Displacement of conflicts*: problems are dismissed; we may feel threatened, panicky, and jittery.
+. *Displacement of conflicts*: conflict from others are considered meddlesome and seen as a threat. Coping mechanisms are put into place to dismiss problems and these can manifest into physical breakdowns.
 
-. *Revision of Values*: values are skewed, friends and family dismissed, hobbies seen as irrelevant, work is only focus.
+. *Distortion of Values*: focus on work only, values are distorted as well as relationships. This leads to them being dismissed or abandoned. 
 
-. *Denial of Emerging Problems*: intolerance, perceiving collaborators as stupid, lazy, demanding, or undisciplined, social contacts harder; cynicism, aggression; problems are viewed as caused by time pressure and work, not because of life changes.
+. *Denial of Emerging Problems*: mechanisms to defend oneself against the impact of life and in turn their demands. Develop inability to tolerate ambiguity and become non-receptive; projecting the anxieties and insecurities externally. 
 
-. *Withdrawal*; social life small or non-existent, need to feel relief from stress, alcohol/drugs.
+. *Withdrawal*: Become detached from our emotions and from other people. Often “escaping” through television, books or other means like alcohol/drugs.
 
-. *Odd Behavioral Changes*: changes in behavior obvious; friends and family concerned.
+. *Odd Behavioral Changes*: friends and family identify increasingly obvious changes in behavior like attitude, language or physical activities.
 
-. *Depersonalization*: seeing neither self nor others as valuable, and no longer perceive own needs.
+. *Depersonalization*: viewing the needs of one self and others are now significantly undervalued and dismissed.
 
-. *Inner Emptiness*: feeling empty inside and to overcome this, look for activity such as overeating, sex, alcohol, or drugs; activities are often exaggerated.
+. *Inner Emptiness*: feelings of hollowness and uselessness. There is a desire to replenish but are usually quick wins, or false cures and ultimately unfulfilling.
 
-. *Depression*: feeling lost and unsure, exhausted, future feels bleak and dark.
+. *Depression*: feeling of being hopeless and joyless. Despair and exhaustion are primary feelings and the overwhelming desire to escape.
 
-. *Burnout Syndrome*: can include total mental and physical collapse; time for full medical attention.
+. *Burnout Syndrome*: suicidal thoughts, physical and mental collapse leading to life threatening situations. Immediate professional medical help is imperative.
 
 These distinctions help us to identify the deterioration in either our own, our team’s or community member’s activities and their attitudes towards themselves and others. 
 
@@ -313,7 +313,7 @@ It’s important to be self-critical and pierce our disillusion that everything 
 
 We’ve identify the devastating affects of burnout now lets explore the possible sources to these symptoms within our role or even within the community. 
 
-We earlier described that burnout is a combination of many factors but a recurring element is the realization, subconsciously or not, that we don’t feel our work is providing us the same sense of reward and purpose as it had once done before. 
+We earlier described that burnout is a combination of many factors but a recurring element is the realization, subconsciously or not, that we don’t feel our work is providing us the same sense of reward and purpose as it had once done before.footnote:[Adeva https://adevait.com/blog/workplace/burnout-tech-industry#2-what-causes-employee-burnout-in-the-tech-industry[What causes employee burnout in the tech industry]]
 Rewards doesn’t always equate to money or status but can simply be the deeper satisfaction and pleasure in the adhering to one’s values and achieving happiness.
 
 *Lack of Control*
@@ -349,7 +349,7 @@ This can be seen as self-betrayal to your morals and build up resentment towards
 
 *Work Overload*
 
-Probably the most common experience attributing to burnout is the over burdening of one’s workload, whether from our own doing or by someone else.
+Probably the most common experience attributing to burnout is the over burdening of one’s workload.footnote:[The American Institute of Stress: Survey, https://www.stress.org/workplace-stress[The AIS Workplace Stress Survey]], whether from our own doing or by someone else.
 This can occur when the quantity of work and expectations exceeds the amount of time or resources available. 
 We often find that most other employees expect work attributed to yourself is “urgent” when in fact they aren’t. 
 It’s important to maintain boundaries and stand your ground to combat an ever increasing list of things to do.
@@ -360,7 +360,7 @@ It goes without saying that community is extremely important; its fuels the purp
 
 === Preventing/Treating Burnout
 
-If you feel yourself or anyone else succumbing to burnout then the most direct approach is to take a break from the source of the stress, which is more often work, and reflect on the more acute causes of your burnout. 
+If you feel yourself or anyone else succumbing to burnout then the most direct approach is to take a break from the source of the stress, which is more often work, and reflect on the more acute causes of your burnout.footnote:[Pyschology Today, https://www.psychologytoday.com/us/blog/high-octane-women/201109/when-life-loses-its-meaning-the-heavy-price-high-achievement[When Life Loses Its Meaning: The Heavy Price of High Achievement]] 
 
 *1. Use your holiday time*
 
@@ -397,8 +397,7 @@ If all the other options have little or no affect on your physical or mental wel
 
 == Work Life Balance
 
-A healthy work life balance is about separating our personal and work lives without allowing one to encroach upon the other. 
-Both are important, neither should be neglected. 
+A healthy work life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally inportant and neither should be undervalued.
 We can find ourselves in unhealthy mindsets when forced to be stuck in either one extreme or the other withholding an important sense of purpose and enjoyment from that part of our lives.
 
 It has also become more difficult in this day and age to detach ourselves physically from our work life. 
@@ -589,11 +588,11 @@ Not only will we be able to record multiple successes but also help acknowledge 
 We understand the power of a community, the ability to bring people together and with the right direction, and a whole lot of love, we can move mountains. 
 So why do we feel we can’t have the same mentality to helping ourselves?
 
-Having a strong social support network is essential to help us through the stress of tough times, whether it could be just a bad day at work, or more chronic episodes of illness.
-Without a social support network it can feel lonely and isolating which can lead into further depression and anxiety. 
+During stress of tough times, whether its just a bad day, or more chronic episodes of illness, research has shown that having a strong, though not required to be large, social spport network is benefitial to our well being.footnote:[American Pyschological Association, https://www.apa.org/topics/manage-stress-social-support[Manage stress: Strengthen your support network]]
+Without a social support network it can feel lonely and isolating which can lead into further depression and anxiety.footnote:[Siv Grav, Ove Hellzèn, Ulla Romild, Eystein Stordal, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2011.03868.x[Association between social support and depression in the general population: the HUNT study, a cross‐sectional survey]] 
 Often it’s our social support network, even if we don’t think we have one, that first spots there is a change with our behavior before we do.
 
-A social support network is made up of friends, family and peers. 
+A social support network is made up of friends, family and peers.footnote:[Mayo Clinic, https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/social-support/art-20044445[Social support: Tap this tool to beat stress]]
 Although this is different from a support group, which is more formal and often prescribed, a social support network is something we can develop as part of our community and team structure to help tackle stress, and promote self-care.
 
 Look towards those around you that you have a good relationship with and feel that you can confide in them. 
@@ -603,16 +602,38 @@ This unburdening of tension helps untangle your emotions, seek clarity on an asp
 We may find that those within the community, which we spend most of our time with, grow to be included in our social support network and that each individual provides us with a unique form of support to help in different ways in our lives. 
 But also remember that we should also serve as a form of support to others.
 
-The more education and communicating with our members about the benefits of self-care, the more likely we will see It being practiced and encouraged by others. 
+The more education and communicating with our members about the benefits of self-care, the more likely we will see it being practiced and encouraged by others. 
 This in turns helps create a more caring and accepting atmosphere in the community.
-Education can be in the form of discussions promoting self-care, celebrating mental health campaigns, adding to the community guidelines when on-boarding team members to speak to the team if their workload, or other aspects is affecting their health, or organizing training for team members on mental health awareness. 
+Education can be in the form of discussions promoting self-care, celebrating mental health campaigns.footnote:[Mental Health Foundation https://www.mentalhealth.org.uk/campaigns/mental-health-awareness-week[Mental Health Awareness Week]], adding to the community guidelines when on-boarding team members to speak to the team if their workload, or other aspects is affecting their health.footnote:[Ubuntu https://wiki.ubuntu.com/BuildingCommunity/Burnout/[Ubuntu Burnout]]footnote:[Ubuntu Burnout Help, https://wiki.ubuntu.com/BuildingCommunity/Burnout/Help[Ubuntu Burnout Help]], or organizing training for team members on mental health awareness. 
 
-If you see a member on the team or community showing symptoms of burnout then reach out to them and let them know that you are concerned for their well being. 
-Identify that you are there to support them and more often they will respond positively and work together to elevate their stress.
+If you see a member on the team or community showing symptoms of burnout then reach out to them and let them know that you are concerned for their well being.
+Identify that you are there to support them and more often they will respond positively and work together to elevate their stress.footnote:[Jono Bacon, _Detecting and Treating Burnout_, "The Art of Community"]
 
 However, it is important to make clear here that if we feel that we are unable to assist a community member’s emotional stress beyond our role’s capacity, then encourage that they seek professional health advice immediately. 
-We may find ourselves feeling guilty we are unable to provide support, but we need to remind ourselves that we are not professional trained and thus could provide, though well intended, ill advice. 
+We may find ourselves feeling guilty we are unable to provide support, but we need to remind ourselves that we are not professional trained and thus could provide, though well intended, ill advice.footnote:[Chartered Management Institute https://www.managers.org.uk/insights/news/2019/september/how-to-talk-about-depression-at-work[How to Talk About Depression at Work]] 
 Remember that other emotions affect those around them including how member’s stress can affect ours.
 
 Similarly in our own direct reports’ one-to-ones ensure you also have regular one-to-ones with your line manager to highlight any problems you have achieving your workload or affecting your well being. 
 Be as direct as you are with helping others, that you are with yourself.
+
+## Resources
+
+* *High-Octane Women: How Superachievers Can Avoid Burnout*
++
+by _Sherrie Bourg Carter Psy.D_
+* https://www.theburnoutproject.com.au/product/burnoutbookpaperback/[Burnout, Your first ten steps]
++
+by _Amy Imms M.D_
+* *Burn-out : The High Cost of High Achievement*
++
+by _Dr Herbert Freudenberger and Geraldine Richelson_
+* *Women’s Burnout: How to Spot It, How to Reverse It, and How to Prevent It*
++
+by _Dr Herbert Freudenberger and Dr Gail North_
+* *The Secret Thoughts of Successful Women*
++
+by _Dr Valerie Young_
+* *The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention.*
++
+by _Dr Pauline Clance and Dr Suzanne Imes_
+
