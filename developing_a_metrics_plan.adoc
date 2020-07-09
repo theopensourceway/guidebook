@@ -42,10 +42,10 @@ Another good example is the https://contributors.rubyonrails.org/contributors[Ru
 Metrics are certainly important, but there are definitely shortcomings that we want to be aware of. 
 
 . People often measure the most easily measurable in their metrics: This is human nature as we all want to do what's easier. However, you run the risk of neglecting  important aspects of the community if you only focus on easily mesurable metrics in your community. For example, it's often easier to focus on inputs (e.g. number of commits/merge requests/pull requests) compared to outputs (e.g. the impact of a commit/merge request/pull request). I'm sure we will all agree that ignoring outputs from the community will provide an incomplete picture of the community. 
-. Over-reliance on metrics will provide incomplete insight: No set of metrics will provide a full picture of communities (or any other organizations for that matter). Although it is important to have a standardized set of metrics so that you can gauge your community's progress over time, there will always be things that are extremely difficult to measure or quantify. For example, we want contributors to feel a strong sense of belonging in the community and enjoy collaborating with other community members.  Whether this is happening or not would be difficult to quantify, but you still want to have a good sense of this even if it requires other  means besides metrics collections. 
+. Over-reliance on metrics will provide incomplete insight: No set of metrics will provide a full picture of communities (or any organizations for that matter). Although it is important to have a standardized set of metrics so that you can gauge your community's progress over time, there will always be things that are extremely difficult to measure or quantify. For example, we want contributors to feel a strong sense of belonging in the community and enjoy collaborating with other community members.  Whether this is happening or not would be difficult to quantify, but you still want to have a good sense of this even if it requires other  means besides metrics collections. 
 . Ignoring intrnsic motivation: People often join (especially volunteer) organizations because they are intrincically motivated such as belief in group's mission or a sense of belonging with other members. If there is too much emphasis on people's contribution (or input) in metrics, you run the risk of losing sight of why people joined the organization in the first place. Most contributors in open source communities are volunteers who contribute in their own time, so ignoring their intrinscic motivation can lead to negative consequences in the community. 
 
-Following are examples of poor uses of metrics in open source communities. 
+Following are some examples of poor uses of metrics in open source communities. 
 
 . Gaming contribution metrics: This usually happens when metrics are used as a main (or even a sole) basis for recognition in the community. Not suprisingly you will see behaviors like people submitting multiple commits/merge requests/pull requests for trvial changes when they could have accomplished the same thing with a single commit/merge request/pull request. 
 . Vanity metrics: You also see vanity metrics outside of open source. A good example is placing too much emphasis on things like the number of social media followers. As it is in social media, quantity isn't everything. Also, if you want to ensure that community members' intrinsic motivation is satisfied in the community vanity metrics is definitely not a good way to go. 
@@ -55,8 +55,23 @@ Following are examples of poor uses of metrics in open source communities.
 
 == Metrics dos and don'ts 
 
-=== Dos: Make metric public; use metrics for spotting outliers; Metrics should be used for gaining further insight into community health.
-=== Dont's: Using metrics as a sole basis for rewards; presenting metrics without proper context; ignoring non-metrics. 
+Finally, here are some dos and don'ts for open source community metrics. 
+
+=== Dos: 
+
+==== Make metrics public: This maybe stating the obvious, but transparency in open source should also extend to metrics. When you develop metrics, it helps to include a diverse group of people in the process so that metrics are inclusive and consider all contributions and not just code. If any adjustments need to be made for your community metrics, it's likely that you will first get that feedback/suggestion from community members. 
+
+==== Use metrics for spotting outliers: Metrics are particularly useful for highlighting areas that aren't doing well. Good examples for this is for things related to throughput such as time it takes for close issues, forum posts to be answered, code review, etc. In these examples, metrics are a great tool that can help identify potential bottlenecks in the community. 
+
+==== Use metrics as a starting point for gaining further insight into community health: Metrics may tell you _what_ is happening in your community, but you typically will not know the _why_ just by looking at the numbers. If the metrics shows that the number of first time contributors are declining, you will probably need to have some hallway or phone conversations in order to identify the causes of the decline. Metrics will highlight the symptoms as a starting point, but people will then have to do the work from there. 
+
+=== Dont's: 
+
+==== Using metrics as a sole basis for rewards: We already discussed gaming of contribution metrics previously if you only rely on metrics for rewards in the community. In addition, if people percieve that rewards are mostly based on the volume of work (or input) you run the risk of discouraging people who aren't able to devote as much time to the project or even people who are getting started in the community. Community members are not joining open source communities just to do more work and we do not want to lose sight of their intrinsic motivation. 
+
+==== Presenting metrics without proper context: Even when you get asked what sounds like a straightforward question like "how many contributors do you have in your community?", it is always helpful to get some context behind the question. Depending on who is asking the question, they're usually asking for something slightly different. For example, the total number of contributors in project's history maybe appropriate in one context, but in another the growth of contributors over a time period maybe what the questioner is really after. Also what do thet mean by contributors? Do they want to include people contributing to internationalization, issue triage, etc.? So before we point people to a set of metrics, it is helpful to understant the context or even motivation behind their question. 
+
+==== Ignoring non-metrics: As discussed previously, not everything is easily measurable or quantifiable. Even if we have a well defined and polished metrics dashboard, it should not stop us from continuing to have human conversation with community members to keep a pulse on what is happening in the community and encourage community members to point us to what we are not able to see in our metrics. 
 
 
 == Parting thoughts, resources, etc. 
