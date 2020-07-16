@@ -4,7 +4,7 @@ Updated: 2020-07-09
 
 == Disclaimer
 
-The content within this chapter is for informational purposes only and not for the purpose of providing medial advice.
+The content within this chapter is for informational purposes only and not for the purpose of providing medical advice.
 It is not intended to be a substitute for professional medical advice, diagnosis or treatment.
 Always seek the advice of your physician or other qualified health care provider with any questions or concerns you may have regarding your health both mental and physical.
 
@@ -43,7 +43,7 @@ We explore some of those reasons and deconstruct them.
 === Leaders around the clock
 
 In our role we are often seen as the leaders of the community, the person that everyone can turn to, an inspiration for others to emulate. 
-This can be a very high and daunting pedestal to be placed upon demanding a lot of our emotional intelligence and mental effort to deliver not only a growing, but productive, community.
+This can be a very high and daunting pedestal to be placed upon demanding a lot of our emotional intelligence and mental effort to deliver not only a growing, but productive, community.footnote:[The Community Roundtable, https://communityroundtable.com/state-of-community-management/burn-out-risk-is-high-for-online-community-managers/[2019 State of Community Management Survey]]
 
 
 When the going gets tough it’s often our responsibility, and desire, to pull the community through those times. 
@@ -54,8 +54,8 @@ We first need to look after ourselves to sustainably look after others.
 
 One of the first tasks is to be aware of how our overall health and emotional state can impact our community.
 
-Emotions are highly contagious, both positive and negative. 
-Our emotional expressions has the power to unconsciously influence people around us with them often automatically mimicking our own. 
+Emotions are highly contagious, both positive and negative.footnote:[Sherrie Bourg Carter Psy.D, https://www.psychologytoday.com/us/blog/high-octane-women/201210/emotions-are-contagious-choose-your-company-wisely[Emotions Are Contagious - Choose Your Company Wisely]]
+Our emotional expressions have the power to unconsciously influence people around us with them often automatically mimicking our own.footnote:[Principles of Social Psychology, https://opentextbc.ca/socialpsychology/chapter/the-role-of-affect-moods-and-emotions/[The Role of Affect: Moods and Emotions ]] 
 If we are in a state of anxiety or stress others will sense this and add to it their own negative energy. 
 We see this when dealing with particularly toxic community members infecting others, but fail to identify that we ourselves can unconsciously unduly influence others as well.
 Similarly if we are in a genuine pleasant mood people tend to be driven by that positive mood and become more productive.
@@ -397,7 +397,7 @@ If all the other options have little or no affect on your physical or mental wel
 
 == Work Life Balance
 
-A healthy work life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally inportant and neither should be undervalued.
+A healthy work life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally important and neither should be undervalued.
 We can find ourselves in unhealthy mindsets when forced to be stuck in either one extreme or the other withholding an important sense of purpose and enjoyment from that part of our lives.
 
 It has also become more difficult in this day and age to detach ourselves physically from our work life. 
@@ -405,7 +405,7 @@ Technology has provided us such a convenience that we are in almost constant con
 It is a common place to check emails at all hours, or respond to members of communities on our social media network.
 
 As well as this physical difficulty we may also have the emotional difficulty of switching off from work as well. 
-We can feel that its a requirement of our role to be available 24/7 and be responsive as a reflection of a caring and active community. 
+We can feel that it's a requirement of our role to be available 24/7 and be responsive as a reflection of a caring and active community. 
 This is often not the case and that in fact is counter productive in building a sustainable community and providing quality interactions with our members. 
 Leaders don’t need to respond to all messages to be great.
 
@@ -424,7 +424,7 @@ Work addiction, like others addiction, there is a great difficulty with acknowle
 People suffering from work addiction are often in denial, convincing themselves that work is a pleasure. 
 However, eventually this over compensation of effort and time, neglect of personal relationships and well being, leads to the inevitable experience of burnout.
 
-Its important we develop a healthy relationship with our role itself without feeling the need to be on the pedal at full gas. 
+It's important we develop a healthy relationship with our role itself without feeling the need to be on the pedal at full gas. 
 Try and assess what truly drives your motivations to achieve and does this require you to be online the amount of time you are. 
 Do you find that you feed off external praise as form of validation of your work? 
 Do feel that if you walked away from the community it would fall apart? 
@@ -512,7 +512,7 @@ But first we need to know what our values are, what qualities we you enjoy of th
 
 Take some time to truly answer these as gaining this self-awareness does not happen over night.
 Use them to help you reflect on how you feel when you do the things you do, both positively and negatively. 
-Journaling is a often a good, yet simple, practice you can do to clarify your thoughts.
+Journaling is often a good, yet simple, practice you can do to clarify your thoughts.
 
 Practicing self-reflection can be difficult to begin with due to previously discussed inner restrictions we place upon ourselves as community leaders: the need of being invincible; distorted perception of our worth; and lack of visible support. 
 However creating a routine of introspection and self-reflection as part of our self-care we will begin to exercise more control over our emotions: have inner clarity on our long term goals, and ability to identify more solutions-focused activities rather than the previously emotionally driven ones.
@@ -588,7 +588,7 @@ Not only will we be able to record multiple successes but also help acknowledge 
 We understand the power of a community, the ability to bring people together and with the right direction, and a whole lot of love, we can move mountains. 
 So why do we feel we can’t have the same mentality to helping ourselves?
 
-During stress of tough times, whether its just a bad day, or more chronic episodes of illness, research has shown that having a strong, though not required to be large, social spport network is benefitial to our well being.footnote:[American Pyschological Association, https://www.apa.org/topics/manage-stress-social-support[Manage stress: Strengthen your support network]]
+During stress of tough times, whether its just a bad day, or more chronic episodes of illness, research has shown that having a strong, though not required to be large, social support network is beneficial to our well being.footnote:[American Pyschological Association, https://www.apa.org/topics/manage-stress-social-support[Manage stress: Strengthen your support network]]
 Without a social support network it can feel lonely and isolating which can lead into further depression and anxiety.footnote:[Siv Grav, Ove Hellzèn, Ulla Romild, Eystein Stordal, https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2011.03868.x[Association between social support and depression in the general population: the HUNT study, a cross‐sectional survey]] 
 Often it’s our social support network, even if we don’t think we have one, that first spots there is a change with our behavior before we do.
 
