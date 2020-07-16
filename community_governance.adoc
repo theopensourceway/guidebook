@@ -312,7 +312,7 @@ Well- governed open source communities will make clear, also often on their proj
 As you establish a reputation for making useful contributions to the project, you may eventually decide to be a candidate for a project leadership position.
 Be sure to interact productively and collaborate effectively with other contributors as they may be voting you into a leadership position some day.
 
-=== Corporate-backed
+=== Single-vendor
 
 Occasionally, individual companies or industry consortia may choose to distribute software under the terms of an open source license as a way of reaching potential developers and users—even if they do not accept project contributions from those audiences.
 They might do this to accelerate adoption of their work, spur development activity atop a software platform, support a plugin ecosystem, or avoid the overhead required for cultivating an external developer community.
@@ -329,7 +329,7 @@ Given the project's particular licensing stipulations, you may find yourself wor
 
 === Foundation-backed
 
-To exert greater control over resources and project code, some non-corporate-backed open source projects choose to be managed by an incorporated NGO (non-government organization), such as a charitable nonprofit or trade association.
+To exert greater control over resources and project code, some open source projects choose to be managed by an incorporated NGO (non-government organization), such as a charitable nonprofit or trade association.
 Doing this allows the "project," as an abstract entity, to take ownership of resources like servers, trademarks, patents, and insurance policies.
 
 In some cases, foundation leadership and project leadership can form a single governance structure that manages all aspects of the open source project.
