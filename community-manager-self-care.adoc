@@ -11,19 +11,19 @@ Always seek the advice of your physician or other qualified health care provider
 == Introduction
 
 Because of their roles (but also, perhaps, because of their natures), community managers often focus (even fixate) on the health and well-being of their community members and teams.
-They understand the challenges and difficulties associated with encouraging stable, safe, and inclusive online communities, places where people demonstrate compassion and empathy. But too often, they mistakenly assume they're immune to the same emotionally difficult challenges they strive to help other community members overcome.
+They understand the challenges and difficulties associated with encouraging stable, safe, and inclusive online communities, places where people demonstrate compassion and empathy.
+But too often, they mistakenly assume they're immune to the same emotionally difficult challenges they strive to help other community members overcome.
 
 What's more, they may even try to _hide_ their vulnerabilities, for fear of being perceived as less capable of performing their roles—or, worse, being rejected by their communities or peer groups group completely.
 This perspective on vulnerability can lead community managers down an isolating road, one that might make them feel as though they aren'table to reach out to seek help when they need it.
 
-And yet, the longer we don't attend to our well being, prolonging treatment for our increasingly negative symptoms, the larger the problem—until, eventually, we are mentally and physically debilitated, suffocated, and denied of the fulfillment and joy our role once provided us. Regaining that joy could take months, even years.
+And yet, the longer we don't attend to our well being, prolonging treatment for our increasingly negative symptoms, the larger the problem—until, eventually, we are mentally and physically debilitated, suffocated, and denied of the fulfillment and joy our role once provided us.
+Regaining that joy could take months, even years.
 In fact, we may never regain that same level of passion for them again.
 
 To help ourselves as community managers, and in turn help others, we need to learn how to spot the signs of dissatistfaction, disillusionment, and burnout.
-These signs can be subtle and hard to detect, but by identifying and acknowledging these changes in behavior (first and foremost in yourself), you begin applying similar awareness to others in your communities. 
+These signs can be subtle and hard to detect, but by identifying and acknowledging these changes in behavior (first and foremost in yourself), you begin applying similar awareness to others in your communities.
 This experience can provide insight to developing and building up social norms and mechanisms for the community to help reduce the occurrence and impact of burnout thus promoting a physically and mentally healthy, more productive community.
-
-**Feel like what comes next should be a preview, or small chapter overview?—BB**
 
 _In this chapter, we'll ..._
 
@@ -31,102 +31,102 @@ _In this chapter, we'll ..._
 
 What exactly is self-care?
 
-The WHO (World Health Organization) definition of self-care is:
+The WHO (World Health Organization) defines self-care as:
 
-> "Self-care is the ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a healthcare provider".footnote:[World Health Organization, https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions[website]]
+____
+"Self-care is the ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a healthcare provider".footnote:[World Health Organization, https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions[website]]
+____
 
-This, in a nutshell, is us making a conscious and mindful effort to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
+In a nutshell, then, self-care is the practice of making conscious, mindful efforts to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
+Most of us already practice self-care daily by taking actions to protect our overall health (for example, eating healthily, exercising, and getting enough sleep).
+Sometimes, however, we may find acts like these alone are insufficient for maintaining our well-being—and that a conscious effort at finding additional support is required.
 
-Most of us already practice self-care daily by ensuring that we are functional and taking actions to protect our overall health, for example eating healthy, exercising and getting enough sleep. 
-However sometimes we can find that these acts are not sufficient to solely maintain our well being and thus a conscious effort and additional support is required.
+We can usually handle stress more effectively when we're in a happy state in mind.
+So by practicing self-care, we can build a resilience to life's unavoidable stressors.
 
-When we are in a happy state in mind we can usually handle stressors more effectively. 
-So by practicing self-care we can build a resilience to the unavoidable stressors of life.
-
-This concept of self-care may appear to be simplistic in theory but it is so commonly overlooked or neglected especially by community managers. 
-We explore some of those reasons and deconstruct them.
+This concept of self-care may appear simplistic in theory, but it is so commonly overlooked or neglected—especially by community managers.
+Let's explore (and deconstruct) some reasons why.
 
 === Leaders around the clock
 
-In our role we are often seen as the leaders of the community, the person that everyone can turn to, an inspiration for others to emulate. 
-This can be a very high and daunting pedestal to be placed upon demanding a lot of our emotional intelligence and mental effort to deliver not only a growing, but productive, community.footnote:[The Community Roundtable, https://communityroundtable.com/state-of-community-management/burn-out-risk-is-high-for-online-community-managers/[2019 State of Community Management Survey]]
+Community managers are often seen as leaders, the people everyone can turn to, an inspiration for others to emulate.
+This seemingly high pedestal can be daunting, demanding a good deal of emotional intelligence and mental effort to deliver not only a growing, but productive, community.footnote:[The Community Roundtable, https://communityroundtable.com/state-of-community-management/burn-out-risk-is-high-for-online-community-managers/[2019 State of Community Management Survey]]
 
-
-When the going gets tough it's often our responsibility, and desire, to pull the community through those times. 
+When the going gets tough it's often our responsibility, and desire, to pull the community through those times.
 But in order to do this we need ourselves to be in top condition to face whatever is thrown at us, which evidentially there always is when interacting with diverse personalities, resolving conflicts, making tough decisions, and all the while working towards future long term objectives.
 
-Leaders need to be in a happy place to be effective and that is why self-care is so important. 
-We first need to look after ourselves to sustainably look after others. 
+Leaders need to be in a happy place to be effective and that is why self-care is so important.
+We first need to look after ourselves to sustainably look after others.
 
 One of the first tasks is to be aware of how our overall health and emotional state can impact our community.
 
-Emotions are highly contagious, both positive and negative.footnote:[Sherrie Bourg Carter Psy.D, https://www.psychologytoday.com/us/blog/high-octane-women/201210/emotions-are-contagious-choose-your-company-wisely[Emotions Are Contagious - Choose Your Company Wisely]]
+Emotions (both positive and negative) are highly contagious.footnote:[Sherrie Bourg Carter Psy.D, https://www.psychologytoday.com/us/blog/high-octane-women/201210/emotions-are-contagious-choose-your-company-wisely[Emotions Are Contagious - Choose Your Company Wisely]]
 Our emotional expressions have the power to unconsciously influence people around us with them often automatically mimicking our own.footnote:[Principles of Social Psychology, https://opentextbc.ca/socialpsychology/chapter/the-role-of-affect-moods-and-emotions/[The Role of Affect: Moods and Emotions ]] 
-If we are in a state of anxiety or stress others will sense this and add to it their own negative energy. 
+If we are in a state of anxiety or stress others will sense this and add to it their own negative energy.
 We see this when dealing with particularly toxic community members infecting others, but fail to identify that we ourselves can unconsciously unduly influence others as well.
 Similarly if we are in a genuine pleasant mood people tend to be driven by that positive mood and become more productive.
 
 In order to bring out the best in others we must bring our best to the table.
 
-As leaders we have the ability to wield immense power to make positive changes in our community along with the support of our followers. 
+As leaders we have the ability to wield immense power to make positive changes in our community along with the support of our followers.
 Let's use this power.
 Take the opportunity to utilize your influence to encourage and promote self-care for the benefit of not only your community members but also for yourself.
 
+Educate yourself on what self-care looks like to you and communicate that with your team.
+We don't need to share our intimate fears or anxieties, but it is important to start the conversation on how self-care can be beneficial not only to the team running the community, but for the overall healthy of the community.
 
-Educate yourself on what self-care looks like to you and communicate that with your team. We don't need to share our intimate fears or anxieties, but it is important to start the conversation on how self-care can be beneficial not only to the team running the community, but for the overall healthy of the community.
-
-Recognize and implement regular dedicated time in your and the team's workload to practice self-care. 
+Recognize and implement regular dedicated time in your and the team's workload to practice self-care.
 Set realistic expectations on deliverables and communicate frequently within the team potential triggers of stress or strain that may require more downtime to focus on one's physical and mental health.
 
 By taking steps towards actively promoting and advocating for self-care you not only prompt members to follow suit led by example, but it also helps remove the stigma of leaders being invulnerable by revealing a more human side to you.
 
 === Being Human
-We can often find ourselves being controlled by our own, or by other's, generalization of what a community manager should be: driven, friendly, successful, super human, or perfect even. 
 
-However, the list of what a leader should be is long, contradicting and often fundamentally flawed. 
-A leader can be many things to many people but the most important aspect is that they are human: flaws and all. 
+We can often find ourselves being controlled by our own, or by other's, generalization of what a community manager should be: driven, friendly, successful, super human, or perfect even.
+
+However, the list of what a leader should be is long, contradicting and often fundamentally flawed.
+A leader can be many things to many people but the most important aspect is that they are human: flaws and all.
 
 We tend to over compensate, trying to live up to the wrongly perceived image of a leader, by suppressing or hiding our negative emotions in fear of being seen as too emotional or worse, being out of control.
 
-
 There is a difference of being in control, under control and being controlled.
 
-Believing that being in control is a reflection of our confidence in what we produce, is inaccurate. 
+Believing that being in control is a reflection of our confidence in what we produce, is inaccurate.
 It actually demonstrates that we are reluctant to show others that we are not perfect and struggle to accept anything less.
 
 Although maintaining this front can help shield us temporarily from others' emotions and criticisms towards us, it doesn't protect ourselves from our own self-destruction caused by bottling them up.
 
-Consequences of suppressing your emotions is that they will inevitably surface and dramatically so. 
+Consequences of suppressing your emotions is that they will inevitably surface and dramatically so.
 This is when our emotions control us and our actions, which often leads to rumination, break down of relationships with the team or community and other negative outcomes including burnout.
 
-The ultimate aim is to be "under control" in your leadership, emotions and workload. 
+The ultimate aim is to be "under control" in your leadership, emotions and workload.
 Our passion and attention is directed in a constructive and purposeful manner, this being especially important after when a mistake is made.
 
-The term "bring your whole self to work" is a good expression of allowing yourself this forgiveness. 
-We feel we can admit when we don't know something, the right decision or simply acknowledging when we've made a mistake. 
-But it also can be applied to recognizing and accepting that we can have good and bad days. 
+The phrase "bring your whole self to work" is a good expression of allowing yourself this forgiveness.
+We feel we can admit when we don't know something, the right decision or simply acknowledging when we've made a mistake.
+But it also can be applied to recognizing and accepting that we can have good and bad days.
 
-Being honest with ourselves is as important as being honest with the community. 
+Being honest with ourselves is as important as being honest with the community.
 Needing to admit that we may not be at our best and detracting yourself from unintentionally escalating  difficult situations into becoming worse situations would be the best choice to make at those times for the community.
 
-This emotional labor can be extremely exhausting to maintain. 
-We must acknowledge and accept that being perfect is unattainable, and more importantly, not required to be the best leader. 
+This emotional labor can be extremely exhausting to maintain.
+We must acknowledge and accept that being perfect is unattainable, and more importantly, not required to be the best leader.
 What is important is that people can relate to your human side.
 
-People gravitate to those that they share a kinship with and being able to identify this is one of the characteristics of a good community manager. 
-If your members see that you have qualities that they can relate to, it helps them to more easily empathize with you. 
+People gravitate to those that they share a kinship with and being able to identify this is one of the characteristics of a good community manager.
+If your members see that you have qualities that they can relate to, it helps them to more easily empathize with you.
 Funnily, we usually try to highlight the significance of our empathy for our members or team, but it's equally important that our members demonstrate compassion, and gratitude to us too.
 
-Nurturing this empathy, from both sides, will help to develop deeper connections and trust between members and team, which in turn can help establish an informal social support network. 
+Nurturing this empathy, from both sides, will help to develop deeper connections and trust between members and team, which in turn can help establish an informal social support network.
 This network can be a conduit to promoting the importance of self-care, creating judgment free zone or providing safe havens to individual members, including yourself, to reflect on emotions, frustrations or workload.
 
 It is inevitable that some members will expect you to adhere to the pretense of being the all powerful, infallible captain of the ship, but with an effective self-care routine and the backing of the members within the social support network you will be able to feel more confident in yourself to handle those stressors and that your vulnerabilities are what makes you a better leader to the community.
 
 == Types of Self-Care
 
-Self-care is unique to each person as well as depending on our moods and circumstances. To be effective it requires regular and conscious cultivating, so its important that self-care is not seen as only a reactive choice but a means to help break down stress from every day life.
+Self-care is unique to each person as well as depending on our moods and circumstances.To be effective it requires regular and conscious cultivating, so its important that self-care is not seen as only a reactive choice but a means to help break down stress from every day life.
 
-There are a number of different types of self-care that aim to satisfy our basic( as well as deeper) needs to promote a healthy and happy mind and body. These are: *physical*, *mental*, *spiritual*, *emotional*, and *social*.
+There are a number of different types of self-care that aim to satisfy our basic( as well as deeper) needs to promote a healthy and happy mind and body.These are: *physical*, *mental*, *spiritual*, *emotional*, and *social*.
 
 It is important to remember that we should be aiming to practice a selection of activities from all types to provide yourself a good balance to help you adapt to all types of stress.
 
@@ -169,7 +169,7 @@ A few examples of mental self-care:
 
 This type of self-care often gets wrongly associated with being solely religion but it can be applied to everyone whether you're religious, atheist, agnostic, or otherwise.
 
-Spiritual self-care are activities that nurtures the connection between you and your soul, providing you a deeper sense of meaning, or understanding of the universe. 
+Spiritual self-care are activities that nurtures the connection between you and your soul, providing you a deeper sense of meaning, or understanding of the universe.
 The word soul is merely a representation of the entity or uniqueness you feel embodies you, this can also be your inner spirit, energy source or another reference.
 
 A few examples of spiritual self-care:
@@ -193,23 +193,23 @@ What exactly is burnout? The WHO (World Health Organization) definition of burno
 > "Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed. ".footnote:[World Health Organization, https://www.who.int/mental_health/evidence/burn-out/en/[website]]
 
 Burnout can affect us all and in any occupation, however it seems more prevalent in roles that are mentally and emotionally draining for extended periods of time.
-This is common due to the prevailing norms within those roles of being selfless and putting others first.footnote:[Herbert J. Freudenberger, https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x[Staff Burn-Out]]: going the extra mile to maintain a happy and content environment or atmosphere either for the client or within a community. 
+This is common due to the prevailing norms within those roles of being selfless and putting others first.footnote:[Herbert J. Freudenberger, https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x[Staff Burn-Out]]: going the extra mile to maintain a happy and content environment or atmosphere either for the client or within a community.
 
 It is also appearing more and more within the tech industry.footnote:[Team Blind, https://www.teamblind.com/blog/index.php/2018/05/29/close-to-60-percent-of-surveyed-tech-workers-are-burnt-out-credit-karma-tops-the-list-for-most-employees-suffering-from-burnout/[Close to 60 Percent of Surveyed Tech Workers Are Burnt Out...]] 
 This increase has been attributed to the seemly accepted 24/7 work mentality and competitiveness of the industry, leading to workers involved in technology, particularly software development, to becoming overwhelmed and mentally exhausted to the point of risking their health.
 
-We should highlight that work related stress and burnout are very different, and in cases some amount of stress can provide a source of motivation but only if it is manageable and for a temporary period of time. 
+We should highlight that work related stress and burnout are very different, and in cases some amount of stress can provide a source of motivation but only if it is manageable and for a temporary period of time.
 When occupational stress is long occurring, seen as chronic, affecting the overall well being of ourselves, this can develop into the term of burnout.
 
 === Look out for symptoms
 
-Burnout is extremely hard to detect as not only is it subtle and progressive, but it is often misdiagnosed as the earlier, more temporary, common work related stress. 
+Burnout is extremely hard to detect as not only is it subtle and progressive, but it is often misdiagnosed as the earlier, more temporary, common work related stress.
 This is because the two are similar until it becomes too late and has developed into a much deeper and harder problem to treat.
 
 Psychologist Herbert Freudenberger has released multiple books and articles regarding his research of the possible causes, implications and affects of burnout since the 1970's.
 His work.footnote:[Dr Herbert Freudenberger and Geraldine Richelson, "Burn-out : The High Cost of High Achievement"] has helped to define the different symptoms and thus the phases of experiencing burnout.
 
-Perhaps you recognize several of them in yourself; perhaps you recognize only one or two. 
+Perhaps you recognize several of them in yourself; perhaps you recognize only one or two.
 It's not always easy to see the signs since not only do they gradually occur over time, but also hide behind our own denial of something being wrong.
 
 *Exhaustion*
@@ -218,8 +218,8 @@ Loss of energy and accompanying feelings of weariness are usually the first dist
 However, be careful not to push yourself harder if you do find yourself struggling to keep up with your usual round of activities. 
 Doing so will only exacerbate the problem.
 
-Similarly to our emotions, our energy also affects others around us. 
-We tend to fuel our energy by achieving our goals and reaping the rewards, thus sharing that with others. 
+Similarly to our emotions, our energy also affects others around us.
+We tend to fuel our energy by achieving our goals and reaping the rewards, thus sharing that with others.
 If we are unable to attain rewards due to the lack of energy levels then this feeds into a vicious cycle.
 
 The things that once excited us, like leaving a meeting fired up to accomplish an objective, have now become mundane and seen as excessive use of our already depleting energy.
@@ -227,21 +227,21 @@ You may not see the lack of accomplishments, like others do, because you see les
 
 *Detachment*
 
-We usually demonstrate a sense of detachment or apathy as a self-protective device to help ward off emotional stress or pain. 
-When we begin to feel let down by situations or those around us, whether that is the team, community, company or even ourselves, we are temped to down play their importance; "I don't care, it wasn't important anyway" and move away from the things that used to involve us. 
-By doing so we are depriving them the power to affect us negatively, however, this also blocks their ability to positively affect us. 
+We usually demonstrate a sense of detachment or apathy as a self-protective device to help ward off emotional stress or pain.
+When we begin to feel let down by situations or those around us, whether that is the team, community, company or even ourselves, we are temped to down play their importance; "I don't care, it wasn't important anyway" and move away from the things that used to involve us.
+By doing so we are depriving them the power to affect us negatively, however, this also blocks their ability to positively affect us.
 This can lead to loneliness and isolation.
  
 *Boredom and Cynicism*
 
-Once you've become more detached from the things that excited you, you find it increasingly hard to remain interested in what's going on around you. 
-You begin to question the value of your activities, your relationships, and perhaps the bigger aspects of your life. 
+Once you've become more detached from the things that excited you, you find it increasingly hard to remain interested in what's going on around you.
+You begin to question the value of your activities, your relationships, and perhaps the bigger aspects of your life.
 This can lead you to becoming skeptical or even suspicious of other people's motives and causes.
 
 *Impatience and heightened irritability*
 
 People who have high energy levels also usually have a characteristic of being mildly impatient, whether it is with others or with themselves, due to their ability to perform things quickly to then progress onto something else.
-However, when experiencing burnout, the perception that we need to over accomplish things and thus so does the impatience to do so. 
+However, when experiencing burnout, the perception that we need to over accomplish things and thus so does the impatience to do so.
 This impatience can spill out over to others as irritability with everyone around them.
 Things that were once trivial and minor become huge obstacles often with the blame pointed at others creating it rather than ourselves.
 
@@ -249,42 +249,42 @@ Things that were once trivial and minor become huge obstacles often with the bla
 
 We don't start off feeling this way about our role, but often when we are overwhelmed with our workload we can default to a sentiment "No one else can do this, only I can."
 
-This sort of statement is often an attempt to justify the over exertion of the effort and applying value to it whilst other areas of our workload is failing. 
+This sort of statement is often an attempt to justify the over exertion of the effort and applying value to it whilst other areas of our workload is failing.
 That grasp of control when things are becoming out of control.
 
-Rest assure that indeed others can perform those tasks, though differently and maybe not to the same degree of excellence you may have done but it could be a situation that doesn't always require excellence. 
+Rest assure that indeed others can perform those tasks, though differently and maybe not to the same degree of excellence you may have done but it could be a situation that doesn't always require excellence.
 This type of egoism is more often a hindrance to progression and the initiative of others.
 
 *A suspicion of being unappreciated*
 
-To counter balance our lack of energy we often increase our effort, but this doesn't necessarily reflect good results. 
-However we don't acknowledge this, we only see the effort expended. 
-We can then begin to feel like we're being less appreciated from others in the team or the community as a whole. 
+To counter balance our lack of energy we often increase our effort, but this doesn't necessarily reflect good results.
+However we don't acknowledge this, we only see the effort expended.
+We can then begin to feel like we're being less appreciated from others in the team or the community as a whole.
 "Can't they see all the hard work I'm doing, staying late at night?" 
 This feeling can lead to being bitter and angry.
 
 *Paranoia*.footnote:[ R Bianchi, L Janin https://academic.oup.com/occmed/article/69/1/35/5151234[Burnout, depression and paranoid ideation: a cluster-analytic study]]
 
 Leading from the signs of feeling unappreciated to feeling as though the world is against us.
-When things go wrong, but we are unable to understand or see why, we tend to seek out a target, not ourselves, to blame regardless if there is little merit in the accusation. 
-Often the person labeled as the culprit becomes the target of our frustrations. 
+When things go wrong, but we are unable to understand or see why, we tend to seek out a target, not ourselves, to blame regardless if there is little merit in the accusation.
+Often the person labeled as the culprit becomes the target of our frustrations.
 This can be team members, friends or even family.
 
 *Disorientation*
 
-Disorientation is when we feel we've become separated from our environment and understanding of what is going on around us. 
-Discovering yourself in a situation that you didn't become aware of or that you previously understood a concept but now do not. 
+Disorientation is when we feel we've become separated from our environment and understanding of what is going on around us.
+Discovering yourself in a situation that you didn't become aware of or that you previously understood a concept but now do not.
 We see ourselves starting to forget things easily and our concentration span deteriorates leading us into more confusion and agitation, fueling the other symptoms like paranoia.
 
 *Psychosomatic complaints*
 
-This is not to be misunderstood that implying those experiencing signs of burnout are not feeling physically sick, they can and do. 
-But it does highlight that with prolong stress physical illness symptoms appear as a secondary symptom to the cause, like linger colds, backache, headaches etc. 
+This is not to be misunderstood that implying those experiencing signs of burnout are not feeling physically sick, they can and do.
+But it does highlight that with prolong stress physical illness symptoms appear as a secondary symptom to the cause, like linger colds, backache, headaches etc.
 Sometimes these illnesses mask the deeper more emotional stress that we feel but we feel more comfortable taking a sick day instead of actually acknowledging the mental stress.
 
 === Burnout cycle
 
-Freudenberger and his colleague Gail North.footnote:[Dr Herbert Freudenberger and Dr Gail North, "Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent It"] later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome.footnote:[Freudenberger's 12 stages, https://www.burnoutgeese.com/freudenberger-burnout.html[Freudenberger's 12 stages]]. 
+Freudenberger and his colleague Gail North.footnote:[Dr Herbert Freudenberger and Dr Gail North, "Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent It"] later categorized the consequences of these symptoms into 12 phases of one developing burnout syndrome.footnote:[Freudenberger's 12 stages, https://www.burnoutgeese.com/freudenberger-burnout.html[Freudenberger's 12 stages]].
 Similar to the symptoms, sufferers may experience episodes in multiple phases, not in sequential order, and for any length of period of time.
 
 . *A compulsion to prove oneself*: desire to prove oneself, to have impact on one's peers, initially seems beneficial until this desire turns into obsession.
@@ -327,42 +327,42 @@ Rewards doesn't always equate to money or status but can simply be the deeper sa
 To feel a sense of accomplishment and ownership of a task, a role requires a suitable level of autonomy to achieve this. 
 If we have the inability to influence our decisions or don't have access to appropriate tools or resources, this can lead to the de-motivating feeling that our work and effort is not being appreciated enough or we are not trusted enough with this responsibility.
 
-Lack of control can also manifest when dealing with other peoples' emotions. 
-Although we can encourage and try to direct our members to adhere to our community's code of conduct or a preferred course of action in a conflict, we evidently can not remove their willfulness. 
-We must only pre-empt their next move no matter how disastrous it may be. 
+Lack of control can also manifest when dealing with other peoples' emotions.
+Although we can encourage and try to direct our members to adhere to our community's code of conduct or a preferred course of action in a conflict, we evidently can not remove their willfulness.
+We must only pre-empt their next move no matter how disastrous it may be.
 This can lead to the feeling of constantly fire fighting and not accomplishing anything.
 
 *Unfairness*
 
-Unfairness within the role can be viewed as a number of different things that attribute to one's feeling powerless or being disrespected. 
+Unfairness within the role can be viewed as a number of different things that attribute to one's feeling powerless or being disrespected.
 Either you or others are treated unfairly: office or community politics that creates a culture of favoritism, lack of transparency in the top down decisions, or a disproportionate amount of workload is allocated to you.
 
 *Insufficient Reward*
 
-You feel unappreciated, taken for granted or simply not satisfied in your role. 
-Rewards don't always require to be monetary but often this is the first thing to come under our scrutiny when the workload increases. 
+You feel unappreciated, taken for granted or simply not satisfied in your role.
+Rewards don't always require to be monetary but often this is the first thing to come under our scrutiny when the workload increases.
 
-We also need social rewards where we gain the recognition from others. 
+We also need social rewards where we gain the recognition from others.
 A lack of recognition can be from the our company itself not appreciating our worth: the team's lack of respect towards us, or from the community not seeing all the "behind the scenes" activities we perform.
 
-Intrinsic rewards are also important to maintain a healthy perceptive on our role. 
-This is where you take the self-acknowledgment of doing a good job and feel accomplished. 
+Intrinsic rewards are also important to maintain a healthy perceptive on our role.
+This is where you take the self-acknowledgment of doing a good job and feel accomplished.
 When we feel we aren't living up to our standards we begin to feel disappointed and become de-motivated.
 
-Sometimes we feel unsatisfied because we have a conflict of personal values with the company or project we work with. 
-We are often asked to relay and even promote the decisions of the company to the community and these may not align with our own personal values. 
+Sometimes we feel unsatisfied because we have a conflict of personal values with the company or project we work with.
+We are often asked to relay and even promote the decisions of the company to the community and these may not align with our own personal values.
 This can be seen as self-betrayal to your morals and build up resentment towards the company.
 
 *Work Overload*
 
 Probably the most common experience attributing to burnout is the over burdening of one's workload.footnote:[The American Institute of Stress: Survey, https://www.stress.org/workplace-stress[The AIS Workplace Stress Survey]], whether from our own doing or by someone else.
-This can occur when the quantity of work and expectations exceeds the amount of time or resources available. 
-We often find that most other employees expect work attributed to yourself is "urgent" when in fact they aren't. 
+This can occur when the quantity of work and expectations exceeds the amount of time or resources available.
+We often find that most other employees expect work attributed to yourself is "urgent" when in fact they aren't.
 It's important to maintain boundaries and stand your ground to combat an ever increasing list of things to do.
 
 *Lack of Community*
 
-It goes without saying that community is extremely important; its fuels the purpose of the role as a source of motivation and companionship - a sense of belonging to a person. However if this becomes stagnant, overwhelmed with toxic members and feedback is non-existent this can make the job feel stifled.
+It goes without saying that community is extremely important; its fuels the purpose of the role as a source of motivation and companionship - a sense of belonging to a person.However if this becomes stagnant, overwhelmed with toxic members and feedback is non-existent this can make the job feel stifled.
 
 === Preventing/Treating Burnout
 
