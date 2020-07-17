@@ -85,18 +85,23 @@ With the odds of such behavior that much higher for minorities, it's surprising 
 The barriers above manifest in perhaps the biggest of all: OS projects' lack of documentation.
 Quantitative data and qualitative interviews repeatedly share that most OS projects don't prioritize or reward documentation.
 As a result, outsiders often have no clue how to help.
+
 I speak from personal experience here.
 After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project I could help with.
 Given my background as a writer of all stripes, I thought that writing documentation would be the perfect place to start and make a meaningful impact.
 So, you can imagine how my face fell when I created my first GitHub account, logged onto the platform, and was left totally lost by where to go next.
 With no knowledge of how to fork, merge branches, or make pull requests, I had no clue where to start - and knew the margin for error was high.
+
 I'm fortunate to live in a city with an active tech community that hosts regular meetups for techies of all interests, including tutorials aimed at beginners.
 I made my first pull request in person at a conference, and then made most of my first several dozen GitHub contributions at in-person events.
 It took attending several events over several months for free that I could access for me to start contributing independently.
 Absent any of these privileges, I would not have spent hours alone trying to learn how GitHub works to make a PR that might or might not get accepted.
-The same GitHub survey which found that 1 in 5 open source contributors leave due to bad behavior also found that incomplete/confusing documentation was the biggest challenge.
+
+The same GitHub survey which found that 1 in 5 open source contributors leave due to bad behavior also found that incomplete/confusing documentation was https://opensourcesurvey.org/2017/[the biggest challenge].
 93% of that survey's respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
-As a result, it's hard for project veterans to read their projects' docs: Imagine how it makes outsiders feel.
+As a result, it's hard for project veterans to https://opensource.com/article/20/4/documentation[read their projects' docs].
+
+Imagine how outsiders feel.
 
 [PARA - Nuritzi and/or Zach]
 
@@ -115,9 +120,9 @@ In fact, taking the steps below with a trusted team will help improve your proje
 
 == 1. Stop saying you're a meritocracy
 
-The first step to a more inclusive open source project involves bursting the meritocracy bubble: The more you believe in meritocracy, the more biased your project is likely to be.
+The first step to a more inclusive open source project involves bursting the meritocracy bubble: The more you believe in meritocracy, the more biased your project is https://www2.deloitte.com/au/en/blog/diversity-inclusion-blog/2019/meritocracy-unraveling-paradox.html[likely to be].
 
-Why? Purely meritocratic projects don't acknowledge that people enter on unequal playing fields.
+Why? Purely meritocratic projects https://gap.hks.harvard.edu/paradox-meritocracy-organizations[don't acknowledge] that people enter on unequal playing fields.
 If an open source maintainer isn't aware that women often  have less time to contribute, or that LGBTQ+ contributors are more likely to endure online abuse, they won't take steps to make the community more inclusive.
 As a result, they risk losing the diverse contributors they worked hard to recruit.
 Terri Oda (She/Her) volunteers for the Python Software Foundation and Google's Summer of Code alongside her role as an open source security researcher at Intel, says claims of meritocracy make her cringe.
