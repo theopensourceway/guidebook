@@ -1,6 +1,6 @@
 = Creating diverse and inclusive communities
 Authors: Lauren Maffeo <lauren@address.tld>
-Updated: 2020-07-15
+Updated: 2020-07-19
 
 == Introduction
 
@@ -26,7 +26,6 @@ Of the total employed, 9.6% were Black or African American, 15.8% were Asian, an
 
 As these surveys indicate, the tech sector is overwhelmingly White and male; open source communities are even more so.
 Far from being a meritocracy, open source projects are much less likely to see contributions from computer science employees of minority status.
-
 
 How does this continue to happen?
 Recent years have seen an influx of diversity and inclusive (D&I) initiatives aimed at recruiting more diverse project contributors.
@@ -103,8 +102,11 @@ Imagine how this makes outsiders feel.
 "Contributing to open source is not only a technical challenge but equally a social challenge," explains Nuritzi Sanchez (She/Her), a senior open source program manager at GitLab.
 "Documentation is needed to enable remote asynchronous collaboration, which is how communities work.
 If everything is stuck inside of people’s heads, that’s going to create an atmosphere of confusion, frustration, and inefficiency."
-Documentation isn't just essential for code: It's also a guide to understand each project's cultural and communication norms. Open source communities use asynchronous communication to work cohesively across disparate time zones. Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes. For prospective contributors who are non-native English speakers and/or have special needs, this lack of documentation makes contributing all but impossible. 
-Inadequate documentation has far-reaching consequences. It shows a lack of transparency that wastes time, sows distrust, and prevents OS communities from reaching their full potential.
+Documentation isn't just essential for code: It's also a guide to understand each project's cultural and communication norms.
+Open source communities use asynchronous communication to work cohesively across disparate time zones. Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes.
+For prospective contributors who are non-native English speakers and/or have special needs, this lack of documentation makes contributing all but impossible. 
+Inadequate documentation has far-reaching consequences.
+It shows a lack of transparency that wastes time, sows distrust, and prevents OS communities from reaching their full potential.
 
 
 == Tips to build more inclusive projects and communities
@@ -119,7 +121,6 @@ The communities are asking for accountability, from the foundations who run them
 If creating an inclusive community sounds overwhelming, remember that the community wants to help.
 If you're a project maintainer yourself, you don't have to do this work alone.
 In fact, taking the steps below with a trusted team will help improve your project for all.
-
 
 == 1. Stop saying you're a meritocracy
 
@@ -157,12 +158,15 @@ To track progress, the SIG Docs group does a quarterly review where they measure
 If your OS project doesn't already have a Code of Conduct (CoC), it's never too late to make one.
 They are an expectation for modern OS initiatives, from long-term projects to two-day conferences.
 In my own research for this chapter, several OS contributors said they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
-"Having a code of conduct would be big for me," explains Natalie Zamani (She/Her), Senior Software Engineer at Apple. "And then something as seemingly unrelated as not tolerating project contributors espousing racist/sexist/homophobic/transphobic ideas, even if it’s not related to their project work. I wouldn’t feel comfortable working with individuals who hold such views, full stop. And I’ve seen a few projects that would otherwise be interesting to me where that’s tolerated."
+"Having a code of conduct would be big for me," explains Natalie Zamani (She/Her), Senior Software Engineer at Apple.
+"And then something as seemingly unrelated as not tolerating project contributors espousing racist/sexist/homophobic/transphobic ideas, even if it’s not related to their project work.
+I wouldn’t feel comfortable working with individuals who hold such views, full stop. And I’ve seen a few projects that would otherwise be interesting to me where that’s tolerated."
 
 As the former President and Chairperson of the Board of Directors for the GNOME Foundation, Sanchez helped create GNOME's event CoC. She says that while the Contributor’s Covenant is the default Code of Conduct for a lot of OS communities, translating it to an events format took some creative work - and a lot of feedback from the GNOME community.
 "No matter the type of CoC you’re rolling out, having a transparent plan and timeline is key," Sanchez says. "At GNOME, we created a working group after one of our annual conferences to start drafting a code of conduct. We passed the notion of a working group by the Board of Directors to make sure that they were onboard. They made a community-wide announcement letting people know the process: a working group would be drafting the CoC, sending to community for revisions, the Board would then see the revised draft and vote, and then the membership would vote at the Annual General Meeting."
 
 Despite the key role of community feedback, Sanchez says the CoC should be owned by a governing body within your OS project. CoCs remain a touchy subject in OS communities, and not all OS contributors believe they're necessary. A governing body (or at least a committee) that's comprised of diverse contributors and shares the creation process can help alleviate disagreements. Once you've created your governing body, assign members to own specific tasks. These include a Chair who can break voter ties, moderators to enforce the Code of Conduct, and mentors to train the community. It's essential for all community members -- especially URMs -- to see that project leads protect their safety and integrity.
+
 "I am a firm believer that signalling is very important, but that broken trust is difficult to repair," Eising explains. "Don't signal to minorities that you are ready to embrace them before you actually are - that's like inviting someone who uses a wheelchair to a party on the first floor with no elevator. That person won't trust you again to think about your needs appropriately. Organizations need to look within and really assess before making a reach out."
 
 
@@ -196,14 +200,21 @@ any technical project, new initiatives, website, newcomers initiatives
 Product management is essential at companies, and yet it’s something that isn’t always easily found within OSS. There’s a lot of room for PMs to jump in to help create more innovative products and help bridge the gap between communities and businesses, helping to expand the project’s reach
 Legal 
 Board of Directors, community team
-There’s a growing need for more people who are able to navigate open source related legal matters. Lawyers may get a lot of great experience working on community teams or sitting on the Board of Directors
+There's a growing need for more people who are able to navigate open source related legal matters. Lawyers may get a lot of great experience working on community teams or sitting on the Board of Directors
 HR/People
 Board of Directors, community team, newcomers initiatives 
-We need people who care about people and want to make the community awesome. This helps with newcomers initiatives and lowering the barrier of entry, as well as retention. It also may help the community gain better communication practices. 
+We need people who care about people and want to make the community awesome.
+This helps with newcomers initiatives and lowering the barrier of entry, as well as retention. It also may help the community gain better communication practices. 
 
-This list isn't exhaustive, nor is it applicable to all projects. The goal is to look at your own OS project's holistic needs in the short and long terms, then recruit contributors to fill specific gaps. Doing so allows you to create a governing board with representatives that own specific aspects of the project and contribute to its growth. 
-Nithya Ruff (She/Her) leads the Open Source Program Office for Comcast and serves as Chair of the Linux Foundation board. In more than two decades of open source work, she has seen how ignoring crucial skills -- including legal issues such as copyrights and trademarks - can keep a project from achieving long-term success. Recruiting and rewarding diverse contributions also plays a key role in preventing burnout, which project maintainers have been increasingly vocal about. 
-"It is unfair to expect the maintainer or the developer who started the project or leads the project to care for all of these issues, [or] have the skills to do it," Ruff says. "All forms of contribution need to be valued [because this] brings diversity of people into the project, which makes the project more vibrant and innovative. Foundations like the Apache Software Foundation, Linux Foundation bring all of these contributions to the table for their hosted projects. This allows the project to more successfully build a broader ecosystem."
+This list isn't exhaustive, nor is it applicable to all projects.
+The goal is to look at your own OS project's holistic needs in the short and long terms, then recruit contributors to fill specific gaps.
+Doing so allows you to create a governing board with representatives that own specific aspects of the project and contribute to its growth. 
+Nithya Ruff (She/Her) leads the Open Source Program Office for Comcast and serves as Chair of the Linux Foundation board.
+In more than two decades of open source work, she has seen how ignoring crucial skills—including legal issues such as copyrights and trademarks—can keep a project from achieving long-term success. Recruiting and rewarding diverse contributions also plays a key role in preventing burnout, which project maintainers have been increasingly vocal about.
+"It is unfair to expect the maintainer or the developer who started the project or leads the project to care for all of these issues, [or] have the skills to do it," Ruff says.
+"All forms of contribution need to be valued [because this] brings diversity of people into the project, which makes the project more vibrant and innovative.
+Foundations like the Apache Software Foundation, Linux Foundation bring all of these contributions to the table for their hosted projects.
+This allows the project to more successfully build a broader ecosystem."
 
 
 === 5. Mentor new talent to grow and lead the project
