@@ -122,7 +122,7 @@ If creating an inclusive community sounds overwhelming, remember that the commun
 If you're a project maintainer yourself, you don't have to do this work alone.
 In fact, taking the steps below with a trusted team will help improve your project for all.
 
-== 1. Stop saying you're a meritocracy
+=== 1. Stop saying you're a meritocracy
 
 The first step to a more inclusive open source project involves bursting the meritocracy bubble: The more you believe in meritocracy, the more biased your project is https://www2.deloitte.com/au/en/blog/diversity-inclusion-blog/2019/meritocracy-unraveling-paradox.html[likely to be].
 
@@ -137,8 +137,9 @@ But if you look at the bigger picture, you might realize that the conference off
 Or that the venue isn't in a safe area and the sprints run until after dark."
 The first step to build a more inclusive environment is self-awareness.
 Open source contributors enter projects with a range of lived experiences that affect how -- and if -- they show up.
-Sitting with and reflecting on this fact is the first, most crucial step.The next step is to take an honest look at your OS project's current community, and take note of who is -- and isn't -- there. If your project contributors all, or even mostly, look like you, that's a huge red flag that an inclusive overhaul is in order. 
-
+Sitting with and reflecting on this fact is the first, most crucial step.
+The next step is to take an honest look at your OS project's current community, and take note of who is—and isn't—there.
+If your project contributors all, or even mostly, look like you, that's a huge red flag that an inclusive overhaul is in order. 
 
 === 2. Prioritize your project's documentation
 
