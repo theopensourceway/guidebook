@@ -86,22 +86,23 @@ The barriers above manifest in perhaps the biggest of all: OS projects' lack of 
 Quantitative data and qualitative interviews repeatedly share that most OS projects don't prioritize or reward documentation.
 As a result, outsiders often have no clue how to help.
 
-I speak from personal experience here.
-After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project I could help with.
+I speak from personal experience here. After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project I could help with.
 Given my background as a writer of all stripes, I thought that writing documentation would be the perfect place to start and make a meaningful impact.
 So, you can imagine how my face fell when I created my first GitHub account, logged onto the platform, and was left totally lost by where to go next.
-With no knowledge of how to fork, merge branches, or make pull requests, I had no clue where to start - and knew the margin for error was high.
-
+With no knowledge of how to fork, merge branches, or make pull requests, I had no clue where to start—and knew the margin for error was high.
 I'm fortunate to live in a city with an active tech community that hosts regular meetups for techies of all interests, including tutorials aimed at beginners.
 I made my first pull request in person at a conference, and then made most of my first several dozen GitHub contributions at in-person events.
 It took attending several events over several months for free that I could access for me to start contributing independently.
 Absent any of these privileges, I would not have spent hours alone trying to learn how GitHub works to make a PR that might or might not get accepted.
 
-The same GitHub survey which found that 1 in 5 open source contributors leave due to bad behavior also found that incomplete/confusing documentation was https://opensourcesurvey.org/2017/[the biggest challenge].
-93% of that survey's respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
-As a result, it's hard for project veterans to https://opensource.com/article/20/4/documentation[read their projects' docs].
+The same GitHub survey which found that 1 in 5 open source contributors leave due to bad behavior also found that incomplete/confusing documentation was the biggest challenge. 93% of that survey’s respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
+As a result, it's hard for project veterans to read their projects' docs.
 
-Imagine how outsiders feel.
+Imagine how this makes outsiders feel.
+
+"Contributing to open source is not only a technical challenge but equally a social challenge," explains Nuritzi Sanchez (she/her), a senior open source program manager at GitLab.
+"Documentation is needed to enable remote asynchronous collaboration, which is how communities work.
+If everything is stuck inside of people’s heads, that’s going to create an atmosphere of confusion, frustration, and inefficiency."
 
 [PARA - Nuritzi and/or Zach]
 
@@ -135,25 +136,70 @@ The first step to build a more inclusive environment is self-awareness.
 Open source contributors enter projects with a range of lived experiences that affect how -- and if -- they show up.
 Sitting with and reflecting on this fact is the first, most crucial step.
 
-=== 2. Prioritize documentation
+=== 2. Prioritize your project's documentation
 
-Assign proteges to PRs that match their interests/expertise.
-This saves them hours of searching for open PRs on new, unfamiliar projects.
+A 2019 Stack Overflow study found that about 41% of developers have less than 5 years of experience.
+Between these young technologists and current emphasis on STEM education, there are lots of opportunities to welcome new OS contributors.
+In order to do so, project maintainers must lower barriers to entry - and clear, concise documentation is the first step. 
+Zach Corleissen (he/they) is the lead technical writer for The Linux Foundation (LF) who recently revised a large architectural document for the LF Energy Foundation. He also serves as one of the co-chairs for the Kubernetes documentation special interest group (SIG Docs). Kubernetes was his first OSS project, and it quickly became one of the most prolific projects in modern open source. Its rapid growth allowed Corleissen to own important aspects of its documentation, and revise it to become more reader-friendly.
+"Insisting that code is self-documenting is a form of gatekeeping [and] an example of an unhealthy project culture," Corleissen says.
+"I think the devaluation often comes from developers who see a static generator stack and think, 'How hard can it be?'
+One of my least favorite dismissive phrases: 'It's just a pile of Markdown.'
+If only it were that easy! Documentation is code for an environment where no chipsets are identical; kernel defaults are hostile; RAM is variable; storage is subject to random external dependencies; and production regularly fails despite optimal conditions, or inversely, succeeds in spite of obvious CI failures."
+To track progress, the SIG Docs group does a quarterly review where they measure the progress of their previous quarter's goals and prioritize work for the upcoming quarter. One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it. That creates even more onus on contributors to find new contributors. 
 
-=== 3. Create clear guidelines
-
-"Make sure your project is inclusive from the start.
-Make it easy for people to get involved and to contribute back.
- The mark of a good project is not how complex it is but how easy it is to get involved.
-The side benefit is that you attract users and contributors of all kind and the project grows in use and usefulness." - Nithya Ruff
-
-=== 4. Reward OS contributions beyond code
+=== 3. Reward OS contributions beyond code
 
 Give your community open and private options to leave feedback on their experiences.
 This can range from quarterly surveys to giving contributors the freedom to create channels in the project's Slack, Discourse, etc.
 chat about mental health, being a person of color, how to handle negotiations, etc.
 
-=== 5. Identify new talent to grow and lead the project
+=== 4. Create and enforce a clear Code of Conduct
+
+If your OS project doesn't already have a Code of Conduct (CoC), it's never too late to make one.
+They are an expectation for modern OS initiatives, from long-term projects to two-day conferences.
+In my own research for this chapter, several OS contributors said they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
+
+As the former President and Chairperson of the Board of Directors for the GNOME Foundation, Sanchez helped create GNOME's event CoC. She says that while the Contributor’s Covenant is the default Code of Conduct for a lot of OS communities, translating it to an events format took some creative work - and a lot of feedback from the GNOME community.
+"No matter the type of CoC you’re rolling out, having a transparent plan and timeline is key," Sanchez says. "At GNOME, we created a working group after one of our annual conferences to start drafting a code of conduct. We passed the notion of a working group by the Board of Directors to make sure that they were onboard. They made a community-wide announcement letting people know the process: a working group would be drafting the CoC, sending to community for revisions, the Board would then see the revised draft and vote, and then the membership would vote at the Annual General Meeting."
+Despite the key role of community feedback, Sanchez says the CoC should be owned by a governing body within your OS project. CoCs remain a touchy subject in OS communities, and not all OS contributors believe they're necessary. A governing body (or at least a committee) that's comprised of diverse contributors and shares the creation process can help alleviate disagreements. Once you've created your governing body, assign members to own specific tasks. These include a Chair who can break voter ties, moderators to enforce the Code of Conduct, and mentors to train the community. 
+
+=== 5. Reward OS contributions beyond code
+
+In her time working on open source, Sanchez says that most projects focus on attracting a narrow set of contributors: Engineering, Design, Translation, Documentation, and Outreach. Despite how broad that sounds, she says she'd like to see a lot more roles and contributions be rewarded:
+
+Career Development Target
+Teams within OSS orgs to check out
+Why
+Sales / Business Development
+Fundraising, partnerships
+Both of these things require you to pitch the value of the open source  community / project and require you to develop your communication and negotiation skills, among other things
+Marketing
+engagement, marketing, or outreach teams
+Some projects may not even have this set up and are in need of someone to help! Even if you don’t have a lot of experience in this, you may have more experience than anyone else in that community and it’s your chance to build something from scratch. This could look really amazing on a resume!
+Strategy
+Board of Directors / governance team, community team
+It depends a bit on the maturity of the organization, but typically there’s a lot of room for building your strategy skills when on the board of Directors. You have a birds-eye view of the project, typically have say over project finances, and can help define goals and move the project forward at a whole new level. Since you can’t get there right away, leading initiatives can help you build those skills and there’s often a lot of room for people to step in and own big chunks on OSS community teams
+Data Science
+Community team, Board of Directors
+What kind of data is being collected to ensure that initiatives are successful? Measuring a community’s health is something that more and more people are interested in and there’s a need for data heads to help
+Graphic Design
+marketing team, technical projects
+There’s a lot of need for graphic design for brand and marketing initiatives, and in general to help make the project more mature. Some projects may not even have established brand guidelines, and there’s a big need for more designers in general
+Project Management / Program Management
+engagement, marketing, outreach, documentation, community teams
+There is a huge need for highly organized people who can create processes and structure. Many initiatives fall to the side because there isn’t someone to help push it along and make it happen
+Product Management
+any technical project, new initiatives, website, newcomers initiatives
+Product management is essential at companies, and yet it’s something that isn’t always easily found within OSS. There’s a lot of room for PMs to jump in to help create more innovative products and help bridge the gap between communities and businesses, helping to expand the project’s reach
+Legal 
+Board of Directors, community team
+There’s a growing need for more people who are able to navigate open source related legal matters. Lawyers may get a lot of great experience working on community teams or sitting on the Board of Directors
+HR/People
+Board of Directors, community team, newcomers initiatives 
+We need people who care about people and want to make the community awesome. This helps with newcomers initiatives and lowering the barrier of entry, as well as retention. It also may help the community gain better communication practices. 
+
+=== 6. Identify new talent to grow and lead the project
 
 "Another reason for acknowledging and including all forms of contribution is to prevent maintainer burnout.
  It is unfair to expect the maintainer or the developer who started the project or leads the project to care for all of these issues.
@@ -163,13 +209,19 @@ chat about mental health, being a person of color, how to handle negotiations, e
  Since new moms typically get less than 1hr of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for.
 I worked to take CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
 
-=== 6. Engage your community directly
+=== 7. Engage your community directly
+
+Give your community open and private options to leave feedback on their experiences.
+This can range from quarterly surveys to giving contributors the freedom to create channels in the project's Slack, Discourse, etc. chat about mental health, being a person of color, how to handle negotiations, etc.
 
 "I am hearing-impaired, and I requested that the All Things Open Conference consider that when in larger venues where keynotes were speaking and there were no specific adaptations for those of us who were not able to hear.
 I was particularly impressed when attending the Creative Commons Global Summit in Toronto 2018 where nearly all presentations were accompanied by folks who signed and also provide simultaneous closed captioning of all speakers.
-(That was very helpful.)" - Don Watkins
+(That was very helpful.)"—Don Watkins
 
 == Conclusion
 
-Seek out sources for new, diverse OS contributors, like CHAOSS/the Linux Foundation and Project Include.
 Take the steps above before trying to recruit diverse OS project contributors, because inclusive change starts from within.
+
+"Make sure your project is inclusive from the start. Make it easy for people to get involved and to contribute back.
+The mark of a good project is not how complex it is, but how easy it is to get involved.
+The side benefit is that you attract users and contributors of all kind and the project grows in use and usefulness."—Nithya Ruff
