@@ -5,27 +5,27 @@ Updated: 2020-07-19
 == Introduction
 
 Mere months after the COVID-19 pandemic forced most tech teams to work remotely or not at all, the murder of George Floyd ignited a racial reconciliation movement.
-This movement hit the tech sector especially hard: When Pinterest released a statement supporting the Black Lives Matter movement, two Black women who formerly worked there quickly called out their hypocrisy.
-At first glance, open source seems immune to tech's multi-pronged problems with diversity and inclusion.
-Open source ecosystems operate online, with contributors working across countries, languages, and timezones to power projects that drive the Web forward.
-People contribute out of pure love for their projects, not for free beer and stock.
-With such altruistic intent, the thinking goes that open source is a true meritocracy, a space where all can thrive regardless of their pronouns.
-But if there's one thing that techies love more than meritocracy, it's data.
-And when data shows who contributes to the OS ecosystem, it paints a damning picture.
+This movement hit the tech sector especially hard. When Pinterest released a statement supporting the Black Lives Matter movement, two Black women who formerly worked there quickly called out their hypocrisy.
+
+At first glance, open source seems immune to the multi-pronged problems with diversity and inclusion plaguing digital technology companies.
+Open source ecosystems operate online; contributors work across countries, languages, and timezones to power projects that drive the web forward.
+In somec cases, people contribute purely out of love for these projects, not for free beer and stock.
+Given the prevalence of such altruistic intent, the thinking goes, open source is a true meritocracy, a space where all can thrive regardless of their pronouns.
+But if there's one thing that industry advocates love more than meritocracy, it's data.
+And when data show who contributes to the open source ecosystem, they paint a damning picture.
 
 This chapter offers an overview of open source communities' efforts to make projects more diverse and inclusive.
-It also offers advice open source community managers and project maintainers can enact to ensure their communities and projects benefit from a diverse contributor base.
+It also offers initial steps open source community managers and project maintainers can take to begin building communities and projects that benefit from a diverse contributor base.
 
 == The state of open source diversity
 
-A 2017 GitHub survey of 5,500 open source users and developers found that 95% of randomly selected respondents identified as male.
-Three percent identified as women, and 1% as non-binary.
-
-Now, consider that in 2019, the U.S. Bureau of Labor Statistics found that 28.7% of total employed Computer and Information Systems managers https://www.bls.gov/cps/cpsaat11.htm[were women].
+In 2019, the U.S. Bureau of Labor Statistics found that 28.7% of total employed managers in the "Computer and Information Systems" sector https://www.bls.gov/cps/cpsaat11.htm[were women].
 Of the total employed, 9.6% were Black or African American, 15.8% were Asian, and and 4.7% were Hispanic or Latino.
 
-As these surveys indicate, the tech sector is overwhelmingly White and male; open source communities are even more so.
-Far from being a meritocracy, open source projects are much less likely to see contributions from computer science employees of minority status.
+As these surveys indicate, the digital technology industry is overwhelmingly White and male; open source communities are even more so.
+A 2017 GitHub survey of 5,500 open source users and developers found that 95% of randomly selected respondents identified as male.
+Three percent identified as women, and 1% as non-binary.
+Far from being meritocracies, open source projects are much less likely to see contributions from minorities.
 
 How does this continue to happen?
 Recent years have seen an influx of diversity and inclusive (D&I) initiatives aimed at recruiting more diverse project contributors.
@@ -43,15 +43,15 @@ Women and URMs continue https://www.weforum.org/agenda/2019/03/an-economist-expl
 They are also increasingly likely to be their homes' primary earners, and they're more likely to do unpaid labor in the form of housework, childcare, and https://www.unwomen.org/en/news/in-focus/csw61/redistribute-unpaid-work[other domestic tasks].
 
 As a result, they have less spare time to do even more unpaid work by contributing to open source.
-When they do make those contributions, it's often because they already work for organizations that let them do so during work hours.
+When they do make those contributions, they often do so during work hours—because they already work for organizations that let them do it.
 
 Nisha Kumar (She/They) is the technical lead for container build, packaging, and distribution at the Open Source Technology Center at VMware.
 She also serves as co-maintainer for the Tern project, and a contributor to the SPDX and OCI communities.
-She juggles these projects with raising her 2-year-old child as his primary caregiver.
-To Kumar, these dual roles are nothing new: As a girl growing up in India, she balanced schoolwork with chores, running errands, and caring for family members.
+She juggles these projects with her role as primary caregiver to her two-year-old child.
+To Kumar, these dual roles are nothing new; as a girl growing up in India, she balanced schoolwork with chores, running errands, and caring for family members.
 These endless tasks left no time for her to pursue passion projects.
 
-If not for her ability to work on open source during the day at VMWare, she's unsure if she could contribute today:
+If not for her ability to work on open source during the day at VMWare, she's unsure if she could contribute today. As she told me:
 
 ____
 "As a woman in tech contributing to open source in my day job and getting compensated for it, I find that I still don't have the time to contribute to open source projects I am personally interested in or even volunteer for my local open source communities because I need to also take care of my child and household."
@@ -61,7 +61,7 @@ ____
 
 The Internet is not an equally hospitable place.
 Women, people of color, and LBGTQ+ people are disproportionately targeted for online harassment, with women twice as likely to https://hbr.org/2020/06/youre-not-powerless-in-the-face-of-online-harassment[experience online sexual harassment] as men.
-And this data was collected pre-2020.
+And these data were collected pre-2020.
 
 This year's confluence of a global pandemic and mass civil unrest has led to increased attacks against people of color, specifically Asian Americans and Black Americans.
 If attackers feel emboldened to hurt people in the flesh, it's no surprise that this https://www.nytimes.com/2020/07/11/business/media/tucker-carlson-writer-blake-neff.html[occurs online] as well.
@@ -81,20 +81,21 @@ With the odds of such behavior that much higher for minorities, it's surprising 
 
 === Incomplete, inadequate documentation
 
-The barriers above manifest in perhaps the biggest of all: OS projects' lack of documentation.
-Quantitative data and qualitative interviews repeatedly share that most OS projects don't prioritize or reward documentation.
+The barriers above manifest in perhaps the biggest of all: open source projects' lack of documentation.
+Quantitative data and qualitative interviews repeatedly share that most open source projects don't prioritize or reward documentation.
 As a result, outsiders often have no clue how to help.
 
-I speak from personal experience here. After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project I could help with.
-Given my background as a writer of all stripes, I thought that writing documentation would be the perfect place to start and make a meaningful impact.
-So, you can imagine how my face fell when I created my first GitHub account, logged onto the platform, and was left totally lost by where to go next.
+I speak from personal experience here. After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project with which I could help.
+Given my background as a writer of all stripes, I thought writing documentation would be the perfect place to start and make a meaningful impact.
+So you can imagine how my face fell when I created my first GitHub account, logged onto the platform, and was left totally lost by where to go next.
 With no knowledge of how to fork, merge branches, or make pull requests, I had no clue where to start—and knew the margin for error was high.
 I'm fortunate to live in a city with an active tech community that hosts regular meetups for techies of all interests, including tutorials aimed at beginners.
 I made my first pull request in person at a conference, and then made most of my first several dozen GitHub contributions at in-person events.
-It took attending multiple free, accessible events over several months for me to start contributing independently.
+Only after attending multiple free, accessible events over several months did I begin contributing independently.
 Absent any of these privileges, I would not have spent hours alone trying to learn how GitHub works to make a PR that might or might not get accepted.
 
-The same GitHub survey which found that 1 in 5 open source contributors leave due to bad behavior also found that incomplete/confusing documentation was the biggest challenge. 93% of that survey’s respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
+The same GitHub survey that found one in five open source contributors leave projects due to bad behavior also found that incomplete or confusing documentation was the biggest challenge.
+93% of that survey’s respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
 As a result, it's hard for project veterans to read their projects' docs.
 
 Imagine how this makes outsiders feel.
@@ -102,12 +103,12 @@ Imagine how this makes outsiders feel.
 "Contributing to open source is not only a technical challenge but equally a social challenge," explains Nuritzi Sanchez (She/Her), a senior open source program manager at GitLab.
 "Documentation is needed to enable remote asynchronous collaboration, which is how communities work.
 If everything is stuck inside of people’s heads, that’s going to create an atmosphere of confusion, frustration, and inefficiency."
-Documentation isn't just essential for code: It's also a guide to understand each project's cultural and communication norms.
-Open source communities use asynchronous communication to work cohesively across disparate time zones. Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes.
+Documentation isn't just essential for code; it's also a guide to understand each project's cultural and communication norms.
+Open source communities use asynchronous communication to work cohesively across disparate time zones.
+Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes.
 For prospective contributors who are non-native English speakers and/or have special needs, this lack of documentation makes contributing all but impossible. 
 Inadequate documentation has far-reaching consequences.
-It shows a lack of transparency that wastes time, sows distrust, and prevents OS communities from reaching their full potential.
-
+It shows a lack of transparency that wastes time, sows distrust, and prevents many open source communities from reaching their full potential.
 
 == Tips to build more inclusive projects and communities
 
