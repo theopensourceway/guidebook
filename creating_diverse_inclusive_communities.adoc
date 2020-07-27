@@ -34,8 +34,9 @@ DrupalCon offers scholarships for attendees and speakers of minority status.
 Several mainstage keynotes at All Things Open 2019 discussed diversity.
 With so much attention from community leaders, why do contributor data still paint such a damning picture?
 
-Relative lack of open source activity from women and under-represented minorities (URMs) seems surprising at first, but a look at systemic barriers reveals some persistent problems.
-Let's examine three of those barriers: lack of free time to contribute, a hostile online environment, and lackluster documentation.
+Relative lack of open source activity from women and under-represented minorities (URMs) seems surprising at first, but a closer look reveals some persistent problems regarding inclusion in open source communities. Inclusion is often used as a synonym for diversity; in fact, it is its own principle. To quote Meg Bolger, "Inclusion is about folks with different identities feeling and/or being valued, leveraged, and welcomed within a given setting (e.g., your team, workplace, or industry)." There are some persistent, systemic barriers that keep women and underrepresented minorities (URMs) from being included in open source communities. Without addressing and rectifying these systemic problems, diversity in open source won't improve
+
+Let's unpack three of those barriers: lack of free time to contribute, a hostile online environment, and lackluster documentation.
 
 === Lack of time to contribute for free
 
