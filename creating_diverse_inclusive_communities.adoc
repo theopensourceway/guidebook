@@ -222,28 +222,37 @@ This allows the project to more successfully build a broader ecosystem."
 
 === 5. Mentor new talent to grow and lead the project
 
-[PARA]
+11 years after co-founding Redis, Salvatore Sanfilippo announced plans to step down as project maintainer of the NoSQL database. He named Yossi Gottlieb and Oran Agra as his successors to maintain the Redis project. In doing so, the Redis governance model got a refresh.
 
-"My open source contributions definitely changed even before I became a parent: as the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do.
- handed off some of my other projects more completely and never went back to them.
- Since new moms typically get less than 1hr of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for.
-I worked to take CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
+Rather than keeping Redis's prior BDFL style, Gottlieb and Agra built a new light governance model. It involves electing a small group of longtime Redis developers to act as core contributors and uphold the project's Code of Conduct. 
+
+Regardless of your own project's governance model, you must include a way to train key contributors to assume leadership roles. This achieves three key goals: Helping new contributors learn how they can grow, rewarding contributors who own key aspects of the project, and preventing maintainer burnout. This last point is noteworthy: Sanfilippo said when he stepped down from Redis that despite his passion for coding, he never aspired to maintain a project. Without new leaders to step up -- and documentation sharing how contributors can assume such roles -- maintainers risk either working on projects when they no longer want to or having the project stall. Likewise, the project risks depriving others of the chance to step up. 
+
+The act of building and maintaining a mentorship program is inclusive in itself. Several open source leaders interviewed for this book said they see a clear need for more mentorship in open source at large, and a desire to do it themselves. In some cases, open source contributors believe so much in the power of mentorship that they restructured their contributions to include it. And, because they were mindful of their own time limitations, they offered flexibility to new leaders as well.
+
+"My open source contributions definitely changed even before I became a parent," explains Oda. "As the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do. So, I handed off some of my other projects more completely and never went back to them.
+"Since new moms typically get less than one hour of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for. I worked to take CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
+
+To build your own mentorship program, Sanchez says to focus on four actions and initiatives:
+
+"Create learning opportunities often. Find ways to help people learn what you do and how you do it. Don’t just wait for formal internship or mentorship programs, but take advantage of those if you can. Consider recording videos, holding AMAs, participating in events, etc. Be open to communicating with people informally in order to build relationships and trust so that you can help develop those with potential. Cast your net wide and you’ll probably find those gem contributors who are ready to step in to help bring your project to a whole new level. 
+
+Be a connector. Try to have a mental map of prominent contributors in your community and their strengths. Share the mentorship by introducing newcomers to several people. Burnout is real on the mentor side and you want to make sure that there are other people your mentee can reach if you need to take a break or just get busy. 
+
+Make sure that there’s a chat tool specifically for community interactions. In order to build trust, people need private spaces. Chat facilitates conversations and collaboration, and also allows people to message you directly. To avoid burnout, you may want to have a chat tool available just for your community / work conversations and a chat tool just for your personal life. That way, you can turn off all notifications on one tool if you need a break, or just simply have that mental separation thanks to differences in UX. 
+
+Connect through events. Events provide a powerful opportunity for you to connect with potential mentees. At these events, try to plan fun activities that are designed to help people connect informally. This may mean having a people-bingo where people have to ask each other questions to enter a raffle, or it could be a city tour, or a game night. Fun activities throughout the year can facilitate authentic relationships, which can also help people overcome fear of contribution."
 
 
 === 6. Commit to continuous improvement
 
-Give your community open and private options to leave feedback on their experiences.
-This can range from quarterly surveys to giving contributors the freedom to create channels in the project's Slack, Discourse, etc. chat about mental health, being a person of color, how to handle negotiations, etc.
+The work of inclusion is never done; instead, it's ongoing. As your project grows, you will find new gaps to fill, questions to document, and additions to the Code of Conduct. As your community becomes more inclusive, it might feel like you're finding more ways you've fallen short. Uncomfortable as this is, it's actually a good thing. It means you've done the hard work of committing to keep on getting better. And, if you've done the work of building an inclusive team, you won't do this work alone. Instead, you'll share the work with your community, giving everyone the chance to share their feedback.
 
-"I am hearing-impaired, and I requested that the All Things Open Conference consider that when in larger venues where keynotes were speaking and there were no specific adaptations for those of us who were not able to hear.
-I was particularly impressed when attending the Creative Commons Global Summit in Toronto 2018 where nearly all presentations were accompanied by folks who signed and also provide simultaneous closed captioning of all speakers.
-(That was very helpful.)"—Don Watkins
+To keep the dialogue ongoing and open, give your community options to leave feedback on their experiences. This can range from quarterly surveys to giving contributors the freedom to create channels in your project's Slack, Discourse, etc. chat about mental health, being a person of color, how to handle negotiations, etc. Such channels give contributors ways to connect socially, which is crucial for increasing asynchronous collaboration. It also gives you new ways to support contributors so they can contribute more fully.
 
+"I am hearing-impaired, and I requested that the All Things Open Conference consider that when in larger venues where keynotes were speaking and there were no specific adaptations for those of us who were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
+"I was particularly impressed when attending the Creative Commons Global Summit in Toronto in 2018, where nearly all presentations were accompanied by folks who signed and also provide simultaneous closed captioning of all speakers."
 
-== Conclusion
+Inclusion isn't a one-time pull request, which makes it such an important problem to solve. Without building and sustaining inclusive communities, there's no hope of improving diversity of open source contributors. To receuit new talent, prevent maintainer burnout, and create affirming online environments, open source maintainers should commit to inclusion. Change starts from within, and when diverse tech talent sees your inclusive efforts, they will be much more likey to join.
 
-Take the steps above before trying to recruit diverse OS project contributors, because inclusive change starts from within.
-
-"Make sure your project is inclusive from the start. Make it easy for people to get involved and to contribute back.
-The mark of a good project is not how complex it is, but how easy it is to get involved.
-The side benefit is that you attract users and contributors of all kind and the project grows in use and usefulness."—Nithya Ruff
+"Make it easy for people to get involved and to contribute back," says Ruff. "The mark of a good project is not how complex it is, but how easy it is to get involved."
