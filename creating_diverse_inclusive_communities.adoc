@@ -1,5 +1,5 @@
 = Creating diverse and inclusive communities
-Authors: Lauren Maffeo <lauren@address.tld>
+Authors: Lauren Maffeo
 Updated: 2020-07-19
 
 == Introduction
