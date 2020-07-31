@@ -104,7 +104,7 @@ Imagine how this makes outsiders feel.
 "Contributing to open source is not only a technical challenge but equally a social challenge," explains Nuritzi Sanchez (She/Her), a senior open source program manager at GitLab.
 "Documentation is needed to enable remote asynchronous collaboration, which is how communities work.
 If everything is stuck inside of people’s heads, that’s going to create an atmosphere of confusion, frustration, and inefficiency."
-Documentation isn't just essential for code; it's also a guide to understand each project's cultural and communication norms.
+Documentation isn't just essential for code; it's also a guide to understand each project's cultural and communication norms (see this guidebook's chapter on communication norms for more on this subject).
 Open source communities use asynchronous communication to work cohesively across disparate time zones.
 Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes.
 For prospective contributors who are non-native English speakers and/or have special needs, this lack of documentation makes contributing all but impossible. 
@@ -131,49 +131,65 @@ The first step to a more inclusive open source project involves bursting the mer
 Why? Purely meritocratic projects https://gap.hks.harvard.edu/paradox-meritocracy-organizations[don't acknowledge] that people enter on unequal playing fields.
 If an open source maintainer isn't aware that women often  have less time to contribute, or that LGBTQ+ contributors are more likely to endure online abuse, they won't take steps to make the community more inclusive.
 As a result, they risk losing the diverse contributors they worked hard to recruit.
-Terri Oda (She/Her) volunteers for the Python Software Foundation and Google's Summer of Code alongside her role as an open source security researcher at Intel. She says claims of meritocracy make her cringe.
-Why? Such statements cause maintainers to ignore opportunities to get more people involved in projects, even in cases where the open source community gathers in person.
+Terri Oda (She/Her) volunteers for the Python Software Foundation and Google's Summer of Code alongside her role as an open source security researcher at Intel.
+She says claims of meritocracy make her cringe.
+Why?
+Such statements cause maintainers to ignore opportunities to get more people involved in projects, even in cases where the open source community gathers in person.
 "For example, say you're running code sprints at a conference and want to increase the number of women," Oda says.
 "If you're thinking about merit and skills, you're going to wind up offering more intro-to-sprinting type content or whining about the university pipeline.
 But if you look at the bigger picture, you might realize that the conference offers childcare during the main conference, but it stops when sprints start.
 Or that the venue isn't in a safe area and the sprints run until after dark."
 The first step to build a more inclusive environment is self-awareness.
-Open source contributors enter projects with a range of lived experiences that affect how -- and if -- they show up.
+Open source contributors enter projects with a range of lived experiences that affect how—and if—they show up.
 Sitting with and reflecting on this fact is the first, most crucial step.
-The next step is to take an honest look at your OS project's current community, and take note of who is—and isn't—there.
+The next step is to take an honest look at your project's current community, and take note of who is—and isn't—there.
 If your project contributors all, or even mostly, look like you, that's a huge red flag that an inclusive overhaul is in order. 
 
 === 2. Prioritize your project's documentation
 
-A 2019 Stack Overflow study found that about 41% of developers have less than 5 years of experience.
+A 2019 Stack Overflow study found that about 41% of developers have less than five years of experience.
 Between these young technologists and current emphasis on STEM education, there are lots of opportunities to welcome new OS contributors.
 In order to do so, project maintainers must lower barriers to entry - and clear, concise documentation is the first step. 
 Zach Corleissen (he/they) is the lead technical writer for The Linux Foundation (LF) who recently revised a large architectural document for the LF Energy Foundation. He also serves as one of the co-chairs for the Kubernetes documentation special interest group (SIG Docs). Kubernetes was his first OSS project, and it quickly became one of the most prolific projects in modern open source. Its rapid growth allowed Corleissen to own important aspects of its documentation, and revise it to become more reader-friendly.
 "Insisting that code is self-documenting is a form of gatekeeping [and] an example of an unhealthy project culture," Corleissen says.
 "I think the devaluation often comes from developers who see a static generator stack and think, 'How hard can it be?'
 One of my least favorite dismissive phrases: 'It's just a pile of Markdown.'
-If only it were that easy! Documentation is code for an environment where no chipsets are identical; kernel defaults are hostile; RAM is variable; storage is subject to random external dependencies; and production regularly fails despite optimal conditions, or inversely, succeeds in spite of obvious CI failures."
-To track progress, the SIG Docs group does a quarterly review where they measure the progress of their previous quarter's goals and prioritize work for the upcoming quarter. One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it. That creates even more onus on contributors to find new contributors. 
-
+If only it were that easy!
+Documentation is code for an environment where no chipsets are identical; kernel defaults are hostile; RAM is variable; storage is subject to random external dependencies; and production regularly fails despite optimal conditions, or inversely, succeeds in spite of obvious CI failures."
+To track progress, the SIG Docs group does a quarterly review where they measure the progress of their previous quarter's goals and prioritize work for the upcoming quarter.
+One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it.
+That creates even more onus on contributors to find new contributors. 
 
 === 3. Create and enforce a clear Code of Conduct
 
-If your OS project doesn't already have a Code of Conduct (CoC), it's never too late to make one.
-They are an expectation for modern OS initiatives, from long-term projects to two-day conferences.
-In my own research for this chapter, several OS contributors said they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
+If your project doesn't already have a Code of Conduct (CoC), it's never too late to make one (see this guidebook's chapter on governance for tips of getting started).
+They are an expectation for modern open source initiatives, from long-term projects to two-day conferences.
+In my own research for this chapter, several open source contributors said they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
 "Having a code of conduct would be big for me," explains Natalie Zamani (She/Her), Senior Software Engineer at Apple.
 "And then something as seemingly unrelated as not tolerating project contributors espousing racist/sexist/homophobic/transphobic ideas, even if it’s not related to their project work.
 I wouldn’t feel comfortable working with individuals who hold such views, full stop. And I’ve seen a few projects that would otherwise be interesting to me where that’s tolerated."
 
-As the former President and Chairperson of the Board of Directors for the GNOME Foundation, Sanchez helped create GNOME's event CoC. She says that while the Contributor’s Covenant is the default Code of Conduct for a lot of OS communities, translating it to an events format took some creative work - and a lot of feedback from the GNOME community.
-"No matter the type of CoC you’re rolling out, having a transparent plan and timeline is key," Sanchez says. "At GNOME, we created a working group after one of our annual conferences to start drafting a code of conduct. We passed the notion of a working group by the Board of Directors to make sure that they were onboard. They made a community-wide announcement letting people know the process: a working group would be drafting the CoC, sending to community for revisions, the Board would then see the revised draft and vote, and then the membership would vote at the Annual General Meeting."
+As the former President and Chairperson of the Board of Directors for the GNOME Foundation, Sanchez helped create GNOME's event CoC.
+She says that while the Contributor’s Covenant is the default Code of Conduct for a lot of OS communities, translating it to an events format took some creative work—and a lot of feedback from the GNOME community.
 
-Despite the key role of community feedback, Sanchez says the CoC should be owned by a governing body within your OS project. CoCs remain a touchy subject in OS communities, and not all OS contributors believe they're necessary. A governing body (or at least a committee) that's comprised of diverse contributors and shares the creation process can help alleviate disagreements. Once you've created your governing body, assign members to own specific tasks. These include a Chair who can break voter ties, moderators to enforce the Code of Conduct, and mentors to train the community. It's essential for all community members -- especially URMs -- to see that project leads protect their safety and integrity.
+"No matter the type of CoC you’re rolling out, having a transparent plan and timeline is key," Sanchez says.
+"At GNOME, we created a working group after one of our annual conferences to start drafting a code of conduct.
+We passed the notion of a working group by the Board of Directors to make sure that they were onboard.
+They made a community-wide announcement letting people know the process: a working group would be drafting the CoC, sending to community for revisions, the Board would then see the revised draft and vote, and then the membership would vote at the Annual General Meeting."
 
-"I am a firm believer that signalling is very important, but that broken trust is difficult to repair," Eising explains. "Don't signal to minorities that you are ready to embrace them before you actually are - that's like inviting someone who uses a wheelchair to a party on the first floor with no elevator. That person won't trust you again to think about your needs appropriately. Organizations need to look within and really assess before making a reach out."
+Despite the key role of community feedback, Sanchez says the CoC should be owned by a governing body within your project.
+CoCs remain a touchy subject in open source communities, and not all open source contributors believe they're necessary.
+A governing body (or at least a committee) comprised of diverse contributors and shares the creation process can help alleviate disagreements.
+Once you've created your governing body, assign members to own specific tasks.
+These include a Chair who can break voter ties, moderators to enforce the Code of Conduct, and mentors to train the community.
+It's essential for all community members—especially URMs—to see that project leads protect their safety and integrity.
 
+"I am a firm believer that signalling is very important, but that broken trust is difficult to repair," Eising explains.
+"Don't signal to minorities that you are ready to embrace them before you actually are—that's like inviting someone who uses a wheelchair to a party on the first floor with no elevator.
+That person won't trust you again to think about your needs appropriately.
+Organizations need to look within and really assess before making a reach out."
 
-=== 4. Reward OS contributions beyond code
+=== 4. Reward contributions beyond code
 
 In her time working on open source, Sanchez says that most projects focus on attracting a narrow set of contributors: Engineering, Design, Translation, Documentation, and Outreach. Despite how broad that sounds, she'd like to see a lot more roles and contributions be rewarded:
 
@@ -219,40 +235,71 @@ In more than two decades of open source work, she has seen how ignoring crucial 
 Foundations like the Apache Software Foundation, Linux Foundation bring all of these contributions to the table for their hosted projects.
 This allows the project to more successfully build a broader ecosystem."
 
-
 === 5. Mentor new talent to grow and lead the project
 
-11 years after co-founding Redis, Salvatore Sanfilippo announced plans to step down as project maintainer of the NoSQL database. He named Yossi Gottlieb and Oran Agra as his successors to maintain the Redis project. In doing so, the Redis governance model got a refresh.
+Eleven years after co-founding Redis, Salvatore Sanfilippo announced plans to step down as project maintainer of the NoSQL database.
+He named Yossi Gottlieb and Oran Agra as his successors to maintain the Redis project.
+In doing so, the Redis governance model got a refresh.
 
-Rather than keeping Redis's prior BDFL style, Gottlieb and Agra built a new light governance model. It involves electing a small group of longtime Redis developers to act as core contributors and uphold the project's Code of Conduct. 
+Rather than keeping Redis's prior BDFL style, Gottlieb and Agra built a new, lighter governance model.
+It involves electing a small group of longtime Redis developers to act as core contributors and uphold the project's Code of Conduct.
 
-Regardless of your own project's governance model, you must include a way to train key contributors to assume leadership roles. This achieves three key goals: Helping new contributors learn how they can grow, rewarding contributors who own key aspects of the project, and preventing maintainer burnout. This last point is noteworthy: Sanfilippo said when he stepped down from Redis that despite his passion for coding, he never aspired to maintain a project. Without new leaders to step up -- and documentation sharing how contributors can assume such roles -- maintainers risk either working on projects when they no longer want to or having the project stall. Likewise, the project risks depriving others of the chance to step up. 
+Regardless of your own project's governance model, you must include a way to train key contributors to assume leadership roles.
+This achieves three key goals:
 
-The act of building and maintaining a mentorship program is inclusive in itself. Several open source leaders interviewed for this book said they see a clear need for more mentorship in open source at large, and a desire to do it themselves. In some cases, open source contributors believe so much in the power of mentorship that they restructured their contributions to include it. And, because they were mindful of their own time limitations, they offered flexibility to new leaders as well.
+. Helping new contributors learn how they can grow
+. Rewarding contributors who own key aspects of the project
+. Preventing maintainer burnout
 
-"My open source contributions definitely changed even before I became a parent," explains Oda. "As the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do. So, I handed off some of my other projects more completely and never went back to them.
-"Since new moms typically get less than one hour of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for. I worked to take CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
+This last point is noteworthy: Sanfilippo said when he stepped down from Redis that despite his passion for coding, he never aspired to maintain a project.
+Without new leaders to step up—and documentation sharing how contributors can assume such roles—maintainers risk either working on projects when they no longer want to or having the project stall.
+Likewise, the project risks depriving others of the chance to step up. 
+
+The act of building and maintaining a mentorship program is inclusive in itself.
+Several open source leaders interviewed for this book said they see a clear need for more mentorship in open source at large, and a desire to do it themselves.
+In some cases, open source contributors believe so much in the power of mentorship that they restructured their contributions to include it.
+And, because they were mindful of their own time limitations, they offered flexibility to new leaders as well.
+
+"My open source contributions definitely changed even before I became a parent," explains Oda.
+"As the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do. So, I handed off some of my other projects more completely and never went back to them.
+"Since new moms typically get less than one hour of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for.
+I worked to take CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
 
 To build your own mentorship program, Sanchez says to focus on four actions and initiatives:
 
-"Create learning opportunities often. Find ways to help people learn what you do and how you do it. Don’t just wait for formal internship or mentorship programs, but take advantage of those if you can. Consider recording videos, holding AMAs, participating in events, etc. Be open to communicating with people informally in order to build relationships and trust so that you can help develop those with potential. Cast your net wide and you’ll probably find those gem contributors who are ready to step in to help bring your project to a whole new level. 
+____
+Create learning opportunities often. Find ways to help people learn what you do and how you do it. Don’t just wait for formal internship or mentorship programs, but take advantage of those if you can. Consider recording videos, holding AMAs, participating in events, etc. Be open to communicating with people informally in order to build relationships and trust so that you can help develop those with potential. Cast your net wide and you'll probably find those gem contributors who are ready to step in to help bring your project to a whole new level. 
 
 Be a connector. Try to have a mental map of prominent contributors in your community and their strengths. Share the mentorship by introducing newcomers to several people. Burnout is real on the mentor side and you want to make sure that there are other people your mentee can reach if you need to take a break or just get busy. 
 
 Make sure that there’s a chat tool specifically for community interactions. In order to build trust, people need private spaces. Chat facilitates conversations and collaboration, and also allows people to message you directly. To avoid burnout, you may want to have a chat tool available just for your community / work conversations and a chat tool just for your personal life. That way, you can turn off all notifications on one tool if you need a break, or just simply have that mental separation thanks to differences in UX. 
 
-Connect through events. Events provide a powerful opportunity for you to connect with potential mentees. At these events, try to plan fun activities that are designed to help people connect informally. This may mean having a people-bingo where people have to ask each other questions to enter a raffle, or it could be a city tour, or a game night. Fun activities throughout the year can facilitate authentic relationships, which can also help people overcome fear of contribution."
-
+Connect through events. Events provide a powerful opportunity for you to connect with potential mentees. At these events, try to plan fun activities that are designed to help people connect informally. This may mean having a people-bingo where people have to ask each other questions to enter a raffle, or it could be a city tour, or a game night. Fun activities throughout the year can facilitate authentic relationships, which can also help people overcome fear of contribution.
+____
 
 === 6. Commit to continuous improvement
 
-The work of inclusion is never done; instead, it's ongoing. As your project grows, you will find new gaps to fill, questions to document, and additions to the Code of Conduct. As your community becomes more inclusive, it might feel like you're finding more ways you've fallen short. Uncomfortable as this is, it's actually a good thing. It means you've done the hard work of committing to keep on getting better. And, if you've done the work of building an inclusive team, you won't do this work alone. Instead, you'll share the work with your community, giving everyone the chance to share their feedback.
+The work of inclusion is never done.
+It's ongoing.
+As your project grows, you will find new gaps to fill, questions to document, and additions to the Code of Conduct.
+As your community becomes more inclusive, it might feel like you're finding more ways you've fallen short.
+Uncomfortable as this is, it's actually a good thing.
+It means you've done the hard work of committing to keep on getting better.
+And, if you've done the work of building an inclusive team, you won't do this work alone.
+Instead, you'll share the work with your community, giving everyone the chance to share their feedback.
 
-To keep the dialogue ongoing and open, give your community options to leave feedback on their experiences. This can range from quarterly surveys to giving contributors the freedom to create channels in your project's Slack, Discourse, etc. chat about mental health, being a person of color, how to handle negotiations, etc. Such channels give contributors ways to connect socially, which is crucial for increasing asynchronous collaboration. It also gives you new ways to support contributors so they can contribute more fully.
+To keep the dialogue ongoing and open, give your community options to leave feedback on their experiences.
+This can range from quarterly surveys to giving contributors the freedom to create channels in your project's Slack, Discourse, etc. chat about mental health, being a person of color, how to handle negotiations, etc.
+Such channels give contributors ways to connect socially, which is crucial for increasing asynchronous collaboration.
+It also gives you new ways to support contributors so they can contribute more fully.
 
 "I am hearing-impaired, and I requested that the All Things Open Conference consider that when in larger venues where keynotes were speaking and there were no specific adaptations for those of us who were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
 "I was particularly impressed when attending the Creative Commons Global Summit in Toronto in 2018, where nearly all presentations were accompanied by folks who signed and also provide simultaneous closed captioning of all speakers."
 
-Inclusion isn't a one-time pull request, which makes it such an important problem to solve. Without building and sustaining inclusive communities, there's no hope of improving diversity of open source contributors. To receuit new talent, prevent maintainer burnout, and create affirming online environments, open source maintainers should commit to inclusion. Change starts from within, and when diverse tech talent sees your inclusive efforts, they will be much more likey to join.
+Inclusion isn't a one-time pull request, which makes it such an important problem to solve.
+Without building and sustaining inclusive communities, there's no hope of improving diversity of open source contributors.
+To receuit new talent, prevent maintainer burnout, and create affirming online environments, open source maintainers should commit to inclusion.
+Change starts from within, and when diverse tech talent sees your inclusive efforts, they will be much more likey to join.
 
-"Make it easy for people to get involved and to contribute back," says Ruff. "The mark of a good project is not how complex it is, but how easy it is to get involved."
+"Make it easy for people to get involved and to contribute back," says Ruff.
+"The mark of a good project is not how complex it is, but how easy it is to get involved."
