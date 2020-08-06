@@ -1,7 +1,7 @@
 = Why do people participate in open source communities?
 Authors: Gordon Haff <ghaff@redhat.com>
 Updated: 2020-05-14
-Edited: 2020-07-09 (BKP)
+Edited: 2020-08-06 (paula)
 
 == Introduction
 
@@ -50,7 +50,7 @@ A final motivator in this category is what researchers call "own-use value" but 
 
 As noted earlier, motivations for many things are multi-faceted and contributing to open source software is no exception. However, here are three takeaways that you may find useful.
 
-*Don't expect non-extrinsic motivators to carry too much of the load.* Many do contribute to open source projects for idealistic or altruistic reasons. But those are usually not the sole motivators and may not even be an important ones. Especially in the case of projects that have commercial backing, pay, and other professional working benefits matter a great deal.
+*Don't expect non-extrinsic motivators to carry too much of the load.* _Many do contribute to open source projects for idealistic or altruistic reasons. But those are usually not the sole motivators and may not even be an important ones. Especially in the case of projects that have commercial backing, pay, and other professional working benefits matter a great deal._
 
 *Ampily non-extrinsic motivators such as learning and peer recognition.* While not replacements for more direct benefits, the opportunity to be recognized by peers and to work in new technology areas are motivators. Organizations should consider peer recognition programs and explicitly encourage learning in order to make the best use of these motivational factors.
 
