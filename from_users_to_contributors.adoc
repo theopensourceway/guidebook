@@ -28,7 +28,10 @@ Helping them over the particular speed bump they're hitting will turn them from 
 
 Feedback for new contributors is only useful tot eh extent that it's actionable—that is, that the contributor can _do something_ as a result of what you've offered.
 
-In the case that someone is asking a question, you may need more information from them in order to answer it. For instance, if you're reviewing a pull request containing materials that don't not match the project's coding conventions, you'll want the contributor to make some changes to their contribution. In the event that you're giving feedback or asking for something from them, it's important to look at your project with a beginner's eye. There's nothing more frustrating than having a question answered with something completely esoteric—"Just frobding the dollygagger!"—and scratching your head, saying "How on Earth do I do that?"
+In the case that someone is asking a question, you may need more information from them in order to answer it.
+For instance, if you're reviewing a pull request containing materials that don't not match the project's coding conventions, you'll want the contributor to make some changes to their contribution.
+In the event that you're giving feedback or asking for something from them, it's important to look at your project with a beginner's eye.
+There's nothing more frustrating than having a question answered with something completely esoteric—"Just frobding the dollygagger!"—and scratching your head, saying "How on Earth do I do that?"
 
 When reviewing code, do not assume a high level of proficiency with the programming language, your project, or even with how to update a pull request in GitHub. If your project runs on Kubernetes, do not assume that the person you are dealing with is an admin on the Kubernetes cluster, or is familiar with Kubernetes internals.
 
@@ -36,7 +39,9 @@ If in doubt, you can always ask some level-setting questions. But if you're tell
 
 == Give engaged users a good experience
 
-When someone engages with your project, do everything in your power to ensure they come away from the interaction feeling good. This is important—not just for the person you are dealing with, but for all of the people you'll never hear from who are looking on. The latter person might be a reader who finds a StackOverflow question six months later, or a bystander in a community chat forum. When these users observe others having a good experience, they'll feel better about the project too.
+When someone engages with your project, do everything in your power to ensure they come away from the interaction feeling good.
+This is important—not just for the person you are dealing with, but for all of the people you'll never hear from who are looking on.
+The latter person might be a reader who finds a StackOverflow question six months later, or a bystander in a community chat forum. When these users observe others having a good experience, they'll feel better about the project too.
 
 == People over process
 
