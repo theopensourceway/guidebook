@@ -4,17 +4,25 @@ Updated: 2020-05-11
 
 == Introduction
 
-Every open source project begins with code and one or more developers. What turns that _project_ into a _community_ are the people who engage with one another _around_ that code. No matter the maturity level of your project, one of the most important things you can do to ensure its success is encourage and maintain engagement with its users and contributors.
+Every open source project begins with code and one or more developers.
+What turns that _project_ into a _community_ are the people who engage with one another _around_ that code.
+No matter the maturity level of your project, one of the most important things you can do to ensure its success is encourage and maintain engagement with its users and contributors.
 
-When a user of your project makes the effort to engage with the developers of the project, treat the contribution as you would a gift from someone close to you. This person has taken time they could have spent on something else and chosen to use that time to engage with the project. Perhaps they've submitted bug reports, offered feature requests, or made pull requests; whatever the contribution, the initial interactions they create are critical for determining whether that person will develop a positive or negative impression of your project and its community.
+When a user of your project makes the effort to engage with the developers of the project, treat the contribution as you would a gift from someone close to you.
+This person has taken time they could have spent on something else and chosen to use that time to engage with the project.
+Perhaps they've submitted bug reports, offered feature requests, or made pull requests; whatever the contribution, the initial interactions they create are critical for determining whether that person will develop a positive or negative impression of your project and its community.
 
 Here are a few steps you can take to create a welcoming culture that treats user engagement as the gift it is.
 
 == Accept the gift
 
-Reacting positively to user engagement might be difficult if, for example, a user is upset because something in your project doesn't work as they'd expect. At times like this, remember that this person is making an effort to tell you about their issue. Think of it like the time your well-meaning aunt got you the cheap knock-off building blocks instead of the Lego set you were hoping for; when someone engages with your project for the first time, you have a single opportunity to make a good first impression.
+Reacting positively to user engagement might be difficult if, for example, a user is upset because something in your project doesn't work as they'd expect.
+At times like this, remember that this person is making an effort to tell you about their issue.
+Think of it like the time your well-meaning aunt got you the cheap knock-off building blocks instead of the Lego set you were hoping for; when someone engages with your project for the first time, you have a single opportunity to make a good first impression.
 
-First, thank the person for their contribution and acknowledge it. Many times, when people turn up to your project upset, the very first thing they want is reassurance that they aren't the source of the trouble–reassurance that, yes, this is harder to use than it should be. Helping them over the particular speed bump they're hitting will turn them from critics to cheerleaders for the project.
+First, thank the person for their contribution and acknowledge it.
+Many times, when people turn up to your project upset, the very first thing they want is reassurance that they aren't the source of the trouble–reassurance that, yes, this is harder to use than it should be.
+Helping them over the particular speed bump they're hitting will turn them from critics to cheerleaders for the project.
 
 == Provide actionable, useful feedback
 
