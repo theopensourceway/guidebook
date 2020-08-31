@@ -2,7 +2,7 @@
 
 This repository contains source materials for The Open Source Way 2.0, a (somewhat opinionated) guidebook for anyone interested in managing open source communities. It collects best practices for initiating, nurturing, growing, and maintaining groups of passionate contributors.
 
-The Open Source Way 2.0 refreshes [pre-existing materials](https://www.theopensourceway.org/) on these topics.
+The Open Source Way 2.0 refreshes [pre-existing materials](https://www.theopensourceway.org/wiki) on these topics.
 
 ## Getting started
 
