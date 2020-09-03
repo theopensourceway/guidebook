@@ -3,6 +3,7 @@
 .. Quickstart checklist
 .. Terminology and lexicon
 . Attracting Users
+.. Communication Norms in Open Source Projects
 .. Basics of a project
 .. Driving adoption
 .. Creating diverse and inclusive communities
