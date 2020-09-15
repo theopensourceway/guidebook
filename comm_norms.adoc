@@ -2,7 +2,7 @@
 
 == Introduction
 
-While the tools that projects use to communicate continually evolve, best practices for communicating amongst project participants rarely change.
+While the tools projects use to communicate continually evolve, best practices for communicating among project participants rarely change.
 This chapter will cover the basics of project communications and offer advice on serving a global audience by making the best use of particular tools and platforms.
 We'll see how certain norms and techniques for maintaining productive communication in your community will ring true everywhere, regardless of the communication tools or platforms a project chooses.
 And we will conclude with some observations on the ways ever-changing tooling and communication practices in open source projects may present challenges for the outside observer—particularly academic researchers—along with recommendations for mitigating those challenges in a way that benefits all project participants.
@@ -12,18 +12,30 @@ And we will conclude with some observations on the ways ever-changing tooling an
 As the number of free and open source software projects has increased over time, the communication tools projects use—both to connect with their users and to coordinate their developers and contributors—have evolved.
 Internet Relay Chat (IRC) was once the default choice for real-time project chat.
 Many large projects conducted development discussions solely via their electronic mailing lists, https://en.wikipedia.org/wiki/Freecode[Freshmeat] was the place to hear about new project releases or updates to existing projects, and discussions about feature design and project improvements occurred via email and were included in a project's mailing list archives.
+PD--The sentence in line 14 is quite long. Consider breaking into two sentences (most likely between "projects" and "discussion").
 
 Today, the landscape has shifted:
+PD--The bullets that follow are quite long. Consider either paring them down so they are the length of one to two relatively simple sentences or reformat into paragraphs.
 
 * While real-time chat is perhaps less common today, projects have not forgone it entirely.
 Many projects have simply adopted services that are considered more user-friendly or accessible to those who may not know how to attach to a screen session in Irssi in order to have a persistent connection to their chat system (for example, Gitter, Slack, RocketChat, and others).
-* While some communities still employ email for asynchronous communications, others have found that they can achieve better results by offering their users the opportunity to collaborate in online forums, a format more familiar to many developers who began coding at the same time they were sharing news and perspectives on then-new and popular forum sites like Reddit and Imgur.
-Advocates of the use of forums find the visual layout more appealing, and forum administrators often prefer the medium's fine grained access controls easier to use for moderation (for example, being able to stop all posts in a particular thread during a heated discussion is relatively easy via most forum software—not so with mailing lists).
+PD--Admittedly, I'm not the most tech-savvy person you'll find, but I had a hard time following the sentence above. Can it be simplified?
+
+* While some communities still employ email for asynchronous communications, others have found they can achieve better results by offering their users the opportunity to collaborate in online forums, a format more familiar to many developers who began coding at the same time they were sharing news and perspectives on then-new and popular forum sites like Reddit and Imgur.
+Advocates of the use of forums find the visual layout more appealing, and forum administrators often prefer the medium's fine grained access controls easier to use for moderation. (For example, being able to stop all posts in a particular thread during a heated discussion is relatively easy via most forum software—not so with mailing lists.)
+PD--How would you feel about "Forum advocates" instead of "Advocates of the use of forums"? It's a little tighter. It is also parallel with "forum advocates" later in the sentence.
+
 * While Freshmeat remains active (now renamed to Freecode), free and open source software projects have also made extensive use of social media services like Twitter and Facebook to interact with their user and developer communities.
 Obviously, social media serves as an excellent vehicle for project marketing and keeping audiences abreast of major project developments.
+PD--Consider deleting "Obviously" as not everyone in the audience might have that feeling.
+
 Social media also provides a vehicle for advertising upcoming events, live streaming of content or talks, generating interest in a project, and other forms of marketing and outreach that broadcast further than a project's newsletter, website, or blog.
+PD--This sentence would be a good candidate for a bulleted list. Doing so would better ensure social media's capabilities aren't lost within the body of the paragraph. However, it would be better if you didn't have a list within a list, which gets back to the original comment about the bullets in this list being rather long.
+
 And many users now expect to receive basic technical support via these platforms.
 * While mailing list archives may no longer serve as a definitive record of project discussions, http://github.com/[GitHub]'s popularity as an online development and collaboration platform, has meant many projects now manage their development discussions via GitHub issues, using GitHub's "tags" feature to differentiate, for instance, between discussions addressing implementation of a new feature and those reporting that the software does not work as intended.
+PD--Would it be possible to break this sentence up into more manageable chunks for the reader?
+
 And yet while the tools free and open source projects use to achieve communication are rapidly evolving, the human needs for both information and a sense of connection have not changed.
 
 == Project communications: The basics
@@ -32,26 +44,31 @@ And yet while the tools free and open source projects use to achieve communicati
 
 People must understand the "who," "what," "where," "when," "why," and "how" of working with an open source software community.
 Thoughtfully established and well-maintained communication channels serve the following functions for an open source project and its participants:
+PD--Consider making the teaser into the list more active by switching verbs to something along the lines of "empower," "enable," or even "allow."
 
-* Establish shared understanding of what the software it is, why people may wish to use it, and how they can get started doing so 
-* Educate the community about how to use the software and how to contribute to the project
-* Keep people informed about project events (like a conference or webinar) and developments (like a new software feature, the formation of a working group, or the arrival of new contributors)
-* Preserve knowledge about the project's decision-making norms and practices
-* Allow users to report an error with the software and to submit fixes for errors they or others uncover
-* Build a sense of common interest and purpose amongst participants, and provide an outlet for people in the project to socialize or "hang out" together online
-* Provide a location for contributors to the project to collaboratively work together, be it on documentation for the project or to discuss how a particular part of the code base should be refactored
+* Establish shared understanding of what the software it is, why people may wish to use it, and how they can get started doing so. 
+* Educate the community about how to use the software and how to contribute to the project.
+* Keep people informed about project events (like a conference or webinar) and developments (like a new software feature, the formation of a working group, or the arrival of new contributors).
+* Preserve knowledge about the project's decision-making norms and practices.
+* Allow users to report an error with the software and to submit fixes for errors they or others uncover.
+PD--Just want to confirm you mean people are using the software to report and fix errors and not simply reporting errors in the software.
+
+* Build a sense of common interest and purpose amongst participants, and provide an outlet for people in the project to socialize or "hang out" together online.
+* Provide a location for contributors to the project to collaboratively work together, be it on documentation for the project or to discuss how a particular part of the code base should be refactored.
 
 === Know your audience(s)
 
-As you develop project documentation and other informational resources, recognize that this work has several different audiences.
+As you develop project documentation and other informational resources, recognize this work has several different audiences.
 Understanding these audiences and prioritizing their unique needs can help you craft better materials.
 
 For example, consider the basic distinction between project _users_ and project _developers_.
-Someone interested in _using_ the software will be interested in things like how to install it, how to configure it, and what they will need to know to accomplish the task at hand (e.g., build a website).
+Someone interested in _using_ the software will be interested in things like how to install it, how to configure it, and what they need to know to accomplish the task at hand (e.g., build a website).
 Developers will also be interested in such details, but will need _additional_ detail if they are going to contribute effectively to the project.
 
 For example, if your project observes certain coding conventions, be sure to include those conventions in the developer documentation.
-Having a patch rejected by a maintainer because you haven't indented code a certain way can be rather demotivating! Users, however, likely won't need these details.
+PD--You've got two paragraphs that both begin with "For example." Consider omitting one instance or using a synonym for variety's sake.
+
+Having a patch rejected by a maintainer because you haven't indented code a certain way can be rather demotivating. Users, however, likely won't need these details.
 
 TIP: Develop a style guide for your project and make sure it is easy to find in your developer-oriented documentation.
 Not every project will create its own style guide, but it is best practice to note what coding conventions the project will observe.
@@ -73,7 +90,7 @@ This project description should include what the code base is designed to do and
 Making this information succinct and easy to find is critical.
 Post a quick description on the project's home page so that interested parties immediately discover if the project is designed to meet their needs.
 
-Think of this information as the opportunity to explain to someone who has never heard of your project all about why it could matter to them—in 30 seconds or less.
+Think of this information as the opportunity to explain to someone who has never heard of your project why it could matter to them—in 30 seconds or less.
 For example, Drupal's https://www.drupal.org/about[about page] describes the project this way:
 
 ____
@@ -86,11 +103,14 @@ ____
 
 In this description—just a single paragraph—we learn:
 
-* What Drupal is (a content management system) 
-* What a content management system is (a tool to build websites) 
-* Why Drupal is a compelling choice (it's easy to use, reliable, secure, and flexible)
+* What Drupal is (a content management system). 
+* What a content management system is (a tool to build websites). 
+* Why Drupal is a compelling choice (easy to use, reliable, secure, and flexible).
+PD--Made some edits here so the bullets would be parallel.
 
 Let's take another example from a popular project, Kubernetes.
+PD--Consider a colon instead of a comma after "project." It's more emphatic.
+
 When visiting the project home page, http://kubernetes.io/[kubernetes.io], a visitor immediately sees the following explanation:
 
 ____
@@ -101,16 +121,19 @@ ____
 
 In this description, we immediately learn:
 
-* What Kubernetes is (a system for working with containerized applications, including deployment, scaling and management) 
-* How Kubernetes is abbreviated (little details like this one immediately deepen the comfort level of new arrivals; no one is expected to already know an arcane acronym upon arrival)
-* Where Kubernetes was developed (Google is noted as the originator of this code base, establishing the project as focused on enterprise applications and providing confidence that the software is well designed and maintained)
-* Kubernetes is open source (a user can expect to use, run, modify, and share changes to the code base; any questions about barriers to entry due to licensing fees, procurement processes, etc., are dismissed)
-* The project values community engagement (one can expect that contributions of code, documentation, etc.
-are welcome and encouraged)
+* What Kubernetes is. (It's a system for working with containerized applications, including deployment, scaling and management.) 
+* How Kubernetes is abbreviated. (Little details like this one immediately deepen the comfort level of new arrivals; no one is expected to already know an arcane acronym upon arrival.)
+* Where Kubernetes was developed. (Google is noted as the originator of this code base, establishing the project as focused on enterprise applications and providing confidence that the software is well designed and maintained.)
+* Kubernetes is open source. (A user can expect to use, run, modify, and share changes to the code base; any questions about barriers to entry due to licensing fees, procurement processes, etc., are dismissed.)
+* The project values community engagement. (One can expect that contributions of code, documentation, etc.
+are welcome and encouraged.)
 
 === Getting started
 
-The processes for creating good "getting started" documentation—occasionally called "onboarding documentation"—are outside the scope of this chapter (see the dedicated "Onboarding" section in this guidebook for more detail).
+The processes for creating good "getting started" documentation—occasionally called "onboarding documentation"—are outside the scope of this chapter.
+PD--A general observation here: There are several em dashes in this paragraph (and the chapter as a whole). I love em dashes. They are my favorite punctuation mark. However, when used too often, their effectiveness is diluted. Consider replacing them with other punctuation throughout the chapter.
+
+(See the dedicated "Onboarding" section in this guidebook for more detail.)
 Here, suffice it to say that open source project websites should feature a section aimed at helping new users and potential contributors get started using the software.
 Clearly labeling that section "getting started" or "new users" makes finding that section easy when people need it.
 Further differentiating between "new users" and "new contributors" in your onboarding documentation is even better, as these two audiences have very different needs.
@@ -121,13 +144,14 @@ For example, you may have a Slack channel called "newbies" staffed by folks who 
 
 === Frequently asked questions
 
-Another excellent location to feature basic information about your project is an FAQ (Frequently Asked Questions) page.
-If project development is just beginning, then a basic FAQ detailing what the project is, what the code base is used for, and how someone can get access to the code is sufficient.
-However, as more people join the project—new users, developers, documentarians, etc.—you will likely find yourself answering the same basic questions repeatedly (and in the process you'll discover that many aspects of the projects are not as obvious to newcomers as they are to you!).
+Another excellent location to feature basic information about your project is a frequently asked questions (FAQ) page.
+If project development is just beginning, a basic FAQ detailing what the project is, what the code base is used for, and how someone can get access to the code is sufficient.
+However, as more people join the project—new users, developers, documentarians, etc.—you will likely find yourself answering the same basic questions repeatedly.
+(And in the process you'll discover that many aspects of the projects are not as obvious to newcomers as they are to you.)
 These repeat questions represent opportunities to improve your documentation and to seek help from your community.
 
 Keep your FAQ updated and easy to locate.
-But even better: ask community participants to help you improve it.
+But even better: Ask community participants to help you improve it.
 When answering a question for a newcomer, be it via email on the project mailing list or in real-time chat, ask the newcomer to write up the question and answer for inclusion in the project FAQ.
 By asking for help from your community, you do several things:
 
@@ -147,8 +171,9 @@ People who feel their work is appreciated and respected are more likely to stick
 Your project's website should also make clear the _purpose_ of the project and the _activities_ the project has as its focus.
 People have difficulty understanding how they can best fit into a community and how they can contribute if they do not understand what activities are currently in progress and what is planned for the future.
 One common tool to communicate these goals is a project roadmap.
-But even if your project does not yet have sufficient resources to develop this kind of roadmap, you should still find some way to ensure that users and would-be contributors understand the project landscape.
-For instance, a weekly recap of project activities and planned activities for the coming week or month is an excellent start, and it's something you can offer through a quick blog or forum post; such works are an excellent resource for newcomers orienting themselves to the project and are a wonderful place to point interested parties to learn more as part of their onboarding process.
+Even if your project does not yet have sufficient resources to develop this kind of roadmap, you should still find some way to ensure users and would-be contributors understand the project landscape.
+For instance, a weekly recap of project activities and planned activities for the coming week or month is an excellent start, and it's something you can offer through a quick blog or forum post.
+Such works are an excellent resource for newcomers orienting themselves to the project and are a wonderful place to point interested parties to learn more as part of their onboarding process.
 
 Communicating your project's _non-goals_ is equally important.
 Due to the vibrant nature of open source projects, it is only natural that someone will find a use for a project that the project's creators never intended and will wish to extend the project's capabilities to target that specific use case.
@@ -168,49 +193,72 @@ It can even encourage adoption of open source alternatives to the vendor's produ
 
  === What is an issue tracker?
 
-An issue tracker (sometimes also known as a "bug tracker, "issues list," or "issue queue") is a tool that allows people to submit reports when they encounter instances where they believe the software is not working as intended.footnote:[The authors are grateful for the work of Kent C.Dodds and Sara Drasner in their article https://css-tricks.com/open-source-etiquette-guidebook/[An Open Source Etiquette Guidebook], accessed 24 June 2020 12:52 CET.] Some projects manage their entire development workflow via their issue trackers as a way to monitor pending tasks and allow for collaborative commenting and review of work in progress.
+An issue tracker (sometimes also known as a "bug tracker, "issues list," or "issue queue") is a tool that allows people to submit reports when they encounter instances where they believe the software is not working as intended.footnote:[The authors are grateful for the work of Kent C.Dodds a
+Some projects manage their entire development workflow via their issue trackers as a way to monitor pending tasks and allow for collaborative commenting and review of work in progress.
+PD--You may want to flip flop the order of the sentence here and begin with "As a way to monitor ..." to give more emphasis to the motivation.
+
 In this section, we'll discuss using an issue tracker for the purpose of reporting failures with the software.
-By reporting your issue using a project's issue tracker, you ensure that maintainers who are looking out for problems will see your report and act upon it.
+By reporting your issue using a project's issue tracker, you ensure maintainers who are looking out for problems see your report and act upon it.
 
 === Why file an issue?
 
 While filing an issue may seem more cumbersome than simply asking for help in real-time chat, it is important to do for several reasons:
+PD--Some of the bullets in this list are also quite long. Can you pare down the content so they're shorter? Or consider a different presentation (paragraphs/subheads)?
 
 * Project contributors cannot keep track of all conversations occurring across various platforms, but they can always refer back to the issue tracker when they have an opportunity to work on improving the project.
-Real-time chat and social media are ephemeral communication channels; the issue tracker is a purpose built tool for recording and reviewing problems with the software.
-* Software projects often define their upcoming work plans by using their issue tracker as a key component—and perhaps their sole tool—to prioritize all possible areas to work on (simply put, the project's issue tracker is very often synonymous with the project's to-do list).
+PD-With an eye toward paring down content, maybe change to "... but they can always refer to the issue tracker to improve the project."?
+
+Real-time chat and social media are ephemeral communication channels.
+The issue tracker is a purpose built tool for recording and reviewing problems with the software.
+* Software projects often define their upcoming work plans by using their issue tracker as a key component—and perhaps their sole tool—to prioritize all possible areas to work on.
+(Simply put, the project's issue tracker is very often synonymous with the project's to-do list.)
 If your problem does not make its way into the issue tracker, it will likely not be addressed simply because a very busy person has forgotten the details of the problem.
-For this reason, you will often find that one of the first requests you receive when asking for help is to file an issue so that the project maintainers can keep track of the problem.
+For this reason, you will often find that one of the first requests you receive when asking for help is to file an issue so the project maintainers can keep track of the problem.
 * Filing an issue allows you and the project contributors to communicate asynchronously about the problem in an easy way, as all parties can refer back to and access the issue description and follow up comments at any time.
+PD--Be careful about using "easy" as what's easy for you may not be easy for your reader. It's subjective and can come across as an absolute. Try to soften by making it more relative.
+
 * When you've uncovered a problem with the software, you might discover that the problem is actually the root cause of _another_ problem, or there may be a way in which _several_ problems are related.
 Issue tracking software allows project developers to easily group related issues together, which may aid in diagnosing a problem's root cause.
+PD--See comment above about "easy" and carry through with "easily."
+
 * People often encounter the same issues with software, and many of them are filing issues with the project.
-Having multiple reports of the same problem can be very time consuming for the project maintainers, as they would then need to respond to each individual reporter about work in progress.
-Fortunately, issue trackers make this process easier by allowing maintainers to quickly and easily close issues by stating that they're duplicates of an existing one (and then asking the reporter to track work-in-progress in the "original" report).
+Having multiple reports of the same problem can be very time consuming for the project maintainers, as they then need to respond to each individual reporter about work in progress.
+Fortunately, issue trackers make this process easier by allowing maintainers to quickly and easily close issues by stating they're duplicates of an existing one (and then asking the reporter to track work-in-progress in the "original" report).
+PD--Additional instances of "easy" and "easily" to consider.
+
 Project maintainers can then engage in broadcast-style communication to everyone experiencing the problem in one place, simplifying their work stream while still helping everyone who needs assistance.
+PD--"Simplifying" could be considered along the lines of "easy/easily." Maybe "streamlining" instead.
 
 === Make finding it easy
+PD--Reference earlier comments about "easy." Also, does "it" refer to "issue"? If so, it may be too far from the antecedent.
 
 Make sure the location of your project's issue tracker is prominently displayed in your FAQ, as well as in your usage and development documentation.
 If people cannot figure out where to submit an issue, they will ask someone in the project where to do so—and supporting well-meaning users by offering repeated answers to very basic questions like this one can be quite time consuming.
-Do yourself and your community a favor and make your issue tracker very easy to find!
+PD--A longish sentence. Maybe break into multiple ones so it's easier for the reader.
 
+Do yourself and your community a favor and make your issue tracker very easy to find!.
 === Use issue templates
 
 Not everyone who uses your software will be familiar with your community's conventions for filing a useful bug report.
 To save both you and the reporter time, offer an issue template to ensure you receive the information you need to reproduce the reported error and effectively triage it.
+PD--My non-technical background caused me to pause on "reporter" as I immediately thought of a journalist. Maybe recast the sentence to "To save everyone time" or "To save time" instead?
+
 For example, you may need to know what version of the software was in use when an error occurred, or what operating system the user has on the computer running the software.
+PD--Maybe "... what version of the software or what operating system was being used" instead?
+
 If common information is required for reproducing errors, ask for it in an issue template.
 
-Some common fields in issue templates include a summary of the issue, steps to reproduce it, what is the actual behavior the user observes, what is the intended behavior for the software, and a request for log files or screenshots to help guide the issue reviewer in better understanding the bug report.
+Common fields in issue templates include a summary of the issue, steps to reproduce it, the actual behavior the user observes, the intended behavior for the software, and a request for log files or screenshots to help guide the issue reviewer in better understanding the bug report.
 Several issue trackers support templates for bug reports, including https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository[GitHub], https://docs.gitlab.com/ee/user/project/description_templates.html[GitLab], https://www.redmine.org/plugins/redmine_issue_templates[Redmine], and https://trac-hacks.org/wiki/TracTicketTemplatePlugin[Trac].
 
-If you find yourself asking for the same information over and over again in response to different bug reports, then congratulations! You have uncovered an area of your template in need of improvement.
+If you find yourself asking for the same information over and over again in response to different bug reports, then congratulations. You have uncovered an area of your template in need of improvement.
 
 === Help wanted: Labeling issues for clarity and encouraging contribution
 
 Most modern issue trackers allow users to label issues they file, which can be useful for organizing project work.
 By differentiating between different types of requests—features for development, software errors, etc.—a project can be more organized and triage issues more efficiently.
+PD--Question the use of "project" as the subject for the second verb as a "project" can't technically "triage issues," but people can.
+
 Further, many people interested in contributing to open source software projects are looking for issues on which they can work to better understand the project's development mechanics.
 If you will actively use labels in your issue tracker, make sure to document the label definitions in your development documentation so those labels are used consistently (or restrict the addition of issue labels to project maintainers only).
 A list of labels that used inconsistently is no more helpful than a list of undifferentiated issues.
@@ -218,11 +266,11 @@ A list of labels that used inconsistently is no more helpful than a list of undi
 Labeling issues as "for newcomers" or "help wanted" allows project maintainers to flag issues particularly suited to contributors who have just joined the project.
 Labeling issues in this way shows that the project is prepared to onboard new contributors and that maintainers welcome community assistance in a particular area.
 Don't be afraid to file issues against project documentation, the website,or anything else you feel is amiss.
-If there's a place current and potential contributors can help make the project better, file these in your issue tracker with a clear label that shows them they can contribute!
+If there's a place current and potential contributors can help make the project better, file these in your issue tracker with a clear label that shows them they can contribute.
 
-Just make _very clear_ (either in the text of the "help wanted" issue or via a link to other project documentation) how you wish for others to engage with the project when working on these types of issues.
+Just make _very clear_ (either in the text of the "help wanted" issue or via a link to other project documentation) how you wish others to engage with the project when working on these types of issues.
 (The https://subversion.apache.org/reporting-issues.html[Apache Subversion Issues page] is an excellent example of clearly articulating needs to the user community before they file an issue.) It is best to encourage contributors working on these issues to engage with the project maintainers along the way, so their contributions have a higher chance of acceptance into the project.
-Nothing squelches a contributor's enthusiasm like showing up with a working solution to the stated problem only to be told that their particular implementation will not meet the project's needs.
+Nothing squelches a contributor's enthusiasm like showing up with a working solution to the stated problem only to be told their particular implementation will not meet the project's needs.
 
 === Communicate clearly and kindly
 
@@ -234,26 +282,41 @@ Remember to be gracious and thankful in your discussions with other project part
 === When issues become the subject of heated debate
 
 At times, the details of addressing a particular issue can cause tension or argument within the community.
+PD--"Argument" should either be made plural, or "an" should be inserted before it.
+
 While healthy and respectful debate is part of any thriving project—software or otherwise—tempers can flare easily, and (as has been well documented) people tend to behave with less civility online than they would in person.
+PD--What's your source for "as has been well documented"?
+
 If an issue has become especially contentious and discourse has become rude or inflammatory, restrict access to that issue for a stated period of time (say 24 to 48 hours) to allow people time to calm down, reflect, and state their argument in a more even-tempered and constructive manner.
 
 === Quick tips for filing issues well
+PD--The bullets below are pushing the limit on length.
 
-. Thank the people creating the software for their time and energy, especially if you are brand new to the project.
+. Thank the people creating the software for their time and energy, especially if you are new to the project.
 The individuals spending their (free) time creating free and open source software for you to use are also people who want to know their time is valued and their work appreciated.
+PD--Maybe "spare" instead of "free"?
+
 . Include as much information as you possibly can about the error you have encountered.
 If the project uses issue templates, fill it out as completely as possible.
-If you do not have the information requested or cannot determine how to get it yourself, then simply note what you have attempted to do in order to get the information.
+PD--There's an issue with number here. You've got templates (plural) and it (singular).
+
+If you do not have the information requested or cannot determine how to get it yourself, simply note what you have attempted to do in order to get the information.
 These details help mainters determine what they might need to do to assist you.
+PD--Did you mean "maintainers" here?
+
 . If a project does not use issue templates, look at other issues that have been "closed‒fixed" or at merged pull requests to see how other people have filed bug reports.
+PD--Make sure the number for "templates" here agrees with whatever you decide in the bullet above.
+
 If the issue was fixed, chances are quite good that you'll be able to use these historical artifacts as examples of the sort of information necessary for reproducing an error.
 Replicate what you find in these reports and add more detail as you are able.
 
 === Quick tips for responding to issues well
+PD--Like some of the other bulleted lists, the bullets here are rather long. Can you pare down the content any more or try another presentation?
 
 ____
 "While the size and skill of the development community constrains the rate at which tickets can be resolved, the project should at least try to acknowledge each ticket the moment it appears.
 Even if the ticket lingers for a while, a response encourages the reporter to stay involved, because she feels that a human has registered what she has done (remember that filing a ticket usually involves more effort than, say, posting an email)."—Karl Fogel, Producing Open Source Software.footnote:[https://producingoss.com/en/producingoss-letter.pdf[_https://producingoss.com/en/producingoss-letter.pdf], page 64, accessed 24 June 2020 11:46 CET]
+PD--Would the quote here be better before the subhead?
 ____
 
 . Thank the submitter for filing the issue.
@@ -261,37 +324,53 @@ Helping a project improve is an excellent contribution to that project's health.
 Further, by being gracious, kind and welcoming, you encourage continued participation and contribution from the issue reporter.
 . When closing an issue as "won't fix," explain why the issue will not be fixed.
 Maintainers shouldn't feel compelled to accept every pull request or fix every reported issue, but they should at least let reporters know _why_ they won't be addressing certain issues.
+PD--Reference my earlier comment about "reporter."
+
 In particular, if someone has submitted an issue along with code to fix a problem or implement a new feature, it is vital to tell them why their work has not been accepted by the project.
 Not doing so makes the contributor feel like they've wasted their time and should devote their energies to a different software project.
-In an ideal world, you are able to include a link to a published project roadmap that explains why the submission does not meet the needs of the project (see above).
+In an ideal world, you are able to include a link to a published project roadmap that explains why the submission does not meet the needs of the project.
+(See above.)
 . For new contributor submissions, fix minor issues with the patch yourself along with a note about what you fixed and why.
 Having a patch rejected for minor nits discourages additional contribution, and often it takes just as long to explain why a patch is being rejected as it does to make very small fixes.
 Such explanations are an excellent time to point contributors to additional project resources, such as your coding style guide, documentation on communication norms, etc.
 . For submissions coming in response to a "help wanted" issue, engage early and often with the person who has stated an interest in working on the issue.
 Doing so ensures that the contributor's submission will actually meet the project's needs.
-Further, by being available to and in regular dialog with new contributors, you form a relationship with them that encourages mutual learning and increases the chances that they will continue to contribute to the project's ongoing work.
+Further, by being available to and in regular dialogue with new contributors, you form a relationship with them that encourages mutual learning and increases the chances they will continue to contribute to the project's ongoing work.
 
 === Having development discussions and other conversations in the issue tracker
 
 Conventional wisdom in the early days of open source software development held that communities should _not_ carry on development related discussions in the project's issue tracker.
-Project's instead preferred carrying on such conversations via mailing lists or in forums a number of reasons: people following the mailing list were able to comment and express their views and needs without needing to parse through the issue tracker, forum or mailing list conversations were seen as better for asynchronous and long-form communications, and popular issue trackers in the 1990s and early 2000s were an unwieldy way to engage in actual discourse.
-Last but not least, discovering why a particular technical decision was made when those details were buried in an issue tracker was difficult, especially since the issue would be in a "closed" state once the decision was made.
+Project's instead preferred carrying on such conversations via mailing lists or in forums a number of reasons: 
+PD--I don't follow "Project's instead" as the subject of the sentence. Am I missing something? Also, I suggest creating a bulleted list after "reasons:".
+
+People following the mailing list were able to comment and express their views and needs without needing to parse through the issue tracker
+PD--Start your bulleted list here.
+
+Forum or mailing list conversations were seen as better for asynchronous and long-form communications, and popular issue trackers in the 1990s and early 2000s were an unwieldy way to engage in actual discourse.
+PD--Second item in the list.
+
+Discovering why a particular technical decision was made when those details were buried in an issue tracker was difficult, especially since the issue would be in a "closed" state once the decision was made.
 Looking for a closed issue to explain the technical direction of the project was considered counterintuitive.
+PD--Final item in the list
 
 With the rise in popularity of GitHub as a one-stop platform for online development work, conversations in the project issue tracker have become mainstream.
 GitHub's issue system visually mirrors the typically expected visual interface for forum software, making discussions in its system seem natural for those who began their development careers when online forums were first gaining popularity.
 Further, time and resources necessary for maintaining a Mailman instance or additional forum software as part of project infrastructure became cumbersome when all other infrastructure could be managed via a single tool.
 The addition of features such as the ability to "+1" an issue, set fine-grained controls on notifications for specific issues, and lock specific issues for editing only by project maintainers (while still allowing others to view the issue) made the move to discussions in the issue tracker more palatable and effective.
+PD--Is it locking the issue to "editing only" or is it project maintainers should be the only editors?
 
 Nonetheless, interested parties should be able to follow discussions _outside_ the project's issue tracker.
 Only the most deeply interested and invested individuals will rigorously follow every issue update, making engaging with the project difficult for casual contributors.
 While excellent search capabilities in online issue trackers make finding closed issues easier, the flow of an issue discussion does not fulfill the same function as a narrative description of a particular implementation or an explanation of why a certain decision was made.
 Note, too, that some maintainers who are most intimately familiar with the project—those who can recall specific issue numbers for particular discussions with ease—will not always be available to help with the project work.
-Preserving the knowledge of key decisions in an easy to access way saves time for people later when they are working to uncover the why of project processes, saves time for maintainers so they need not rehash history regularly, and ensures that critical details on how and why decisions were made are always available even as project membership changes.
+Preserving the knowledge of key decisions in an easy-to-access way saves time for people working to uncover the why of project processes, saves time for maintainers so they need not rehash history regularly, and ensures that critical details on how and why decisions were made are always available even as project membership changes.
+PD--Should it be "about" instead of "of key..."? Also, this sentence is long. You could theoretically turn it into a bulleted list spotlighting each of the three things preserving knowledge allows for.
 
 TIP: If your project carries on most of its development discussions in the issue tracker, consider taking some small steps to highlight these discussions in other ways that will be most accessible and discoverable.
-For example, you may summarize the discussion of the issue in a blog, forum post, or project newsletter, thereby preserving cultural lore for the project at the same time as you more widely inform the community about the change.
-If the project does not maintain a blog or other publication mechanism that would be suitable for such a communication, consider adding a list of watershed issues to your project documentation so that newcomers can become quickly familiar with these critical topics, and for ease of reference for long-time project participants.
+PD--Accessible and discoverable to whom?
+
+For example, you may summarize the discussion of the issue in a blog, forum post, or project newsletter, thereby preserving cultural lore for the project while simultaneously informing the broader community about the change.
+If the project does not maintain a blog or other publication mechanism suitable for such a communication, consider adding a list of watershed issues to your project documentation so newcomers can quickly become familiar with these critical topics, and for ease of reference for long-time project participants.
 
 == Communicating well across the globe
 
@@ -299,39 +378,42 @@ If the project does not maintain a blog or other publication mechanism that woul
 
 Though we live in a world where more than 6,500 languages are spoken, for historical reasons the primary language used for communicating on the Internet—and therefore, in major open source projects—is English.
 For users and contributors who are not native English speakers, this fact can raise significant barriers to participation.
-There are a few steps that projects can take to help those for whom English is not their first language to more effectively participate in the project.
+There are a few steps projects can take to help those for whom English is not their first language to more effectively participate in the project.
 
 === Prominently recognize community resources available in multiple languages
 
 Should your project be widely adopted and grow to the point that it hosts communication channels in more than one human language, make sure to list these resources prominently on your project's website.
 Include on the website a note that the project welcomes submissions from community members for resources that are not written in English, and when the project receives such submissions act promptly to get them included in your project documentation.
+PD--"your website" or "the project website" instead? You could also break into two sentences after "English."
+
 As you would with any resource you point your community to, do your best to ensure the resource is helpful.
 If you are unable to vet the resources given current resources on the project, reference the fact that project maintainers have been unable to assess the resource themselves, and welcome feedback on its inclusion in the project's documentation.
+PD--There are multiple instances of "resource(s)" in these two sentences. Can you use a synonym on some instances? Also, it's awkward to say "... vet the resources given current resources on the...".
 
 === Be kind and welcoming regardless of English proficiency
 
-As this chapter has stressed numerous times, kind and gracious communication with all people who participate in your project should be a default mode of behavior for interactions.
+As this chapter has stressed numerous times, kind and gracious communication with all those who participate in your project should be a default mode of behavior for interactions.
 The same holds true when communicating with people for whom writing in English is difficult.
-If you have trouble understanding what someone is saying or asking for, ask clarifying questions to let them know that you will be happy to help them.
+If you have trouble understanding what someone is saying or asking for, ask clarifying questions to let them know you will be happy to help them.
 Don't simply ignore someone or tell them they are not welcome in the project due to limited proficiency in written English.
 
-TIP: People who are not native speakers of English will often begin their communication with the project with an apology for their poor English language skills.
-When receiving such a communication, thank the sender for writing and let them know that you appreciate their efforts to communicate with the project.
-Where possible, point them at any resources that may be available to them in a language with which they are more familiar, for example a Spanish language forum or a Chinese language mailing list for the project.
+TIP: People who are not native speakers of English often begin their communication with the project with an apology for their poor English language skills.
+When receiving such a communication, thank the sender for writing and let them know you appreciate their efforts to communicate with the project.
+Where possible, point them to any resources that may be available to them in a language with which they are more familiar, for example a Spanish language forum or a Chinese language mailing list for the project.
 
 === Avoid idiom in written documentation
 
 Every language features various phrases the actual words of which do not convey the intended meaning of the phrase, such as "over the moon" to mean extremely happy or excited or "raining cats and dogs" to refer to a serious downpour of rain.
 For those who grow up in a particular culture, the meanings of these phrases are obvious.
 But they can be confusing for those who lack the proper context for them.
-Rather than relying on idiomatic phrases, use plain language in written documentation to ensure that the writing is most accessible to all people.
+Rather than rely on idiomatic phrases, use plain language in written documentation to ensure the writing is most accessible to all people.
 
 === Expand acronyms and provide a glossary
 
 While acronyms are a useful way for those completely familiar with a topic to save time and effort typing and speaking longer phrases, they obfuscate information for those less familiar with the topic.
 Further, acronyms are often overloaded, meaning that the acronym can expand several different ways depending upon the topic area.
 For example, someone completely new to a project may not understand that "LGTM" means "looks good to me" and that their work is therefore acceptable for merging into the project's source repository.
-If you will regularly use particular acronyms as part of communicating in your project, take the time to create a quick glossary of these terms.
+If you regularly use particular acronyms as part of communicating in your project, take the time to create a quick glossary of these terms.
 Updating this glossary is a quick and easy way for volunteers to contribute.
 
 === Actively seek participation from localization volunteers
@@ -346,16 +428,18 @@ Maintainers should be explicit about their desire to recruit contributors focuse
 When people approach a new project, they seek to understand how they can best engage with that project and interact with its community.
 Be sure your documentation clearly outlines your project's various communication channels.
 
-But simply _listing_ communication channels is not sufficient.
+Simply _listing_ communication channels is not sufficient.
 Your documentation must make clear _what_ each channel is used for, _when_ to use a particular communication mechanism, and _how_ people can expect to receive communications from the project and its community members through that channel.
 For example, a project with few maintainers who develop the work as a hobby project may wish to note on the project website that those developing the project do so in their spare time, so immediate responses to mailing list inquiries should not be expected.
-Someone whose hobby project is in use with enterprises might like to make explicit the notion that help is provided on a best effort basis (this only sets expectations appropriately for those who are less familiar with how open source project communities function.)
+Someone whose hobby project is in use with enterprises might like to make explicit the notion that help is provided on a best effort basis.
+(Doing so sets expectations appropriately for those who are less familiar with how open source project communities function.)
 
 === Maintaining civil discourse
 
 As has been discussed throughout this chapter, maintaining kind and gracious communications is vital for the project's ongoing health and well-being.
-While assuming that everyone understands what "kind and gracious communication" looks like may seem natural, when dealing with a global audience one cannot assume a consistent meaning for all participants.
+While assuming everyone understands what "kind and gracious communication" looks like may seem natural, one cannot assume a consistent meaning for all participants, especially when dealing with a global audience.
 Project maintainers and community members do well to lead by example, but making an explicit statement about what constitutes civil discourse, what matters are off-topic for the project, and what is expected from anyone communicating with the project about matters that may cause conflict sets an appropriate tone for the project.
+PD--Consider breaking into two sentences to make the thought easier for the reader to digest. Also, is "about matters that may cause conflict" too restrictive. Shouldn't the expectations be for whenever you are communicating with the project?
 
 From the Diversity Statement of the Dreamwidth Project:^footnote:[https://www.dreamwidth.org/legal/diversity[_https://www.dreamwidth.org/legal/diversity_] accessed 2 July 2020 13:37 CET (and how leet it is :)]^
 
@@ -378,51 +462,54 @@ This excerpt from the Diversity Statement of the Dreamwidth project is an excell
 It is clear that everyone is welcome in the project, regardless of personal background, technical skill level, or focus for using the project.
 It makes it clear that mistakes will be made and that people are expected to use these imperfections as learning opportunities, not excuses to belittle other people.
 The statement tells users and would-be contributors that they may not always get what they want from the project maintainers, but that errors will be fixed and reasonable requests will be listened to, if not acted upon.
-Most notably, it's a list of expected _prosocial behaviors_ rather than simply a list of what _not to do_; it identifies behavior that the project maintainers and community members model and transforms it from the actions they take into words that help everyone understand what actions constitute good project citizenship.
+Most notably, it's a list of expected _prosocial behaviors_ rather than simply a list of what _not to do_.
+It identifies behavior the project maintainers and community members model and transforms it from the actions they take into words that help everyone understand what actions constitute good project citizenship.
 
 === Developing a project social contract
 
 As projects document their community communication norms, they may find developing a project social contract to be a particularly effective exercise.
 A project social contract documents behaviors the project expects all participants to display and sets expectations for how project members will be accountable to others.
 The social contract is not necessarily a list of forbidden behaviors, but rather a statement about how members of the project will choose to self-govern for everyone's success.
-By undertaking the process of creating a social contract through dialog, members establish empathy with one another and set the foundation for future conversations.
+By undertaking the process of creating a social contract through dialogue, members establish empathy with one another and set the foundation for future conversations.
 
 You can learn more about creating social contracts, including tips for doing so for remote teams, in https://openpracticelibrary.com/practice/social-contract/[The Open Practice Library].
 
 === Codes of conduct
 
 Some projects use a code of conduct as a means to document their expectations around civil discourse.
-Open source projects that seek any outside contribution should always have a Code of Conduct.
+Open source projects that seek any outside contribution should always have a code of conduct.
 For projects that host events, whether virtual or in person, developing code of conduct specific language around events is also a best practice.
-Think of the code of conduct as an aspect of the project's social contract, one that includes the rules by which the community will govern itself and how each member will hold each other accountable for those moments when they could have behaved differently and achieved a better outcome.
-These rules must be understood and made explicit, otherwise people will know neither what is expected of them nor whether the project is a place where they would feel welcome and comfortable contributing their time and expertise.
+Think of the code of conduct as an aspect of the project's social contract, one that includes the rules by which the community will govern itself and how each member will hold one another accountable for those moments when they could have behaved differently and achieved a better outcome.
+These rules must be understood and made explicit.
+Otherwise people will know neither what is expected of them nor whether the project is a place where they will feel welcome and comfortable contributing their time and expertise.
 See this guidebook's chapter on governance for more information about codes of conduct.
 
 == Successfully communicating with an open source project
 
 So far, we've focused primarily on ways in which software project _maintainers_ can ensure the best possible outcomes for communication in their projects.
 However, contributors, too, can take a number of steps to ensure they're communicating effectively with their favorite open source communities.
-Here are just a few.
+Here are just a few:
+PD--Some of the bullets are rather long. Look to pare down when possible.
 
 . *Read the project website and documentation before jumping into discussions*.
 By taking the time to read about the project and understand its nuances, you demonstrate that you respect the time and attention of the people producing the project.
 
 . *Do your research, and tell people you've done it.*
 If you run into a problem using open source software, do what you can to solve the problem yourself.
-There's no shame in not being able to do so, but make sure to include what steps you have taken yourself to resolve the issue when filing a bug report or asking for help in one of the project's communication channels.
+There's no shame in not being able to do so, but make sure to include what steps you have taken to resolve the issue when filing a bug report or asking for help in one of the project's communication channels.
 Doing so saves people time and energy, as they will not ask you to try something you have already done.
 Further, listing the ways you've already attempted to help yourself is a demonstration of respect for the time and energy of the project's maintainers.
-.*Practice https://en.wikipedia.org/wiki/Etiquette_in_technology[basic netiquette].*
-Most fundamental advice for communicating on the internet are applicable in open source projects and communities.
+*Practice https://en.wikipedia.org/wiki/Etiquette_in_technology[basic netiquette].*
+Most fundamental advice for communicating on the internet is applicable in open source projects and communities.
 For instance, avoid typing in all capital letters, as this style is read as shouting (and one would not go about asking for help by shouting at someone).
 Choose a username or screen name that is reasonable and approachable, otherwise you risk not being taken seriously by others.
 Wait a reasonable amount of time—say 24 to 48 hours—for a response to your inquiry before trying to get a response in a different communication channel.
 You may find Virgina Shea's oft-cited http://www.albion.com/netiquette/corerules.html[The Core Rules of Netiquette] to be a useful resource if you are unfamiliar with the rules of engagement in internet communications.
 . *Post questions and communications in the appropriate places.*
-Encountering information in a place they don't expect it can be overwhelming for people.
+Encountering information in a place people don't expect can overwhelm them.
 For example, using a project issue tracker to let folks know you are hosting a hackfest next week is inappropriate.
 If the project has taken the time to let contributors know how and where to ask questions—and you should know this by following the guidance in the first item on this list—make sure to use the appropriate forum to do so.
-Demonstrating that you have taken the time and energy to interact with the project's maintainers and other volunteers in the way they've asked shows that you respect their efforts and, in turn, makes helping you be successful much easier for them.
+Demonstrating you have taken the time and energy to interact with the project's maintainers and other volunteers in the way they've asked shows you respect their efforts and, in turn, makes helping you be successful much easier for them.
 . *Make the subject of your posts as meaningful as possible.*
 When writing the subject line of an email or forum post, make your needs explicit.
 For example, a subject line that says "I think I found a bug" is likely to be acted upon more slowly than one that says "external display not recognized upon upgrading to version 2.2."
@@ -434,10 +521,10 @@ The more useful the subject of your post, the more likely you are to receive a p
 Once more, let's stress that the key to effective communication in any project—open source software or otherwise—is thoughtful and gracious behavior.
 Do not show up at an open source project angrily demanding help for your problems, send impolite follow up messages when you do not get an immediate answer, or otherwise be unkind to the people with whom you are communicating.
 Take the time to thank them for their help and for providing the project to you and everyone else.
-Remember that you are communicating with other people, some of whom are spending their free time to write your free software.
+Remember you are communicating with other people, some of whom are spending their free time to write your free software.
 Treat them with the respect and courtesy you want for yourself.
 
-== Evolving Communications in Open Source Projects and Academia
+== Evolving communications in open source projects and academia
 
 While open source software now seems ubiquitous, we should recall that the free and open source software movements are still in their early stages.
 Development of the Linux operating system began in 1991.
@@ -446,6 +533,8 @@ Though 20 or 30 years seems like ancient history on the internet, it is worth no
 Open source is still a blip (albeit a significant one) in a much longer technological timeline.
 
 Academic researchers have found open source software projects and their development methodologies particularly worthy of study, due to open source's disruptive influence in the software industry.
+PD--Consider flip flopping the order and beginning with "Due to open ...".
+
 However, as projects' communication tools and platforms have evolved, researchers' ability to access project data for the purpose of study has been, at times, diminished.
 For example, parsing IRC logs of a project's real-time chat often yielded fruitful information about a particular project, but as some projects have moved to other chat systems, such logs are no longer commonly available (nor has there been any guaranteed longevity of the project's chat archives, depending on which communication tool the project chooses).
 
@@ -457,4 +546,4 @@ To understand how researchers benchmark community activity and analyse the outpu
 
 The most effective way to achieve communication in open source projects is to show others kindness and courtesy, and to assume good intent upon first contact with people you've never met.
 Though this chapter contains any number of helpful best practices for effective communication, simply acting with graciousness to other people is the most important step one can take to communicate well.
-Remember that there is a human being reading what you have written, and remember to treat them with the same respect that you would want for yourself.
+Remember there is a human being reading what you have written, and remember to treat them with the same respect you want for yourself.
