@@ -34,6 +34,11 @@ This chapter is a complete draft ready for editorial review.
 
 ### To enter Development Edit
 
+- [ ] Chapter is a complete draft
+- [ ] Chapter text is in English
+- [ ] Author has submitted all art and indicated proper attribution
+- [ ] Chapter passes a basic plagiarism check
+
 ### To enter Subject Matter Review
 
 ### To enter Copy Edit
