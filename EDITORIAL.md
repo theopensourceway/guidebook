@@ -28,3 +28,18 @@ This chapter is a complete draft ready for editorial review.
 
 ## Criteria for passing editorial phases
 
+### To enter Drafting
+
+### To enter Draft Review
+
+### To enter Development Edit
+
+### To enter Subject Matter Review
+
+### To enter Copy Edit
+
+### To enter Technical Edit
+
+### To enter Final Review
+
+### To enter Completed
