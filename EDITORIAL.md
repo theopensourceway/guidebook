@@ -3,12 +3,16 @@
 ## Explanation of editorial phases
 
 ### 1. To Assign
+This chapter (or section) has been proposed but no author has committed to developing it.
 
 ### 2. Assigned
+This chapter has been assigned to an author (or authors).
 
 ### 3. Drafting
+This chapter is under construction. Authors are composing it.
 
 ### 4. Draft Review
+This chapter is a complete draft ready for editorial review.
 
 ### 5. Development Edit
 
