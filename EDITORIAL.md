@@ -36,6 +36,9 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Drafting
 
+- [ ] Chapter's assigned author has suggested an outline
+- [ ] One or more editors have reviewed and and approved the author's proposed outline
+
 ### To enter Draft Review
 
 ### To enter Development Edit
