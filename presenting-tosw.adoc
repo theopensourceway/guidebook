@@ -1,19 +1,19 @@
 = Presenting The Open Source Way
-Author: Karsten Wade <quaid@iquaid.org>
-Updated: 2020-06-18
+Author: Karsten Wade quaid@iquaid.org
+Updated: 2020-09-23
 
 == Presenting 'The Open Source Way' 2.0
 
-There is an English idiom that goes, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
+An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 The 'madness' are the things you do that may not make sense to people outside of your situation.
-The 'method' means more than what and how you do the madness; it also refers to **why** you pursue that particular way of madness versus all other ways you could choose from.
+The 'method' means more than how you "do the madness"; it also refers to **why** you pursue that particular way of madness versus all other ways you could choose from.
 
-This guide is our attempt to address the question of not only what is our method for practicing the open source way, not only how that method works, but to really dig under the question of, "***Why do you do it that way?***"
+This guide goes beyond the questions of, "What is your method for practicing the open source way" and how that method works, by really digging the question of, "_Why do you do it that way?_" -- what experience lead-to/required this method versus any other?
 
 Your takeway from this introduction should be two things:
 
-1. There is a what, how, and why to the practice of open source software.
-2. This guide is a distillation of the loosely held opinions of a sizeable group of open source practitioners of all levels, who are the kind of people always having to answer the question of why we do this open source thing the way we do it.
+. There is a what, how, and why to the practice of successfully and sustainably creating and maintaining open source software.
+. This guide is a distillation of the loosely held opinions of a sizeable group of open source practitioners of all levels, who are the kind of people always having to answer the question of why we do this open source thing the way we do it.
 
 In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly and somewhat opinionated on the best ways to create and manage an open source software community.
 
@@ -21,21 +21,43 @@ These voices are all part of https://theopensourcway.org[this community of pract
 
 === Assumptions we are making
 
-'Details of how we see growing a community via growing users, lowering barriers, and enabling people to participte and contribute at all levels. How the guide reflects this structure.'
+When you look at the table of contents for this guide, notice how the flow of focus goes from the user, to the participant, to the contributor.
+
+This is because our opinion of how a community comes about and grows is, it all starts with a need.
+
+. A person or persons needing a solution creates the first iteration of the software.
+. Other people with similar needs start using it, forming the core of the userbase.
+. From the userbase arise people who are enthusiasts of the software and things about/around it.
+. Finally arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
+
+Thus, the first and continuous focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than anger.
+
+A key element of all this is recognizing the value in contributions of all types, at all levels. Rather than elevating a single type of contribution to have more value within the project, the practice is to treat all manner of gifts to the project as of equal value. These contributions comprise content and code, hours and effort, and all manner of broad contributons for the project via events, help forums, infrastructure, and so on.
+
+When you lower barriers you make your project welcoming of particiption at all levels. It doesn't mean all barriers are removed, just lowered appropriately. Appropriate barriers are needed for someone getting keys to systems, for example, which are different barriers than for someone contributing a help article or patch to the config management system.
 
 === Structure of this guide
 
 Each section of this guide consists of one or more chapters.
 
-A chapter is a discrete discussion of a topic or a closely-related set of topics. Those topics are discussed in terms of a principle (what), implementation of that principle (how), and examples of why that principle is followed or recommended. This principle/implementation/example, or PIE, approach helps makes chapters consist for reading.
+A chapter is a discrete discussion of a topic or a closely-related set of topics. Those topics are discussed in terms of a principle (what), implementation of that principle (how), and examples of why that principle is followed or recommended. This principle/implementation/example, or PIE, approach helps makes chapters consistent for reading.
 
 The idea is that you can open and read a chapter as a stand-alone experience without needing to read the rest of the guide to understand and act from the material in that chapter. Having the PIE consideration helps as reader find themselves in the guide at any point.
 
-The chapter consists of several parts:
+A chapter consists of several parts:
 
 * An introduction
-* Main material, written in third person POV, focusing on a balance of what, how, why content (PIE). The examples (stories) told here are brief and somewhat impersonal.
-* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person; that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
+* Main material, written in third person POV, focusing on a balance of what, how, why content (PIE). The examples (stories) told here are brief and in the third person.
+* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person -- that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
 ** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 * Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
 
+Finally, we are collecting stories from practitioners of the open source way, whose stories we know tend to illustrate more than one principle in action. The stories that are not interspersed into the chapters will be collected at the end for your endless uses.
+
+=== A community of practice always rebuilidng itself
+
+What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
+
+In the end, what you read is just one way to pull this material together. There will be updates to this guide. There will be new versions, similar but new guides, and other ways to understand and present this material.
+
+But at the core, in addition to the what and the how that benefit your open source community, you will also learn to understand the **why** and be able to spread those stories wherever you go.
