@@ -1,5 +1,5 @@
 = Onboarding
-Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>, Brian Proffitt <bproffit@redhat.com>
+Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>, Brian Proffitt <bproffit@redhat.com>, Dave Neary <dneary@redhat.com>
 Updated: 2020-03-30
 
 == Introduction
@@ -61,7 +61,7 @@ Quantity isn't the only metric to use, but a baseline of contributions will give
 *Introduce review process.*
 Potential maintainers should have a chance to participate in content review before they achieve maintainer status.
 They may create the best content under the Sun, but if they don't have a knack for thorough and constructive reviews, they may not be a good maintainer.
-Project leaders should try to afford every opportunity to give solid contributors a chance to review others’ content, to see if they like doing it and have a talent for it.
+Project leaders should try to afford every opportunity to give solid contributors a chance to review others' content, to see if they like doing it and have a talent for it.
 
 *Length of time.*
 Some people might not be as prolific contributors as others, but that should not deter them from being a potential maintainer.
@@ -152,7 +152,7 @@ This is the reason why many projects adopt wikis for their documentation, since 
 However, wikis make structuring documentation, rendering it in formats other than screen, or tying it to specific release versions difficult.
 For these reasons (and others), some projects have transitioned to building docs using CI/CD in DocBook, Sphinx, or AsciiDoc.
 
-== Mentoring
+== Mentoring new contributors
 
 Part of starting, or growing, a successful open source community is designing the community to be sustainable.
 This means the project needs to be able to reliably, and repeatedly, bring in new people and help them become ongoing contributors.
@@ -252,3 +252,76 @@ If there is too long of a time and effort commitment, or if there is not clear c
 
 Making the time and effort commitment nebulous is like sprinkling mentoring repellant on your project.
 Be clear on what participants are getting into, and your mentoring program can be on a path to success.
+
+== Mentoring new community managers
+
+In the early days of open source, projects did not have community managers.
+Collaboration among developers was a given, and if you were lucky, some people in your community enjoyed tasks other than software development, like tending to infrastructure, organizing events, or leading a marketing team.
+As open source has matured, there are many more projects created from within large companies, and these things are no longer a given.
+Increasingly, people inside those companies are designated the Community Manager or Community Architect, and are tasked with ensuring that projects run well as collaborative, multi-vendor efforts.
+
+Much has been written here about what a community manager may or may not do—but if one thing is certain, it is that projects evolve, and the role of community manager evolves with them.
+In the life of a project, a time may come when the original community manager is moving on—to a different job, a different role in the project, or just taking a back seat because of life.
+ During these transition periods, a new community manager may emerge in the project.
+ During this period, it can be tempting, as the outgoing community manager, to jump in and start helping the new community person come up to speed.
+ The risk, however, is that you deprive the new person of an opportunity to make the role their own.
+ They will certainly have a different conception of the most important jobs to be done, and a different skill set to bring to bear on the project.
+As a mentor, it is important to strike a balance between being a resource, sharing relevant history, and saying how things have been done.
+
+Recently, my colleagues and I had a discussion about mentoring new community managers.
+What is the best way for more experienced community managers successfully mentor newer community managers?
+How can you help them to be successful, allowing them the very valuable space to try new things, even if they will potentially fail along the way?
+How do you balance scoping the role, while allowing them to define the role in the way that they see fit?
+
+=== Chart the waters
+
+One of the things that is most useful when you are coming into a new role is a list of the people with whom you will be working.
+If there are stakeholders who might be able to help you, or people you will work with who have concerns about community goals, this information will enable a new person to come into the role and avoid any pitfalls or faux-pas.
+As the outgoing community manager, one of the most valuable things you can do for the new community manager is to introduce them to people who you have worked with, to smooth the transition, and ensure that they don't have to spend minutes explaining who they are and why they are turning up in places where they are not expected.
+
+=== Give room to fail
+
+A common theme among people who have had bad mentorship experiences is the omnipresent micro-manager.
+One colleague described an experience where they took on a community role from someone who was stretched too thin.
+However, everything that they did in the role resulted in email correcting them and telling them how they should have done the task differently.
+As a result, they drifted away from taking on the role.
+One question more than any can make a person in a new role feel small and inadequate: "Why didn't you just…?"
+
+A new person in any role will do things differently than the person who went before.
+There can be a few reasons for that. Maybe they don't know how to do it the way it was done in the past.
+There may be reasons which led to you doing things the way you did, but they're unaware of the history.
+It's also possible that they bring a different skill set and perspective to the role, and their way is just as valid and just as good.
+Whatever the reason, avoid asking your mentee "why didn't you…?"
+
+You have to give the new person in the role the freedom to do things differently.
+Even if they make mistakes, it is important that they feel ownership over the role.
+As a mentor, one of the hardest things is to watch someone struggle to do something which you have done in the past.
+That does not mean that you should completely abandon your new community manager.
+Instead of telling them what to do, ensure that you have good documentation for tasks they will need to do in the role, and point them at the documentation.
+This gives them guided experience, will show up any places where documentation is lacking, and will also give them the freedom to tweak things along the way.
+
+=== Help them with visibility
+
+Ironically for the most public-facing people in a project, people in community roles can see their careers suffer for lack of visibility.
+More than one person I spoke to has mentioned seeing colleagues have their career suffer because their management chain was unaware of the work they were doing, or did not understand its value.
+As the experienced community manager, one of the best gifts you can offer a junior community person is being a credible cheerleader for their work.
+
+New community managers can get stretched thin, or can focus their efforts on tasks that do not provide a significant impact on the community.
+As a mentor, you have an opportunity to help them channel their efforts on aspects of the role that provide value to the sponsoring company, in addition to benefiting the community.
+You may also have the ability to communicate their successes in a way that will help their management chain understand the value that they bring to the project.
+
+=== Get started
+
+Guiding a new community manager through their first few months on the job can be a very rewarding experience.
+As the experienced person, you can help them be effective and successful, give them confidence in their ability to execute in a new role, and increase the amount of community knowledge in your company and in the industry.
+
+What would the first 30 days of a mentorship program look like? You might try to:
+
+* Maintain a weekly one-on-one call so that they can ask you for advice and help as they feel the need
+* Organize introduction meetings with five stakeholders across different functional areas of the project, to help them chart the waters of the project
+* Identify three recurring tasks they will take over, and arm them with documentation on how you managed the activity
+* Help them identify two high-value, high-visibility projects to deliver in their first month, and communicate their work when they are delivered
+
+Beyond the first month, you should be fading increasingly into the shadows, moving your one-on-one calls to every two weeks, and providing guidance on-demand only.
+
+If you have done your job well, your mentee will be well on their way to making the job their own. 
