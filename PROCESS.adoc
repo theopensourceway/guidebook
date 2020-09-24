@@ -1,9 +1,10 @@
 = The Open Source Way Publishing Process 
 
 The Open Source Way's project workflow is largely dependent on the functionality of the GitHub platform.
-GitHub is a web-based, distributed version control tool that enables content creators build and collaborate on text-based creations (code, prose) wherever they can connect to the internet.
+GitHub is a web-based, distributed version control tool that enables content creators to build and collaborate on text-based creations (code, prose) wherever they can connect to the internet.
 Before beginning work on The Open Source Way, contributors must have a https://github.com/[GitHub account].
 All work done on The Open Source Way will be done within the https://github.com/theopensourceway/guidebook[guidebook repository] of the https://github.com/theopensourceway[The Open Source Way organization].
+This work will be under the https://github.com/theopensourceway/guidebook/blob/master/LICENSE.md[project's license].
 
 The Open Source Way editorial process is divided into two distinct phases: **contribution** and **editorial**.
 
@@ -34,12 +35,13 @@ If it meets inclusion criteria, project maintainers will merge it into the proje
 
 == Reviewing a contribution
 
-When receiving a request to review an initial contribution, reviewers should use The Open Source Way guidelines to approve the chapter for further editing.
+When receiving a request to review an initial contribution ("Draft Review" column), reviewers should use The Open Source Way https://github.com/theopensourceway/guidebook/blob/master/EDITORIAL.md[editorial guidelines] to approve the chapter for further editing.
 
-When review is complete and the pull request merged, reviewers should perform one  additional step so subsequent editors can find the file quickly.
+When review is complete and the pull request merged, reviewers should perform one additional set of steps so subsequent editors can find the file quickly.
 
 . Open the merged file in GitHub.
 . Copy and paste the full URL for the file into the relevant issue's comment section.
+. On the right side of the issue, link the issue to the merged pull request.
 . Click `Comment`.
 
 == Editing in The Open Source Way
@@ -58,5 +60,17 @@ Each pass requires a different form of editorial and knowledge expertise, but in
 . Click the Edit icon in the upper right section of the file's page.
 . Perform the appropriate editorial work on the chapter
 . Complete at least the first field in the "Commit changes" field beneath the editing pane. Be sure to describe the type of editorial with you've performed (for example, "perform a development edit" or "formatting pass complete")
-. Select the "Commit directly to ``main`` branch radio button
+. Select the "Create a **new branch** for this commit and start a pull request." radio button
+  * When filling out the pull request, make sure to link the pull request back against the original issue. The issue will collect pull requests as it moves through the editorial columns.
 . Click the ``Commit changes`` button
+. Another member of the Editorial team checks your change and merges the commit into the main branch; they also need to reopen the issue assigned to the chapter, which is closed automatically when the pull request is merged.
+
+An alternate process goes like this:
+
+. A previous editor will link issue that is visible on the project https://github.com/theopensourceway/guidebook/projects/1[Editorial Board] to an open pulle request.
+. An editor then uses the pull request tooling to edit and comment. **FIXME: better instructions needed**
+. When the edit review is complete, the editor merges the pull request into the Main branch.
+. The editor then needs to reopen the issue that is automatically closed when the pull request was merged.
+. Editor can confirm that the issue moved along to the next column in the Editorial Board, if appropriate. 
+
+You can read more about pull requests in the https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests[GitHub documentation].
