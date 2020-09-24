@@ -36,17 +36,17 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Drafting
 
-- [ ] Chapter's assigned author has suggested an outline
+- [ ] Author has suggested an outline of proposed material
 - [ ] One or more editors have reviewed and and approved the author's proposed outline
 
 ### To enter Draft Review
 
 ### To enter Development Edit
 
-- [ ] Chapter is a complete draft
-- [ ] Chapter text is in English
+- [ ] Material submitted is a complete draft
+- [ ] Authors have submitted text in English
 - [ ] Author has submitted all art and indicated proper attribution
-- [ ] Chapter passes a basic plagiarism check
+- [ ] Material passes a basic plagiarism check
 
 ### To enter Subject Matter Review
 
