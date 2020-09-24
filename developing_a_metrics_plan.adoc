@@ -7,9 +7,9 @@ A healthy open source community is one that demonstrates open practices, uses op
 
 That's because any picture of project health is actually a mosaic; multiple factors combine to depict a community's overall health. You'll never find just one indicator you can point to and say "See? The community is healthy."
 
-What's more, the factors that determine overall project and community health are always changing. In the past, for example, some may have pointed to *total number of downloads* as a health metric. But today we understand that even millions of downloads does not reflect the fact that a communuity's production and quality assurance processes might be out of sync—or that trolls are running rampant in the project's mailing lists.
+What's more, the factors that determine overall project and community health are always changing. In the past, for example, some may have pointed to *total number of downloads* as a health metric. But today we understand that even millions of downloads does not reflect the fact that a communuity's production and quality assurance processes might be out of sync—or that trolls are running rampant in the project's mailing lists. A more complete picture would consider not only *results* or *outcomes* (like downloads, release cadence, etc.), but also *processes* (onboarding barriers, how easily a project can discover and promote maintainers, etc.).
 
-This chapter outlines several ways to measure community health, many of them centered not only on *results* or *outcomes* (like downloads, release cadence, etc.), but also around *processes* (onboarding barriers, how easily a project can discover and promote maintainers, etc.). The chapter also outlines a few important factors to consider wehn assessing an open source project's and community's overall health. It focuses specifically onkey metrics you can use to gauge, assess, and report that health.
+This chapter explains in more detail the importance of a metric-driven approach to building, maintaining, and growing an open source community. It outlines a few important factors to consider when assessing an open source project's and community's overall health. And while every commuity different—and therefore requires different metrics for measuring success—it offers a few example metrics you might consider when measuring your own community's successes.
 
 == Why community metrics are important
 
@@ -144,6 +144,14 @@ Because no two open source communities are the same, every community will natura
 
 Communities should always establish metrics collaboratively and agree on them colectively. Hearing from a diverse group of community members is important for ensuring the metrics are inclusive and not just focusing on the work of a subset of the community. For example, if internationalization is important for your project, you want to ensure that your metrics reflect internationalization work. It's also a good practice to review the metrics periodically with the community and discuss if any adjustments are needed for your metrics. Even within the same community, you will likely need to evolve your metrics along with the community as your needs change.
 
+Here are a few of the more common metrics open source communities may use to measure results:
+
+. 
+. 
+. 
+. 
+. 
+
 == Resources for developing metrics for your community
 
 === Take advantage of available resources in your software tools
@@ -162,7 +170,6 @@ Another good example is the https://contributors.rubyonrails.org/contributors[Ru
 Some communities publish contribution metrics after each release. Here is a good https://jeanbaptisteaudras.com/en/2020/03/wordpress-5-4-core-contribution-statistics/[example from WordPress] after their recent release, where you will see a lot of good visualizations for where the contrbutions are coming from. 
 
 == Metrics pitfalls
-
 Metrics are certainly important, but there are definitely shortcomings that we need to be aware of. 
 
 - People often measure the most easily measurable in their metrics: This is human nature as we all want to do what's easier. However, you run the risk of neglecting  important aspects of the community if you only focus on easily mesurable metrics in your community. For example, it's often easier to focus on inputs (e.g. number of commits/merge requests/pull requests) compared to outputs (e.g. the impact of a commit/merge request/pull request). Needless to say, ignoring outputs from the community will provide an incomplete picture of the community. 
@@ -175,7 +182,6 @@ Beyond these shortcoming sof metrics in general, the following are particularly 
 - Vanity metrics: You also see vanity metrics outside of open source. A good example is placing too much emphasis on things like the number of social media followers. As in social media, quantity isn't everything. Also, if you want to ensure that community members' intrinsic motivation is satisfied in the community vanity metrics is definitely not a good way to go. 
 - Making comparisons between different open source communities based on a few metrics: Sometimes you will hear things like "Project A had more than 5,000 attendees in their last conference" or "Project B has 1,000 contributors" and people wanting set similar targets for their community. Before you are tempted to compare your community to others, it's important to consider if you are making apples-to-apples comparison. You may be in a different industry, in different stages of project maturity, or have a different scope, etc. and a direct comparison may not be appropriate. Before you think about wanting 1,000 contributors in your community, you may want to ask basic questions like do you really need 1,000 people to accomplish your project's goals? 
 - Too much focus on code contributions: It may be because there are more tools available to capture code activities, but there's a tendency to focus mostly on code contributions in open source communities. However, it is important to remember other valuable contributions such as answering questions on forums, triaging issues, maintaining wiki pages, etc. There should be an effort to ensure that community metrics reflect variety of contributions (both code and non-code) so that no one in the community feels left out. 
-
 
 == Metrics dos and don'ts 
 
