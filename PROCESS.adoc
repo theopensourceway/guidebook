@@ -11,7 +11,7 @@ The Open Source Way editorial process is divided into two distinct phases: **con
 **Contribution** involves the work of creation.
 Contributors propose content in individual https://help.github.com/en/github/getting-started-with-github/github-glossary#branch["branches,"] then ask project maintainers to review it and, ultimately, to merge the work into the project.
 
-**Editorial** is the process of refining contributed content via numerous editorial "passes."
+**Editorial** is the process of refining contributed content via numerous editorial phases.
 We perform this work primarily through GitHub's issue-tracking tools, using GitHub's web interface. 
 
 == Contributing to The Open Source Way
@@ -46,12 +46,12 @@ When review is complete and the pull request merged, reviewers should perform on
 
 == Editing in The Open Source Way
 
-When a chapter has been merged into the Main branch, it is ready to procede through the editorial process. This process will involve the following steps (or "passes"):
+When a chapter has been merged into the Main branch, it is ready to procede through [the editorial process](https://github.com/theopensourceway/guidebook/blob/master/EDITORIAL.md). This process will involve the following steps (or "phases"):
 
-. Subject-matter expert (SME) pass
-. Formatting pass
-. Development pass
-. Copy edit pass
+. Deverlopment edit
+. Subject matter review
+. Copy edit
+. Technical edit
 
 Each pass requires a different form of editorial and knowledge expertise, but in each pass the general editorial workflow remains the same. It looks like this:
 
@@ -59,10 +59,10 @@ Each pass requires a different form of editorial and knowledge expertise, but in
 . Click the URL for the file to be edited. The file's page will open.
 . Click the Edit icon in the upper right section of the file's page.
 . Perform the appropriate editorial work on the chapter
-. Complete at least the first field in the "Commit changes" field beneath the editing pane. Be sure to describe the type of editorial with you've performed (for example, "perform a development edit" or "formatting pass complete")
-. Select the "Create a **new branch** for this commit and start a pull request." radio button
+. Complete at least the first field in the ``Commit changes`` field beneath the editing pane. Be sure to describe the type of editorial with you've performed (for example, "perform a development edit" or "formatting pass complete")
+. Select the ``Create a new branch for this commit and start a pull request`` radio button.
   * When filling out the pull request, make sure to link the pull request back against the original issue. The issue will collect pull requests as it moves through the editorial columns.
-. Click the ``Commit changes`` button
+. Click the ``Commit changes`` button.
 . Another member of the Editorial team checks your change and merges the commit into the main branch; they also need to reopen the issue assigned to the chapter, which is closed automatically when the pull request is merged.
 
 An alternate process goes like this:
