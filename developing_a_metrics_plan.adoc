@@ -140,17 +140,18 @@ No project exists in a vacuum. Projects frequently depend on one another. In som
 - Do members of that ecosystem view this project favorably?
 
 == Choosing the right metrics for your community
-Because no two open source communities are the same, every community will naturally have its own set of metrics for measuring health and success. Many factors can influence a community's choice of metrics. Some communities, for example, emphasize how quickly they're able to merge code—so they track metrics related to this ability. Other community's consist of users and contributors working in heavily regulated industries (like energy or health care), where neceszsity dictates that decisions to merge new fixes/features take a long time. Those communities probably wouldn't emphazize speed of code review as much as others (more likely, they'd have different measures of code review efficiency).
+Because no two open source communities are the same, every community will naturally have its own set of metrics for measuring health and success.
+Many factors can influence a community's choice of metrics, but one of the most important influences is the community's goals.
 
-Communities should always establish metrics collaboratively and agree on them colectively. Hearing from a diverse group of community members is important for ensuring the metrics are inclusive and not just focusing on the work of a subset of the community. For example, if internationalization is important for your project, you want to ensure that your metrics reflect internationalization work. It's also a good practice to review the metrics periodically with the community and discuss if any adjustments are needed for your metrics. Even within the same community, you will likely need to evolve your metrics along with the community as your needs change.
+Some communities, for example, prioritize how quickly they're able to merge code—so they track metrics related to this ability.
+But other communities consist of users and contributors working in heavily regulated industries (like energy or health care), where necessity dictates that decisions to merge new fixes and features take a longer time.
+Those communities probably wouldn't emphazize *speed* of code review as much as, say, code review *efficiency*.
 
-Here are a few of the more common metrics open source communities may use to measure results:
-
-. 
-. 
-. 
-. 
-. 
+Depending its goals, a community might establish metrics for measuring things like work backlog, contributor diversity (e.g., organizational, geographical, etc.), flow of first-time contributors, localization and internationalization, or popularity of discussion topics.
+Communities should always establish metrics collaboratively and agree on them collectively.
+Hearing from a diverse group of community members is important for ensuring the metrics are inclusive and not just focusing on the work of a subset of the community.
+It's also a good practice to review the metrics periodically with the community and discuss if any adjustments are needed for your metrics.
+Even within the same community, you will likely need to evolve your metrics along with the community as your needs change.
 
 == Resources for developing metrics for your community
 
