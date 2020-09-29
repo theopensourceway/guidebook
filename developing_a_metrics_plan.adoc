@@ -42,7 +42,6 @@ Before you determine *how* you will measure project and community health, you'll
 - Governance
 - Project leaders
 - Release manager and process
-- Infrastructure
 - Goals and roadmap
 - Onboarding processes
 - Internal communication
@@ -88,14 +87,6 @@ In healthy projects, members have formally documented release processes and iden
 - Does the project have an identified release manager?
 - How often do project release updates occur?
 - Do project releases occur on a steady and predictable schedule?
-
-=== Infrastructure
-The tools a community uses to collaborate on a project are almost as important as the people who comprise that community. The most successful projects are those that have the tools they need to do their work—and keep those tools in good working order. When assessing a project's infrastructure, consider questions like:
-
-- Does the project have the necessary infrastructure?
-- Are infrastructural deficits producing bottlenecks for the project?
-- Who is responsible for maintaining project infrastructure?
-- Is the project missing useful infrastructural components, and if so, does the community plan to obtain these components?
 
 === Goals and roadmap
 Healthy open source projects have publicly shared goals and clear processes for reaching those goals. Goals are attainable and clear deadlines exist for tracking progress toward those goals. When assessing a project's goals and roadmap, consider questions like:
