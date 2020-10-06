@@ -23,3 +23,6 @@ Sort: Unsorted
     acozine;Cozine, Alicia;Red Hat;guidebook editor,guidebook writer;-
     dajackso;Jackson, Danielle;Red Hat;guidebook editor;-
     mscherer;Scherer, Michael;Red Hat;infrastructure operations;-
+    silona;Bonewald, Silona;IEEE;guidebook deisgn,guidebook writer;-
+    mwlee2;Lee, Matt;Red Hat;guidebook marketing;-
+    duck-rh;Dequènes, Marc;Red Hat;infrastructure operatios;-
