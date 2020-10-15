@@ -51,10 +51,8 @@ While contributors occupy certain roles in an open source project, the project's
 
 When analyzing your project's procedure- or policy-related governance systems, ask the following questions:
 
-- How do code and documentation get accepted into the project?
-***BKP: "code and documentation" s/b "contributions" ^^^ ***
-- How do contributors come to occupy and eventually depart from certain
-roles in the project?
+- How do various contributions get accepted into the project?
+- How do contributors come to occupy and eventually depart from certain roles in the project?
 - How can role descriptions and responsibilities be changed?
 - How do project decisions get made (and by whom)?
 - How are debates and conflicts resolved (and by whom)?
@@ -222,11 +220,8 @@ Those that do, however, will likely adopt even more nuanced and complex governan
 See "Examples of open source governance models" to learn more about these.
 
 Sometimes, when projects reach this size, they seek to transition management and trademark of a project to an independent entity (usually called "foundations" in the open source world).
-On rare occasions, projects may establish their own independent consortium for this purpose.
-More frequently, however, a project will approach an existing foundation (such as the Apache Foundation, the Linux Foundation, the Cloud Native Computing Foundation, the Eclipse Foundation, the OpenStack Foundation, or the Software Freedom Conservancy, to name just a few) and ask the foundation to adopt the project.
-
-***BKP: That's a lot more than a few.
-Trim to three? ^^^ ***
+On rare occasions, projects may establish their own independent consortia for this purpose.
+More frequently, however, a project will approach an existing foundation (such as the Apache Foundation, the Linux Foundation, or the Cloud Native Computing Foundation, to name just a few) and ask the foundation to adopt the project.
 
 When selecting a foundation with whom to partner in this way, open source projects must make several considerations, including:
 
@@ -244,11 +239,7 @@ A trademark is one of an open source project's most valuable resources for guara
 Open source projects commonly use trademark certification as a way to "bless" certain vendor products in the market or to influence the way derivative products behave.
 
 Some projects hold tightly to the idea that contributors are _individual_ contributors and not representatives of companies for which they may happen to work.
-In mature open source projects (like Apache or the Linux kernel), this allows people to maintain community status and seniority even when they change employers.
-
-***BKP: "Apache" is not a single project.
-Please correct.
-^^^ ***
+In mature open source projects (like the Linux kernel), this allows people to maintain community status and seniority even when they change employers.
 
 == Examples of open source project governance models
 
@@ -451,7 +442,7 @@ As such, at a minimum you'll need to identify who your leaders are, so that deci
 Many projects also explain the qualifications and procedure to become a leader, whether it's selection by a committee, election, or simply based on your job.
 If you have a more politically sophisticated project, then those should be written down in a selection/election procedure document as well (see below), but if it's simple, selection can just be part of the role document.
 
-What fewer projects put into their leadership role documents is the other parts: the powers and limitations of the leaders, their duties, and how people leave the role (voluntary or otherwise).
+What fewer projects put into their leadership role documents is the other parts: the powers and limitations of the leaders, their duties, and how people leave the role (voluntarily or otherwise).
 It's very important that everyone know exactly how far a leader's authority extends, as well as what they're responsible for, or you end up with a lot of conflict between leaders and other project members.
 Having a set of written duties helps immensely when your leadership team has to decide to kick out a project leader who has stopped participating, but does not want to resign.
 
@@ -469,24 +460,20 @@ Some of these will be mostly technical (like release process, or a support polic
 However, there are three governance P&P that every project should have:
 
 . Code of conduct
-. Contribution process & paperwork
+. Contribution process
 . Communication information
 
-Projects that grow larger and more popular, become commercially adopted, or are actively recruiting many new contributors probably want some additional P&P docs, such as:
+Projects that grow larger and more popular, become commercially adopted, or are actively recruiting many new contributors probably want some additional P&P documents, such as:
 
 . Leadership selection/election process
 . Contributor promotion
 . Release process
-. Security issue reporting & handling
+. Security issue reporting and handling
 . Project trademark usage
 
-We'll talk about these six documents below.
+We'll talk about each of these documents below.
 
-***BKP: Please get these two lists above aligned with numbers.
-I see eight items above and you outline six things.
-^^^VVV ***
-
-==== Developing a code of conduct
+==== Code of conduct
 
 Creating a code of conduct (CoC) for your open source community is one of the simplest and most powerful ways to begin influencing the project's governance model.
 A code of conduct is a description of expectations for community members' behavior when they act within or on behalf of the project.
@@ -520,7 +507,7 @@ If you haven't, then here's a few things you should cover in your contribution d
 Some projects have paperwork that needs to be submitted before any contributions can be accepted, such as a Developer Certificate or Origin (DCO) or Contributor License Agreement (CLA), certificate of identity, or GPG keyring.
 Spell these out with step-by-step instructions in your contribution document.
 
-==== Communications
+==== Communication information
 
 Most open source projects have multiple ways that project members talk to each other, including email, chat, issues, code reviews, video conferencing, and even in-person meetings.
 You need to spell out which channels your project uses, and how to join them.
@@ -534,7 +521,7 @@ And if your community has any important events, such as annual developer confere
 
 See this guidebook's chapter on communication norms in open source projects for more detail.
 
-==== Leadership selection/election
+==== Leadership selection/election process
 
 If you've already documented your "leadership" role, the information on how project members become leaders will be part of it.
 However, some projects don't get around to writing roles, and other projects have multi-step election procedures that require additional documentation.
@@ -574,7 +561,7 @@ This document will also have lots of non-governance content, like the locations 
 It's expected that most of it will be technical instructions.
 Just don't neglect the who and why along with the how.
 
-==== Security issue reporting & handling
+==== Security issue reporting and handling
 
 Once your project's code is being used in production by external users, managing security issue reports becomes a critical priority.
 While this topic could use an entire chapter on its own, there is some basic governance setup associated with handling security issues.
@@ -590,7 +577,7 @@ Confidentiality requirements are particularly important for both the security te
 For example, security researchers are willing to not disclose their findings to the public until your project does, but only if they are promised that your security team won't do that either.
 In many projects, security team members aren't allowed to share certain information even with their own employers.
 
-==== Project trademark usage
+==== Trademark usage
 
 When a project gets popular, both commercial and non-commercial groups want to use the project's name, word mark, and graphical logo in things.
 Whether it's just statements of support, a third party wanting to sell shirts with your project on them, or other projects that derive from yours, projects need these entities to be following some kind of official policy around usage.
