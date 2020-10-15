@@ -1,5 +1,5 @@
 . Introductions
-.. _presenting-tosw.adoc_
+.. _https://github.com/theopensourceway/guidebook/blob/master/presenting-tosw.adoc[presenting-tosw.adoc]_
 .. Community 101
 ... _https://github.com/theopensourceway/guidebook/blob/master/community_101.adoc[community_101.adoc]_
 .. Quickstart checklist
@@ -13,17 +13,17 @@
 ... _https://github.com/theopensourceway/guidebook/blob/master/creating_diverse_inclusive_communities.adoc[creating_diverse_inclusive_communities.adoc]_
 . Guiding participants
 .. Why do people participate in open source?
-... _why_people_participate.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/why_people_participate.adoc[why_people_participate.adoc]_
 .. How participants help the projects they love so much
-... _how_participants_help_the_projects_they_love_so_much.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/how_participants_help_the_projects_they_love_so_much.adoc[how_participants_help_the_projects_they_love_so_much.adoc]_
 . Growing Contributors
 .. What is a contribution
 .. From users to contributors
-... _from_users_to_contributors.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/from_users_to_contributors.adoc[from_users_to_contributors.adoc]_
 .. Getting organized
-... _getting_organized.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/getting_organized.adoc[getting_organized.adoc]_
 .. Onboarding
-... _onboarding.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/onboarding.adoc[onboarding.adoc]_
 .... Contributors from easyfix to experienced
 .. Community roles
 ... _https://github.com/theopensourceway/guidebook/blob/master/community_roles.adoc[community_roles.adoc]_
@@ -34,7 +34,7 @@
 . Measuring Success
 .. Defining healthy communities
 .. Developing a metrics plan
-... _developing_a_metrics_plan.adoc_
+... _https://github.com/theopensourceway/guidebook/blob/master/developing_a_metrics_plan.adoc[developing_a_metrics_plan.adoc]_
 .. Announcing software releases
 ... https://github.com/theopensourceway/guidebook/blob/master/announcing_software_releases.adoc[announcing_software_releases.adoc]_
 . Avoiding Pitfalls and Learning From Mistakes
