@@ -1,0 +1,48 @@
+. Introductions
+.. _presenting-tosw.adoc_
+.. Community 101
+... _https://github.com/theopensourceway/guidebook/blob/master/community_101.adoc[community_101.adoc]_
+.. Quickstart checklist
+.. Terminology and lexicon
+. Attracting Users
+.. Communication norms in open source projects
+... _https://github.com/theopensourceway/guidebook/blob/master/comm_norms.adoc[comm_norms.adoc]_
+.. Basics of a project
+.. Driving adoption
+.. Creating diverse and inclusive communities
+... _https://github.com/theopensourceway/guidebook/blob/master/creating_diverse_inclusive_communities.adoc[creating_diverse_inclusive_communities.adoc]_
+. Guiding participants
+.. Why do people participate in open source?
+... _why_people_participate.adoc_
+.. How participants help the projects they love so much
+... _how_participants_help_the_projects_they_love_so_much.adoc_
+. Growing Contributors
+.. What is a contribution
+.. From users to contributors
+... _from_users_to_contributors.adoc_
+.. Getting organized
+... _getting_organized.adoc_
+.. Onboarding
+... _onboarding.adoc_
+.... Contributors from easyfix to experienced
+.. Community roles
+... _https://github.com/theopensourceway/guidebook/blob/master/community_roles.adoc[community_roles.adoc]_
+.. Creating a culture of mentorship
+.. Community governance
+... _https://github.com/theopensourceway/guidebook/blob/master/community_governance.adoc[community_governance.adoc]_
+.. Migrating code
+. Measuring Success
+.. Defining healthy communities
+.. Developing a metrics plan
+... _developing_a_metrics_plan.adoc_
+.. Announcing software releases
+... https://github.com/theopensourceway/guidebook/blob/master/announcing_software_releases.adoc[announcing_software_releases.adoc]_
+. Avoiding Pitfalls and Learning From Mistakes
+.. Legal issues in communities
+.. Community manager self-care
+... _https://github.com/theopensourceway/guidebook/blob/master/community-manager-self-care.adoc[community-manager-self-care.adoc]_
+.. Open source practitioners interviews; transcripts and "why" stories
+.. Home to all extra stories
+. References and Case Studies
+.. References
+.. Case studies
