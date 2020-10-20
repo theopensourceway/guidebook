@@ -18,10 +18,7 @@ Some are more _formal_ than others.
 But every project has them.
 
 Unfortunately, too many discussions of open source project governance focus on activities or resources, like "speaking for the project" or "ownership of the web domain."
-While documenting these functions is useful, these are not, strictly speaking, governance issues.
-
-***BKP: This feels like an unanswered question: if not governance, what? ^^^ ***
-
+While documenting these functions is useful, we should remember that these are _aspects_ of a project's governance, but they are not the full extent of it.
 At its heart, open source project and community governance is about _people_—their rights and responsibilities as part of a project and the expectations others have for them.
 
 == What is governance?
