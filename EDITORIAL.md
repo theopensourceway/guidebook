@@ -57,3 +57,7 @@ Material is complete. Any proposed edits or additions should be submitted as new
 ### To enter Final Review
 
 ### To enter Completed
+
+- [ ] Material has been proofread one final time for spelling and grammatical errors
+- [ ] Authors have acknowledged and/or approved all final changes
+
