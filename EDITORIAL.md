@@ -50,6 +50,11 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Subject Matter Review
 
+- [ ] Material is logically and coherently organized
+- [ ] Sidebars (if any) are appropriately formatted
+- [ ] Art (if any) is appropriately formatted
+- [ ] Material is stylistically consistent
+
 ### To enter Copy Edit
 
 ### To enter Technical Edit
