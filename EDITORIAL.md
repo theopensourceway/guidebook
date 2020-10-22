@@ -59,6 +59,9 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Technical Edit
 
+- [ ] Material has been edited for grammar and spelling
+- [ ] Authors have reviewed all proposed edits, have addressed outstanding questions from editors, and have approved all changes
+
 ### To enter Final Review
 
 ### To enter Completed
