@@ -16,7 +16,8 @@ We perform this work primarily through GitHub's issue-tracking tools, using GitH
 
 == Contributing to The Open Source Way
 
-Contributing a new chapter to The Open Source Way is relatively easy. Contributors can write materials on any system, then propose them to the project via GitHub's web interface.
+Contributing a new chapter to The Open Source Way is relatively straightforward when you are familiar with the well-documented GitHub platform.
+Contributors can write materials on any system, then propose them to the project via GitHub's web interface.
 Just follow these steps:
 
 . Click create New File
@@ -63,7 +64,8 @@ Each pass requires a different form of editorial and knowledge expertise, but in
 . Select the ``Create a new branch for this commit and start a pull request`` radio button.
   * When filling out the pull request, make sure to link the pull request back against the original issue. The issue will collect pull requests as it moves through the editorial columns.
 . Click the ``Commit changes`` button.
-. Another member of the Editorial team checks your change and merges the commit into the main branch; they also need to reopen the issue assigned to the chapter, which is closed automatically when the pull request is merged.
+. Another member of the Editorial team checks your change and merges the commit into the main branch.
+.. **Note:** They also need to reopen the issue assigned to the chapter, which is closed automatically when the pull request is merged.
 
 An alternate process goes like this:
 
