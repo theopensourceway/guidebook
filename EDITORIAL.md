@@ -36,8 +36,8 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Drafting
 
-- [ ] Author has suggested an outline of proposed material
-- [ ] One or more editors have reviewed and and approved the author's proposed outline
+- [ ] Authors have suggested an outline of proposed material
+- [ ] One or more editors have reviewed and and approved the authors' proposed outline
 
 ### To enter Draft Review
 
@@ -45,7 +45,7 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 - [ ] Material submitted is a complete draft
 - [ ] Authors have submitted text in English
-- [ ] Author has submitted all art and indicated proper attribution
+- [ ] Authors have submitted all art and indicated proper attribution
 - [ ] Material passes a basic plagiarism check
 
 ### To enter Subject Matter Review
