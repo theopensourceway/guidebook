@@ -67,6 +67,12 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Final Review
 
+- [ ] Technical accuracy of materials has been confirmed
+- [ ] Material has been properly and completely typeset in Asciidoc
+- [ ] Authors and technical editors have completely resolved all oustanding issues and comments
+
+- [ ] 
+
 ### To enter Completed
 
 - [ ] Material has been proofread one final time for spelling and grammatical errors
