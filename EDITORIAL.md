@@ -57,6 +57,9 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Copy Edit
 
+- [ ] Accuracy of subject matter has been confirmed
+- [ ] Authors have reviewed comments from subject matter experts and resolved all outstanding issues
+
 ### To enter Technical Edit
 
 - [ ] Material has been edited for grammar and spelling
