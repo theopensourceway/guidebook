@@ -1,8 +1,6 @@
 = Presenting The Open Source Way
 Author: Karsten Wade <quaid@iquaid.org>
-Updated: 2020-09-23
-
-== Presenting _The Open Source Way_ 2.0
+Updated: 2020-10-27
 
 An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 Most of the time, the things we do make absolutely no sense to outside observers.
@@ -27,7 +25,7 @@ In particular, this guide is a living document that endeavors to gather and spre
 
 These voices are all part of https://theopensourcway.org[this community of practice around open source software community management].
 
-=== The shape of things, i.e., assumptions we are making
+== The shape of things, i.e., assumptions we are making
 
 When you look at the table of contents for this guide, notice how the flow of focus goes from the user, to the participant, to the contributor.
 
@@ -36,17 +34,19 @@ This arrangement specifically tracks our view of how a community comes about and
 . A person or persons needing a solution creates the first iteration of the software.
 . Other people with similar needs start using it, forming the core of the userbase.
 . From the userbase arise people who are enthusiasts of the software and things about/around it.
-. Finally arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
+. Eventually arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
 
 Thus, the primary and continual focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than anger.
 
 A key element of all this is recognizing the value in contributions of all types, at all levels.
 Rather than valorizing only a single type of contribution, the best practice is to treat all manner of gifts to the project as equal.
-These contributions comprise content and code, hours and effort, and all manner of broad contributons for the project via events, discussion forums, infrastructure maintenance, and so on.
+These contributions comprise content and code, hours and effort, and all manner of broad contributions for the project via events, discussion forums, infrastructure maintenance, and so on.
 
 When you lower barriers to participation, you make your project welcoming at all levels.
 This doesn't mean you _remove all barriers_—just lower most of them appropriately.
 Appropriate barriers are necessary for someone receiving keys to systems, for example, and these barriers are different from those allowing only certain participants to contribute a help article or a patch to the configuration management system.
+
+=== Our core opinion
 
 There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
 
@@ -62,15 +62,16 @@ The pathway of this guidebook therefore is:
 
 1. *Attract users* to your software because it solves the problems they have.
 2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software.
-3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they seem themselves represented and can imagine how they could fit in, too.
+3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they see themselves represented and can imagine how they could fit in, too.
+Make sure when they get to the contributor party, the barriers are clearly lowered and welcoming.
 
 It's one thing to let people know about your great dance party.
 It's another thing to empower those dancers to advocate for your way of throwing a dance party.
 It's a very great thing to make the dance party able to evolve to welcome all manner of music and dance from the world around us.
 
-To get the dancers who see your poster and show up in step one to stick around, it helps if they can see right away that this is a place for them and theirs, too.
+To get the dancers who see your poster and show up in the first step to stick around, it helps if they can see right away that this is a place for them and theirs, too.
 
-In considering this pathway, you can see there is no emphasis on expertise or even existing skills relevant to the project more than curiosity and willingness to try the software, care about the software, and help create the software.
+In considering this pathway, you can see there is no emphasis on expertise or even existing skills relevant to the project more than curiosity and willingness to try the software, to care about the software, and to help create the software.
 This does not mean that people don't bring skills to the project; they do, many of them right from first point of contact with the project.
 But it is easier to teach skills than to teach someone to truly care about your project.
 
@@ -107,10 +108,10 @@ Stories not interspersed into chapters will be collected at the end (for your en
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
 In the end, it's just one way to pull this material together (one method, you might say, of organizing the madness).
-We'll be updating this guide. We'll be issueing similar, new guides. And we'll experiment with other ways to understand and present this material.
+We'll be updating this guide. We'll be issuing similar, new guides. And we'll experiment with other ways to understand and present this material.
 
 But at the core—in addition to the _what_ and the _how_ that benefit your open source community—you will also learn to understand the _why_, and be able to spread those stories wherever you go.
 
 *TBD* _Content here needs to be confirmed with the format of the actual chapters we're releasing.
-Then it needs a nice conluding sentence._
+Then it needs a nice concluding sentence, if this one is insufficient._
 *TBD*
