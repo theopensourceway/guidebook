@@ -19,17 +19,50 @@ In particular, this guide is a living document that endeavors to gather and spre
 
 These voices are all part of https://theopensourcway.org[this community of practice around open source software community management].
 
-=== Assumptions we are making
+=== The shape of things, i.e., assumptions we are making
 
-'Details of how we see growing a community via growing users, lowering barriers, and enabling people to participte and contribute at all levels. How the guide reflects this structure.'
+There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
+
+____
+Focus on your end-users and lower the barriers to participation all around.
+
+Contributors arise from participants, who all started as users.
+
+Make your software wildly successful by having a user-centric initiative, while making the community open and welcoming those users come looking to see what is going on the creation/contribution side 
+____
+
+The pathway of this guidebook therefore is:
+
+1. *Attract users* to your software because it solves the problems they have.
+2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software.
+3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they seem themselves represented and can imagine how they could fit in, too.
+
+It's one thing to let people know about your great dance party.
+It's another thing to empower those dancers to advocate for your way of throwing a dance party.
+It's a very great thing to make the dance party able to evolve to welcome all manner of music and dance from the world around us.
+
+To get the dancers who see your poster and show up in step one to stick around, it helps if they can see right away that this is a place for them and theirs, too.
+
+In considering this pathway, you can see there is no emphasis on expertise or even existing skills relevant to the project more than curiosity and willingness to try the software, care about the software, and help create the software.
+This does not mean that people don't bring skills to the project; they do, many of them right from first point of contact with the project.
+But it is easier to teach skills than to teach someone to truly care about your project.
+
+In this journey, there are many best practices we recommend, including how to put together a plan for measuring your community's progress.
+We also list some specific areas to be careful of and watch out for, including a robust discussion on self-care and mental health considerations for community managers themselves.
+
+Our best way of more-deeply conveying all this information is with stories.
+Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway[The Open Source Way community] to gather all these stories of why. 
 
 === Structure of this guide
 
 Each section of this guide consists of one or more chapters.
+ 
+A chapter is a discrete discussion of a topic or a closely-related set of topics.
+// Those topics are discussed in terms of a principle (what), implementation of that principle (how), and examples of why that principle is followed or recommended.
+//This principle/implementation/example, or PIE, approach helps makes chapters consistent for reading.
 
-A chapter is a discrete discussion of a topic or a closely-related set of topics. Those topics are discussed in terms of a principle (what), implementation of that principle (how), and examples of why that principle is followed or recommended. This principle/implementation/example, or PIE, approach helps makes chapters consist for reading.
-
-The idea is that you can open and read a chapter as a stand-alone experience without needing to read the rest of the guide to understand and act from the material in that chapter. Having the PIE consideration helps as reader find themselves in the guide at any point.
+The idea is that you can open and read a chapter as a stand-alone experience without needing to read the rest of the guide to understand and act from the material in that chapter.
+// Having the PIE consideration helps as reader find themselves in the guide at any point.
 
 The chapter consists of several parts:
 
@@ -39,3 +72,6 @@ The chapter consists of several parts:
 ** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 * Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
 
+*TBD* _Content here needs to be confirmed with the format of the actual chapters we're releasing.
+Then it needs a nice conluding sentence._
+*TBD*
