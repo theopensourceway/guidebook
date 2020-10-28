@@ -260,7 +260,7 @@ Some projects refer to their founder-leaders as "BDFLs" or "Benevolent Dictators
 
 In projects following the founder-leader model, lines of power and authority are typically quite clear; they radiate from founder-leaders, who are the final decision-makers for all project matters.
 This model's limitations become apparent as a project grows to a certain size.
-Separating the founder-leader's personal preferences from project design decisions eventually becomes difficult, and founder-leaders can become bottlenecks for project decision-making work.
+Separating the founder-leaders' personal preferences from project design decisions eventually becomes difficult, and founder-leaders can become bottlenecks for project decision-making work.
 In extreme cases, founder-leader models can create a kind of "caste" system in a project, as non-founders begin feeling like they're unable to affect changes that aren't in line with a founder's vision.
 Disagreements can lead to project splits.
 Worse, a founder-leader's disappearance, whether due to burnout or planned retirement, can cause a project to disintegrate entirely.
