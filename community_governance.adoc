@@ -416,7 +416,7 @@ But defining "who is a Contributor to this project" can be deceptively hard.
 
 Is it anyone who posted on a mailing list, or do you need 100 merged pull requests?
 Is it just code contributors, or contributors of any kind? What about folks who do events and advocacy?
-Are staff who work for a contributing company automatically consideredCcontributors, or do they have to earn it individually?
+Are staff who work for a contributing company automatically considered Contributors, or do they have to earn it individually?
 What about someone who contributed a lot of code three years ago, but not since then?
 Who gets listed in your release credits and how?
 
