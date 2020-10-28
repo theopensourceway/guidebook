@@ -256,8 +256,7 @@ Do not expect to influence decisions in a do-ocracy until you are able to demons
 
 The founder-leader governance model is most common among new projects or those with a small number of contributors (and since most open source projects have only a small number of contributors, this is a rather popular model!).
 In these projects, the individual or group who started the project also administers the project, establishes its vision, controls all permissions to merge code into it, and assumes the right to speak for it in public.
-Some projects refer to their founder-leaders as "BDFLs" or "Benevolent Dictators for Life."
-// @quaid I thought we weren't going to make the BDFL reference? Maybe reference it as an archaic form falling out of favor in recent years, etc.?
+Some projects refer to their founder-leaders as "BDFLs" or "Benevolent Dictators for Life," a term that is falling out of fashion.
 
 In projects following the founder-leader model, lines of power and authority are typically quite clear; they radiate from founder-leaders, who are the final decision-makers for all project matters.
 This model's limitations become apparent as a project grows to a certain size.
