@@ -40,11 +40,11 @@ ____
 ____
 
 In a nutshell, then, self-care is the practice of making conscious, mindful efforts to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
-Most of us already practice self-care daily by taking actions to protect our overall health (for example, eating healthily, exercising, and getting enough sleep).
+Most of us already practice self-care daily by taking actions to protect our overall health (for example, eating healthy, exercising, and getting enough sleep).
 Sometimes, however, we may find acts like these alone are insufficient for maintaining our well-being—and that a conscious effort at finding additional support is required.
 
 We can usually handle stress more effectively when we're in a happy state in mind.
-So by practicing self-care, we can build a resilience to life's unavoidable stressors.
+By practicing self-care, we can build a resilience to life's unavoidable stressors.
 
 This concept of self-care may appear simplistic in theory, but it is so commonly overlooked or neglected—especially by community managers.
 Let's explore (and deconstruct) some reasons why.
@@ -115,7 +115,7 @@ Maintaining this kind of emotional labor can be incredibly exhausting.
 We must acknowledge and accept that being perfect is unattainable, and more importantly, not a requirement for being a great leader.
 What _is_ important is that people can relate to your human side.
 
-People gravitate to others with whom they share a kinship.footnote:[Psychologyt Today , https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-do-we-people-who-are-similar-us[Why Do We Like People Who Are Similar to Us?]], and being able to identify this feeling of kinship is one hallmark of an effective community manager.
+People gravitate to others with whom they share a kinship.footnote:[Psychology Today , https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-do-we-people-who-are-similar-us[Why Do We Like People Who Are Similar to Us?]], and being able to identify this feeling of kinship is one hallmark of an effective community manager.
 If your members see that you possess qualities they can relate to, they can more easily empathize with you.
 Ironically, we often emphasis the significance of practicing empathy for our members or team, but it's equally important that our members demonstrate compassion, and gratitude towards us too.
 
@@ -144,13 +144,13 @@ Keeping ourselves nourished helps us maintain bodily health. Getting into health
 
 Physical self-care might include activities like:
 
-- Maintaining a regular sleep routine
-- Eating a healthy diet
-- Taking a nap
-- Getting a massage
-- Going for a stroll
-- Stretching
-- Doing yoga (or other forms of exercise)
+. Maintaining a regular sleep routine
+. Eating a healthy diet
+. Taking a nap
+. Getting a massage
+. Going for a stroll
+. Stretching
+. Doing yoga (or other forms of exercise)
 
 === Mental Self-Care
 
@@ -164,11 +164,11 @@ However, with consistency of exercising mental self-care we will see it's benefi
 
 A few examples of mental self-care:
 
-- Reading a new book or article
-- Try a hobby or interest
-- Write a list of goals
-- Solving puzzles
-- Organize or clean out a space in your room
+. Reading a new book or article
+. Try a hobby or interest
+. Write a list of goals
+. Solving puzzles
+. Organize or clean out a space in your room
 
 === Spiritual Self-Care
 
@@ -179,13 +179,13 @@ The word soul is merely a representation of the entity or uniqueness you feel em
 
 A few examples of spiritual self-care:
 
-- Volunteering for a cause you care about
-- Meditate
-- Spent time in nature
-- Pray or attend religious service
-- Determining your most important values or morals
-- Considering your significant relationships
-- Discover new forms of spirituality and religion
+. Volunteering for a cause you care about
+. Meditate
+. Spent time in nature
+. Pray or attend religious service
+. Determining your most important values or morals
+. Considering your significant relationships
+. Discover new forms of spirituality and religion
 
 
 Regardless of the different types and activities of self-care you perform, the aim is to help us in a constant and sustainable way, to fight off and defend us against the negative effects of our role.
@@ -211,7 +211,7 @@ When occupational stress is long occurring, seen as chronic, affecting the overa
 Burnout is extremely hard to detect as not only is it subtle and progressive, but it is often misdiagnosed as the earlier, more temporary, common work related stress.
 This is because the two are similar until it becomes too late and has developed into a much deeper and harder problem to treat.
 
-Psychologist Herbert Freudenberger has released multiple books and articles regarding his research of the possible causes, implications and affects of burnout since the 1970's.
+Psychologist Herbert Freudenberger has released multiple books and articles regarding his research of the possible causes, implications and affects of burnout since the 1970s.
 His work.footnote:[Dr Herbert Freudenberger and Geraldine Richelson, "Burn-out : The High Cost of High Achievement"] has helped to define the different symptoms and thus the phases of experiencing burnout.
 
 Perhaps you recognize several of them in yourself; perhaps you recognize only one or two.
@@ -304,7 +304,7 @@ Similar to the symptoms, sufferers may experience episodes in multiple phases, n
 
 . *Denial of Emerging Problems*: mechanisms to defend oneself against the impact of life and in turn their demands. Develop inability to tolerate ambiguity and become non-receptive; projecting the anxieties and insecurities externally. 
 
-. *Withdrawal*: Become detached from our emotions and from other people. Often "escaping" through television, books or other means like alcohol/drugs.
+. *Withdrawal*: Become detached from our emotions and from other people. Often "escaping" through television, books, or other means like alcohol/drugs.
 
 . *Odd Behavioral Changes*: friends and family identify increasingly obvious changes in behavior like attitude, language or physical activities.
 
@@ -373,13 +373,13 @@ It goes without saying that community is extremely important; its fuels the purp
 
 If you feel yourself or anyone else succumbing to burnout then the most direct approach is to take a break from the source of the stress, which is more often work, and reflect on the more acute causes of your burnout.footnote:[Pyschology Today, https://www.psychologytoday.com/us/blog/high-octane-women/201109/when-life-loses-its-meaning-the-heavy-price-high-achievement[When Life Loses Its Meaning: The Heavy Price of High Achievement]] 
 
-*1. Use your holiday time*
+*Use your holiday time*
 
 Don't be afraid to utilize this time and don't feel guilty either. 
 Using your holiday does not demerit your dedication to the role, neither does it mean that everything will fall apart whilst away. 
 Use this time to concentrate on yourself, and what gives you pleasure in life.
 
-*2. Spend time with those you care about*
+*Spend time with those you care about*
 
 Re-kindle your social relationships, they have probably missed you as a result of the developing burnout. 
 Talk through how you're feeling and enjoy your time with them so it is overall a pleasant experience. 
@@ -388,7 +388,7 @@ Try to generally stay clear of negative people in your life.
 This could mean letting them disappear from your social network, or limit your interaction with them. 
 Remember, other people's emotions can affect us both positive and negatively. 
 
-*3. Re-evaluate priorities*
+*Re-evaluate priorities*
 
 Identify what is important to you and reflect upon if your current lifestyle, or work life balance mirrors that. 
 If they don't then priorities what you wish to enjoy more and block out time in your schedule and commit to it.
@@ -397,18 +397,18 @@ Also evaluate your options and consider what the next steps would be to resolve 
 This could be coming to a solution or compromises with your line manager to reduce workload or other concerns you have. 
 There may be a point that the only way to remove certain stressors in your life is to leave your job to improve your health.
 
-*4. Practice self-care*
+*Practice self-care*
 
 Take the time to commit yourself fully to what ever self-care activity you want to enjoy and do it. 
 Try and practice self-care daily, detaching yourself from as much work as possible and devote yourself to some "me" time. 
 
-*5. Seek professional help*
+*Seek professional help*
 
 If all the other options have little or no affect on your physical or mental well being, or you feel you require immediate assistance, then do seek professional help as a matter of urgency.
 
-== Work Life Balance
+== Work-Life Balance
 
-A healthy work life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally important and neither should be undervalued.
+A healthy work-life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally important and neither should be undervalued.
 We can find ourselves in unhealthy mindsets when forced to be stuck in either one extreme or the other withholding an important sense of purpose and enjoyment from that part of our lives.
 
 It has also become more difficult in this day and age to detach ourselves physically from our work life. 
@@ -439,21 +439,21 @@ It's important we develop a healthy relationship with our role itself without fe
 Try and assess what truly drives your motivations to achieve and does this require you to be online the amount of time you are. 
 Do you find that you feed off external praise as form of validation of your work? 
 Do feel that if you walked away from the community it would fall apart? 
-Identify those moments of pleasure, whether it's ticking off a task, or receiving a compliment from a community member or boss, and evaluate whether or not they are needed in the same doses you are currently experiencing them at.
+Identify those moments of pleasure, whether it's completing a task, or receiving a compliment from a community member or boss, and evaluate whether they are needed in the same doses you are currently experiencing them at.
 
 We can also find that this need to achieve is a reaction to a heavy workload from the lack of resources within the team trying to prove to others the value the role and team brings to the project or company. 
 
 Reconsider these goals with the aim to reduce your workload. 
-Are they achievable and maintainable with the current resources without sacrificing quality and a good work/life balance? 
+Are they achievable and maintainable with the current resources without sacrificing quality and a good work-life balance? 
 If they aren't then consider prioritizing and communicating the most impactful goals that the team can achieve. 
 Delegate any other tasks to suitable members or establish more flexible timelines, and anticipate time for possible firefighting as part of those deadlines.
 
-Not only does this help to set reasonable expectations for the team members to achieve, but also promotes that a healthy work/life balance is an integral part of their schedule. 
+Not only does this help to set reasonable expectations for the team members to achieve, but also promotes that a healthy work-life balance is an integral part of their schedule. 
 This predictable schedule also helps you to provide better forecasting to the company or community.
 
 === Maintain boundaries
 
-When reflecting upon our work life balance, it is important to establish clear boundaries between the two. 
+When reflecting upon our work-life balance, it is important to establish clear boundaries between the two. 
 As we've said earlier that due to our nature of work, we find ourselves participating within the community and this begins to eat into our personal time leaving nothing else. 
 This is tolerable only on a temporary basis and only when we are required for an intervention, but this should not be the norm. 
 Boundaries help us establish where our work ends, and pleasure begins. 
@@ -463,7 +463,7 @@ These boundaries can also help the community acknowledge and accept your expecta
 Be as transparent as possible by defining your available hours, an escalation process and highlight the importance of documenting community processes so members feel more informed on what they should do in incidences with or without requiring assistance. 
 The aim is to establish a consistent schedule and the team and community to respect it. Although they may not do so on every occasion, you will be able to use your boundaries to help combat the feeling of guilt as you begin to embrace personal time as your own as well as respecting others.
 
-Of course if there are any serious incidences that requires your intervention during down time ensure you put into place mechanisms for the team to combat them rather than yourself being the only one who ‘can handle it'. 
+Of course if there are any serious incidences that requires your intervention during down time ensure you put into place mechanisms for the team to combat them rather than yourself being the only one who ‘can handle it.' 
 These mechanisms can be an escalation process or a team effort to respond and review the response collectively. 
 This helps encourages the mentality that everyone can lighten the load especially when it eats into yours and their personal time.
 
@@ -503,6 +503,8 @@ Take time out to frequently reflect what drives you and your community, positive
 
 == Self-Reflection
 
+***BKP: There should not be headings jammed together. Please add brief introductory text for this section. ***
+
 === Through the looking glass
 
 An important aspect of being a manager is to provide good and constructive feedback to those that are on our team, as well as the community as a whole. 
@@ -528,9 +530,9 @@ Journaling is often a good, yet simple, practice you can do to clarify your thou
 Practicing self-reflection can be difficult to begin with due to previously discussed inner restrictions we place upon ourselves as community leaders: the need of being invincible; distorted perception of our worth; and lack of visible support. 
 However creating a routine of introspection and self-reflection as part of our self-care we will begin to exercise more control over our emotions: have inner clarity on our long term goals, and ability to identify more solutions-focused activities rather than the previously emotionally driven ones.
 
-=== Tackling Imposter Syndrome
+=== Tackling imposter syndrome
 
-This term was first defined by psychologists Dr Pauline Clance and Dr Suzanne Imes.footnote:[Dr Pauline Clance and Dr Suzanne Imes, "The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention."] in the 1970's as the internal experience one feels, despite overwhelming amount of evidence proving other wise, that they are incompetent and that their success was a product of luck or fraud within their field of expertise.
+This term was first defined by psychologists Dr Pauline Clance and Dr Suzanne Imes.footnote:[Dr Pauline Clance and Dr Suzanne Imes, "The imposter phenomenon in high achieving women: Dynamics and therapeutic intervention."] in the 1970s as the internal experience one feels, despite overwhelming amount of evidence proving other wise, that they are incompetent and that their success was a product of luck or fraud within their field of expertise.
 
 Often those that experience impostor syndrome have a hard time internalizing and accepting their success by minimizing positive feedback and comparing other's work to their own. 
 This more frequently happens if we have started a new job, take on new responsibilities or role, or returned from a recent career break. 
@@ -627,7 +629,7 @@ Remember that other emotions affect those around them including how member's str
 Similarly in our own direct reports' one-to-ones ensure you also have regular one-to-ones with your line manager to highlight any problems you have achieving your workload or affecting your well being. 
 Be as direct as you are with helping others, that you are with yourself.
 
-## Resources
+== Resources
 
 * *High-Octane Women: How Superachievers Can Avoid Burnout*
 +
