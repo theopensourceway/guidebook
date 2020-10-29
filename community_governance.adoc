@@ -60,18 +60,12 @@ Remember: A project's *roles* and its *policies and procedures* aren't discrete;
 For example, consider a project role called "Documentation Maintainer." A project might outline that role this way:
 
 . Role Title: Documentation Maintainer
-. Qualifications: several years of consistent contributions to
-documentation
-. Access to Role: other Documentation Maintainers can nominate and vote
-to grant this role to eligible contributors
-. Duties: write documentation and review documentation from other
-contributors
-. Privileges: speak for the documentation team, participate in
-development meetings
-. Authority: ultimate decision on documentation content, technology, and
-strategy
-. Change Procedure: other Documentation Maintainers vote on changes to
-role description
+. Qualifications: several years of consistent contributions to documentation
+. Access to Role: other Documentation Maintainers can nominate and vote to grant this role to eligible contributors
+. Duties: write documentation and review documentation from other contributors
+. Privileges: speak for the documentation team, participate in development meetings
+. Authority: ultimate decision on documentation content, technology, and strategy
+. Change Procedure: other Documentation Maintainers vote on changes to role description
 
 In many cases, a project's actual role descriptions are more elaborate than that (some projects' role handbooks are dozens of pages long).
 As projects mature, the number of different roles people play in them can increase.
