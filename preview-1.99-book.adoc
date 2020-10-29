@@ -1,0 +1,17 @@
+= T H E   O P E N   S O U R C E   W A Y   2 . 0
+
+PREVIEW RELEASE
+TEST BUILD
+
+include::presenting-tosw.adoc[]
+
+include::why_people_participate.adoc[]
+
+include::comm_norms.adoc[]
+
+include::community_governance.adoc[]
+
+include::creating_diverse_inclusive_communities.adoc[]
+
+include::community-manager-self-care.adoc[]
+

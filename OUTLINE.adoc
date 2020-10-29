@@ -11,12 +11,13 @@
 .. Why do people participate in open source?
 .. How participants help the projects they love so much
 . Growing Contributors
-.. From users to contributors
 .. What is a contribution
+.. From users to contributors
 .. Getting organized
 .. Onboarding
 ... Contributors from easyfix to experienced
 .. Community roles
+.. Creating a culture of mentorship
 .. Community governance
 .. Migrating code
 . Measuring Success
