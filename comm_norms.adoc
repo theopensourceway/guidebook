@@ -1,4 +1,6 @@
 = Communication norms in open source software projects
+Authors: Leslie Hawthorn <lhawthor@redhat.com>
+Updated: 2020-10-29
 
 == Introduction
 
