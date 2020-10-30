@@ -8,7 +8,7 @@ They look like sheer madness.
 But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive.
 A method.
 
-Open source community management can seem like its own form of incomprehensible madness, especially to someone who's unfamiliar with how open source software gets made, or those who find themselves staring down the prospect of having to coordinate others to join in making it.
+Open source community management can seem like its own form of incomprehensible madness, especially to someone who is unfamiliar with how open source software gets made, or those who find themselves staring down the prospect of having to coordinate others to join in making it.
 
 What this guide hopes to provide is some insight into an ever-evolving methodology.
 What are your preferences for practicing the open source way?
@@ -19,7 +19,7 @@ Why use this or that method to organize the madness?
 So from this introduction you should take two important points:
 
 . There is a _what_, a _how_, and a _why_ to the practice of successfully and sustainably creating and maintaining open source software.
-. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of _why we do this open source thing the way we do it_.
+. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of _why we do this open source thing the way we do it?_
 
 In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly (and somewhat-opinionatedly) collecting the best ways to create and manage an open source software community.
 
@@ -36,11 +36,12 @@ This arrangement specifically tracks our view of how a community comes about and
 . From the userbase arise people who are enthusiasts of the software and things about/around it.
 . Eventually arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
 
-Thus, the primary and continual focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than anger.
+Thus, the primary and continual focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than [anger].
+^^^ s/anger/resentment as a lighter-touch word choice? -BKP
 
 A key element of all this is recognizing the value in contributions of all types, at all levels.
 Rather than valorizing only a single type of contribution, the best practice is to treat all manner of gifts to the project as equal.
-These contributions comprise content and code, hours and effort, and all manner of broad contributions for the project via events, discussion forums, infrastructure maintenance, and so on.
+These contributions comprise content and code, hours and effort, and all types of broad contributions for the project via events, discussion forums, infrastructure maintenance, and so on.
 
 When you lower barriers to participation, you make your project welcoming at all levels.
 This doesn't mean you _remove all barriers_—just lower most of them appropriately.
@@ -63,13 +64,14 @@ The pathway of this guidebook therefore is:
 1. *Attract users* to your software because it solves the problems they have.
 2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software.
 3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they see themselves represented and can imagine how they could fit in, too.
+^^^Are these points sequential? If not, this should be a bulleted list. -BKP
 Make sure when they get to the contributor party, the barriers are clearly lowered and welcoming.
 
 It's one thing to let people know about your great dance party.
 It's another thing to empower those dancers to advocate for your way of throwing a dance party.
 It's a very great thing to make the dance party able to evolve to welcome all manner of music and dance from the world around us.
 
-To get the dancers who see your poster and show up in the first step to stick around, it helps if they can see right away that this is a place for them and theirs, too.
+To get the dancers who see your poster and show up is the first step to stick around, and it helps if they can see right away that this is a place for them and theirs, too.
 
 In considering this pathway, you can see there is no emphasis on expertise or even existing skills relevant to the project more than curiosity and willingness to try the software, to care about the software, and to help create the software.
 This does not mean that people don't bring skills to the project; they do, many of them right from first point of contact with the project.
@@ -95,7 +97,7 @@ The idea is that you can open and read a chapter as a stand-alone experience wit
 A chapter consists of several parts:
 
 * An introduction
-* Primary material, written in third person POV, focusing on a balance of what, how, why content. The examples (stories) told here are brief and in the third person.
+* Primary material, written in third-person point-of-view, focusing on a balance of what, how, and why content. The examples (stories) told here are brief and in the third person.
 * Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person—that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
 ** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 * Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
