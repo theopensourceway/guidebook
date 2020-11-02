@@ -2,7 +2,7 @@
 Author: Karsten Wade <quaid@iquaid.org>
 Updated: 2020-10-27
 
-An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
+An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]c
 Most of the time, the things we do make absolutely no sense to outside observers.
 They look like sheer madness.
 But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive.
@@ -36,8 +36,7 @@ This arrangement specifically tracks our view of how a community comes about and
 . From the userbase arise people who are enthusiasts of the software and things about/around it.
 . Eventually arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
 
-Thus, the primary and continual focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than [anger].
-^^^ s/anger/resentment as a lighter-touch word choice? -BKP
+Thus, the primary and continual focus for a project is to _take good care of your users_, for some of them will become your contributors, and you want them to do it out of love more than resentment.
 
 A key element of all this is recognizing the value in contributions of all types, at all levels.
 Rather than valorizing only a single type of contribution, the best practice is to treat all manner of gifts to the project as equal.
@@ -61,10 +60,9 @@ ____
 
 The pathway of this guidebook therefore is:
 
-1. *Attract users* to your software because it solves the problems they have.
-2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software.
+1. *Attract users* to your software because it solves the problems they have; then
+2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software; and
 3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they see themselves represented and can imagine how they could fit in, too.
-^^^Are these points sequential? If not, this should be a bulleted list. -BKP
 Make sure when they get to the contributor party, the barriers are clearly lowered and welcoming.
 
 It's one thing to let people know about your great dance party.
