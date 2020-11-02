@@ -9,7 +9,7 @@ include::BUILD_TEMP-presenting-tosw.adoc[]
 
 include::BUILD_TEMP-why_people_participate.adoc[]
 
-include::BUILD_TEMP-comm_norms.adoc[]
+include::BUILD_TEMP-communication_norms.adoc[]
 
 include::BUILD_TEMP-community_governance.adoc[]
 

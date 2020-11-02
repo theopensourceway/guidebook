@@ -7,7 +7,7 @@ include::presenting-tosw.adoc[]
 
 include::why_people_participate.adoc[]
 
-include::comm_norms.adoc[]
+include::communication_norms.adoc[]
 
 include::community_governance.adoc[]
 
