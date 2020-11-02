@@ -13,7 +13,7 @@ include::BUILD_TEMP-comm_norms.adoc[]
 
 include::BUILD_TEMP-community_governance.adoc[]
 
-include::BUILD_TEMP-creating_diverse_inclusive_communities.adoc[]
+// include::BUILD_TEMP-creating_diverse_inclusive_communities.adoc[]
 
-include::BUILD_TEMP-community-manager-self-care.adoc[]
+// include::BUILD_TEMP-community_manager_self_care.adoc.adoc[]
 

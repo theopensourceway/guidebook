@@ -13,5 +13,5 @@ include::community_governance.adoc[]
 
 include::creating_diverse_inclusive_communities.adoc[]
 
-include::community-manager-self-care.adoc[]
+include::community_manager_self_care.adoc[]
 
