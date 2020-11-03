@@ -48,20 +48,20 @@ Appropriate barriers are necessary for someone receiving keys to systems, for ex
 
 === Our core opinion
 
-There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
+There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path are revealed so that you can find yourself wherever you are in your journey of open source practice.
 
 ____
 Focus on your end users and lower the barriers to participation all around.
 
 Contributors arise from participants, who all started as users.
 
-Make your software wildly successful by having a user-centric initiative, while making the community open, and welcoming those users come looking to see what is going on the creation/contribution side 
+Make your software wildly successful by having a user-centric initiative, while making the community open, and welcoming those users who come looking to see the creation/contribution side 
 ____
 
 The pathway of this guidebook therefore is:
 
 1. *Attract users* to your software because it solves the problems they have; then
-2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software; and
+2. *Guide participants* who care about open source and sharing good solutions so they can be effective enthusiasts for your software; and
 3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they see themselves represented and can imagine how they could fit in, too.
 Make sure when they get to the contributor party, the barriers are clearly lowered and welcoming.
 
@@ -106,7 +106,7 @@ Finally, we're collecting stories from practitioners of the open source way, sto
 The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 Stories not interspersed into chapters will be collected at the end of the guide (for your endless uses).
 
-== A community of practice always rebuilidng itself
+== A community of practice always rebuilding itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
@@ -114,7 +114,3 @@ In the end, it's just one way to pull this material together (one method, you mi
 We'll be updating this guide. We'll be issuing similar, new guides. And we'll experiment with other ways to understand and present this material.
 
 But at the core—in addition to the _what_ and the _how_ that benefit your open source community—you will also learn to understand the _why_, and be able to spread those stories wherever you go.
-
-*TBD* _Content here needs to be confirmed with the format of the actual chapters we're releasing.
-Then it needs a nice concluding sentence, if this one is insufficient._
-*TBD*
