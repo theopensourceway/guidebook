@@ -2,7 +2,7 @@
 Author: Karsten Wade <quaid@iquaid.org>
 Updated: 2020-10-27
 
-An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]c
+An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 Most of the time, the things we do make absolutely no sense to outside observers.
 They look like sheer madness.
 But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive.
@@ -19,7 +19,7 @@ Why use this or that method to organize the madness?
 So from this introduction you should take two important points:
 
 . There is a _what_, a _how_, and a _why_ to the practice of successfully and sustainably creating and maintaining open source software.
-. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of _why we do this open source thing the way we do it?_
+. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of, "Why do we do this open source thing the way we do it?"
 
 In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly (and somewhat-opinionatedly) collecting the best ways to create and manage an open source software community.
 
@@ -31,7 +31,7 @@ When you look at the table of contents for this guide, notice how the flow of fo
 
 This arrangement specifically tracks our view of how a community comes about and grows. And it all starts with a need.
 
-. A person or persons needing a solution creates the first iteration of the software.
+. One or more people needing a solution create the first iteration of the software.
 . Other people with similar needs start using it, forming the core of the userbase.
 . From the userbase arise people who are enthusiasts of the software and things about/around it.
 . Eventually arising from the users and the enthusiasts come people who are interested and have grown capable of contributing to the software in some way.
@@ -51,11 +51,11 @@ Appropriate barriers are necessary for someone receiving keys to systems, for ex
 There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
 
 ____
-Focus on your end-users and lower the barriers to participation all around.
+Focus on your end users and lower the barriers to participation all around.
 
 Contributors arise from participants, who all started as users.
 
-Make your software wildly successful by having a user-centric initiative, while making the community open and welcoming those users come looking to see what is going on the creation/contribution side 
+Make your software wildly successful by having a user-centric initiative, while making the community open, and welcoming those users come looking to see what is going on the creation/contribution side 
 ____
 
 The pathway of this guidebook therefore is:
@@ -95,13 +95,16 @@ The idea is that you can open and read a chapter as a stand-alone experience wit
 A chapter consists of several parts:
 
 * An introduction
-* Primary material, written in third-person point-of-view, focusing on a balance of what, how, and why content. The examples (stories) told here are brief and in the third person.
-* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person—that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
-** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
-* Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
+* Primary material, written in third-person point-of-view, focusing on a balance of what, how, and why content.
+The examples (stories) told here are brief and in the third person.
+* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s).
+These may be written in the first person—that may be the most effective way to make the point in many cases.
+These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
+* A lexicon at the end of each chapter defines special terms used in that chapter.
 
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action.
-Stories not interspersed into chapters will be collected at the end (for your endless uses).
+The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
+Stories not interspersed into chapters will be collected at the end of the guide (for your endless uses).
 
 == A community of practice always rebuilidng itself
 
