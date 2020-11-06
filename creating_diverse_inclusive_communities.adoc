@@ -160,7 +160,7 @@ If your project contributors all, or even mostly, look like you, that's a huge r
 
 === 2. Prioritize your project's documentation
 
-A 2019 Stack Overflow study found that about 41% of developers have less than five years of experience.
+A https://insights.stackoverflow.com/survey/2019#:~:text=Over%2040%25%20of%20respondents%20have,and%20Kotlin%20have%20the%20fewest[2019 Stack Overflow study] found that about 41% of developers have less than five years of experience.
 Between these young technologists and current emphasis on STEM education, there are lots of opportunities to welcome new open source contributors.
 In order to do so, project maintainers must lower barriers to entry—and clear, concise documentation is the first step.
 
