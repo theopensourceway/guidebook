@@ -5,17 +5,19 @@ Updated: 2020-07-19
 == Introduction
 
 Mere months after the COVID-19 pandemic forced most tech teams to work remotely or not at all, the murder of George Floyd ignited a racial reconciliation movement.
-This movement hit the tech sector especially hard. When Pinterest released a statement supporting the Black Lives Matter movement, two Black women who formerly worked there quickly called out their hypocrisy.
+This movement hit the tech sector especially hard.
+When Pinterest released a statement supporting the Black Lives Matter movement, two Black women who formerly worked there quickly called out their hypocrisy.
 
 At first glance, open source seems immune to the multi-pronged problems with diversity and inclusion plaguing digital technology companies.
 Open source ecosystems operate online; contributors work across countries, languages, and timezones to power projects that drive the web forward.
 In some cases, people contribute purely out of love for these projects, not for free beer and stock.
 Given the prevalence of such altruistic intent, the thinking goes, open source is a true meritocracy, a space where all can thrive regardless of their pronouns.
 But if there's one thing that industry advocates love more than meritocracy, it's data.
-And when data show who contributes to the open source ecosystem, they paint a damning picture.
+And when data show who contributes to the open source ecosystem, they paint a damning picture of that ecosystem's diversity.
 
 This chapter offers an overview of open source communities' efforts to make projects more diverse and inclusive.
-It also offers initial steps open source community managers, project maintainers, and practitioners at all levels can take to begin building communities and projects that benefit from a diverse contributor base.
+Whenever possible, I have included the voices of those with whom I've spoken personally about these issues.
+This chapter also offers initial steps open source community managers, project maintainers, and practitioners at all levels can take to begin building communities and projects that benefit from a diverse contributor base.
 
 == The state of open source diversity
 
@@ -25,7 +27,7 @@ Of the total employed, 9.6% were Black or African American, 15.8% were Asian, an
 As these surveys indicate, the digital technology industry is overwhelmingly White and male; open source communities are even more so.
 A 2017 GitHub survey of 5,500 open source users and developers found that 95% of randomly selected respondents identified as male.
 Three percent identified as women, and 1% as non-binary.
-Far from being meritocracies, open source projects are much _less_ likely to see contributions from minorities.
+Open source projects are much _less_ likely to see contributions from minorities.
 
 How does this continue to happen?
 Recent years have seen an influx of diversity and inclusive (D&I) initiatives aimed at recruiting more diverse project contributors.
@@ -37,7 +39,7 @@ With so much attention from community leaders, why do contributor data still pai
 Relative lack of open source activity from women and under-represented minorities (URMs) seems surprising at first, but a closer look reveals some persistent problems regarding inclusion in open source communities.
 Inclusion is often used as a synonym for diversity; in fact, it is its own principle.
 To quote Meg Bolger, "Inclusion is about folks with different identities feeling and/or being valued, leveraged, and welcomed within a given setting (e.g., your team, workplace, or industry)."
-There are some persistent, systemic barriers that keep women and underrepresented minorities (URMs) from being included in open source communities.
+Some persistent, systemic barriers keep women and underrepresented minorities (URMs) from being included in open source communities.
 Without addressing and rectifying these systemic problems, diversity in open source won't improve.
 
 Let's unpack three of those barriers: lack of free time to contribute, a hostile online environment, and lackluster documentation.
@@ -66,9 +68,9 @@ ____
 
 The internet is not an equally hospitable place.
 Women, people of color, and LBGTQ+ people are disproportionately targeted for online harassment, with women twice as likely to https://hbr.org/2020/06/youre-not-powerless-in-the-face-of-online-harassment[experience online sexual harassment] as men.
-And these data were collected pre-2020.
 
-This year's confluence of a global pandemic and mass civil unrest has led to increased attacks against people of color, specifically Asian Americans and Black Americans.
+And these data were collected pre-2020.
+The year's confluence of a global pandemic and mass civil unrest has led to increased attacks against people of color, specifically Asian Americans and Black Americans.
 If attackers feel emboldened to hurt people in the flesh, it's no surprise that this https://www.nytimes.com/2020/07/11/business/media/tucker-carlson-writer-blake-neff.html[occurs online] as well.
 If you work on open source projects with Black and Asian contributors, make no mistake: they are in pain.
 
@@ -90,7 +92,8 @@ The barriers above manifest in perhaps the biggest barrier of all: open source p
 Quantitative data and qualitative interviews repeatedly share that most open source projects don't prioritize or reward documentation.
 As a result, outsiders often have no clue how to help.
 
-I speak from personal experience here. After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project with which I could help.
+I speak from personal experience here.
+After speaking at the Open Source Summit in Vancouver two years ago, I found the community so warm and welcoming that I resolved to find a project with which I could help.
 Given my background as a writer of all stripes, I thought writing documentation would be the perfect place to start and make a meaningful impact.
 So you can imagine how my face fell when I created my first GitHub account, logged onto the platform, and was left totally lost by where to go next.
 With no knowledge of how to fork, merge branches, or make pull requests, I had no clue where to start—and knew the margin for error was high.
@@ -98,10 +101,10 @@ With no knowledge of how to fork, merge branches, or make pull requests, I had n
 I'm fortunate to live in a city with an active tech community that hosts regular meetups for techies of all interests, including tutorials aimed at beginners.
 I made my first pull request in person at a conference, and then made most of my first several dozen GitHub contributions at in-person events.
 Only after attending multiple free, accessible events over several months did I begin contributing independently.
-Absent any of these privileges, I would not have spent hours alone trying to learn how GitHub works to make a PR that might or might not get accepted.
+Absent any of these privileges, I would not have spent hours alone trying to learn how GitHub works to make a PR that might—or might not—get accepted.
 
 The same GitHub survey that found one in five open source contributors leave projects due to bad behavior also found that incomplete or confusing documentation was the biggest challenge.
-93% of that survey’s respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
+Ninety-three percent of that survey’s respondents said they had encountered the problem, yet 60% said they rarely or never contributed to documentation.
 As a result, it's hard for project veterans to read their _own_ projects' docs.
 
 Imagine how this makes outsiders feel.
@@ -109,10 +112,10 @@ Imagine how this makes outsiders feel.
 "Contributing to open source is not only a technical challenge but equally a social challenge," explains Nuritzi Sanchez (She/Her), a senior open source program manager at GitLab.
 "Documentation is needed to enable remote asynchronous collaboration, which is how communities work.
 If everything is stuck inside of people’s heads, that’s going to create an atmosphere of confusion, frustration, and inefficiency."
-Documentation isn't just essential for code; it's also a guide to understand each project's cultural and communication norms (refer to this guidebook's chapter on communication norms for more on this subject).
+Documentation isn't just essential for code; it's also a guide to understanding each project's cultural and communication norms (refer to this guidebook's chapter on communication norms for more on this subject).
 
 Open source communities use asynchronous communication to work cohesively across disparate time zones.
-Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why it's important to follow certain processes.
+Without clear documentation, prospective contributors won't know how decisions are made, where to contribute to the project, how teams collaborate, or why following certain processes is important.
 For prospective contributors who are non-native English speakers and/or have special needs, this lack of documentation makes contributing all but impossible. 
 Inadequate documentation has far-reaching consequences.
 It shows a lack of transparency that wastes time, sows distrust, and prevents many open source communities from reaching their full potential.
@@ -121,12 +124,12 @@ It shows a lack of transparency that wastes time, sows distrust, and prevents ma
 
 Despite these barriers to entry, there's good news for maintainers: You hold enormous power to improve your project's culture by making it more inclusive.
 Community members, especially those of minority status, have discussed the lack of diversity and inclusion for years.
-Now, it's time for project maintainers to act by weaving inclusion throughout their project strategies - not making it an afterthought years later.
+Now, it's time for project maintainers to act by weaving inclusion throughout their project strategies—not making it an afterthought years later.
 
 "[Diversity and inclusion] keynotes might have lofty ideals designed to raise awareness and some might even argue that they were useful at one point (maybe), but we've moved beyond that," argues Lisa-Marie Namphy [She/Her], who runs Cloud Native Containers, the world's largest Cloud Native Computing Foundation (CNCF) user group.
-
 "Our communities are saying that it's time to act! And action means a change of policies, fund initiatives, quotas, so many things.
 The communities are asking for accountability, from the foundations who run them to the corporations who fund them."
+
 If creating an inclusive community sounds overwhelming, remember that the community wants to help.
 If you're a project maintainer yourself, you don't have to do this work alone.
 In fact, taking the steps below with a trusted team will help improve your project for all.
@@ -141,9 +144,7 @@ If an open source maintainer isn't aware that women often have less time to cont
 As a result, they risk losing the diverse contributors they worked hard to recruit.
 
 Terri Oda (She/Her) volunteers for the Python Software Foundation and Google's Summer of Code alongside her role as an open source security researcher at Intel.
-She says claims of meritocracy make her cringe.
-Why?
-Such statements cause maintainers to ignore opportunities to get more people involved in projects, even in cases where the open source community gathers in person.
+She says claims of meritocracy make her cringe, she says, because they cause maintainers to ignore opportunities to get more people involved in projects, even in cases where the open source community gathers in person.
 
 "For example, say you're running code sprints at a conference and want to increase the number of women," Oda says.
 "If you're thinking about merit and skills, you're going to wind up offering more intro-to-sprinting type content or whining about the university pipeline.
@@ -163,7 +164,7 @@ A 2019 Stack Overflow study found that about 41% of developers have less than fi
 Between these young technologists and current emphasis on STEM education, there are lots of opportunities to welcome new open source contributors.
 In order to do so, project maintainers must lower barriers to entry—and clear, concise documentation is the first step.
 
-Zach Corleissen (he/they) is the lead technical writer for The Linux Foundation (LF) who recently revised a large architectural document for the LF Energy Foundation.
+Zach Corleissen (He/They) is the lead technical writer for The Linux Foundation (LF) who recently revised a large architectural document for the LF Energy Foundation.
 He also serves as one of the co-chairs for the Kubernetes documentation special interest group (SIG Docs).
 Kubernetes was his first open source software project, and it quickly became one of the most prolific projects in modern open source.
 Its rapid growth allowed Corleissen to own important aspects of its documentation, and revise it to become more reader-friendly.
@@ -176,14 +177,14 @@ Documentation is code for an environment where no chipsets are identical; kernel
 
 To track progress, the SIG Docs group does a quarterly review where they measure the progress of their previous quarter's goals and prioritize work for the upcoming quarter.
 One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it.
-That creates even more onus on contributors to find new contributors. 
+That creates even more onus on contributors to find new contributors.
 
 === 3. Create and enforce a clear code of conduct
 
 If your project doesn't already have a code of conduct (CoC), it's never too late to make one (refer to this guidebook's chapter on governance for tips of getting started).
 They are an expectation for modern open source initiatives, from long-term projects to two-day conferences.
 
-In my own research for this chapter, several open source contributors said they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
+Throughout my own research for this chapter, several open source contributors told me they won't consider joining new projects that lack clear CoCs; for these URMs, the risk of joining an unwelcoming if not hostile community is too high.
 "Having a code of conduct would be big for me," explains Natalie Zamani (She/Her), Senior Software Engineer at Apple.
 "And then something as seemingly unrelated as not tolerating project contributors espousing racist/sexist/homophobic/transphobic ideas, even if it’s not related to their project work.
 I wouldn’t feel comfortable working with individuals who hold such views, full stop. And I’ve seen a few projects that would otherwise be interesting to me where that’s tolerated."
@@ -193,7 +194,7 @@ She says that while the https://www.contributor-covenant.org/[Contributor’s Co
 
 "No matter the type of CoC you’re rolling out, having a transparent plan and timeline is key," Sanchez says.
 "At GNOME, we created a working group after one of our annual conferences to start drafting a code of conduct.
-We passed the notion of a working group by the Board of Directors to make sure that they were onboard.
+We passed the notion of a working group by the Board of Directors to make sure that they were on board.
 They made a community-wide announcement letting people know the process: a working group would be drafting the CoC, sending to community for revisions, the Board would then see the revised draft and vote, and then the membership would vote at the Annual General Meeting."
 
 Despite the key role of community feedback, Sanchez says the CoC should be owned by a governing body within your project.
@@ -210,44 +211,45 @@ Organizations need to look within and really assess before making a reach out."
 
 === 4. Reward contributions beyond code
 
-In her time working on open source, Sanchez says that most projects focus on attracting a narrow set of contributors: Engineering, Design, Translation, Documentation, and Outreach. Despite how broad that sounds, she'd like to see a lot more roles and contributions be rewarded. (Refer to this guidebook's chapter on the range of roles in open source projects.)
+In her time working on open source, Sanchez says that most projects focus on attracting contributors to a narrow set of project work: engineering, design, translation, documentation, and outreach.
+Despite how broad that sounds, she'd like to see a lot more roles and contributions be rewarded (refer to this guidebook's chapter on the range of roles in open source projects.)
 
 Around making personal career development goals, you can look into connecting a type of skillset with specific teams within open source software organizations.
 
 * "Why" skills
-** Sales / Business Development
+** Sales and business development
 ** Fundraising, partnerships
 ** Both of these things require you to pitch the value of the open source  community / project and require you to develop your communication and negotiation skills, among other things
 * Marketing skills
-** engagement, marketing, or outreach teams
+** Engagement, marketing, or outreach teams
 ** Some projects may not even have this set up and are in need of someone to help.
 Even if you don’t have a lot of experience in this, you may have more experience than anyone else in that community and it’s your chance to build something from scratch.
 This could look really amazing on a resume!
 * Strategy skills
-** Board of Directors / governance team, community team
-** It depends a bit on the maturity of the organization, but typically there’s a lot of room for building your strategy skills when on the board of Directors.
+** Board of directors / governance team, community team
+** It depends a bit on the maturity of the organization, but typically there's a lot of room for building your strategy skills when on a board of directors.
 You have a birds-eye view of the project, typically have say over project finances, and can help define goals and move the project forward at a whole new level.
 Since you can’t get there right away, leading initiatives can help you build those skills and there’s often a lot of room for people to step in and own big chunks on open source community teams
-* Data Science skills
-** Community team, Board of Directors
+* Data science skills
+** Community team, board of directors
 ** What kind of data is being collected to ensure that initiatives are successful?
 Measuring a community’s health is something that more and more people are interested in and there’s a need for those interested in data analysis to help
-* Graphic Design skills
-** marketing team, technical projects
-** There’s a lot of need for graphic design for brand and marketing initiatives, and in general to help make the project more mature.
+* Graphic design skills
+** Marketing team, technical projects
+** There's a lot of need for graphic design for brand and marketing initiatives, and in general to help make the project more mature.
 Some projects may not even have established brand guidelines, and there’s a big need for more designers in general
-* Project Management / Program Management skills
-** engagement, marketing, outreach, documentation, community teams
+* Project management and program management skills
+** Engagement, marketing, outreach, documentation, community teams
 ** There is a huge need for highly organized people who can create processes and structure. Many initiatives fall to the side because there isn’t someone to help push it along and make it happen
-* Product Management skills
-** any technical project, new initiatives, website, newcomers initiatives
+* Product management skills
+** Any technical project, new initiatives, website, newcomers initiatives
 ** Product management is essential at companies, and yet it’s something that isn’t always easily found within OSS. There’s a lot of room for PMs to jump in to help create more innovative products and help bridge the gap between communities and businesses, helping to expand the project’s reach
 * Legal skills 
-** Board of Directors, community team
+** Board of directors or community team
 ** There's a growing need for more people who are able to navigate open source related legal matters.
 Lawyers may get a lot of great experience working on community teams or sitting on the Board of Directors
-* HR/People skills
-** Board of Directors, community team, newcomers initiatives 
+* HR/people skills
+** Board of directors, community team, newcomers initiatives 
 ** We need people who care about people and want to make the community awesome.
 ** This helps with newcomers initiatives and lowering the barrier of entry, as well as retention.
 It also may help the community gain better communication practices. 
@@ -262,7 +264,7 @@ Recruiting and rewarding diverse contributions also plays a key role in preventi
 
 "It is unfair to expect the maintainer or the developer who started the project or leads the project to care for all of these issues, [or] have the skills to do it," Ruff says.
 "All forms of contribution need to be valued [because this] brings diversity of people into the project, which makes the project more vibrant and innovative.
-Foundations like the Apache Software Foundation, Linux Foundation bring all of these contributions to the table for their hosted projects.
+Foundations like the Apache Software Foundation [and] Linux Foundation bring all of these contributions to the table for their hosted projects.
 This allows the project to more successfully build a broader ecosystem."
 
 === 5. Mentor new talent to grow and lead the project
@@ -291,17 +293,18 @@ In some cases, open source contributors believe so much in the power of mentorsh
 And, because they were mindful of their own time limitations, they offered flexibility to new leaders as well.
 
 "My open source contributions definitely changed even before I became a parent," explains Oda.
-"As the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do. So, I handed off some of my other projects more completely and never went back to them.
+"As the coordinator for a global mentoring program that happens in the summer, I had to plan some years ahead to build a volunteer team that could do everything I do.
+So, I handed off some of my other projects more completely and never went back to them.
 
 "Since new moms typically get less than one hour of free time per day, the key for me has been aligning the open source I want to do with the open source that work wanted to pay me for.
-I worked to take (the) CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
+I worked to take [the] CVE Binary Tool open source after I returned from maternity leave, and worked with my boss to make sure I could have time to mentor students as part of my maintainer role."
 
 To build your own mentorship program, Sanchez says to focus on four actions and initiatives:
 
 ____
 Create learning opportunities often.
 Find ways to help people learn what you do and how you do it.
-Don’t just wait for formal internship or mentorship programs, but take advantage of those if you can.
+Don't just wait for formal internship or mentorship programs, but take advantage of those if you can.
 Consider recording videos, holding AMAs, participating in events, etc.
 Be open to communicating with people informally in order to build relationships and trust so that you can help develop those with potential.
 Cast your net wide and you'll probably find those gem contributors who are ready to step in to help bring your project to a whole new level. 
@@ -328,17 +331,16 @@ For more ideas around mentoring in open source communities, refer to this guideb
 
 === 6. Commit to continuous improvement
 
-The work of inclusion is never done.
-It's ongoing.
+The work of inclusion is ongoing.
 As your project grows, you will find new gaps to fill, questions to document, and additions to the code of conduct.
 As your community becomes more inclusive, it might feel like you're finding more ways you've fallen short.
 Uncomfortable as this is, it's actually a good thing.
 It means you've done the hard work of committing to keep on getting better.
 And, if you've done the work of building an inclusive team, you won't do this work alone.
-Instead, you'll share the work with your community, giving everyone the chance to share their feedback.
+Instead, you'll share the work with your community, giving everyone the chance to share feedback.
 
 To keep the dialogue ongoing and open, give your community options to leave feedback on their experiences.
-This can range from quarterly surveys to giving contributors the freedom to create channels in your project's Slack, Discourse, etc. to chat about mental health, being a person of color, how to handle negotiations, etc.
+This can range from quarterly surveys to giving contributors the freedom to create channels in your project's communication platforms to chat about mental health, being a person of color, how to handle negotiations, etc.
 Such channels give contributors ways to connect socially, which is crucial for increasing asynchronous collaboration.
 It also gives you new ways to support contributors so they can contribute more fully.
 
