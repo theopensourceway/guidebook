@@ -7,8 +7,8 @@ Status: draft
 == Disclaimer
 
 Materials in this chapter are for informational purposes only, not for the purpose of providing medical advice.
-This chapter is not intended as a substitute for professional medical advice, diagnosis or treatment.
-Always seek the advice of your physician or other qualified health care provider with any questions or concerns you may have regarding your health both mental and physical.
+This chapter is not intended as a substitute for professional medical advice, diagnosis, or treatment.
+Always seek the advice of your physician or other qualified health care provider with any questions or concerns you may have regarding your health, both mental and physical.
 
 == Introduction
 
@@ -16,18 +16,18 @@ Because of their roles (but also, perhaps, because of their natures), community 
 They understand the challenges and difficulties associated with encouraging stable, safe, and inclusive online communities, places where people demonstrate compassion and empathy.
 But too often, they mistakenly assume they're immune to the same emotionally difficult challenges they strive to help other community members overcome.
 
-What's more, they may even try to _hide_ their vulnerabilities, for fear of being perceived as less capable of performing their roles—or, worse, being rejected by their communities or peer groups group completely.
-This perspective on vulnerability can lead community managers down an isolating road, one that might make them feel as though they aren'table to reach out to seek help when they need it.
+What's more, they may even try to _hide_ their vulnerabilities, for fear of being perceived as less capable of performing their roles—or, worse, being rejected by their communities or peer groups completely.
+This perspective on vulnerability can lead community managers down an isolating road, one that might make them feel as though they aren't able to reach out to seek help when they need it.
 
 And yet, the longer we don't attend to our well being, prolonging treatment for our increasingly negative symptoms, the larger the problem—until, eventually, we are mentally and physically debilitated, suffocated, and denied of the fulfillment and joy our role once provided us.
 Regaining that joy could take months, even years.
-In fact, we may never regain that same level of passion for them again.
+In fact, we may never regain that same level of passion for the role again.
 
 To help ourselves as community managers, and in turn help others, we need to learn how to spot the signs of dissatistfaction, disillusionment, and burnout.
 These signs can be subtle and hard to detect, but by identifying and acknowledging these changes in behavior (first and foremost in yourself), you begin applying similar awareness to others in your communities.
-This experience can provide insight to developing and building up social norms and mechanisms for the community to help reduce the occurrence and impact of burnout thus promoting a physically and mentally healthy, more productive community.
+This experience can provide insight to developing and building up social norms and mechanisms for the community to help reduce the occurrence and impact of burnout, thus promoting a physically and mentally healthy and more productive community.
 
-In this chapter, we'll explore the importance of self-care and why community managers should be mindful of the interpersonal aspects of the role that may affect them both positively and negatively. This chapter also provides practical steps to encourage and maintain a healthy work life balance that can be applied to themselves and promote within their community.
+In this chapter, we'll explore the importance of self-care and why community managers should be mindful of the interpersonal aspects of the role that may affect them both positively and negatively. This chapter also provides practical steps to encourage and maintain a healthy work life balance that can be applied to themselves and promoted within their community.
 
 == The importance of self-care
 
@@ -39,14 +39,14 @@ ____
 "Self-care is the ability of individuals, families and communities to promote health, prevent disease, maintain health, and to cope with illness and disability with or without the support of a healthcare provider".footnote:[World Health Organization, https://www.who.int/news-room/fact-sheets/detail/self-care-health-interventions[website]]
 ____
 
-In a nutshell, then, self-care is the practice of making conscious, mindful efforts to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
+Thus, self-care is the practice of making conscious, mindful efforts to perform activities that aid in our physical, emotional, relational, and perhaps spiritual well-being at a fundamental level.
 Most of us already practice self-care daily by taking actions to protect our overall health (for example, eating healthy, exercising, and getting enough sleep).
 Sometimes, however, we may find acts like these alone are insufficient for maintaining our well-being—and that a conscious effort at finding additional support is required.
 
-We can usually handle stress more effectively when we're in a happy state in mind.
+We can usually handle stress more effectively when we're in a happy state of mind.
 By practicing self-care, we can build a resilience to life's unavoidable stressors.
 
-This concept of self-care may appear simplistic in theory, but it is so commonly overlooked or neglected—especially by community managers.
+This concept of self-care may appear simplistic in theory, but it is commonly overlooked or neglected—especially by community managers.
 Let's explore (and deconstruct) some reasons why.
 
 === Emotional contagion
@@ -55,16 +55,16 @@ Community managers are often seen as leaders, the people everyone can turn to, a
 This seemingly high pedestal can be daunting, demanding a good deal of emotional intelligence and mental effort to deliver a community that's not only growing but also productive.footnote:[The Community Roundtable, https://communityroundtable.com/state-of-community-management/burn-out-risk-is-high-for-online-community-managers/[2019 State of Community Management Survey]]
 
 When the going gets tough, it's often our responsibility (and our desire) to pull the community through those times.
-But in order to do this, we need to be in top condition _ ourselves_.
+But in order to do this, we need to be in top condition _ourselves_.
 That is, we first need to look after ourselves before we can look after others in any sustainable way.
-Otherwise, we'll never be able to adequately face whatever is thrown at us (and, when interacting with diverse personalities, resolving conflicts, making tough decisions, and all the while working towards future long term objectives, something always is).
+Otherwise, we'll never be able to adequately face whatever is thrown at us—and something always is, when interacting with diverse personalities, resolving conflicts, making tough decisions, all while working towards future long term objectives.
 And that is why self-care is so important.
 
 One of the first tasks on the road to self-care, then, is to be aware of how our own emotional states can impact our communities.
 
 Emotions (both positive and negative) are highly contagious.footnote:[Sherrie Bourg Carter Psy.D, https://www.psychologytoday.com/us/blog/high-octane-women/201210/emotions-are-contagious-choose-your-company-wisely[Emotions Are Contagious - Choose Your Company Wisely]]
 Our emotional expressions have the power to unconsciously influence people around us, such that others may even begin unconsciously mimicking our own.footnote:[Principles of Social Psychology, https://opentextbc.ca/socialpsychology/chapter/the-role-of-affect-moods-and-emotions/[The Role of Affect: Moods and Emotions ]]
-If we are in a state of anxiety or stress, others will sense this and add to it their own negative energy.
+If we are in a state of anxiety or stress, others will sense this and add to it with their own negative energy.
 We see this when dealing with particularly toxic community members infecting others, but fail to identify that we ourselves can unconsciously unduly influence others as well.
 Similarly, if we are in a genuine pleasant mood, then people tend to be driven by that positive mood and become more productive.
 
@@ -78,9 +78,10 @@ Community managers don't need to share their most intimate fears or anxieties.
 Yet simply initiating a conversation on the importance of self-care can be beneficial, not just for the team _running_ the community, but for the _entire_ community.
 
 Identify and implement regular, dedicated time in your and the team's workload to practice self-care.
-Set realistic expectations on deliverables and communicate frequently within the team potential triggers of stress or strain that may require more downtime to focus on one's physical and mental health.
+Set realistic expectations on deliverables and communicate frequently within the team the potential triggers of stress or strain that may require more downtime to focus on one's physical and mental health.
 
-By taking steps towards actively promoting and advocating for self-care, you prompt members following your lead to do the same. You also begin revealing your human side, eroding the unhealthy addumption that leaders are invulnerable to emotional dimensions of the work.
+By taking steps towards actively promoting and advocating for self-care, you prompt members following your lead to do the same.
+You also begin revealing your human side, eroding the unhealthy assumption that leaders are invulnerable to emotional dimensions of the work.
 
 === Being (imperfectly and empathetically) human
 
@@ -93,7 +94,7 @@ And yet community managers may tend to over-compensate, attempting to live up to
 
 But there's a difference between being _in_ control, being _controlled_, and being _under_ control.
 
-The belief that being "in control" is a reflection of our confidence in what we produce is inaccurate.
+The belief that "being in control is a reflection of our confidence in what we produce" is inaccurate.
 It actually demonstrates that we are reluctant to show others that we are not perfect and struggle to accept anything less.footnote:[Alex Budak, https://www.huffpost.com/entry/in-control-vs-under-control-leadership_b_12590650[In-Control vs. Under-Control Leadership]]
 Although maintaining this front can help shield us temporarily from others' emotions and criticisms towards us, it doesn't protect us from our own self-destruction caused by bottling them up.
 
@@ -109,15 +110,15 @@ And we should also recognize and accept that we can have good days and bad ones.
 
 Being honest with ourselves is as important as being honest with our communities.
 If we're not honest with ourselves and in tune with our emotional states, we may unintentionally escalate difficult situations within our communities (due to our failures at acknowledging that perhaps _we_ should be stepping back instead).
-Of course until we feel we have more clarity to address the situation appropriately.
+Of course, until we feel we have more clarity to address the situation appropriately.
 
 Maintaining this kind of emotional labor can be incredibly exhausting.
 We must acknowledge and accept that being perfect is unattainable, and more importantly, not a requirement for being a great leader.
 What _is_ important is that people can relate to your human side.
 
-People gravitate to others with whom they share a kinship.footnote:[Psychology Today , https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-do-we-people-who-are-similar-us[Why Do We Like People Who Are Similar to Us?]], and being able to identify this feeling of kinship is one hallmark of an effective community manager.
+People gravitate to others with whom they share a kinship footnote:[Psychology Today , https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-do-we-people-who-are-similar-us[Why Do We Like People Who Are Similar to Us?]], and being able to identify this feeling of kinship is one hallmark of an effective community manager.
 If your members see that you possess qualities they can relate to, they can more easily empathize with you.
-Ironically, we often emphasis the significance of practicing empathy for our members or team, but it's equally important that our members demonstrate compassion, and gratitude towards us too.
+Ironically, we often emphasize the significance of practicing empathy for our members or team, but it's equally important that our members demonstrate compassion, and gratitude towards us too.
 
 As everyone on a team or in a community nurtures this empathy, they will gradually deeper connections and trust between them, which in turn can help them establish an informal social support network.
 This network can be a conduit for promoting the importance of self-care, creating judgment-free zones, or providing safe havens to individual members (including yourself) for emotional reflection, airing frustrations, or sharing workloads.
