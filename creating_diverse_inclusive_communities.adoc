@@ -216,43 +216,55 @@ Despite how broad that sounds, she'd like to see a lot more roles and contributi
 
 Around making personal career development goals, you can look into connecting a type of skillset with specific teams within open source software organizations.
 
-* "Why" skills
-** Sales and business development
-** Fundraising, partnerships
-** Both of these things require you to pitch the value of the open source  community / project and require you to develop your communication and negotiation skills, among other things
-* Marketing skills
-** Engagement, marketing, or outreach teams
-** Some projects may not even have this set up and are in need of someone to help.
+.Aligning project role to career goals and skillsets
+|===
+|Career development target |Teams within OSS orgs to check out |Why 
+
+|Sales and business development
+|Fundraising, partnerships
+|Both of these things require you to pitch the value of the open source  community / project and require you to develop your communication and negotiation skills, among other things
+
+|Marketing skills
+|Engagement, marketing, or outreach teams
+|Some projects may not even have this set up and are in need of someone to help.
 Even if you don’t have a lot of experience in this, you may have more experience than anyone else in that community and it’s your chance to build something from scratch.
 This could look really amazing on a resume!
-* Strategy skills
-** Board of directors / governance team, community team
-** It depends a bit on the maturity of the organization, but typically there's a lot of room for building your strategy skills when on a board of directors.
+
+|Strategy skills
+|Board of directors / governance team, community team
+|It depends a bit on the maturity of the organization, but typically there's a lot of room for building your strategy skills when on a board of directors.
 You have a birds-eye view of the project, typically have say over project finances, and can help define goals and move the project forward at a whole new level.
 Since you can’t get there right away, leading initiatives can help you build those skills and there’s often a lot of room for people to step in and own big chunks on open source community teams
-* Data science skills
-** Community team, board of directors
-** What kind of data is being collected to ensure that initiatives are successful?
+
+|Data science skills
+|Community team, board of directors
+|What kind of data is being collected to ensure that initiatives are successful?
 Measuring a community’s health is something that more and more people are interested in and there’s a need for those interested in data analysis to help
-* Graphic design skills
-** Marketing team, technical projects
-** There's a lot of need for graphic design for brand and marketing initiatives, and in general to help make the project more mature.
+
+|Graphic design skills
+|Marketing team, technical projects
+|There's a lot of need for graphic design for brand and marketing initiatives, and in general to help make the project more mature.
 Some projects may not even have established brand guidelines, and there’s a big need for more designers in general
-* Project management and program management skills
-** Engagement, marketing, outreach, documentation, community teams
-** There is a huge need for highly organized people who can create processes and structure. Many initiatives fall to the side because there isn’t someone to help push it along and make it happen
-* Product management skills
-** Any technical project, new initiatives, website, newcomers initiatives
-** Product management is essential at companies, and yet it’s something that isn’t always easily found within OSS. There’s a lot of room for PMs to jump in to help create more innovative products and help bridge the gap between communities and businesses, helping to expand the project’s reach
-* Legal skills 
-** Board of directors or community team
-** There's a growing need for more people who are able to navigate open source related legal matters.
+
+|Project management and program management skills
+|Engagement, marketing, outreach, documentation, community teams
+|There is a huge need for highly organized people who can create processes and structure. Many initiatives fall to the side because there isn’t someone to help push it along and make it happen
+
+|Product management skills
+|Any technical project, new initiatives, website, newcomers initiatives
+|Product management is essential at companies, and yet it’s something that isn’t always easily found within OSS. There’s a lot of room for PMs to jump in to help create more innovative products and help bridge the gap between communities and businesses, helping to expand the project’s reach
+
+|Legal skills 
+|Board of directors or community team
+|There's a growing need for more people who are able to navigate open source related legal matters.
 Lawyers may get a lot of great experience working on community teams or sitting on the Board of Directors
-* HR/people skills
-** Board of directors, community team, newcomers initiatives 
-** We need people who care about people and want to make the community awesome.
-** This helps with newcomers initiatives and lowering the barrier of entry, as well as retention.
+
+|HR/people skills
+|Board of directors, community team, newcomers initiatives 
+|We need people who care about people and want to make the community awesome.
+|This helps with newcomers initiatives and lowering the barrier of entry, as well as retention.
 It also may help the community gain better communication practices. 
+|===
 
 This list isn't exhaustive, nor is it applicable to all projects.
 The goal is to look at your own open source project's holistic needs in the short and long terms, then recruit contributors to fill specific gaps.
