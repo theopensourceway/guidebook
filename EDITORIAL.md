@@ -41,7 +41,7 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Draft Review
 
-- [ ] Drafted material adequately coresponds to proposed outline
+- [ ] Drafted material adequately corresponds to proposed outline
 - [ ] Author has indicated that draft is ready for review by an editor
 
 ### To enter Development Edit
