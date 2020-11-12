@@ -41,6 +41,10 @@ Material is complete. Any proposed edits or additions should be submitted as new
 
 ### To enter Draft Review
 
+- [ ] Drafted material adequately coresponds to proposed outline
+- [ ] Author has indicated that draft is ready for review by an editor
+- [ ] Editor has reviewed the work and has either asked for additional drafting or suggested development edits
+
 ### To enter Development Edit
 
 - [ ] Material submitted is a complete draft
