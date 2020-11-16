@@ -109,7 +109,7 @@ We should feel like we can admit when we don't know something, haven't made the 
 And we should also recognize and accept that we can have good days and bad ones.
 
 Being honest with ourselves is as important as being honest with our communities.
-If we're not honest with ourselves and in tune with our emotional states, we may unintentionally escalate difficult situations within our communities (due to our failures at acknowledging that perhaps _we_ should be stepping back until we feel we have more clarity to address the situation appropriately.
+If we're not honest with ourselves and in tune with our emotional states, we may unintentionally escalate difficult situations within our communities (due to our failures at acknowledging that perhaps _we_ should be stepping back until we feel we have more clarity to address the situation appropriately).
 
 Maintaining this kind of emotional labor can be incredibly exhausting.
 We must acknowledge and accept that being perfect is unattainable, and more importantly, not a requirement for being a great leader.
@@ -165,7 +165,7 @@ However, with consistency of exercising mental self-care we will see it's benefi
 A few examples of mental self-care:
 
 . Reading a new book or article
-. Tringy a hobby or interest
+. Trying a hobby or interest
 . Writing a list of goals
 . Solving puzzles
 . Organizing or cleaning out a space in your room
@@ -204,7 +204,7 @@ It is also appearing more and more within the tech industry.footnote:[Team Blind
 This increase has been attributed to the seemly accepted 24/7 work mentality and competitiveness of the industry, leading to workers involved in technology, particularly software development, to becoming overwhelmed and mentally exhausted to the point of risking their health.
 
 We should highlight that work related stress and burnout are very different, and in cases some amount of stress can provide a source of motivation but only if it is manageable and for a temporary period of time.
-When occupational stress is long occurring, seen as chronic, affecting the overall well being of ourselves, this can develop into what is termed of _burnout_.
+When occupational stress is long occurring, seen as chronic, affecting the overall well being of ourselves, this can develop into what is termed as _burnout_.
 
 === Look out for symptoms
 
@@ -262,7 +262,7 @@ We can then begin to feel like we're being less appreciated from others in the t
 "Can't they see all the hard work I'm doing, staying late at night?" 
 This feeling can lead to being bitter and angry.
 
-Paranoiafootnote:[ R Bianchi, L Janin https://academic.oup.com/occmed/article/69/1/35/5151234[Burnout, depression and paranoid ideation: a cluster-analytic study]]::
+Paranoia footnote:[ R Bianchi, L Janin https://academic.oup.com/occmed/article/69/1/35/5151234[Burnout, depression and paranoid ideation: a cluster-analytic study]]::
 Leading from the signs of feeling unappreciated to feeling as though the world is against us.
 When things go wrong, but we are unable to understand or see why, we tend to seek out a target, not ourselves, to blame regardless if there is little merit in the accusation.
 Often the person labeled as the culprit becomes the target of our frustrations.
