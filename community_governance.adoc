@@ -54,7 +54,7 @@ When analyzing your project's procedure- or policy-related governance systems, a
 - How do project decisions get made (and by whom)?
 - How are debates and conflicts resolved (and by whom)?
 
-=== Roles, policies, procedures: An example
+=== Roles, policies, procedures: an example
 
 Remember: A project's *roles* and its *policies and procedures* aren't discrete; they're interwoven as part of the project's overall governance model.
 For example, consider a project role called "Documentation Maintainer." A project might outline that role this way:

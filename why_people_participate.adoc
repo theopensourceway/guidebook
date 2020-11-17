@@ -1,4 +1,4 @@
-= Why do people participate in open source communities?
+= Why Do People Participate in Open Source Communities?
 // Authors: Gordon Haff <ghaff@redhat.com>
 // Updated: 2020-05-14
 // Edited: 2020-08-06 (paula)
