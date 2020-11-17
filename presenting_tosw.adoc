@@ -1,6 +1,6 @@
 = Presenting The Open Source Way
-//Author: Karsten Wade <quaid@iquaid.org>
-//Updated: 2020-11-03
+// Author: Karsten Wade <quaid@iquaid.org>
+// Updated: 2020-11-03
 
 An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 Most of the time, the things we do make absolutely no sense to outside observers.
@@ -50,10 +50,10 @@ Appropriate barriers are necessary for someone receiving keys to systems, for ex
 
 === Our core opinion
 
-There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path revealed so that you can find yourself wherever you are in your journey of open source practice.
+There is an opinion at the core of this work, that explains how the content is laid out, how the steps on the path are revealed so that you can find yourself wherever you are in your journey of open source practice.
 
 ____
-Focus on your end-users and lower the barriers to participation all around.
+Focus on your end users and lower the barriers to participation all around.
 
 Contributors arise from participants, who all started as users.
 
@@ -63,7 +63,7 @@ ____
 The pathway of this guidebook therefore is:
 
 1. *Attract users* to your software because it solves the problems they have; then
-2. *Guide participants* who care about open source and sharing good solutions so that they can be effective enthusiasts for your software; and
+2. *Guide participants* who care about open source and sharing good solutions so they can be effective enthusiasts for your software; and
 3. *Grow contributors* from this rich, fertile user and enthusiast base, by making sure when any of those folks look into how the software is made, they see themselves represented and can imagine how they could fit in, too.
 Make sure when they get to the contributor party, the barriers are clearly lowered and welcoming.
 
@@ -105,7 +105,8 @@ These stories are modular, in that another story that makes a similar point but 
 * Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
 
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action.
-Stories not interspersed into chapters will be collected at the end (for your endless uses).
+The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
+Stories not interspersed into chapters will be collected at the end of the guide (for your endless uses).
 
 == A community of practice always rebuilding itself
 
