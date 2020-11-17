@@ -1,7 +1,11 @@
-= T H E   O P E N   S O U R C E   W A Y   2 . 0
+= THE OPEN SOURCE WAY 1.99
+Contributors <contrib@theopensourceway.org>
+v1.99, 2020-11-16: This preview release contains opinions
+:toc: left
+:numbered:
+:leveloffset: +1
 
-PREVIEW RELEASE
-TEST BUILD
+_*PREVIEW RELEASE -- TEST BUILD*_
 
 include::presenting_tosw.adoc[]
 
@@ -14,4 +18,6 @@ include::community_governance.adoc[]
 include::creating_diverse_inclusive_communities.adoc[]
 
 include::community_manager_self_care.adoc[]
+
+:leveloffset: -1
 
