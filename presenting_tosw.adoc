@@ -19,11 +19,11 @@ Why use this or that method to organize the madness?
 So from this introduction you should take two important points:
 
 . There is a _what_, a _how_, and a _why_ to the practice of successfully and sustainably creating and maintaining open source software.
-. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of _why we do this open source thing the way we do it?_
+. This guide distills opinions from a sizeable group of open source practitioners, the kind of people always having to answer the question of, "Why do we do this open source thing the way we do it?"
 
 In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly (and somewhat-opinionatedly) collecting the best ways to create and manage an open source software community.
 
-These voices are all part of https://theopensourcway.org[this community of practice around open source software community management].
+These voices are all part of https://theopensourceway.org[this community of practice around open source software community management].
 
 == The shape of things (i.e., assumptions we are making)
 
@@ -98,14 +98,16 @@ A chapter consists of several parts:
 
 * An introduction
 * Primary material, written in third-person point-of-view, focusing on a balance of what, how, and why content. The examples (stories) told here are brief and in the third person.
-* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s). These may be written in the first person—that may be the most effective way to make the point in many cases. These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
+* Expanded stories come at the end of the chapter, and are one or more stories from the chapter author(s).
+These may be written in the first person—that may be the most effective way to make the point in many cases.
+These stories are modular, in that another story that makes a similar point but from a different situation can be used instead.
 ** The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 * Each chapter contains a lexicon at the end that defines the special usage for terms within that chapter.
 
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action.
 Stories not interspersed into chapters will be collected at the end (for your endless uses).
 
-== A community of practice always rebuilidng itself
+== A community of practice always rebuilding itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
@@ -113,7 +115,3 @@ In the end, it's just one way to pull this material together (one method, you mi
 We'll be updating this guide. We'll be issuing similar, new guides. And we'll experiment with other ways to understand and present this material.
 
 But at the core—in addition to the _what_ and the _how_ that benefit your open source community—you will also learn to understand the _why_, and be able to spread those stories wherever you go.
-
-*TBD* _Content here needs to be confirmed with the format of the actual chapters we're releasing.
-Then it needs a nice concluding sentence, if this one is insufficient._
-*TBD*
