@@ -1,6 +1,6 @@
 = Presenting The Open Source Way
-Author: Karsten Wade <quaid@iquaid.org>
-Updated: 2020-10-27
+// Author: Karsten Wade <quaid@iquaid.org>
+// Updated: 2020-10-27
 
 An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 Most of the time, the things we do make absolutely no sense to outside observers.
