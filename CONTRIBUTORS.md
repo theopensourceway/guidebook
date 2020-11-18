@@ -1,4 +1,25 @@
-This is beginning as a list of contributors and organizational affiliation, where available and as preferred.
+# Contributors to The Open Source Way guidebook for community management best practices
+
+## Authors of published chapters
+
+* Presenting The Open Source Way
+  * Author(s): Karsten Wade <kwade@redhat.com>
+* New Project Checklist
+  * Author(s):  Lisa Caywood <lcaywood@redhat.com>, Josh Berkus <jberkus@redhat.com, Bryan Behrenshausen <bbehrens@redhat.com>, Karsten Wade <kwade@redhat.com>
+* Why Do People Participate in Open Source Communities?
+  * Author(s):  Gordon Haff <ghaff@redhat.com>
+* Communication Norms in Open Source Software Projects
+  * Author(s): Leslie Hawthorn <lhawthor@redhat.com>
+* Project and Community Governance
+  * Author(s): Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
+*  To Build Diverse Open Source Communities, Make Them Inclusive First
+  * Author(s): Lauren Maffeo <laurenmaffeo8@gmail.com>
+* Community Manager Self-Care
+  * Author(s): Ashley Nicolson <ashjayne.nicolson@gmail.com>
+
+## Comprehensive contributors list
+
+This is a comprehensive list of contributors and organizational affiliation, where available and as preferred.
 The first purpose of this list is to keep track of the many wonderful people who have contributed to this effort.
 A secondary purpose is to help us keep track of _organizational diversity_, meaning we are gathering data as part of following our own best practice of having a community that is diverse from all vectors.
 
