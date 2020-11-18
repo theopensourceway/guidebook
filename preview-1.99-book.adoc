@@ -15,13 +15,13 @@ include::presenting_tosw.adoc[]
 
 include::new_project_start_up_checklist.adoc[]
 
-include::why_people_participate.adoc[]
-
 include::communication_norms.adoc[]
 
-include::community_governance.adoc[]
-
 include::creating_diverse_inclusive_communities.adoc[]
+
+include::why_people_participate.adoc[]
+
+include::community_governance.adoc[]
 
 include::community_manager_self_care.adoc[]
 
