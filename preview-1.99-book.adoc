@@ -7,6 +7,10 @@ v1.99, 2020-11-17: This preview release contains opinions
 
 _*PREVIEW RELEASE*_
 
+This preview is available in https://www.theopensourceway.org/preview-1.99-book.html[HTML single page] and https://www.theopensourceway.org/preview-1.99-book.pdf[PDF].
+
+Bugs (mistakes, comments, etc.) with this release may be filed as an issue in our https://github.com/theopensourceway/guidebook/[repo on GitHub]. You are also welcome to bring it as a discussion to our https://lists.theopensourceway.org/archives/list/contrib@theopensourceway.org/[forum/mailing list].
+
 include::presenting_tosw.adoc[]
 
 include::new_project_start_up_checklist.adoc[]
