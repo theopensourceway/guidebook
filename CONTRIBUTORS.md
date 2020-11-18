@@ -3,26 +3,29 @@
 ## Authors of published chapters
 
 * Presenting The Open Source Way
-  * Author(s): Karsten Wade <kwade@redhat.com>
-  * Editor(s)/Reviewer(s): Full editorial team
+  * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
+  * Editor(s)/Reviewer(s): Editorial team
 * New Project Checklist
-  * Author(s):  Lisa Caywood <lcaywood@redhat.com>, Josh Berkus <jberkus@redhat.com, Bryan Behrenshausen <bbehrens@redhat.com>, Karsten Wade <kwade@redhat.com>
+  * Author(s):  [Lisa Caywood](mailto:lcaywood@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com), [Karsten Wade](mailto:kwade@redhat.com)
   * Editor(s)/Reviewer(s):
-* Why Do People Participate in Open Source Communities?
-  * Author(s):  Gordon Haff <ghaff@redhat.com>
-  * Editor(s)/Reviewer(s): Brian Proffitt <bkp@redhat.com> (lead), Editorial team
 * Communication Norms in Open Source Software Projects
-  * Author(s): Leslie Hawthorn <lhawthor@redhat.com>
-  * Editor(s)/Reviewer(s): Paula Dickerson <pdickers@redhat.com> (lead), Editorial team
-* Project and Community Governance
-  * Author(s): Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
-  * Editor(s)/Reviewer(s): Bryan Behrenshausen <bbehrens@redhat.com> (lead), Editorial team
+  * Author(s): [Leslie Hawthorn](mailto:lhawthor@redhat.com)
+  * Editor(s)/Reviewer(s): [Paula Dickerson](mailto:pdickers@redhat.com) (lead), Editorial team
 * To Build Diverse Open Source Communities, Make Them Inclusive First
-  * Author(s): Lauren Maffeo <laurenmaffeo8@gmail.com>
-  * Editor(s)/Reviewer(s): Bryan Behrenshausen <bbehrens@redhat.com> (lead), Editorial team, Subject Matter Expert (SME) 
+  * Author(s): [Lauren Maffeo](mailto:laurenmaffeo8@gmail.com)
+  * Editor(s)/Reviewer(s): [Bryan Behrenshausen](mailto:bbehrens@redhat.com) (lead), Editorial team, Subject Matter Expert (SME) 
+* Why Do People Participate in Open Source Communities?
+  * Author(s):  [Gordon Haff](mailto:ghaff@redhat.com)
+  * Editor(s)/Reviewer(s): [Brian Proffitt](mailto:bkp@redhat.com) (lead), Editorial team
+* Project and Community Governance
+  * Author(s): [Dave Neary](mailto:dneary@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
+  * Editor(s)/Reviewer(s): [Bryan Behrenshausen](mailto:bbehrens@redhat.com) (lead), Editorial team
+* Understanding Community Metrics
+  * Author(s): [Ray Paik](mailto:rspaik@yahoo.com), [Brian Proffitt](mailto:bkp@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
+  * Editor(s)/Reviewer(s): [Brian Proffitt](mailto:bkp@redhat.com) (lead), [Bryan Behrenshausen](mailto:bbehrens@redhat.com), Editorial team
 * Community Manager Self-Care
-  * Author(s): Ashley Nicolson <ashjayne.nicolson@gmail.com>
-  * Editor(s)/Reviewer(s): Karsten Wade <kwade@redhat.com> (lead), Editorial team; Subject Matter Expert (SME)
+  * Author(s): [Ashley Nicolson](mailto:ashjayne.nicolson@gmail.com)
+  * Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), Editorial team; Subject Matter Expert (SME)
 
 ## Project teams
 
