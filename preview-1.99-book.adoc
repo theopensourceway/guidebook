@@ -23,6 +23,8 @@ include::why_people_participate.adoc[]
 
 include::community_governance.adoc[]
 
+include::developing_a_metrics_plan.adoc[]
+
 include::community_manager_self_care.adoc[]
 
 :leveloffset: -1
