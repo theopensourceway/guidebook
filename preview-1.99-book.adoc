@@ -1,13 +1,15 @@
 = THE OPEN SOURCE WAY 1.99
-Contributors <contrib@theopensourceway.org>
-v1.99, 2020-11-16: This preview release contains opinions
+Contributors <https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTORS.md>
+v1.99, 2020-11-17: This preview release contains opinions
 :toc: left
 :numbered:
 :leveloffset: +1
 
-_*PREVIEW RELEASE -- TEST BUILD*_
+_*PREVIEW RELEASE*_
 
 include::presenting_tosw.adoc[]
+
+include::new_project_start_up_checklist.adoc[]
 
 include::why_people_participate.adoc[]
 
