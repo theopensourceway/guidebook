@@ -12,7 +12,7 @@
   * Author(s): Leslie Hawthorn <lhawthor@redhat.com>
 * Project and Community Governance
   * Author(s): Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
-*  To Build Diverse Open Source Communities, Make Them Inclusive First
+* To Build Diverse Open Source Communities, Make Them Inclusive First
   * Author(s): Lauren Maffeo <laurenmaffeo8@gmail.com>
 * Community Manager Self-Care
   * Author(s): Ashley Nicolson <ashjayne.nicolson@gmail.com>
@@ -41,7 +41,7 @@ Sort: Unsorted
     dgiangro;Giangrossi, Diana;Red Hat;guidebook editor;-
     quaid;Wade, Karsten;Red Hat;guidebook lead,guidebook editor,guidebook writer;-
     dickersonpaula;Dickerson, Paula;Red Hat;guidebook editor;-
-    acozine;Cozine, Alicia;Red Hat;guidebook editor,guidebook writer;-
+    acozine;Cozine, Alicia;Red Hat;guidebook editor,guidebook writer;-   
     dajackso;Jackson, Danielle;Red Hat;guidebook editor;-
     mscherer;Scherer, Michael;Red Hat;infrastructure operations;-
     silona;Bonewald, Silona;IEEE;guidebook deisgn,guidebook writer;-
