@@ -4,18 +4,35 @@
 
 * Presenting The Open Source Way
   * Author(s): Karsten Wade <kwade@redhat.com>
+  * Editor(s)/Reviewer(s): Full editorial team
 * New Project Checklist
   * Author(s):  Lisa Caywood <lcaywood@redhat.com>, Josh Berkus <jberkus@redhat.com, Bryan Behrenshausen <bbehrens@redhat.com>, Karsten Wade <kwade@redhat.com>
+  * Editor(s)/Reviewer(s):
 * Why Do People Participate in Open Source Communities?
   * Author(s):  Gordon Haff <ghaff@redhat.com>
+  * Editor(s)/Reviewer(s): Brian Proffitt <bkp@redhat.com> (lead), Editorial team
 * Communication Norms in Open Source Software Projects
   * Author(s): Leslie Hawthorn <lhawthor@redhat.com>
+  * Editor(s)/Reviewer(s): Paula Dickerson <pdickers@redhat.com> (lead), Editorial team
 * Project and Community Governance
   * Author(s): Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
+  * Editor(s)/Reviewer(s): Bryan Behrenshausen <bbehrens@redhat.com> (lead), Editorial team
 * To Build Diverse Open Source Communities, Make Them Inclusive First
   * Author(s): Lauren Maffeo <laurenmaffeo8@gmail.com>
+  * Editor(s)/Reviewer(s): Bryan Behrenshausen <bbehrens@redhat.com> (lead), Editorial team, Subject Matter Expert (SME) 
 * Community Manager Self-Care
   * Author(s): Ashley Nicolson <ashjayne.nicolson@gmail.com>
+  * Editor(s)/Reviewer(s): Editorial team; Subject Matter Expert (SME)
+
+## Project teams
+
+* Editorial team:
+  * Brian Proffitt (lead)
+  * Shaun McCance (lead writer)
+  * Bryan Behrenshausen
+  * Paula Dickerson
+  * Karsten Wade
+
 
 ## Comprehensive contributors list
 
@@ -26,7 +43,7 @@ A secondary purpose is to help us keep track of _organizational diversity_, mean
 Format:  Nick;Name;Organization;Contribution areas;Notes
 Sort: Unsorted
 
-    semioticrobotc;Berenshausen, Bryan;Red Hat;guidebook design,guidebook editor, guidebook writer;-
+    semioticrobotc;Behrenshausen, Bryan;Red Hat;guidebook design,guidebook editor, guidebook writer;-
     bproffitt;Proffitt, Brian;Red Hat;guidebook design,guidebook editorial lead, guidebook writer;-
     samus-aran;Nicolson, Ashley;-;guidebook design,guidebook writer;-
     rpaik;Paik, Ray;Gitlab;guidebook writer;-
