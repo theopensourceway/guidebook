@@ -176,7 +176,7 @@ If only it were that easy!
 Documentation is code for an environment where no chipsets are identical; kernel defaults are hostile; RAM is variable; storage is subject to random external dependencies; and production regularly fails despite optimal conditions, or inversely, succeeds in spite of obvious CI failures."
 
 To track progress, the SIG Docs group does a quarterly review where they measure the progress of their previous quarter's goals and prioritize work for the upcoming quarter.
-One of their community rules centers on ownership: In order to adopt a goal, a project needs a specific person willing to drive it.
+One of their community rules centers on ownership: in order to adopt a goal, a project needs a specific person willing to drive it.
 
 === Step three: create and enforce a clear code of conduct
 

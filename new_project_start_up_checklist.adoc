@@ -3,7 +3,7 @@
 // Updated: 2020-11-17
 
 This is a relatively simple checklist for you to consider when starting a new open source project, especially where the project may be starting small but wants room to grow.
-By _simple_ we mean: this list doesn't propose a process or project management for accomplishing these items; in its most simple form it does not have definitions for items; it suggests what is to come without prescribing or demanding obedience to the list
+By _simple_ we mean: this list doesn't propose a process or project management for accomplishing these items; in its most simple form it does not have definitions for items; it suggests what is to come without prescribing or demanding obedience to the list.
 
 These are separated out into several different lists, depending on the area covered:
 
@@ -43,16 +43,6 @@ These are separated out into several different lists, depending on the area cove
 * [ ] Code of conductr
 * [ ] Foundation membership options, if planned
 
-== Ownership and financing
-
-These items may be ignored if donating project assets to a foundation
-
-* [ ] Website URL
-* [ ] Logo
-* [ ] Social media handles 
-* [ ] Web conferencing platform (if paid)
-* [ ] Process for funding project needs
-
 == Project infrastructure
 
 * [ ] Mail tool (and moderators)
@@ -65,6 +55,16 @@ These items may be ignored if donating project assets to a foundation
 * [ ] Lab requirements, how they will be acquired
 * [ ] Code contribution tools and process
 * [ ] Project documentation platform
+
+== Ownership and financing
+
+These items may be ignored if donating project assets to a foundation
+
+* [ ] Website URL
+* [ ] Logo
+* [ ] Social media handles 
+* [ ] Web conferencing platform (if paid)
+* [ ] Process for funding project needs
 
 == Launch planning
 

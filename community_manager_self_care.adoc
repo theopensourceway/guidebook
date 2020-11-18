@@ -130,7 +130,7 @@ You'll also understand that your vulnerabilities are what makes you a better com
 Everyone will prefer different self-care techniques and strategies, depending on their moods and circumstances.
 To be effective, self-care requires regular and conscious cultivation, so it's important that we view self-care not only as a reactive choice but also as a means of alleviating the stresses of everyday life.
 
-In general, however, a number of different self-care types can satisfy our basic need to promote a healthy and happy mind and body. These are: *physical*, *mental*, *spiritual*, *emotional*, and *social*.
+In general, however, a number of different self-care types can satisfy our basic need to promote a healthy and happy mind and body. These are: _physical_, _mental_, _spiritual_, _emotional_, and _social_.
 
 Next, we'll explore each of these types in more detail.
 But remember: we should be aiming to practice a _selection_ of activities of _all_ these types if we're going to provide ourselves a healthy life balance and respond adequately to all types of stress.
@@ -193,7 +193,7 @@ By ignoring our physical and mental well being we will be more likely to succumb
 
 == Burnout
 
-What exactly is burnout? The WHO (World Health Organization) definition of burnout is:	
+What exactly is burnout? The WHO definition of burnout is:	
 
 > "Burnout is a syndrome conceptualized as resulting from chronic workplace stress that has not been successfully managed."footnote:[World Health Organization, https://www.who.int/mental_health/evidence/burn-out/en/[website]]
 
@@ -558,7 +558,8 @@ This will help support that feeling that we are contributing value in our role a
 
 ____
 "We don't attach to people or things, we attach to uninvestigated concepts that we believe to be true in the moment"
-- Byron Katie
+
+— Byron Katie
 ____
 Change your perspective::
 We are hindered by our fear of being exposed as a fraud, but usually we don't have the proof that confirms that is the case. 
