@@ -22,7 +22,7 @@
   * Editor(s)/Reviewer(s): Bryan Behrenshausen <bbehrens@redhat.com> (lead), Editorial team, Subject Matter Expert (SME) 
 * Community Manager Self-Care
   * Author(s): Ashley Nicolson <ashjayne.nicolson@gmail.com>
-  * Editor(s)/Reviewer(s): Editorial team; Subject Matter Expert (SME)
+  * Editor(s)/Reviewer(s): Karsten Wade <kwade@redhat.com> (lead), Editorial team; Subject Matter Expert (SME)
 
 ## Project teams
 
