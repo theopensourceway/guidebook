@@ -6,9 +6,10 @@ Updated: 2020-03-30
 
 In many ways, onboarding at a new open source community is a lot like onboarding for a new job. You need to get familiar with new people, new tools, new processes, etc. so that you feel comfortable in your new settings and can start contributing. However, there are a number of ways that onboarding in open source communities can present different challenges. 
 
-The first challenge in open source is that you work in an asynchronous and remote environment. One of the nice perks of traditional office environment is that you  are close to your co-workers and managers for face to face interactions and you can easily reach out to them for quick questions. 
+The first challenge in open source is that you work in an asynchronous and remote environment. One of the nice perks of a traditional office environment is that you  are close to your co-workers and managers for face to face interactions and you can easily reach out to them for quick questions. In contrast, when you join a new open source community, you will likely work with other community members in different georgraphies and time zones. So unless there are good onboarding materials such as documentation, video tutorials, wiki pages, and other resources, it's more challenging to get started in open source communties even for spectacular self starters. 
 
-* Imposter syndrome
+Another related challenge is that working in asynchronous/remote environment can exacerbate the imposter syndrome that people typically experince when they start new jobs. When it's more difficult to get real time help or feedback, people can get stuck with simple tools issues for longer periods and feel less confident about themselves. So good onboarding is crucial in open source communities so that newcomers do not feel discouraged from engaging with the project and the rest of the community. 
+
 * Each open source community is different
 
 == Tools for onboarding
