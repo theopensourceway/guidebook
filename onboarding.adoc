@@ -33,3 +33,7 @@ Many open source communities organize events where community members get togethe
 
 
 == Resources
+
+https://docs.openstack.org/upstream-training/[OpenStack Upstream Institute]
+https://github.com/kubernetes/community/tree/master/sig-contributor-experience[Kubernetes Contributor Experience Special Interest Group]
+https://about.gitlab.com/job-families/expert/merge-request-coach/[GitLab Merge Request Coach]
