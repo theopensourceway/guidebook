@@ -16,11 +16,12 @@ Finally, no two open source communities are the same. Even for seasoned open sou
 == Tools for onboarding
 
 * Documentation, landing page, wiki pages, etc. 
-* Orientation events for newcomers
 
 Whenever people join a new community, discussions on communication channels such as mailing lists or Slack are typically overwhelming to follow. To alleviate this, it's helpful to carve out a space for new community members as they get started. For example, dedicated channels such as "getting started" or "introductions" can be places for people to feel safe asking new comer questions. For more experienced community members, by helping answer questions or even simply offering encouragement on these channels will go a long way in making new community members feel welcome as they're getting started.  
 
 Once new community members feel oriented and comfortable enough to start contributing to an open source project, their next questions will be "where can I contribute?" To help newcomers get started, it's helpful to have a list of work items that people can tackle. Many communities have a label such as "good for first time contributors", "good first issue", "help wanted", etc. that people can use to narrow down the list of issues in their communities. Issues with these labels could range from simple documentation errors, easy bug fixes, or simple tasks that new contributors can tackle so that they can have successes with their early contributions. It's also helpful have a contact person (or people) who can serve as mentors or coaches listed on these issues in case people need help getting started with their early contributions. Although issues may feel simple for experienced community member, that may not be the case for newcomers. 
+
+Many open source communities organize events where community members get together. Whether the events are in person or virtual, these events provide a great opportunity for community members to collaborate synchronously and also to get to know each other in more relaxed settings. Orientation events.  
 
 == People to help with onboarding
 
