@@ -25,8 +25,9 @@ Many open source communities organize events where community members get togethe
 
 == People to help with onboarding
 
-* Coaches/mentors
-* A team/working group focused on onboarding.
+This may sound obvious, but another key resource for onboarding is other community members. Even if people do not sit in the same office, having access to more experienced community members to help people get started and answer questions can help alleviate the sense of isolation for new community members. Even a simple thing like volunteer onboarding buddies who can jump on a welcome call may be enough for a small community that is relatively new. For larger and more established communities, people may have seen working groups focused on onboarding or even community members with formal titles such as coaches or mentors. 
+
+how to get help
 
 == Mentorship
 
