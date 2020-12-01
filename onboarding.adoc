@@ -1,6 +1,6 @@
 = Onboarding
-Authors: Karsten Wade <kwade@redhat.com>, Josh Berkus <jberkus@redhat.com>, Brian Proffitt <bproffit@redhat.com>, Dave Neary <dneary@redhat.com>
-Updated: 2020-03-30
+Authors: Ray Paik <ray@cube.dev>, Guedis Cardenas <guedis@palante.co>, Bryan Behrenshausen <bbehrens@redhat.com>
+Updated: 2020-12-xx
 
 == Introduction
 
@@ -10,18 +10,18 @@ The first challenge in open source is that you work in an asynchronous and remot
 
 Another related challenge is that working in asynchronous/remote environment can exacerbate the imposter syndrome that people typically experince when they start new jobs. When it's more difficult to get real time help or feedback, people can get stuck with simple tools issues and feel less confident about their work. So good onboarding experience in open source communities is crucial for newcomers not to feel discouraged in their early days in the community. 
 
-Finally, no two open source communities are the same. Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies. Depending on the community, terms like contributions, community members, projects, etc. may mean something slightly different and could easily cause confusion among new community members.   
+Finally, no two open source communities are the same. Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies. Depending on the community, terms like contributions, community members, projects, upstream, etc. may mean something slightly different and could easily cause confusion among new community members.   
 
 
 == Tools for onboarding
 
-* Documentation, landing page, wiki pages, etc. 
+To work successfully in any asynchronous environment, one of the key tools and practices is good documentation. Since people not necessarily going to have fellow community members available near them to provide guidance, it's important to have important community norms, decisions, processes, etc. well documented in much more detail when compared to more traditionl office environment. Whether it's a landing page, project documentation, wiki page, etc., a good set of references are crucial for new community members to get familiar with the community and to get started. It's also important to ensure that the onboarding documentations are up to date with the latest in the community, so you want to make it easy for anyone to help keeping these contents up to date. An easy to use documentation tool definitely helps, but what's more important is to have the community culture where it's everyone one's job to keep documentations up to date. 
 
 Whenever people join a new community, discussions on communication channels such as mailing lists or Slack are typically overwhelming to follow. To alleviate this, it's helpful to carve out a space for new community members as they get started. For example, dedicated channels such as "getting started" or "introductions" can be places for people to feel safe asking new comer questions. For more experienced community members, by helping answer questions or even simply offering encouragement on these channels will go a long way in making new community members feel welcome as they're getting started.  
 
 Once new community members feel oriented and comfortable enough to start contributing to an open source project, their next questions will be "where can I contribute?" To help newcomers get started, it's helpful to have a list of work items that people can tackle. Many communities have a label such as "good for first time contributors", "good first issue", "help wanted", etc. that people can use to narrow down the list of issues in their communities. Issues with these labels could range from simple documentation errors, easy bug fixes, or simple tasks that new contributors can tackle so that they can have successes with their early contributions. It's also helpful have a contact person (or people) who can serve as mentors or coaches listed on these issues in case people need help getting started with their early contributions. Although issues may feel simple for experienced community member, that may not be the case for newcomers. 
 
-Many open source communities organize events where community members get together. Whether the events are in person or virtual, these events provide a great opportunity for community members to collaborate synchronously and also to get to know each other in more relaxed settings. Orientation events.  
+Many open source communities organize events where community members get together. Whether the events are in person or virtual, these events provide great opportunities for community members to collaborate synchronously and also to get to know each other in more relaxed settings. These events could be summits, hackathons, user confernces, etc. and it makes sense to create separate sessions (or even a track) for new community members. Your could organize formal orientation sessions as a Day 0 event if your budget allows for it, but even a lunch session so that new comers can meet other community members so they know who they can ask questions to later on can go a long way in making community members feel welcome.
 
 == People to help with onboarding
 
