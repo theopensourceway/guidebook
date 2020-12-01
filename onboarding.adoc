@@ -10,15 +10,17 @@ The first challenge in open source is that you work in an asynchronous and remot
 
 Another related challenge is that working in asynchronous/remote environment can exacerbate the imposter syndrome that people typically experince when they start new jobs. When it's more difficult to get real time help or feedback, people can get stuck with simple tools issues and feel less confident about their work. So good onboarding experience in open source communities is crucial for newcomers not to feel discouraged in their early days in the community. 
 
-Finally, no two open source communities are the same. Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies. Depending on the community, terms like contributors, community members, projects, etc. may mean something different and new community members can feel lost unless these are well defined or documented.   
+Finally, no two open source communities are the same. Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies. Depending on the community, terms like contributions, community members, projects, etc. may mean something slightly different and could easily cause confusion among new community members.   
 
 
 == Tools for onboarding
 
-* Landing page
+* Documentation, landing page, wiki pages, etc. 
 * Orientation events for newcomers
-* Communication channels
-* Issues for new contributors
+
+Whenever people join a new community, discussions on communication channels such as mailing lists or Slack are typically overwhelming to follow. To alleviate this, it's helpful to carve out a space for new community members as they get started. For example, dedicated channels such as "getting started" or "introductions" can be places for people to feel safe asking new comer questions. For more experienced community members, by helping answer questions or even simply offering encouragement on these channels will go a long way in making new community members feel welcome as they're getting started.  
+
+Once new community members feel oriented and comfortable enough to start contributing to an open source project, their next questions will be "where can I contribute?" To help newcomers get started, it's helpful to have a list of work items that people can tackle. Many communities have a label such as "good for first time contributors", "good first issue", "help wanted", etc. that people can use to narrow down the list of issues in their communities. Issues with these labels could range from simple documentation errors, easy bug fixes, or simple tasks that new contributors can tackle so that they can have successes with their early contributions. It's also helpful have a contact person (or people) who can serve as mentors or coaches listed on these issues in case people need help getting started with their early contributions. Although issues may feel simple for experienced community member, that may not be the case for newcomers. 
 
 == People to help with onboarding
 
