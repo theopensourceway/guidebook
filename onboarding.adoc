@@ -44,25 +44,25 @@ Opportunities for volunteers to begin lending their unique talents to an open so
 
 === Typical contributor pathways (community focus)
 
-Documenting workflow and governance processes
-Onboarding and mentoring new members
-Localizing content into various languages
-Copywriting (for website, newsletters, blogs)
-Managing social media
-Organizing events
+. Documenting workflow and governance processes
+. Onboarding and mentoring new members
+. Localizing content into various languages
+. Copywriting (for website, newsletters, blogs)
+. Managing social media
+. Organizing events
 
 Does your project currently offer new (and existing) contributors opportunities to contribute rewardingly to (or even take ownership of) work in each of these pathways?
 
 === Typical community pathways (technical focus)
 
-Adding new features and documentation
-Fixing existing bugs and triaging issues
-Refactoring existing work to improve it
-Performing quality assurance
-Improving user interface and user experience
-Release engineering
-Creating and maintaining project roadmap
-Code and user interface localization
+. Adding new features and documentation
+. Fixing existing bugs and triaging issues
+. Refactoring existing work to improve it
+. Performing quality assurance
+. Improving user interface and user experience
+. Release engineering
+. Creating and maintaining project roadmap
+. Code and user interface localization
 
 Again, ask yourself: Does your project currently offer new (and existing) contributors opportunities to contribute rewardingly to (or even take ownership of) work in each of these pathways?
 
