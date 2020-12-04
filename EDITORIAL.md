@@ -87,7 +87,7 @@ Each Asciidoc (.adoc) file has a standard header following this format:
 > // Authors: Firstname Lastname <firstname.lastname@example.com>, Their Coauthor <their.coauthor@example.com>
 > // Updated: YYYY-MM-DD
 > // Versions: [1.99|2.0|X.Y]
-> // Status: [DRAFT|PUBLISH]
+> // Status: [DRAFT|PUBLISHED]
 
 The first line is an H1 and title of the chapter, as it should appear in the generated Table of Contents.
 

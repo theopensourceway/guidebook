@@ -1,6 +1,8 @@
 = Understanding Community Metrics
 // Authors: Ray Paik, Brian Proffitt <bproffit@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
 // Updated: 2020-09-17
+// Versions: 1.99
+// Status: PUBLISHED
 
 == Introduction: What's a "healthy" open source community?
 A healthy open source community is one that demonstrates open practices, uses open infrastructure, and cultivates an open culture with the goal of becoming more sustainable.

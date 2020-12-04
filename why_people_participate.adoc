@@ -1,7 +1,8 @@
 = Why Do People Participate in Open Source Communities?
 // Authors: Gordon Haff <ghaff@redhat.com>
 // Updated: 2020-05-14
-// Edited: 2020-08-06 (paula)
+// Versions: 1.99
+// Status: PUBLISHED
 
 == Introduction
 

@@ -1,6 +1,8 @@
 = New Project Checklist
 // Authors: Lisa Caywood <lcaywood@redhat.com>, Josh Berkus <jberkus@redhat.com, Bryan Behrenshausen <bbehrens@redhat.com>, Karsten Wade <kwade@redhat.com>
 // Updated: 2020-11-17
+// Versions: 1.99
+// Status: PUBLISHED
 
 This is a relatively simple checklist for you to consider when starting a new open source project, especially where the project may be starting small but wants room to grow.
 By _simple_ we mean: this list doesn't propose a process or project management for accomplishing these items; in its most simple form it does not have definitions for items; it suggests what is to come without prescribing or demanding obedience to the list.

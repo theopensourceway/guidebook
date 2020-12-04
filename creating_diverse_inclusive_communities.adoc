@@ -1,6 +1,8 @@
 = To Build Diverse Open Source Communities, Make Them Inclusive First
 // Authors: Lauren Maffeo
 // Updated: 2020-07-19
+// Versions: 1.99
+// Status: PUBLISHED
 
 == Introduction
 
