@@ -79,3 +79,22 @@ Material is complete. Any proposed edits or additions should be submitted as new
 - [ ] Material has been proofread one final time for spelling and grammatical errors
 - [ ] Authors have acknowledged and/or approved all final changes
 
+## Explanation of headers in .adoc files
+
+Each Asciidoc (.adoc) file has a standard header following this format:
+
+> = Chapter Title Case Like This
+> // Authors: Firstname Lastname <firstname.lastname@example.com>, Their Coauthor <their.coauthor@example.com>
+> // Updated: YYYY-MM-DD
+> // Versions: [1.99|2.0|X.Y]
+> // Status: [DRAFT|PUBLISH]
+
+The first line is an H1 and title of the chapter, as it should appear in the generated Table of Contents.
+
+The second line lists one or more authors and their email addresses. This line is commented out so that it doesn't appear at the top of the chapter, which currently creates some confusion with the built document.
+
+Third line is the latest date of this file.
+
+Fourth line specifies which version or versions this file is associated with.
+
+Fifth line defines if this file is still a draft or should be collected for publishing by any building-and-publishing tools.
