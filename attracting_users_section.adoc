@@ -1,3 +1,27 @@
-. Attracting Users
-.. Basics of a project
-.. Driving adoption
+= Attracting Users
+// Author: Karsten Wade <kwade@redhat.com>
+// Updated: 2020-12-04
+// Version: 2.0
+// Status: DRAFT
+// :leveloffset: +1
+
+OPENING PARAGRAPH NARRATIVE TIE IN
+
+This section contains chapters that:
+
+* Concept one.
+* Concept two
+* Concept three.
+* Concept more.
+
+This section is useful for you if:
+
+* Need a thing
+* Want a thing
+* Have a thing
+* Looking for a thing
+* Liking a thing
+
+include::basics_of_a_project.adoc[]
+include::driving_adoption.adoc[]
+include::terminology_and_lexicon.adoc[]
