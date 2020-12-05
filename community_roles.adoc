@@ -6,41 +6,31 @@ Updated: December 3, 2020
 
 It's never too early to think of how you can make a contribution to a project or group you’d like to join. By doing so, you catapult the project further ahead in meeting your needs and the needs of all its users. Furthermore, you can get recognition, improve your skills in a safe environment, and build your network through the people you work with.
 
-This document covers several ways you can currently help IEEE SA OPEN:
+This document covers several roles played by contributors. It may be interesting to see how roles are similarly or differently defined by the [CRediT](http://credit.niso.org/) project for academic papers.
 
-- Writing documents
-
-- Reviewing documents
-
-- Participating in advisory groups
-
-- Recruiting other volunteers
-
-- General guidance to new volunteers
-
-- Other help for groups and projects that are hosted on the platform
-
-Some of our roles overlap with those defined by the [CRediT](http://credit.niso.org/) project for academic papers, but ours focus on the current needs of the IEEE SA OPEN community.
+[[_TOC_]]
 
 ## Writing documents
 
-IEEE SA OPEN is striving to provide guidance to members, as well as create guides that can be useful to a wider community of free and open source software developers. Our main audiences are:
+** Andy Oram: I have a rather long document I could point to here. That document's headings are: **
 
-- Experienced open source developers who want to learn the particular tools, resources, and processes available in IEEE SA OPEN. These developers may need to adopt some new behaviors to fit into our environment.
-
-- Software engineers who are unfamiliar with free and open source practices, and want to start a project or move an existing project here. These developers should learn how open projects differ from the ones they're used to.
-
-- People with little background in software engineering, whether closed or open. Many talented IEEE members and contributors fit in this category. These people will benefit from a description of basic software engineering practice, as well as open source practices.
-
-We point all these people to the best of the many existing documents and resources, but also want to summarize key points so they can start quickly to use our site.
-
-Documents are stored on our GitLab site under the various advisory groups. Our writing process is not formalized yet, but we are happy to share the source with volunteers. You are welcome to edit existing documents, write new documents or new topics within existing documents, and restructure and reorganize documents. One easy way to start is to scan documents for sections that are still empty or have very little material, and see whether you have expertise in one of those areas.
-
-The source format is [Markdown](https://www.markdowntutorial.com/), a very simple format based on a few characters with special meanings.
+- Proposing a document 
+- Becoming an author
+       - Learn the tools
+       - Look for templates and models
+       - Familiarize yourself with related documents
+ - Criteria for writing
+ - Writing the document
+ - Document review
+ - Project management
+ - Promoting the document
+ - Maintenance
+- Templates
+- Standards for open source communities
 
 ## Reviewing documents
 
-We are crowdsourcing our documentation. We think that reviews from a variety of people--varying in knowledge and ability, formal training, race, gender, geographic location, and more--greatly increases the value and readability of the documents.
+Reviews of documents are crowdsourced, meaning that we welcome reviews from a variety of people who differ in knowledge and ability, formal training, race, gender, geographic location, and more. This greatly increases the value and readability of the documents.
 
 You can tell us what you think is incorrect and what is missing. Recognize that we try to keep documents short so that busy people have time to read them. References to good documents and other resources are very valuable.
 
@@ -48,23 +38,9 @@ Editing, proofreading, and spell-checking are also valuable ways to contribute.
 
 Reviewing is a good way to pick up our tone and style in preparation for writing your own documents.
 
-## Participating in advisory groups
+## Participating in steering committees
 
-The advisory groups in the IEEE SA OPEN community provide guidance to other groups, answering questions such as "How should we structure our group?" and "What tool is good for our needs?" You might think of these groups as meta-groups that exist to make other groups as effective as possible.
-
-We have three advisory groups:
-
-- Community Advisory Group (mission goes here)
-
-- Marketing Advisory Group (mission goes here)
-
-- Technical Advisory Group (mission goes here)
-
-- Templates Advisory Group (mission goes here)
-
-You can send a request through GitLab to join one of these groups, like any other group.
-
-These groups also need leaders. After you participate for a few months, we hope you will consider stepping up into a leadership position. Expertise pertaining to the goals of the group is helpful, but leaders can also help by coordinating people in their tasks, facilitating meetings, and other organizational tasks.
+These committees also need leaders. After you participate for a few months, we hope you will consider stepping up into a leadership position. Expertise pertaining to the goals of the group is helpful, but leaders can also help by coordinating people in their tasks, facilitating meetings, and other organizational tasks.
 
 ## Recruiting other volunteers
 
