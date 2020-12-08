@@ -83,7 +83,7 @@ In this journey, there are many best practices we recommend, including how to pu
 We also list some specific areas to be careful of and watch out for, including a robust discussion on self-care and mental health considerations for community managers themselves.
 
 Our best way of more-deeply conveying all this information is with stories.
-Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway[The Open Source Way community] to gather all these stories of why. 
+Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway.org[The Open Source Way community] to gather all these stories of why. 
 
 == Structure of this guide
 
