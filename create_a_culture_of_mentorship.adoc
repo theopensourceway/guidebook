@@ -79,7 +79,7 @@ Connector
 - Share resources such as articles, books, media, events, and programs.
 Introduce people to each other
 
-In summary, it is beneficial to acknowledge that mentorship can go beyond traditionally beyond providing guidance. There are various ways to mentor and in doing so, it provides valuable and lasting benefits for the contributors, open source project, and community.
+In summary, it is beneficial to acknowledge that mentorship can go beyond traditionally providing guidance. There are various ways to mentor and in doing so, it provides valuable and lasting benefits for the contributors, open source project, and community.
 
 == Mentoring new contributors
 
