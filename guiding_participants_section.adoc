@@ -1,26 +1,36 @@
 = Guiding participants
 // Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-04
+// Updated: 2020-12-11
 // Version: 2.0
 // Status: DRAFT
 // :leveloffset: +1
 
-OPENING PARAGRAPH NARRATIVE TIE IN
+Participation in an open source project is an interesting and somewhat amorphous place to be or describe.
+The lines for "just a user, don't talk to me about anything more" and "how can I help contribute to this project?" are clear.
+By contrast, active participation begins the moment someone cares more about the software than to just consume it, continuing until they start actively contributing toward making the software better.
+
+Here are some examples of various types of participation:
+
+* Talking to a friend about how much you like the software or the goals of the open source project.
+* Engaging in a hallway or booth-side discussion about the software at a conference or event.
+* Asking, upvoting, and answering questions about the software on various forums.
+* Putting a sticker on your laptop to advertize your support of the software.
+* Giving constructive feedback to a contributor about the software or project.
+* Recommending and offering to help others adopt and use the software.
 
 This section contains chapters that:
 
-* Concept one.
-* Concept two
-* Concept three.
-* Concept more.
+* Discuss the ideas and forces behind the motivation to participate.
+* Present details on how active participants benefit the project.
 
 This section is useful for you if:
 
-* Need a thing
-* Want a thing
-* Have a thing
-* Looking for a thing
-* Liking a thing
+* You are looking to understand the differences among communities made up of less engaged users, enthusiastic participants, and active contributors.
+* You want to understand what attracts people to participate in a pathway toward contribution.
+* You are looking to give your participation community a better experience.
+* You wish to build bridges to enable participants to become contributors.
+* You want to explore the benefit of user feedback in open source software. 
+* You have reached the middle of this guidebook by starting at the beginning, and are working your way toward the end.
 
 include::why_people_participate.adoc[]
 include::how_participants_help_the_projects_they_love_so_much.adoc[]
