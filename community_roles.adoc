@@ -1,16 +1,26 @@
 = Community Roles
-Authors: Andy Oram
-Updated: December 3, 2020
+// Authors: Andy Oram <>
+// Updated: 2020-12-03
+// Version: 2.0
+// Status: DRAFT
 
-# Ways to Contribute
+// @quaid: need some broad introductory text that speaks to the idea that since a contribution comes in many forms, so do roles.
+// Note the content on roles in creating_diverse_inclusive_communities.adoc in "Step four": https://www.theopensourceway.org/preview-1.99-book.html#_step_four_reward_contributions_beyond_code
 
-It's never too early to think of how you can make a contribution to a project or group you’d like to join. By doing so, you catapult the project further ahead in meeting your needs and the needs of all its users. Furthermore, you can get recognition, improve your skills in a safe environment, and build your network through the people you work with.
+== Ways to Contribute
 
-This document covers several roles played by contributors. It may be interesting to see how roles are similarly or differently defined by the [CRediT](http://credit.niso.org/) project for academic papers.
+It's never too early to think of how you can make a contribution to a project or group you’d like to join.
+By doing so, you catapult the project further ahead in meeting your needs and the needs of all its users.
+Furthermore, you can get recognition, improve your skills in a safe environment, and build your network through the people you work with.
+
+This document covers several roles played by contributors.
+It may be interesting to see how roles are similarly or differently defined by the [CRediT](http://credit.niso.org/) project for academic papers.
 
 [[_TOC_]]
 
-## Writing documents
+== Writing documents
+////
+@quaid: each project is going to be relatively different, does this material extrapolate enough to be useful for any project? From the headings I wonder if it's too project specific?
 
 ** Andy Oram: I have a rather long document I could point to here. That document's headings are: **
 
@@ -27,25 +37,50 @@ This document covers several roles played by contributors. It may be interesting
  - Maintenance
 - Templates
 - Standards for open source communities
+////
+== Reviewing documents
 
-## Reviewing documents
+Reviews of documents are crowdsourced, meaning that we welcome reviews from a variety of people who differ in knowledge and ability, formal training, race, gender, geographic location, and more.
+This greatly increases the value and readability of the documents.
 
-Reviews of documents are crowdsourced, meaning that we welcome reviews from a variety of people who differ in knowledge and ability, formal training, race, gender, geographic location, and more. This greatly increases the value and readability of the documents.
-
-You can tell us what you think is incorrect and what is missing. Recognize that we try to keep documents short so that busy people have time to read them. References to good documents and other resources are very valuable.
+You can tell us what you think is incorrect and what is missing.
+Recognize that we try to keep documents short so that busy people have time to read them.
+References to good documents and other resources are very valuable.
 
 Editing, proofreading, and spell-checking are also valuable ways to contribute.
 
 Reviewing is a good way to pick up our tone and style in preparation for writing your own documents.
 
-## Participating in steering committees
+== Participating in steering committees
 
-These committees also need leaders. After you participate for a few months, we hope you will consider stepping up into a leadership position. Expertise pertaining to the goals of the group is helpful, but leaders can also help by coordinating people in their tasks, facilitating meetings, and other organizational tasks.
+These committees also need leaders.
+After you participate for a few months, we hope you will consider stepping up into a leadership position.
+Expertise pertaining to the goals of the group is helpful, but leaders can also help by coordinating people in their tasks, facilitating meetings, and other organizational tasks.
 
-## Recruiting other volunteers
+== Recruiting other volunteers
 
-A personal appeal from a respected friend or colleague is the most effective way to recruit new team members. When you find a project you support, think of other people who would be valuable additions to the team. After you learn enough about the project to describe its goals and how the team operates, reach out to prospective new members.
+A personal appeal from a respected friend or colleague is the most effective way to recruit new team members.
+When you find a project you support, think of other people who would be valuable additions to the team.
+After you learn enough about the project to describe its goals and how the team operates, reach out to prospective new members.
 
-## General guidance to volunteers
+== General guidance to volunteers
 
-Most volunteers bring useful knowledge into a project, and learn more as they participate. You can share this in many ways: by answering questions on forums and chats, mentoring people, and showing up at group meetings.
+Most volunteers bring useful knowledge into a project, and learn more as they participate.
+You can share this in many ways: by answering questions on forums and chats, mentoring people, and showing up at group meetings.
+
+////
+Full list of possible roles to have a sub-section for. How about expanding to have several paragraphs on each? 
+
+* translation
+* sysadmin
+* fundraising
+* marketing
+* outreach
+* community
+* documentation
+* events
+* website
+* coder
+* technical other
+
+////
