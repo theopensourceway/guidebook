@@ -1,5 +1,5 @@
 = Creating a Culture of Mentorship
-// Authors: Karsten Wade <kwade@redhat.com>, Guedis Cardenas <guedis@palante.co>, Ray Paik <ray@cube.dev>, Bryan Behrenshausen <bbehrens@redhat.com>
+// Authors: Karsten Wade <kwade@redhat.com>, Guedis Cardenas <guedis@palante.co>, Ray Paik <ray@cube.dev>
 // Updated: 2020-12-10
 // Versions: 2.0
 // Status: DRAFT
