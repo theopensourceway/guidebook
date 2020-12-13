@@ -1,26 +1,37 @@
 = Growing Contributors
 // Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-04
+// Updated: 2020-12-11
 // Version: 2.0
 // Status: DRAFT
 // :leveloffset: +1
 
-OPENING PARAGRAPH NARRATIVE TIE IN
+This is the longest and most thorough section of the guidebook because the challenges of creating a community around an open source software project are complex, interesting, difficult, sticky, and rewarding.
+
+Once you reach the point where someone wants to help you make your software better, there is a sacred, ages-old responsibility you have as a human already inside of a community, responding and enabling someone outside of that community to come in from the cold.
+This is made even more poignant when that person has come to bring not only their precious attention but an associated willingness towards effort.
+Effort to make the world a better place
+
+Because at it's core, when someone willingingly contributes to a community effort, it is from the desire we all share to see the world a better place.
+Contribution is the moment where desire becomes action.
 
 This section contains chapters that:
 
-* Concept one.
-* Concept two
-* Concept three.
-* Concept more.
+* Explain the journey and shifts from participating to contributing.
+* Define and provides examples of what are contributions to an open source project.
+* Provide steps towards organizing a full open source project.
+* Give material for efforts and creating a program to welcome new contributors onboard the project.
+* Share the importance of having a culture of mentorship.
+* Have concrete steps toward building a mentoring program.
+* Cover the means and methods for creating and conducting governance.
+* List types of community roles and the meaning around them.
 
 This section is useful for you if:
 
-* Need a thing
-* Want a thing
-* Have a thing
-* Looking for a thing
-* Liking a thing
+* You are looking to grow a contributor base.
+* You want a deeper, more thorough understanding of one of the key topics in this section.
+* You are troubleshooting issues around your contributors or work they are doing.
+* You need some reference materials to explain to the methods and philosophy of guiding a contributor community.
+* You've been waiting all guidebook to get to this section, not wanting to skip ahead, but savor each page.
 
 include::from_users_to_contributors.adoc[]
 include::what_is_a_contribution.adoc[]
@@ -29,4 +40,3 @@ include::onboarding.adoc[]
 include::creating_a_culture_of_mentorship.adoc[]
 include::community_governance.adoc[]
 include::community_roles.adoc[]
-include::migrating_code.adoc[]
