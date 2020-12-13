@@ -1,11 +1,26 @@
 = Community Roles
-// Authors: Andy Oram <>
-// Updated: 2020-12-03
+// Authors: Andy Oram <andyo@praxagora.com>, Karsten Wade <kwade@redhat.com>
+// Updated: 2020-12-12
 // Version: 2.0
 // Status: DRAFT
 
-// @quaid: need some broad introductory text that speaks to the idea that since a contribution comes in many forms, so do roles.
-// Note the content on roles in creating_diverse_inclusive_communities.adoc in "Step four": https://www.theopensourceway.org/preview-1.99-book.html#_step_four_reward_contributions_beyond_code
+The roles one takes in an open source community are defined around the ways a role participates, collaborates, and contributes to the community and the various community outputs.
+It is a common misconception that the only or most valuable way to contribute to an open source project is to write code.
+There is a saying, "All contributions are of equal value," that sums up the best approach to take.
+
+One part of this is simply not trying to predict the future—you literally cannot know or predict which contribution or contributor is going to have lasting impact on the project.
+An accumulation of small contributions, for example, can easily have the same impact as a smaller number of large, splashy contributions.
+Someone might participate in a short user experience workshop and provide a valuable, lasting impact they are not even aware of beyond their brief interaction.
+
+The most important part of why all contributions should have equal weight is that a community is made up of people, and the feelings and experiences of these people literally are community.
+The things each person brings to the community—their contributions—become a very personal currency in the project, a way of knowing who can be relied upon to do what.
+
+As people grow in their skills over time in a welcoming and inclusive community, whatever the nature of their contributions are, they will have impact far beyond the reach of one person.
+They are better able to grow to their greatest potential by being allowed to stretch themselves into, then beyond, their roles.
+One way this "being allowed" manifests is by removing any level of judgement, difference of value, or even shame over different types of contributions.
+
+So it's a way of recognizing that all people are of equal value in the world, and what they bring each day needs to be weighed as simply the best of a human being in that moment.
+This is a meaningful way of being inclusive, permitting people to be a 100% contributor regardless of however they are able to participate and behave on any given day.
 
 == Ways to Contribute
 
@@ -16,10 +31,11 @@ Furthermore, you can get recognition, improve your skills in a safe environment,
 This document covers several roles played by contributors.
 It may be interesting to see how roles are similarly or differently defined by the [CRediT](http://credit.niso.org/) project for academic papers.
 
-[[_TOC_]]
-
-== Writing documents
+=== Writing documents
 ////
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+Extrapolate to the generic for how writing a document might work for any open source project
+
 @quaid: each project is going to be relatively different, does this material extrapolate enough to be useful for any project? From the headings I wonder if it's too project specific?
 
 ** Andy Oram: I have a rather long document I could point to here. That document's headings are: **
@@ -38,7 +54,7 @@ It may be interesting to see how roles are similarly or differently defined by t
 - Templates
 - Standards for open source communities
 ////
-== Reviewing documents
+=== Reviewing documents
 
 Reviews of documents are crowdsourced, meaning that we welcome reviews from a variety of people who differ in knowledge and ability, formal training, race, gender, geographic location, and more.
 This greatly increases the value and readability of the documents.
@@ -57,30 +73,62 @@ These committees also need leaders.
 After you participate for a few months, we hope you will consider stepping up into a leadership position.
 Expertise pertaining to the goals of the group is helpful, but leaders can also help by coordinating people in their tasks, facilitating meetings, and other organizational tasks.
 
-== Recruiting other volunteers
+=== Recruiting other volunteers
 
 A personal appeal from a respected friend or colleague is the most effective way to recruit new team members.
 When you find a project you support, think of other people who would be valuable additions to the team.
 After you learn enough about the project to describe its goals and how the team operates, reach out to prospective new members.
 
-== General guidance to volunteers
+=== General guidance to volunteers
 
 Most volunteers bring useful knowledge into a project, and learn more as they participate.
 You can share this in many ways: by answering questions on forums and chats, mentoring people, and showing up at group meetings.
 
-////
-Full list of possible roles to have a sub-section for. How about expanding to have several paragraphs on each? 
+=== Translating software and documentation
 
-* translation
-* sysadmin
-* fundraising
-* marketing
-* outreach
-* community
-* documentation
-* events
-* website
-* coder
-* technical other
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
 
-////
+=== Helping administer project systems
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Fundraising and organizing sponsorships
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Working aspects of marketing
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Helping drive outreach for the project 
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Focusing on community enablement, management, and architecture
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Organizing and working onsite at events
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Designing project websites
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Providing user experience (UX) design for the software
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Design and write code and scripts for the project
+
+Can be software that is released or software infrastructure that enables participation, collaboration, and contribution.
++ ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+=== Other technical roles
+
+The range of possible pieces of software that can be written for one field or another gives some idea of what can fit in here.
+This can mean specific technical skills, such as a geographer in a Geographic Information Systems (GIS) project.
+This can be general technical ability, which is often needed for complex problem solving.
+
+ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
