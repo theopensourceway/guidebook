@@ -19,25 +19,93 @@ It may be interesting to see how roles are similarly or differently defined by t
 [[_TOC_]]
 
 == Writing documents
-////
-@quaid: each project is going to be relatively different, does this material extrapolate enough to be useful for any project? From the headings I wonder if it's too project specific?
 
-** Andy Oram: I have a rather long document I could point to here. That document's headings are: **
+Documentation and training materials are crucial to recruitment and to making new members of a group productive.
+Writing technical documentation is one of the major under-appreciated contributions one can make.
+As http://www.praxagora.com/andyo/professional/documentation_conversations.html[one blogger put it], "Computer documentation has long been like government funding: nobody wants to contribute to it, but everybody wants it to be there when they need it."
+This section walks you through steps to creating documentation.
 
-- Proposing a document 
-- Becoming an author
-       - Learn the tools
-       - Look for templates and models
-       - Familiarize yourself with related documents
- - Criteria for writing
- - Writing the document
- - Document review
- - Project management
- - Promoting the document
- - Maintenance
-- Templates
-- Standards for open source communities
-////
+=== Proposing a document
+
+If you notice a hole in the documentation for a project or team, approach the project leaders or ask on the community forum whether anyone is working on documentation for a topic.
+On a site that allows "issues" such as GitHub and GitLab, you can also request a document by creating an issue, but it's simpler to start by asking informally whether someone is working on such a document.
+
+If you find someone who is already working on a document you believe necessary, offer to become a reviewer.
+Sometimes you can even help as an author, but authors must be careful to cleanly and clearly separate the topics assigned to different authors.
+Documentation tends to be less modular than software.
+
+If no one is working on a document, and the community or project leaders support the creation of a new document, the next question is: who would be the best author?
+The answer normally is: you.
+There may be other people with more expertise in the topic, but if they haven't created the document already, they probably are unable to do so because they are busy, don't like to write, or for some other reason.
+The best author is the one with the desire to write the document, and if you proposed it, you are probably that person.
+Subject matter experts can feed you ideas and review your writing.
+
+At this point, make a formal announcement, such as by creating an issue.
+A due date is recommended, to provide some pressure to finish the document.
+Remember that a document needs to be reviewed, which could add several weeks to the project.
+It is also useful to create milestones, which could include:
+
+. Start writing
+. Circulate first draft
+. End of review period for first draft
+. Circulate final draft
+. End of review period for final draft
+. Submitted for approval
+. Approved and published
+
+To be accepted into a project, the leadership or advisor group responsible for the project must approve it.
+These leaders should be liberal in approving documentation projects, because any new document that is relevant to a project will usually prove useful to at least some members.
+
+=== Becoming an author
+
+After you get approval to write a document from leadership, go through the following steps.
+
+==== Learn the tools
+
+Find out the preferred format--such as Asciidoc, Markdown, etc.--used by the team.
+Most projects integrate documents like source code files, so that the project doesn't have to invent special tools and processes for such tasks as filing bug reports on documents.
+
+==== Familiarize yourself with related documents
+
+You probably looked at your project's documentation while researching whether a new document was needed.
+Before starting to write, you should do searches online and check project documentation for projects similar to yours.
+Collect links to relevant documents and other materials such as videos that provide background for your readers, or sources of advanced information they can look at after reading your document.
+
+Viewing existing documents written by your project or other projects on similar topics might help you get started.
+Look for documents written for an audience like yours: developers, end-users, etc.
+
+=== Criteria for writing
+
+Writing is a skill with many levels of proficiency, but a few guidelines can help inexperienced writers produce a useful document.
+
+* Always think of the people you're writing for.
+Defining the audience is the most important part of planning a document, after the topic is chosen.
+Ask questions such as: will most of my readers know the technical term I'm using?
+Do end-users need to know the technical details that developers talk about?
+Do I need to describe how to find a web page or other resource before I talk about using that resource?
+* Try to frame directions as procedures divided into small steps.
+Those are usually the easiest directions to follow, particularly if you lay them out as an order list.
+Don't write from memory: always go through the procedure while you write it up.
+Otherwise, you're almost certain to forget a step or describe something incorrectly.
+
+* Structure your document.
+Keep sentences short.
+Try to break up long paragraphs.
+Assign new headings frequently.
+If you find that you're writing a dozen or more paragraphs in a section and can't figure out how to break the section into smaller ones, you are probably creating badly organized text that doesn't flow well.
+
+=== Writing the document
+
+Usually, the author should circulate an outline for review before writing the document.
+The outline ensures that all important topics are covered, but that the document won't contain unnecessary topics.
+Reviewers can also suggest reorganizations.
+However, the author often finds reasons to add topics or move them around when turning the outline into the actual document.
+
+References to related documents are an important part of most documents.
+Authors should do research to find relevant documents, as stated earlier, and include them.
+Inline links can be useful, particularly to send readers to background in case they have to learn certain basic information to understand your document.
+However, it's generally most useful to provide a section of references as the end of the document.
+
 == Reviewing documents
 
 Reviews of documents are crowdsourced, meaning that we welcome reviews from a variety of people who differ in knowledge and ability, formal training, race, gender, geographic location, and more.
