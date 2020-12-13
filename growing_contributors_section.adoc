@@ -24,6 +24,7 @@ This section contains chapters that:
 * Have concrete steps toward building a mentoring program.
 * Cover the means and methods for creating and conducting governance.
 * List types of community roles and the meaning around them.
+* Focus on the importance and techniques for self-care for community managers and contributors.
 
 This section is useful for you if:
 
@@ -40,3 +41,4 @@ include::onboarding.adoc[]
 include::creating_a_culture_of_mentorship.adoc[]
 include::community_governance.adoc[]
 include::community_roles.adoc[]
+include::community_manager_self_care.adoc[]
