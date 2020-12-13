@@ -17,3 +17,6 @@ Nunc commodo dolor quis porttitor imperdiet.
 Ut imperdiet egestas diam nec pretium.
 Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
 Nulla non leo pellentesque.
+
+
+https://source.redhat.com/groups/public/ospo/open_source_program_office_wiki/launching_a_new_open_source_project

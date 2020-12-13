@@ -3,7 +3,7 @@
 // Updated: 2020-12-10
 // Version: 2.0
 // Status: DRAFT
-// :leveloffset: +1
+:leveloffset: +1
 
 In the days before open source, measuring the success of a software effort was often defined in strictly financial terms.
 How many boxes—yes, boxes—of software did a company sell? That revenue was offset by the cost of support, authoring, and distribution (again, boxes), and voila! The profit was the measure of success.
@@ -43,6 +43,10 @@ This section is useful for you if:
 * Need more contributors in your project.
 * You have read this far, why stop now?
 
-include::Guiding participants[]
+include::defining_healthy_communities.adoc[]
+
 include::developing_a_metrics_plan.adoc[]
+
 include::announcing_software_releases.adoc[]
+
+:leveloffset: -1

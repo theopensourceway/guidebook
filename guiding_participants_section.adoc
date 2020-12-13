@@ -3,7 +3,7 @@
 // Updated: 2020-12-11
 // Version: 2.0
 // Status: DRAFT
-// :leveloffset: +1
+:leveloffset: +1
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe.
 The line separating "I'm just a user! Don't talk to me about anything more" and "How can I help contribute to this project?" seem clear enough.
@@ -35,5 +35,7 @@ This section is useful for you if:
 * You have reached the middle of this guidebook by starting at the beginning, and are working your way toward the end.
 
 include::why_people_participate.adoc[]
+
 include::how_participants_help_the_projects_they_love_so_much.adoc[]
 
+:leveloffset: -1

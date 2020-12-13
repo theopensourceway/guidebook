@@ -3,7 +3,7 @@
 // Updated: 2020-12-11
 // Version: 2.0
 // Status: DRAFT
-// :leveloffset: +1
+:leveloffset: +1
 
 This is the longest and most thorough section of the guidebook because the challenges of creating a community around an open source software project are complex, interesting, difficult, sticky, and rewarding.
 
@@ -35,10 +35,19 @@ This section is useful for you if:
 * You've been waiting all guidebook to get to this section, not wanting to skip ahead, but savor each page.
 
 include::from_users_to_contributors.adoc[]
+
 include::what_is_a_contribution.adoc[]
+
 include::getting_organized.adoc[]
+
 include::onboarding.adoc[]
+
 include::creating_a_culture_of_mentorship.adoc[]
+
 include::community_governance.adoc[]
+
 include::community_roles.adoc[]
+
 include::community_manager_self_care.adoc[]
+
+:leveloffset: -1

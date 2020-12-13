@@ -3,7 +3,7 @@
 // Updated: 2020-12-09
 // Version: 2.0
 // Status: DRAFT
-// :leveloffset: +1
+:leveloffset: +1
 
 This section gives important, highly useful, and timely advice on some of the most important parts of what makes an open source software project successful.
 We put them in this section with the goal of helping to attract users, rather than saving, for example, communication or diversity considerations as later steps in the engagement toward contributor.
@@ -47,6 +47,11 @@ This section is useful for you if:
 * You read the chapter before this one and you like to read a book from start to finish.
 
 include::communication_norms.adoc[]
+
 include::basics_of_a_project.adoc[]
+
 include::driving_adoption.adoc[]
+
 include::creating_diverse_inclusive_communities.adoc[]
+
+:leveloffset: -1
