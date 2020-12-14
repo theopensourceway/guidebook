@@ -6,7 +6,11 @@
 
 == Introduction
 
-Mentorship means different things to people. The interpretations vary based on the individual, situation, context, culture, and more. For example, to some, mentorship is a formal activity with a schedule and agenda. To others, mentorship is an informal process amongst peers -- it can even be a one time conversation. If you ask people their definition of mentorship, you will most likely get wide-ranging responses.
+Mentorship means different things to people.
+The interpretations vary based on the individual, situation, context, culture, and more.
+For example, to some, mentorship is a formal activity with a schedule and agenda.
+To others, mentorship is an informal process amongst peers -- it can even be a one time conversation.
+If you ask people their definition of mentorship, you will most likely get wide-ranging responses.
 
 That is what makes mentorship important and powerful, it is both universal and personal. Universal in that it has potential to be a positive experience and personal because how it occurs (and is implemented) varies by the individual and relationship.
 
@@ -49,9 +53,14 @@ In the sections below are additional details on its context and benefits.
 
 As mentioned earlier, one can think of mentorship as an action, experience, and opportunity to share what you can, when you can, how you can.
 
-In an open source project, this can manifest in various ways. It can be informal, formal, peer-to-peer, mentor-to-mentee, and other variants. The relationship dynamics can also differ, such to one-to-one, one-to-many, and many-to-many. The how and when communication occurs also varies, such as asynchronous or synchronous. The kinds of questions being asked and the responses can also influence how mentorship occurs.
+In an open source project, this can manifest in various ways.
+It can be informal, formal, peer-to-peer, mentor-to-mentee, and other variants.
+The relationship dynamics can also differ, such to one-to-one, one-to-many, and many-to-many.
+The how and when communication occurs also varies, such as asynchronous or synchronous.
+The kinds of questions being asked and the responses can also influence how mentorship occurs.
 
-Another thing to keep in mind is how people mentor and the different roles they assume. Below are some type of styles (not an exhaustive list, there are plenty).
+Another thing to keep in mind is how people mentor and the different roles they assume.
+Below are some type of styles (not an exhaustive list, there are plenty).
 
 Educator
 
@@ -79,7 +88,8 @@ Connector
 - Share resources such as articles, books, media, events, and programs.
 Introduce people to each other
 
-In summary, it is beneficial to acknowledge that mentorship can go beyond traditionally providing guidance. There are various ways to mentor and in doing so, it provides valuable and lasting benefits for the contributors, open source project, and community.
+In summary, it is beneficial to acknowledge that mentorship can go beyond traditionally providing guidance.
+There are various ways to mentor and in doing so, it provides valuable and lasting benefits for the contributors, open source project, and community.
 
 == Mentoring new contributors
 
@@ -151,7 +161,8 @@ This is information that should be prominent on your mentoring program webpages,
 
 * In our project, here is how to find and/or approach a mentor.
 * What the work/effort commitment for a mentee is likely to be.
-* Clarify the relationship, e.g., a mentor is specifically not a friendship role; the mentoring may be time-bound (six months, etc.) or otherwise have a box once left means the mentoring has concluded; mentors are volunteers and deserve equal respect; mentors are held to a Code of Conduct that mentees should know and follow as well. And so forth.
+* Clarify the relationship, e.g., a mentor is specifically not a friendship role; the mentoring may be time-bound (six months, etc.) or otherwise have a box once left means the mentoring has concluded; mentors are volunteers and deserve equal respect; mentors are held to a Code of Conduct that mentees should know and follow as well.
+And so forth.
 * What does a normal mentor/mentee relationship look like in this specific project.
 
 You are looking for a balance where mentees know what is expected of them, while leaving space for the mentor to help grow that understanding of project norms, from technical to cultural.
@@ -217,7 +228,8 @@ As a result, they drifted away from taking on the role.
 One question more than any can make a person in a new role feel small and inadequate: "Why didn't you just…?"
 
 A new person in any role will do things differently than the person who went before.
-There can be a few reasons for that. Maybe they don't know how to do it the way it was done in the past.
+There can be a few reasons for that.
+Maybe they don't know how to do it the way it was done in the past.
 There may be reasons which led to you doing things the way you did, but they're unaware of the history.
 It's also possible that they bring a different skill set and perspective to the role, and their way is just as valid and just as good.
 Whatever the reason, avoid asking your mentee "why didn't you…?"
