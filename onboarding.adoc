@@ -1,5 +1,5 @@
 = Onboarding
-// Authors: Ray Paik <ray@cube.dev>, Guedis Cardenas <guedis@palante.co>, Bryan Behrenshausen <bbehrens@redhat.com>
+// Authors: Ray Paik <ray@cube.dev>, Bryan Behrenshausen <bbehrens@redhat.com>
 // Updated: 2020-12-xx
 // Version: 2.0
 // Status: DRAFT
@@ -23,7 +23,7 @@ And you'll likely feel motivated to do these things quickly, because you're eage
 The faster you feel like you're making an impact, the more likely you are to stick around.
 And the more satisfied you'll be.
 
-But you'll also be joining a team with an extensive history—shared norms and customs, in-jokes, jargon, unspoken agreements, shared bonds, and a sense of collective identity.
+But you may also be joining a team with an extensive history—shared norms and customs, in-jokes, jargon, unspoken agreements, shared bonds, and a sense of collective identity.
 In short, your new team or organization will have a culture that pre-exists and pre-dates your joining it.
 Facets of this culture are largely intangible, but they'll significantly affect your ability to collaborate with others.
 An effective onboarding experience equips you to understand this culture.
@@ -44,7 +44,7 @@ So a good onboarding experience in open source communities is crucial for newcom
 Significant variability::
 No two open source communities are the same.
 Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies.
-Depending on the community, seemingly terms like contributions, community members, projects, upstream, etc.
+Depending on the community, seemingly simple terms like contributions, community members, projects, upstream, etc.
 may mean something slightly different and can easily cause confusion for new community members.
   
 
@@ -86,16 +86,16 @@ It all goes a long way to making new community members feel welcome as they're g
 
 Once new community members feel oriented and comfortable enough to begin contributing to an open source project, their next questions will be "Where can I contribute?"
 
-So to help newcomers get started, you may wish to develop list of work items that that new community members in particular can tackle.
+So to help newcomers get started, you may wish to develop a list of work items that new community members in particular can tackle.
 Many communities label issues in their issue trackers with something like "good for first time contributors," "good first issue," or "help wanted," so newscomers can more easily identify tasks with which they can help immediately.
-Issues with these labels could range from documentation errors, easy bug fixes, or other simple tasks that will help new contributors experience early successes and therefore build their confidence.Having a contact person (or people)  servinvg as mentors or coaches listed on these issues (in case people need help getting started) can also be helpful (more on this at the end of this chapter).
+Issues with these labels could range from documentation errors, easy bug fixes, or other simple tasks that will help new contributors experience early successes and therefore build their confidence. Having a contact person (or people) servinvg as mentors or coaches listed on these issues (in case people need help getting started) can also be helpful.
 Always remember: Issues that may seem simple to experienced community members might not be as simple for newcomers.
 
 Many open source communities organize events aimed at connecting their members.
 Whether the events are collocated or virtual, they provide excellent opportunities for community members to collaborate synchronously—and get to know each other in the process.
 These events could be summits, hackathons, user confernces, etc.
 At these events, consider creating special programming or spaces for new community members.
-You might organize formal orientation sessions as a "Day 0" event if your budget allows for it, even a lunchtime session at which newcomers can meet other community members so they know who they can ask questions to later on.
+You might organize formal orientation sessions as a "Day 0" event if your budget allows for it, or a lunchtime session at which newcomers can meet other community members so they know who they can ask questions to later on.
 
 == Contributor pathways
 
@@ -136,7 +136,7 @@ If not, one general way to begin expanding your project is by making concerted e
 We call these "pathways" because they allow participants to deepen investment in the community _gradually_ so they don't feel overwhelemed and can acclimate themselves to the project's processes and culture as they become more involved.
 Ideally, as your community matures, it will construct pathways that incrementally confer more responsibility and authority on contributors.
 Contributors following your project's contributor pathway related to events, for example, probably won't get started by taking sole responsibility for your community's flagship annual event.
-But they might work with experienced community members on planning that event, taking change of securing a venue, advertising, registration, and more.
+But they might work with experienced community members on planning that event, taking charge of securing a venue, advertising, registration, and more.
 
 == Resources: Onboarding examples from open source communities
 
