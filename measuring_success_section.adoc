@@ -26,7 +26,7 @@ In the past, it was difficult to see in real time if the processes of a given pr
 You would see the output of a project's efforts, but not the steps the process took along the way to get there.
 At least, not without a lot of effort.
 So establishing a project's health and success was done more with subjective methods, often based on sociological and business-oriented principles that have become ingrained in many cultures.
-Now, though, one can easily dive into the data shown by open development, and use that data to derive quantitative information about a project's health.
+Now, though, you can easily dive into the data shown by open development, and use that data to derive quantitative information about a project's health.
 It is these concepts that this section explores.
 
 This section contains chapters that:
@@ -38,9 +38,9 @@ This section contains chapters that:
 
 This section is useful for you if:
 
-* Want to know if your community is healthy.
-* Are seeking data that can demonstrate successes and failures.
-* Need more contributors in your project.
+* You want to know if your community is healthy.
+* You are seeking data that can demonstrate successes and failures.
+* You need more contributors in your project.
 * You have read this far, why stop now?
 
 include::defining_healthy_communities.adoc[]
