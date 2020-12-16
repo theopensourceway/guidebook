@@ -6,27 +6,31 @@
 
 == Introduction
 
-Mentorship means different things to people.
-The interpretations vary based on the individual, situation, context, culture, and more.
-For example, to some, mentorship is a formal activity with a schedule and agenda.
-To others, mentorship is an informal process amongst peers—it can even be a one time conversation.
-If you ask people their definition of mentorship, you will most likely get wide-ranging responses.
+This chapter discusses mentorship, a concept important to open source maintainers interested in creating sustainable projects and communities.
+It examines what mentoring is, why it's important, and how you might begin cultivating a culture of mentorship in your open source community.
 
-That is what makes mentorship important and powerful, it is both universal and personal.
-Universal in that it has potential to be a positive experience and personal because how it occurs (and is implemented) varies by the individual and relationship.
+== What is mentorship?
+
+Mentorship means different things to different people, depending on their situation, context, culture, and more.
+To some, for example, mentorship is a formal activity involving a schedule and agenda.
+To others, mentorship is an informal process among peers; it can even be a one-time conversation.
+If you ask people to define "mentorship," you will most likely receive wide-ranging responses.
+
+That is what makes mentorship such an important and powerful concept: it is both universal and personal.
+It's universal insofar as it has potential to be a positive experience for anyone, yet personal insofar as it occurs differently for every individual and in every relationship.
 
 Therefore, one way of thinking of mentorship is the following:
 
-Mentorship:: An action, experience, and opportunity to share what you can, when you can, how you can.
-
-== Broadly, why is mentorship important?
+> Mentorship is an act, experience, and opportunity to share what you can, when you can, how you can.
 
 Mentorship is important.
-It helps you, it helps others, it helps the community, and it helps the project.
+It helps you, it helps others, it helps the community, and it helps the open source project.
 
 === It helps you
 
-The help you give has valuable and lasting benefits.
+Mentoring can be a personally rewarding experience.
+The help and guidance you offer can have valuable, lasting benefits.
+For example:
 
 - Experience the positive emotions of giving back.
 - Learn more about yourself.
@@ -38,25 +42,25 @@ The help you give has valuable and lasting benefits.
 
 === It helps others
 
-Mentorship helps folks navigating the different stages/circumstances in their life.
+Mentorship helps contributors navigating different stages of their careers or different life circumstances.
+Mentorship has the potential for positive impact (big and small, yet valuable just the same), whether it occurs among people in a specific project of initiative, in general as people get started with the project, and as people grow and advance in their educations and careers. 
 
-It has the potential for valuable, positive impact both big and small for others, whether it is with a specific project/initiative, or as they start, grow, and advance in their education and career, or even generally in picking up new skillsets.
+=== It helps the community
 
-=== It helps community
-
-It starts with helping one person, who in turn helps someone else and the positive ripple effect continues.
-It can even be similar to a boomerang of help that returns to you.
+Mentoriship has a cumulative effect on community coherence and identity.
+It might begin between two people, when one person mentors another. But that person may mentor someone else in turn—and the positive ripple effect continues.
+It might even become a sort of "boomerang of help" that returns to you when you need a helping hand or some advice.
 
 At scale, it helps contribute towards more inclusive, collaborative, helpful, and innovative communities.
 
 === It helps the project
 
-Mentorship in open source projects is important and valuable.
-In the sections below are additional details on its context and benefits.
+Creating a culture of mentorship—or even a sopecific mentoring program—is important and valuable to the long-term health of an open source project.
+The rest of this chapter will discuss those benefits specifically.
 
-== Different forms/styles of mentorship
+== Forms and styles of mentorship
 
-As mentioned earlier, you can think of mentorship as an action, experience, and opportunity to share what you can, when you can, how you can.
+Recall that mentorship is an act, experience, and opportunity to share what you can, when you can, how you can.
 
 In an open source project, this can manifest in various ways.
 It can be informal, formal, peer-to-peer, mentor-to-mentee, and other variants.
