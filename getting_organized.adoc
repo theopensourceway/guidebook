@@ -1,3 +1,8 @@
+////
+Content merged into community_101.adoc
+Leaving for now, can clean up in the future.
+////
+
 = Getting Organized
 Authors: Dave Neary <dneary@redhat.com>
 Updated: 2020-02-04
