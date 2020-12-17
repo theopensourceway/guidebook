@@ -38,7 +38,7 @@ include::from_users_to_contributors.adoc[]
 
 include::what_is_a_contribution.adoc[]
 
-include::getting_organized.adoc[]
+include::essentials_of_community_building.adoc[]
 
 include::onboarding.adoc[]
 
