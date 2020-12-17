@@ -48,9 +48,9 @@ This section is useful for you if:
 
 include::communication_norms.adoc[]
 
-include::basics_of_a_project.adoc[]
+//include::basics_of_a_project.adoc[]
 
-include::driving_adoption.adoc[]
+//include::driving_adoption.adoc[]
 
 include::creating_diverse_inclusive_communities.adoc[]
 

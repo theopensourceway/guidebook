@@ -1,4 +1,4 @@
-= Essentials of Building a Community Around Open Source Development
+= Essentials of Building a Community
 // Andy Oram <andyo@praxagora.com>
 // Updated: 2020-12-16
 // Version: 2.0

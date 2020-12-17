@@ -36,6 +36,6 @@ This section is useful for you if:
 
 include::why_people_participate.adoc[]
 
-include::how_participants_help_the_projects_they_love_so_much.adoc[]
+//include::how_participants_help_the_projects_they_love_so_much.adoc[]
 
 :leveloffset: -1

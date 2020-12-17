@@ -1,6 +1,8 @@
 = From users to contributors
-Authors: Dave Neary <dneary@redhat.com>
-Updated: 2020-05-11
+// Authors: Dave Neary <dneary@redhat.com>
+// Updated: 2020-05-11
+// Version: 2.0
+// Status: DRAFT
 
 == Introduction
 

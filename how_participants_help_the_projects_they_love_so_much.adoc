@@ -1,6 +1,8 @@
 = How Participants Help the Projects They Love So Much
-Authors: Donna Benjamin <dbenjami@redhat.com>
-Updated: 2020-01-07
+// Authors: Donna Benjamin <dbenjami@redhat.com>
+// Updated: 2020-01-07
+// Version: 2.0
+// Status: DRAFT
 
 == Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
