@@ -6,7 +6,7 @@
 
 == Introduction
 
-This chapter is named _Community 101_ in reference to a way of number courses in some universities.
+This chapter is named _Community 101_ in reference to a way of numbering courses at colleges and universities.
 The "101 course" is the material you first encounter as a learner in a specific field.
 
 There are generally two pursuit areas where it comes to getting involved in open source software from the very beginning.
@@ -109,34 +109,41 @@ Others partner with open source experts to advise this work.
 
 == Considering forming a community
 
+It is possible and not uncommon to have software that is open source and the maintainers have shown no interest in forming a community beyond themselves.
+Frankly, not every code base needs its own community.
+Conversely, any code base may suddenly find itself at the center of a community that arises around it.
+Being open source doesn't mean it must have a community.
+But it does mean that if it has one, it gets certain benefits particular to open source software.
+
 Forming an open source software community has many of the same ethical and organizational considerations of forming any other community of practice.
 A community of practice is a group of people who share a common interest, who also get together to learn and practice within the common domain.
 
-This might be a community of hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player.
-These might be skateboarders, gathering every week at the park to learn and practice new tricks.
+An example of a community of practice might be hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player.
+Or it might be skateboarders, gathering every week at the park to learn and practice new tricks.
 
-For you and your organization to consider forming an open source software community, you must first be willing to form and be the caretakers for any other sort of community.
-Is doing so something that can match your vision?
+For you and your organization to consider forming an open source software community, you must first ask yourselves: are you willing to form and be the caretakers for any other sort of community?
+Does doing so match your vision?
 Does it match your style of getting things done?
 
 For example, an organization like a university or a branch of the armed forces would have two very different approaches to getting things done.
-Their reasons for forming any kind of community may be wildly different, or unexpectedtly aligned.
+Their reasons for forming any kind of community may be wildly different, or unexpectedly aligned.
 
-A feature of communities of practice that is appropriate for open source software communities is how it can truly draw together people and organizations form wildly different worlds.
-The key is when their common interests cross (the practice) and is there to tolerance for sharing and growing together (community).
+A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations form wildly different worlds.
+The key is when their common interests cross (the practice) and when there is tolerance for sharing and growing together (community).
 
 Some other considerations around forming an open source community:
 
 * You are interested in the benefits of open collaboration and innovation.
-You might already have or are planning a new technology, and open source is a way to get like-minded collaborators.
+You might already have or are planning a new technology, and open source is a way to find like-minded collaborators.
 Or you may just have a feeling that this is the right approach for your plans.
 * Attracting enthusiasts to your project is a key part of your growth strategy, and you've identified that open source contributors of all types are good enthusiasts for you.
 * The scientific method is core to your mission, purpose, and/or practices, and you see the benefit of having your entire software toolchain, infrastructure, et al as something your users should be able to contribute to and become maintainers of.
 * Your organization is one that is open, collaborative, and community-building by nature.
 You may create right-sized open source projects, where the users and contributors are closely aligned in some way.
 For example, collaborators at a university.
-If there is no legal barrier to starting a project that considers all of these elements from the beginning, why not start one?
+If there is no legal barrier to starting a project, why not start one?
 You never know who might find it and benefit from it in the future.
+// TBD add more reasons, as gathered
 
 
 == Forming a community: Defining project goals
