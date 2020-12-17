@@ -27,6 +27,8 @@ include::community_101.adoc[]
 
 include::new_project_start_up_checklist.adoc[]
 
+include::creating_a_product_strategy.adoc[]
+
 //include::terminology_and_lexicon.adoc[]
 
 :leveloffset: -1
