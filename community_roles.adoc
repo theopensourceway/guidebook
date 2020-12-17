@@ -151,44 +151,109 @@ You can share this in many ways: by answering questions on forums and chats, men
 
 === Translating software and documentation
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is translation::
+Translation the software interface and documentation into a different language.
+The result is a software package that has been _localized_ for people to read the interface and documentation in their preferred language.
+
+What a translator does::
+Works with tools and processes to translate the software interface, documentation, marketing material, release notes, etc. into one or more languages.
+Many projects use a common process or model, so learning how to translate in one software project may be a reusable skill in another project.
+Linux distributions such as Fedora Linux have translators who work on all parts of the operating system, translating it into many dozens of languages.
+
+Why do people like this role::
+One way many people have contributed to the spreading of open source softwae is by translating the software and documentation into their local language.
+They use this as a way to bring the benefits of free and open source software to their locale.
 
 === Helping administer project systems
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is system administration::
+Creating and maintaining operational computing systems on behalf of the project.
+The role skillset may call for a range of sysadmin/operational/DevOps experience, depending on existing systems and what is planned.
+
+What a system administrator does::
+Works with all aspects of the project on underlying infrastructure.
+This infrastructure provides the ways to participate and collaborate in the project.
+
+Why people like this role::
+Learning new skills and working with new technologies.
+Often people have experience or an inclination to do this work, if not professionally, then as a serious hobby.
+Especially with modern automation, the role of administrating systems is continuing to change.
 
 === Fundraising and organizing sponsorships
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is fundraising::
+This is the act of finding people and organizations interesting in donating money, hardware, or services to support the project and community.
+Sponsorship can take many forms.
+For projects that are not enabled to take in cash donations, sponsorship more often comes in terms of access to events, travel, booth staffing, and so forth.
+
+What a fundraiser does::
+Works with project leaders, any parent organizations such as foundations, and the people and organizations interested in donating and sponsoring.
+This involves working through the details of the sponsorship, whether it's a one-off or part of an ongoing campaign to close aspects of the deal.
+It may involve further administrating of the sponsorship, funds, grant, or whatever form the donation takes.
+
+Why people like this role::
+They understand the importance of creating sustainability around open source communities, and want to make a difference.
+They may have some skills or personality traits that make the effort more interesting or valuable to them individually.
 
 === Working aspects of marketing
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is marketing::
+In open source software, marketing is the act of promoting the community and its software efforts.
+Other practices, such as market research and advertising, do not come typically happen in the community itself.
+
+What a marketeer does::
+
+
+Why people like this role::
 
 === Helping drive outreach for the project 
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Focusing on community enablement, management, and architecture
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Organizing and working onsite at events
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Designing project websites
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Providing user experience (UX) design for the software
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Design and write code and scripts for the project
 
 Can be software that is released or software infrastructure that enables participation, collaboration, and contribution.
-+ ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+What is ::
+
+What a foo does::
+
+Why people like this role::
 
 === Other technical roles
 
@@ -196,4 +261,8 @@ The range of possible pieces of software that can be written for one field or an
 This can mean specific technical skills, such as a geographer in a Geographic Information Systems (GIS) project.
 This can be general technical ability, which is often needed for complex problem solving.
 
-ONE TO TWO PARAGRAPHS ABOUT HOW THE ROLE INTERACTS AND IMPACTS THE PROJECT, HOW DOING THE ROLE WORKS
+
+== Conclusion
+
+This chapter presented a list of some examples of roles that people can fill in open source projects.
+This list is not comprehensive, but for the roles listed gives an idea of what they do and why people fill them. 
