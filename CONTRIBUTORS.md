@@ -5,9 +5,12 @@
 * Presenting The Open Source Way
   * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
   * Editor(s)/Reviewer(s): Editorial team
+* Community 101: Understanding, Joining, or Forming a New Community
+  * Author(s):  [Bryan Behrenshausen](bbehrens@redhat.com), [Dave Neary](dneary@redhat.com), [Karsten Wade](mailto:kwade@redhat.com), 
 * New Project Checklist
   * Author(s):  [Lisa Caywood](mailto:lcaywood@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com), [Karsten Wade](mailto:kwade@redhat.com)
-  * Editor(s)/Reviewer(s):
+* Creating an Open Source Product Strategy
+  * Author(s): [Dave Neary](dneary@redhat.com)
 * Communication Norms in Open Source Software Projects
   * Author(s): [Leslie Hawthorn](mailto:lhawthor@redhat.com)
   * Editor(s)/Reviewer(s): [Paula Dickerson](mailto:pdickers@redhat.com) (lead), Editorial team
@@ -17,15 +20,33 @@
 * Why Do People Participate in Open Source Communities?
   * Author(s):  [Gordon Haff](mailto:ghaff@redhat.com)
   * Editor(s)/Reviewer(s): [Brian Proffitt](mailto:bkp@redhat.com) (lead), Editorial team
+* From Users to Contributors
+  * Author(s): [Dave Neary](dneary@redhat.com)
+* What is a Contribution?
+  * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
+* Essentials of Building a Community
+  * Author(s): [Andy Oram](andyo@praxagora.com)
+* Onboarding: 
+  * Author(s): [Ray Paik](ray@cube.dev), [Bryan Behrenshausen](bbehrens@redhat.com)
+* Creating a Culture of Mentorship
+  * Author(s): [Karsten Wade](kwade@redhat.com), [Guedis Cardenas](guedis@palante.co), [Ray Paik](ray@cube.dev)
 * Project and Community Governance
   * Author(s): [Dave Neary](mailto:dneary@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
   * Editor(s)/Reviewer(s): [Bryan Behrenshausen](mailto:bbehrens@redhat.com) (lead), Editorial team
 * Understanding Community Metrics
   * Author(s): [Ray Paik](mailto:rspaik@yahoo.com), [Brian Proffitt](mailto:bkp@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
   * Editor(s)/Reviewer(s): [Brian Proffitt](mailto:bkp@redhat.com) (lead), [Bryan Behrenshausen](mailto:bbehrens@redhat.com), Editorial team
+* Community Roles
+  * Author(s): [Andy Oram](andyo@praxagora.com), [Karsten Wade](kwade@redhat.com)
 * Community Manager Self-Care
   * Author(s): [Ashley Nicolson](mailto:ashjayne.nicolson@gmail.com)
   * Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), Editorial team; Subject Matter Expert (SME)
+* Defining Healthy Communities
+  * Author(s): [Karsten Wade](kwade@redhat.com)
+* Understanding Community Metrics
+  * Author(s): [Ray Paik](ray@cube.dev), [Brian Proffitt](bkp@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
+* Announcing Software Releases
+  * Author(s): [Brian Proffitt](bkp@redhat.com)
 
 ## Project teams
 

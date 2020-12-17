@@ -23,5 +23,7 @@ include::measuring_success_section.adoc[]
 
 // include::references_and_cases_section.adoc[]
 
+include::CONTRIBUTORS.adoc[]
+
 :leveloffset: -1
 
