@@ -20,6 +20,7 @@ They consist of humans, not organizations.
 Organizations can send their members, staff, leaders, and so forth out to make contributions to a community as a contributor
 
 Examples of specific contributions (objects):
+
 * An idea.
 * A design suggestion.
 * Creating or improving a process.
