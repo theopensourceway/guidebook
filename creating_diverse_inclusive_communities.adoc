@@ -57,7 +57,7 @@ When they do make those contributions, they often do so during work hours—beca
 
 Nisha Kumar (She/They) is the technical lead for container build, packaging, and distribution at the Open Source Technology Center at VMware.
 She also serves as co-maintainer for the Tern project, and a contributor to the SPDX and OCI communities.
-She juggles these projects with her role as primary caregiver to her two-year-old child.
+She juggles these projects with her role as her child's primary caregiver.
 To Kumar, these dual roles are nothing new; as a girl growing up in India, she balanced schoolwork with chores, running errands, and caring for family members.
 These endless tasks left no time for her to pursue passion projects.
 
