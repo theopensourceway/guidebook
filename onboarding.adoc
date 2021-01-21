@@ -50,16 +50,16 @@ may mean something slightly different and can easily cause confusion for new com
 
 As you work to make your project's onboarding process and experience most effective, ask yourself these questions:
 
-- What can contributors add to the project?
-- Where do contributors add to the project?
-- How do contributors add to the project?
+- What can people contribute to the project?
+- Where do people contribute to the project?
+- How do people contribute to the project?
 
-Answering the first question about your project's onboarding process requires a good deal of work work.
+Answering the first question about your project's onboarding process requires a good deal of work.
 Incoming contributors need to know what would be the most helpful contributions they could make.
 Quite a few projects have set up tagging on their source code repositories for "first-time contributors" or something similar, which is an excellent way to direct incoming contributors to solving issues and bugs while also introducing newcomers to the source material of the project.
 
 The second question—regarding "where to contribute"—is one that projects don't pose as often as you'd think.
-Project veterans might dismissively say, "what you need is on Git-something-or-other."
+Project veterans might dismissively say, "what you need is on the forums" or "read the wiki if you need more detail."
 But in which specific repository are the material available?
 Under what organization?
 And what about other, similarly named projects?
