@@ -65,7 +65,7 @@ Under what organization?
 And what about other, similarly named projects?
 Ensure your project website features clear links to places where new contributors can make an impact on the project. These links shouldn't be buried, either; they should be right on the home page, if possible.
 
-Third is teh question of "how to contribute."
+Third is the question of "how to contribute."
 Too often, projects release their source code, even make it easily discoverable . . . and that's it.
 You may have heard others refer to this approach as "throwing it over the wall," and it is not a phrase people tend to use politely.
 Too many projects will push their code or content into a public place, declare it open to all, and then wonder where all the contributors are.
