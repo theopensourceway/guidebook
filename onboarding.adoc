@@ -1,6 +1,6 @@
 = Onboarding
 // Authors: Ray Paik <ray@cube.dev>, Bryan Behrenshausen <bbehrens@redhat.com>
-// Updated: 2020-12-xx
+// Updated: 2021-01-21
 // Version: 2.0
 // Status: DRAFT
 
@@ -36,7 +36,6 @@ One of the great perks of a traditional office environment is that you  are clos
 In contrast, when you join a new open source community, you will likely work with community members in different georgraphies and time zones.
 So unless there are good onboarding materials such as documentation, video tutorials, wiki pages, and other resources, it's going to be more challenging to get started in open source communties even for experienced self starters.
 
-
 Imposter syndrome::
 When it's more difficult to get real time help or feedback, people can easily get stuck with simple tools issues and feel less confident about their work.
 So a good onboarding experience in open source communities is crucial for newcomers not to feel discouraged in their early days in the community.
@@ -46,7 +45,33 @@ No two open source communities are the same.
 Even for seasoned open source contributors, when they join a new community they will need to get familiar with new tools, new processes, and even new terminologies.
 Depending on the community, seemingly simple terms like contributions, community members, projects, upstream, etc.
 may mean something slightly different and can easily cause confusion for new community members.
-  
+
+== Onboarding basics
+
+As you work to make your project's onboarding process and experience most effective, ask yourself these questions:
+
+- What can contributors add to the project?
+- Where do contributors add to the project?
+- How do contributors add to the project?
+
+Answering the first question about your project's onboarding process requires a good deal of work work.
+Incoming contributors need to know what would be the most helpful contributions they could make.
+Quite a few projects have set up tagging on their source code repositories for "first-time contributors" or something similar, which is an excellent way to direct incoming contributors to solving issues and bugs while also introducing newcomers to the source material of the project.
+
+The second question—regarding "where to contribute"—is one that projects don't pose as often as you'd think.
+Project veterans might dismissively say, "what you need is on Git-something-or-other."
+But in which specific repository are the material available?
+Under what organization?
+And what about other, similarly named projects?
+Ensure your project website features clear links to places where new contributors can make an impact on the project. These links shouldn't be buried, either; they should be right on the home page, if possible.
+
+Third is teh question of "how to contribute."
+Too often, projects release their source code, even make it easily discoverable . . . and that's it.
+You may have heard others refer to this approach as "throwing it over the wall," and it is not a phrase people tend to use politely.
+Too many projects will push their code or content into a public place, declare it open to all, and then wonder where all the contributors are.
+This can be because there is a real barrier to entry, in the lack of documentation and procedures for getting contributions into the project.
+
+Next, let's discuss discuss some resources and practices your project can use to eliminate these barriers and streamline your project's onboarding process.
 
 == Onboarding resources
 
@@ -60,7 +85,6 @@ This may sound obvious, but another key resource for onboarding is other communi
 Even if people do not sit in the same office, having access to experienced community members to help people get started and answer questions can help alleviate the sense of isolation in the early days.
 Something simple like  onboarding buddies who can jump on a welcome call may be enough for a small community that is relatively new.
 For larger and more established communities, people may have seen working groups focused on onboarding or even community members with formal titles such as coaches or mentors.
-
 
 Once people resoures for onboarding are in place, this information (especially on who to reach out for help) needs to be posted in multiple places so that people feel welcome to contact their onboarding resources and feel encouraged to ask questions.
 If getting help is difficult, new comers will feel discouraged from engaging with the community and even decide that the community may not be for them afterall.
@@ -117,7 +141,7 @@ Examples include:
 . Managing social media
 . Organizing events
 
-_Technically focused_ contributor pathways, on the other hand are contributions requiring specialized knowledge of software development (often in a particular computing language).
+_Technically focused_ contributor pathways, on the other hand, are contributions requiring specialized knowledge of software development (often in a particular computing language).
 These pathways are focused on enchancing or refining the body of software a community maintains.
 Examples include:
 
