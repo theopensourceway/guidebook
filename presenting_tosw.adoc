@@ -1,8 +1,10 @@
 = Presenting The Open Source Way
 // Author: Karsten Wade <quaid@iquaid.org>
 // Updated: 2020-11-03
+// Version: 2.0
+// Status: PUBLISHED
 
-An English idiom says, "There is a method to my madness.".footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
+An English idiom says, "There is a method to my madness."footnote:[From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in `t"]
 Most of the time, the things we do make absolutely no sense to outside observers.
 Out of context, they look like sheer madness.
 But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive.
@@ -81,7 +83,7 @@ In this journey, there are many best practices we recommend, including how to pu
 We also list some specific areas to be careful of and watch out for, including a robust discussion on self-care and mental health considerations for community managers themselves.
 
 Our best way of more-deeply conveying all this information is with stories.
-Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway[The Open Source Way community] to gather all these stories of why. 
+Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway.org[The Open Source Way community] to gather all these stories of why. 
 
 == Structure of this guide
 

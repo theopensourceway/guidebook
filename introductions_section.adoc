@@ -1,4 +1,0 @@
-. Introductions
-.. Community 101
-.. Quickstart checklist
-.. Terminology and lexicon

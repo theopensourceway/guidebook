@@ -1,0 +1,28 @@
+= THE OPEN SOURCE WAY 2.0
+Contributors <https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTORS.md>
+v2.0, 2020-12-16: This release contains opinions
+:toc: left
+:leveloffset: +1
+
+This guidebook is available in https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html[HTML single page] and https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.pdf[PDF].
+
+Bugs (mistakes, comments, etc.) with this release may be filed as an issue in our https://github.com/theopensourceway/guidebook/[repo on GitHub]. You are also welcome to bring it as a discussion to our https://lists.theopensourceway.org/archives/list/contrib@theopensourceway.org/[forum/mailing list].
+
+include::presenting_tosw.adoc[]
+
+include::getting_started_section.adoc[]
+
+include::attracting_users_section.adoc[]
+
+include::guiding_participants_section.adoc[]
+
+include::growing_contributors_section.adoc[]
+
+include::measuring_success_section.adoc[]
+
+// include::references_and_cases_section.adoc[]
+
+include::CONTRIBUTORS.adoc[]
+
+:leveloffset: -1
+

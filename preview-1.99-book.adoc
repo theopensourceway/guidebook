@@ -1,17 +1,31 @@
-= T H E   O P E N   S O U R C E   W A Y   2 . 0
+= THE OPEN SOURCE WAY 1.99
+Contributors <https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTORS.md>
+v1.99, 2020-11-17: This preview release contains opinions
+:toc: left
+:numbered:
+:leveloffset: +1
 
-PREVIEW RELEASE
-TEST BUILD
+_*PREVIEW RELEASE*_
 
-include::presenting-tosw.adoc[]
+This preview is available in https://www.theopensourceway.org/preview-1.99-book.html[HTML single page] and https://www.theopensourceway.org/preview-1.99-book.pdf[PDF].
 
-include::why_people_participate.adoc[]
+Bugs (mistakes, comments, etc.) with this release may be filed as an issue in our https://github.com/theopensourceway/guidebook/[repo on GitHub]. You are also welcome to bring it as a discussion to our https://lists.theopensourceway.org/archives/list/contrib@theopensourceway.org/[forum/mailing list].
+
+include::presenting_tosw.adoc[]
+
+include::new_project_start_up_checklist.adoc[]
 
 include::communication_norms.adoc[]
 
-include::community_governance.adoc[]
-
 include::creating_diverse_inclusive_communities.adoc[]
 
+include::why_people_participate.adoc[]
+
+include::community_governance.adoc[]
+
+include::developing_a_metrics_plan.adoc[]
+
 include::community_manager_self_care.adoc[]
+
+:leveloffset: -1
 

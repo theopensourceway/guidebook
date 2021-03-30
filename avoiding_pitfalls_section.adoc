@@ -1,5 +1,26 @@
-. Avoiding Pitfalls and Learning From Mistakes
-.. Legal issues in communities
-.. Community Manager Self-Care
-.. Open source practitioners interviews; transcripts and "why" stories
-.. Home to all extra stories
+= Avoiding Pitfalls and Learning From Mistakes
+// Author: Karsten Wade <kwade@redhat.com>
+// Updated: 2020-12-04
+// Version: 2.0
+// Status: DRAFT
+// :leveloffset: +1
+
+OPENING PARAGRAPH NARRATIVE TIE IN
+
+This section contains chapters that:
+
+* Concept one.
+* Concept two
+* Concept three.
+* Concept more.
+
+This section is useful for you if:
+
+* Need a thing
+* Want a thing
+* Have a thing
+* Looking for a thing
+* Liking a thing
+
+include::legal_issues_in_communities.adoc[]
+include::community_manager_self_care.adoc[]
