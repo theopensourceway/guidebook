@@ -4,7 +4,6 @@
 
 * Presenting The Open Source Way
 ** Author(s): mailto:kwade@redhat.com[Karsten Wade]
-** Editor(s)/Reviewer(s): Editorial team
 * Community 101: Understanding, Joining, or Forming a New Community
 ** Author(s): mailto:bbehrens@redhat.com[Bryan Behrenshausen], mailto:dneary@redhat.com[Dave Neary], mailto:kwade@redhat.com[Karsten Wade]
 * New Project Checklist
@@ -37,14 +36,14 @@
 ** Author(s): mailto:ray@cube.dev[Ray Paik], mailto:bkp@redhat.com[Brian Proffitt], mailto:bbehrens@redhat.com[Bryan Behrenshausen]
 ** Editor(s)/Reviewer(s): mailto:bkp@redhat.com[Brian Proffitt] (lead), mailto:bbehrens@redhat.com[Bryan Behrenshausen], Editorial team
 * Community Roles
-** Author(s): mailto:andyo@praxagora.comAndy Oram], mailto:kwade@redhat.com[Karsten Wade]
+** Author(s): mailto:andyo@praxagora.com[Andy Oram], mailto:kwade@redhat.com[Karsten Wade]
 * Community Manager Self-Care
 ** Author(s): mailto:ashjayne.nicolson@gmail.com[Ashley Nicolson]
 ** Editor(s)/Reviewer(s): mailto:kwade@redhat.com[Karsten Wade] (lead), Editorial team; Subject Matter Expert (SME)
 * Defining Healthy Communities
 ** Author(s): mailto:kwade@redhat.com[Karsten Wade]
 * Understanding Community Metrics
-** Author(s): mailto:ray@cube.dev[Ray Paik], bkp@redhat.com[Brian Proffitt], bbehrens@redhat.com[Bryan Behrenshausen]
+** Author(s): mailto:ray@cube.dev[Ray Paik], mailto:bkp@redhat.com[Brian Proffitt], mailto:bbehrens@redhat.com[Bryan Behrenshausen]
 * Announcing Software Releases
 ** Author(s): mailto:bkp@redhat.com[Brian Proffitt]
 

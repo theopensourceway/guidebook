@@ -2,7 +2,6 @@
 Contributors <https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTORS.md>
 v2.0, 2020-12-16: This release contains opinions
 :toc: left
-:numbered:
 :leveloffset: +1
 
 This guidebook is available in https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html[HTML single page] and https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.pdf[PDF].
