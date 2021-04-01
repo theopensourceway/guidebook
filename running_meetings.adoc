@@ -16,7 +16,7 @@ In general, an agenda is valuable in order to:
 
 *  Provide structure and allow the facilitator to keep the meeting moving forward
 
-In order to meet these goals, each agenda item should be associated with a time. Some may require only 5 minutes. If an item is assigned a time longer than half an hour, consider breaking it into subtopics in order to ensure the discussion doesn't wander. Examples of agenda items are:
+In order to meet these goals, each agenda item should be associated with a time. Some may require only five minutes. If an item is assigned a time longer than half an hour, consider breaking it into subtopics in order to ensure the discussion doesn't wander. Examples of agenda items are:
 
 |=========
 | Item | Facilitator | Time

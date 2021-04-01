@@ -533,7 +533,7 @@ This will give new contributors an idea of what's ahead of them and what they ne
 It also helps make sure that contributor promotion is being done fairly.
 
 For fairness, it's preferable to make the promotion rules as objective as possible.
-For example, "Has consistently helped with code reviews in the subproject" is good, but, "Has completed at least 40 code reviews over the last 3 months in the subproject" is better.
+For example, "Has consistently helped with code reviews in the subproject" is good, but, "Has completed at least 40 code reviews over the last three months in the subproject" is better.
 Quantifiable rules help you avoid overlooking contributors who are valuable, but not outspoken.
 
 Smaller projects, with only a couple of contributor levels (e.g., Contributor and Owner), do not need a separate document for this.
