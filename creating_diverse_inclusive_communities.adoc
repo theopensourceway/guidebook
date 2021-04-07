@@ -213,9 +213,9 @@ Organizations need to look within and really assess before making a reach-out."
 === Step four: Reward contributions beyond code
 
 In her time working on open source, Sanchez says that most projects focus on attracting contributors to a narrow set of project work: Engineering, design, translation, documentation, and outreach.
-Despite how broad that sounds, she says the table below reflects many more roles and types of contributions she’d like to see rewarded:
+Despite how broad that sounds, she says the table below reflects many more roles and types of contributions she’d like to see rewarded.
 
-Around making personal career development goals, you can look into connecting a type of skillset with specific teams within open source software organizations.
+Use this table as part of your outreach efforts, focusing on specific career areas and development goals. Help people to see themselves as part of the project, showing how their skills and experiences in a career area can map to where they can contribute to the project.
 
 .Aligning project role to career goals and skillsets
 |===
@@ -348,7 +348,7 @@ For more ideas around mentoring in open source communities, refer to this guideb
 === Step six: Commit to continuous improvement
 
 The work of inclusion is never done:  It's ongoing.
-As your project grows, you will find new gaps to fill, questions to document, and additions to the code of conduct.
+As your project grows, you will find new gaps to fill, questions to document, and additions to your Code of Conduct.
 As your community becomes more inclusive, it might feel like you're finding more ways you've fallen short.
 Uncomfortable as this is, it's actually a good thing.
 It means you've done the hard work of committing to keep on getting better.
@@ -360,14 +360,8 @@ This can range from quarterly surveys to giving contributors the freedom to crea
 Such channels give contributors ways to connect socially, which is crucial for increasing asynchronous collaboration.
 It also gives you new ways to support contributors so they can contribute more fully.
 
-////
-Quote A::
-"I am hearing-impaired, and I requested that the All Things Open conference consider that when in larger venues where keynotes were speaking and there were no specific adaptations for those of us who were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
-Quote B::
-"I am hearing-impaired, and I requested that the All Things Open conference consider that for larger venues where keynotes were presented. Specific adaptations were added for those us were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
-////
-// Quote C is being used until above conflict is resolved
-"I am hearing-impaired," explains Don Watkins (He/Him), a community correspondent for OpenSourcec.tom who has been active in the Linux community for two decades.
+"I am hearing-impaired, and I requested that the All Things Open conference consider [hearing impairment] when in larger venues where keynotes were speaking and there were no specific adaptations [in the venue] for those of us who were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
+"Specific adaptations were added [by All Things Open] for those us were not able to hear."
 "I was particularly impressed when attending the Creative Commons Global Summit in Toronto in 2018, where nearly all presentations were accompanied by folks who signed and also provided simultaneous closed captioning of all speakers."
 
 Inclusion isn't a one-time pull request:  It's an ongoing, important activity.
