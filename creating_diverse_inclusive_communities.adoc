@@ -362,6 +362,7 @@ It also gives you new ways to support contributors so they can contribute more f
 
 "I am hearing-impaired, and I requested that the All Things Open conference consider [hearing impairment] when in larger venues where keynotes were speaking and there were no specific adaptations [in the venue] for those of us who were not able to hear," explains Don Watkins (He/Him), a community correspondent for OpenSource.com who has been active in the Linux community for two decades.
 "Specific adaptations were added [by All Things Open] for those us were not able to hear."
+
 "I was particularly impressed when attending the Creative Commons Global Summit in Toronto in 2018, where nearly all presentations were accompanied by folks who signed and also provided simultaneous closed captioning of all speakers."
 
 Inclusion isn't a one-time pull request:  It's an ongoing, important activity.
