@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Open Source Way Contributor Code of Conduct
 
 ## Our Pledge
 
