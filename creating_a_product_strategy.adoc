@@ -10,7 +10,7 @@ This chapter won't answer that question for you.
 But it _will_ outline some considerations you should make as you answer the question when it arises.
 
 First, ask yourself why you are considering an open source approach.
-Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you or your organization achieve certaion goals.
+Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you or your organization achieve certain goals.
 Identifying those benefits is the first step in creating an open source strategy.
 
 == Understand the economics of open source
