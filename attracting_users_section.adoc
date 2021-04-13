@@ -22,7 +22,7 @@ More people who start this pathway means more people will complete it.
 
 Diversity and communication also come at the front of a project.
 Communication is important for sharing with the world what your software does and why they should use it; and to capture their feedback in effective forums.
-Diversity and inclusivity are goals that provide strength for innovation, resiliance, and long-term sustainability.
+Diversity and inclusivity are goals that provide strength for innovation, resilience, and long-term sustainability.
 If your community doesn't look like this world, it won't last long in this world.
 
 A  way to think of this is: The first time someone sees your community has a formal Code of Conduct and diverse faces in leadership should be the first time they visit your website.
@@ -32,8 +32,8 @@ Without these sort of elements visibly part of the culture, these folks are goin
 This section contains chapters that:
 
 * Help you understand the basic elements of an open source project that intends to have a community of users and contributors.
-* Explains how to communicate effectively in and around an open source project.
-* Gives some essential steps to turn interest into users.
+* Explain how to communicate effectively in and around an open source project.
+* Give some essential steps to turn interest into users.
 * Show you that building a diverse community starts with being inclusive from the beginning, in what every end-user sees and experiences.
 
 This section is useful for you if:
