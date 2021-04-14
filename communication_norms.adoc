@@ -55,7 +55,7 @@ Thoughtfully established and well-maintained communication channels enable open 
 * Preserve knowledge about the project's decision-making norms and practices.
 * Allow users to report an error with the open source project's software itself and to submit fixes for errors they or others uncover.
 * Build a sense of common interest and purpose amongst participants, and provide an outlet for people in the project to socialize or "hang out" together online.
-* Provide a location for contributors to the project to collaboratively work together, be it on documentation for the project or to discuss how a particular part of the code base should be refactored.
+* Provide a location for contributors to the project to collaborate, be it on documentation for the project or to discuss how a particular part of the code base should be refactored.
 
 === Know your audience(s)
 
