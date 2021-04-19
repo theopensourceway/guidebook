@@ -29,7 +29,7 @@
 * Onboarding: 
   * Author(s): [Ray Paik](ray@cube.dev), [Bryan Behrenshausen](bbehrens@redhat.com)
 * Creating a Culture of Mentorship
-  * Author(s): [Karsten Wade](kwade@redhat.com), [Guedis Cardenas](guedis@palante.co), [Ray Paik](ray@cube.dev)
+  * Author(s): [Karsten Wade](kwade@redhat.com), [Guedis Cardenas](guedis@palante.co)
 * Project and Community Governance
   * Author(s): [Dave Neary](mailto:dneary@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bbehrens@redhat.com)
   * Editor(s)/Reviewer(s): [Bryan Behrenshausen](mailto:bbehrens@redhat.com) (lead), Editorial team
