@@ -32,9 +32,6 @@
 * Project and Community Governance
 ** Author(s): mailto:dneary@redhat.com[Dave Neary], mailto:jberkus@redhat.com[Josh Berkus], mailto:bbehrens@redhat.com[Bryan Behrenshausen]
 ** Editor(s)/Reviewer(s): mailto:bbehrens@redhat.com[Bryan Behrenshausen] (lead), Editorial team
-* Understanding Community Metrics
-** Author(s): mailto:ray@cube.dev[Ray Paik], mailto:bkp@redhat.com[Brian Proffitt], mailto:bbehrens@redhat.com[Bryan Behrenshausen]
-** Editor(s)/Reviewer(s): mailto:bkp@redhat.com[Brian Proffitt] (lead), mailto:bbehrens@redhat.com[Bryan Behrenshausen], Editorial team
 * Community Roles
 ** Author(s): mailto:andyo@praxagora.com[Andy Oram], mailto:kwade@redhat.com[Karsten Wade]
 * Community Manager Self-Care
@@ -44,6 +41,7 @@
 ** Author(s): mailto:kwade@redhat.com[Karsten Wade]
 * Understanding Community Metrics
 ** Author(s): mailto:ray@cube.dev[Ray Paik], mailto:bkp@redhat.com[Brian Proffitt], mailto:bbehrens@redhat.com[Bryan Behrenshausen]
+** Editor(s)/Reviewer(s): mailto:bkp@redhat.com[Brian Proffitt] (lead), mailto:bbehrens@redhat.com[Bryan Behrenshausen], Editorial team
 * Announcing Software Releases
 ** Author(s): mailto:bkp@redhat.com[Brian Proffitt]
 
