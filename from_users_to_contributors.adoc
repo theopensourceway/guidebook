@@ -28,7 +28,7 @@ Helping them over the particular speed bump they're hitting will turn them from 
 
 == Provide actionable, useful feedback
 
-Feedback for new contributors is only useful tot eh extent that it's actionable—that is, that the contributor can _do something_ as a result of what you've offered.
+Feedback for new contributors is only useful to the extent that it's actionable—that is, that the contributor can _do something_ as a result of what you've offered.
 
 In the case that someone is asking a question, you may need more information from them in order to answer it.
 For instance, if you're reviewing a pull request containing materials that don't not match the project's coding conventions, you'll want the contributor to make some changes to their contribution.
