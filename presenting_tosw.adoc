@@ -1,4 +1,4 @@
-= Presenting The Open Source Way
+= Presenting the Open Source Way
 // Author: Karsten Wade <quaid@iquaid.org>
 // Updated: 2020-11-03
 // Version: 2.0
