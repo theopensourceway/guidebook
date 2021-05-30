@@ -27,7 +27,7 @@ In particular, this guide is a living document that endeavors to gather and spre
 
 These voices are all part of https://theopensourceway.org[this community of practice around open source software community management].
 
-== The shape of things (i.e., assumptions we are making)
+== The Shape of Things (I.e., Assumptions We Are Making)
 
 When you look at this guide's table of contents, notice the organizational flow: from user to participant to contributor.
 This arrangement specifically tracks our view of how a community comes about and grows.
@@ -85,7 +85,7 @@ We also list some specific areas to be careful of and watch out for, including a
 Our best way of more-deeply conveying all this information is with stories.
 Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in https://theopensourceway.org[The Open Source Way community] to gather all these stories of why. 
 
-== Structure of this guide
+== Structure of This Guide
 
 Each section of this guide consists of one or more chapters.
  
@@ -110,7 +110,7 @@ Finally, we're collecting stories from practitioners of the open source way, sto
 The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort.
 Stories not interspersed into chapters will be collected at the end of the guide (for your endless uses).
 
-== A community of practice always rebuilding itself
+== A Community of Practice Always Rebuilding Itself
 
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
