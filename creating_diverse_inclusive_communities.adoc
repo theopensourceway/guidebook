@@ -17,7 +17,7 @@ Given the prevalence of such altruistic intent, the thinking goes, open source i
 But if there's one thing that industry advocates love more than meritocracy, it's data.
 And when the data shows who contributes to the open source ecosystem, it paints a damning picture.
 
-This chapter offers an overview of efforts by various open source communities to make projects more diverse and inclusive
+This chapter offers an overview of efforts by various open source communities to make projects more diverse and inclusive.
 It also offers initial steps open source community managers and project maintainers can take to begin building communities and projects that benefit from a diverse contributor base.
 Most crucially, it argues that open source communities must practice inclusion before trying to find contributors from underrepresented groups.
 Without trying to fix the systemic barriers that prevent people from staying, efforts to diversify will keep failing in vain.
