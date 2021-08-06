@@ -12,7 +12,7 @@ Given that people are involved, the answer—as you might guess—is complicated
 
 One need only consider the behaviors we see in open source communities to very quickly intuit that there's no single force at work here. After all, we see plenty of contributors on most big open source projects who are doing so at part of their day job. That doesn't mean they don't care about open source beyond a paycheck. But it does suggest different reasons for participation than the contributor working nights and weekends on their own passion project. Furthermore, we see contributors who are focused on solving some interesting technical problems while others are explicitly trying to bring about a societal benefit.
 
-But that doesn't mean we can't figure out some common patterns. Not only has there been academic research into open course contributions specifically, but there's a whole body of psychology literature dealing with motivation. As a result, motivation is the lens we'll use in this chapter to examine the question of why contributors participate in open source.
+But that doesn't mean we can't figure out some common patterns. Not only has there been academic research into open source contributions specifically, but there's a whole body of psychology literature dealing with motivation. As a result, motivation is the lens we'll use in this chapter to examine the question of why contributors participate in open source.
 
 == Extrinsic motivation
 

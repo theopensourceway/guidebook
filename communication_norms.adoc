@@ -225,7 +225,7 @@ Project maintainers can then engage in broadcast-style communication to everyone
 Make sure the location of your project's issue tracker is prominently displayed in your FAQ, as well as in your usage and development documentation.
 If people cannot figure out where to submit an issue, they will ask someone in the project where to do so. Supporting well-meaning users by offering repeated answers to basic questions like this one can be quite time consuming.
 
-Do yourself and your community a favor and make your issue tracker very easy to find!.
+Do yourself and your community a favor and make your issue tracker very easy to find.
 
 === Use issue templates
 
@@ -245,7 +245,7 @@ Most modern issue trackers allow users to label issues they file, which can be u
 By differentiating between different types of requests—features for development, software errors, etc.—a project's maintainers can be more organized and triage issues more efficiently.
 Further, many people interested in contributing to open source software projects are looking for issues on which they can work to better understand the project's development mechanics.
 If you will actively use labels in your issue tracker, make sure to document the label definitions in your development documentation so those labels are used consistently (or restrict the addition of issue labels to project maintainers only).
-A list of labels that used inconsistently is no more helpful than a list of undifferentiated issues.
+A list of labels used inconsistently is no more helpful than a list of undifferentiated issues.
 
 Labeling issues as "for newcomers" or "help wanted" allows project maintainers to flag issues particularly suited to contributors who have just joined the project.
 Labeling issues in this way shows that the project is prepared to onboard new contributors and that maintainers welcome community assistance in a particular area.
@@ -318,7 +318,7 @@ Further, by being available to and in regular dialogue with new contributors, yo
 === Having development discussions and other conversations in the issue tracker
 
 Conventional wisdom in the early days of open source software development held that communities should _not_ carry on development related discussions in the project's issue tracker.
-Project communities instead preferred carrying on such conversations via mailing lists or in forums a number of reasons:
+Project communities instead preferred carrying on such conversations via mailing lists or in forums for a number of reasons:
 
 * People following the mailing list were able to comment and express their views and needs without needing to parse through the issue tracker
 * Forum or mailing list conversations were seen as better for asynchronous and long-form communications, and popular issue trackers in the 1990s and early 2000s were an unwieldy way to engage in actual discourse.
@@ -356,7 +356,7 @@ There are a few steps projects can take to help those for whom English is not th
 
 === Prominently recognize community resources available in multiple languages
 
-Should your project be widely adopted and grow to the point that it hosts communication channels in more than one human language, make sure to list these resources prominently on your project's website.
+Should your project be widely adopted and grow to the point that it hosts communication channels in more than one language, make sure to list these resources prominently on your project's website.
 Include on the project's website a note that the project welcomes submissions from community members for resources that are not written in English. When the project receives such submissions act promptly to get them included in your project documentation.
 
 As you would with any resource you point your community to, do your best to ensure the resource is helpful.

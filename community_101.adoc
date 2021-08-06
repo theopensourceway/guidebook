@@ -59,7 +59,7 @@ In short, people earn membership in open source software communities by virtue o
 
 === Why do people join open source software communities
 
-People join open open source software communities for many different reasons.
+People join open source software communities for many different reasons.
 
 Many join because working on the software is part of their jobs—either because their organizations hired them to develop it, or because their jobs depend on the software working well.
 They join communities so they can directly impact the development of software on which they (or their organizations) rely for critical operations.
@@ -145,7 +145,6 @@ If there is no legal barrier to starting a project, why not start one?
 You never know who might find it and benefit from it in the future.
 // TBD add more reasons, as gathered
 
-
 == Forming a community: Defining project goals
 
 Anyone advising open source communities on project goals has likely found themselves asking project leaders the same basic questions.
@@ -187,7 +186,7 @@ For a mobile application or a web development framework, the majority of your au
 Each of these groups has different resource prerequisites, and the problems motivating their use of the project and its tools are different.
 
 Moreover, anyone interested in developing an open source _product_ strategy should think additionally about the critical relationship between project _users_ and product _buyers_.
-A company's path to adopting open source doesn't usually follow a straight line a straight line from use of an upstream open source project to conversion to an enterprise open source product.
+A company's path to adopting open source doesn't usually follow a straight line from use of an upstream open source project to conversion to an enterprise open source product.
 Open source adoption tends to be "grassroots," bottom-up; enterprise open source products are often evaluated and purchased top-down.
 Those adopting an open source project inside a company can be valuable influencers when consulting on purchasing decisions—if they're connected to the purchasing process, or if the person responsible for purchasing is aware that the company is already using the product.
 
