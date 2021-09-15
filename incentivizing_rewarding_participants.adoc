@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse viverra id leo et lacinia.
 Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
 
-== Techniques and systems
+== Reward models
 
 {This section describes various formal and informal mechanisms for rewarding and incentivizing contributors.}
 
