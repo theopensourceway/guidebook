@@ -1,10 +1,10 @@
 = Incentivizing and rewarding participants
 Authors: Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>
-Updated: 2021-08-26
+Updated: 2021-09-15
 
-== {INTRODUCTION}
+== Introduction
 
-{Begin a new line for every sentence in a paragraph. Separate paragraphs with blank lines.}
+{This section will introduce the chapter, preview its themes, and tie it to the previous chapter on contributor motivations.}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse viverra id leo et lacinia.
@@ -12,63 +12,76 @@ Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
 Mauris eget nulla at dolor ullamcorper lacinia.
 Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
 Duis a dapibus mauris.
+
+== On incentives and rewards
+
+{This section provides useful context and explanation regarding the nature of rewards and reward systems in open source commmunities.}
+
+- Tapping into contributors' motivations for participating in the project
+- Aligning community activities with project goals and timelines
+- Risks of incentivizing behaviors and patterns you don't wish to cultivate
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+
+== Techniques and systems
+
+{This section describes various formal and informal mechanisms for rewarding and incentivizing contributors.}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
+Duis a dapibus mauris.
+
+=== Karma and badge systems
+
+{Community leaderboards and public displays of contribution.}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+Mauris eget nulla at dolor ullamcorper lacinia.
+Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
+Duis a dapibus mauris.
+
+=== Swag and community-branded items
+
+{Branded items shipped to contributors in recognitino for their efforts}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+Mauris eget nulla at dolor ullamcorper lacinia.
+Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
+Duis a dapibus mauris.
+
+=== Sponsorships
+
+{Sponsored travel and/or attendance at community and industry events.}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+Mauris eget nulla at dolor ullamcorper lacinia.
+
+=== Community designations
+
+{Access to new community roles, rights, and access privileges.}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam tempus ornare metus nec accumsan.
 Nulla et dui arcu.
 Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
 Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
-Nunc commodo dolor quis porttitor imperdiet.
-Ut imperdiet egestas diam nec pretium.
-Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
-Nulla non leo pellentesque.
 
-== {SECTION}
+== Conclusion
+
+{This section reviews primary themes and concludes the chapter.}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Suspendisse viverra id leo et lacinia.
 Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
 Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam tempus ornare metus nec accumsan.
-Nulla et dui arcu.
-Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
-Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
-Nunc commodo dolor quis porttitor imperdiet.
-Ut imperdiet egestas diam nec pretium.
-Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
-Nulla non leo pellentesque.
-
-=== {SUBSECTION}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
-
-=== {SUBSECTION}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam tempus ornare metus nec accumsan.
-Nulla et dui arcu.
-Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
-Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
-Nunc commodo dolor quis porttitor imperdiet.
-Ut imperdiet egestas diam nec pretium.
-Vivamus non ligula viverra, egestas dolor consequat, pretium nisi.
-Nulla non leo pellentesque.
-
-== {SECTION}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
 
