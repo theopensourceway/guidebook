@@ -1,5 +1,5 @@
 = Incentivizing and rewarding participants
-Authors: Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>
+Authors: Bryan Behrenshausen <bbehrens@redhat.com>, Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>
 Updated: 2021-09-15
 
 == Introduction
@@ -21,41 +21,38 @@ Duis a dapibus mauris.
 - Aligning community activities with project goals and timelines
 - Risks of incentivizing behaviors and patterns you don't wish to cultivate
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-
 == Reward models
 
-{This section describes various formal and informal mechanisms for rewarding and incentivizing contributors.}
+Strategies for acknowledging and honoring various contributions to an open source project are called that project's "reward models."
+The more reward models your project constructs, the better it can engage participants with differing motivations for contributing.
+Each of these models aims to connect with a certain set of motivations participants may have for contributing to a project.
+Everyone contributes to projects for a reason, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions.
+Generating those feelings in contributors is a great way to build your project's reputation as a rewarding, welcoming place.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
+=== Points and badge systems
 
-=== Karma and badge systems
+Using point systems, badges, and leaderboards to chart and publicly identify contributions rewards participants by visualizing the magnitude of their contributions.
+This is a great option for connecting with people who tend to value opportunities to show off their technical prowess a bit.
 
-{Community leaderboards and public displays of contribution.}
+- GitHub already does this
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
+=== Community awards
+
+Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
+This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
+Allowing community members to reward one another allows them to continually identify and reinforce shared, communal values and identities.
+
 
 === Swag and community-branded items
 
-{Branded items shipped to contributors in recognitino for their efforts}
+Giving contributors various items signifying their affiliation with the community—shirts, hats, keychains, etc.—allows  participants to feel a sense of connection with the project.
+This is a great option for connecting with people who see community participation as central to their identities, as a fundamental part of their identity-building work.
+It allows them to "show off" their connection with the community when interacting with others and makes membership in that community part of their identities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
+=== Community spotlights
+
+Running blog posts or video series to spotlight contributors rewards participants by helping them grow their personal brands and their professional networks.
+This is a great option for connecting with people who see community participation as an opportunity to gain visibility, maybe even find future work or employment opportunities.
 
 === Sponsorships
 
