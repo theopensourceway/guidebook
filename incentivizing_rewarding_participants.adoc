@@ -1,33 +1,36 @@
-= Incentivizing and rewarding participants
-Authors: Bryan Behrenshausen <bbehrens@redhat.com>, Firstname Lastname <user@domain.tld>, Firstname Lastname <user@domain.tld>
-Updated: 2021-09-15
+= Incentivizing and Rewarding Participants
+// Authors: Bryan Behrenshausen <bbehrens@redhat.com>
+// Updated: 2021-09-15
+// Versions: 2.1
+// Status: DRAFT
 
 == Introduction
 
-{This section will introduce the chapter, preview its themes, and tie it to the previous chapter on contributor motivations.}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
-Quisque nisl eros, hendrerit et erat sit amet, feugiat venenatis sapien.
-Duis a dapibus mauris.
+The previous chapter discussed participants' motivations for joining and contributing to an open source project.
+Any number of forces may compel someone to participate in an open source project.
+Some may be extrinsic (like promise of monetary compensation for their contributions) while others may be intrinsic (like an altruistic desire to contribute to community-developed software).
+Whatever the nature of these motivations, community managers and architects need to understand them—because when they do, they can tap them to incentivize valueable forms of participation in their open source projects, and can architect their projects to encourage the forms of contribution they most wish to see.
+In this chapter, we'll discuss various models and mechanisms for encouraging, incentivizing, and rewarding the kinds of behavior most helpful to a thriving open source project and community.
 
 == On incentives and rewards
 
 {This section provides useful context and explanation regarding the nature of rewards and reward systems in open source commmunities.}
 
+- https://opensource.com/article/17/10/managing-casual-contributors[Episodic volunteering]
+
 - Tapping into contributors' motivations for participating in the project
 - Aligning community activities with project goals and timelines
 - Risks of incentivizing behaviors and patterns you don't wish to cultivate
 
-== Reward models
+== Understanding a project's reward models
 
 Strategies for acknowledging and honoring various contributions to an open source project are called that project's "reward models."
 The more reward models your project constructs, the better it can engage participants with differing motivations for contributing.
-Each of these models aims to connect with a certain set of motivations participants may have for contributing to a project.
-Everyone contributes to projects for a reason, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions.
+Everyone contributes to projects different reasons, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions—whatever form they happen to take.
 Generating those feelings in contributors is a great way to build your project's reputation as a rewarding, welcoming place.
+
+In what remains of this chapter, we'll outline some of the more popular reward models open source projects use today.
+As each of these models aims to connect with a certain set of motivations participants may have for contributing to a project, we'll elaborate situations in which a particular model might be most useful.
 
 === Points and badge systems
 
@@ -36,32 +39,22 @@ This is a great option for connecting with people who tend to value opportunitie
 
 - GitHub already does this
 
-=== Community awards
-
-Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
-This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
-Allowing community members to reward one another allows them to continually identify and reinforce shared, communal values and identities.
-
-
 === Swag and community-branded items
 
 Giving contributors various items signifying their affiliation with the community—shirts, hats, keychains, etc.—allows  participants to feel a sense of connection with the project.
 This is a great option for connecting with people who see community participation as central to their identities, as a fundamental part of their identity-building work.
 It allows them to "show off" their connection with the community when interacting with others and makes membership in that community part of their identities.
 
+=== Community awards
+
+Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
+This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
+Allowing community members to reward one another allows them to continually identify and reinforce shared, communal values and identities.
+
 === Community spotlights
 
 Running blog posts or video series to spotlight contributors rewards participants by helping them grow their personal brands and their professional networks.
 This is a great option for connecting with people who see community participation as an opportunity to gain visibility, maybe even find future work or employment opportunities.
-
-=== Sponsorships
-
-{Sponsored travel and/or attendance at community and industry events.}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
 
 === Community designations
 
@@ -72,6 +65,15 @@ Aliquam tempus ornare metus nec accumsan.
 Nulla et dui arcu.
 Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
 Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
+
+=== Sponsorships
+
+{Sponsored travel and/or attendance at community and industry events.}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Suspendisse viverra id leo et lacinia.
+Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
+Mauris eget nulla at dolor ullamcorper lacinia.
 
 == Conclusion
 
