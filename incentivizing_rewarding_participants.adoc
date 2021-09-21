@@ -32,24 +32,31 @@ Generating those feelings in contributors is a great way to build your project's
 In what remains of this chapter, we'll outline some of the more popular reward models open source projects use today.
 As each of these models aims to connect with a certain set of motivations participants may have for contributing to a project, we'll elaborate situations in which a particular model might be most useful.
 
-=== Points and badge systems
+=== Point, badge, and leaderboard systems
+
+- https://opensource.com/article/21/9/community-leaderboard[On leaderboards]
 
 Using point systems, badges, and leaderboards to chart and publicly identify contributions rewards participants by visualizing the magnitude of their contributions.
-This is a great option for connecting with people who tend to value opportunities to show off their technical prowess a bit.
+This is a great option for connecting with people who tend to value opportunities to show off their technical prowess.
 
 - GitHub already does this
 
-=== Swag and community-branded items
+=== Community-branded items
 
-Giving contributors various items signifying their affiliation with the community—shirts, hats, keychains, etc.—allows  participants to feel a sense of connection with the project.
-This is a great option for connecting with people who see community participation as central to their identities, as a fundamental part of their identity-building work.
-It allows them to "show off" their connection with the community when interacting with others and makes membership in that community part of their identities.
+You might reward contributors by gifting them various items that signify their affiliation with the community.
+For example, you might consider giving shirts, hats, stickers, or keychains featuring the project's logo to participants in order to enhance their sense of connection with the project.
+This reward model is especially useful when you want to connect with contributors who derive a strong sense of identity from participating in the project and associating with its community.
+In this way, receiving items that allow them to publicly express their affiliation with an important peer group—or signal their status _within_ that group—might motivate them to contribute to a project.
+
+This reward model often requires substantial resources, however. The work of packing and shipping branded items to members of a global community can be time-consuming.
+Moreover, production and distribution of branded materials can involve significant monetary expenses.
+And organizations offering items of any material value must abide by applicable regulations that might prohibit, for example, distributing goods considered informal forms of compensation or bribery.
 
 === Community awards
 
 Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
 This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
-Allowing community members to reward one another allows them to continually identify and reinforce shared, communal values and identities.
+Allowing community members to reward one another allows them to continually identify and reinforce communal values and identities.
 
 === Community spotlights
 
@@ -59,6 +66,8 @@ This is a great option for connecting with people who see community participatio
 === Community designations
 
 {Access to new community roles, rights, and access privileges.}
+
+- Example: https://opensource.com/open-organization/20/6/scaling-energetic-community[Open Organization community governance refresh]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aliquam tempus ornare metus nec accumsan.
