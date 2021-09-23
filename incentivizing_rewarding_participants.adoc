@@ -7,9 +7,9 @@
 == Introduction
 
 The previous chapter discussed participants' motivations for joining and contributing to an open source project.
-Any number of forces may compel someone to participate in an open source project.
-Some may be extrinsic (like promise of monetary compensation for their contributions) while others may be intrinsic (like an altruistic desire to contribute to community-developed software).
-Whatever the nature of these motivations, community managers and architects need to understand them—because when they do, they can tap them to incentivize valueable forms of participation in their open source projects, and can architect their projects to encourage the forms of contribution they most wish to see.
+Any number of motivations may compel someone to participate in an open source project.
+Some may be extrinsic (like promise of monetary compensation for their contributions); others may be intrinsic (like an altruistic desire to contribute to community-developed software).
+Whatever the nature of these motivations, community managers and architects need to understand them—because when they do, they can better design their projects and communities to be more rewarding for current and future participants—and better encourage the forms of contribution they most wish to see.
 In this chapter, we'll discuss various models and mechanisms for encouraging, incentivizing, and rewarding the kinds of behavior most helpful to a thriving open source project and community.
 
 == On incentives and rewards
@@ -17,6 +17,7 @@ In this chapter, we'll discuss various models and mechanisms for encouraging, in
 {This section provides useful context and explanation regarding the nature of rewards and reward systems in open source commmunities.}
 
 - https://opensource.com/article/17/10/managing-casual-contributors[Episodic volunteering]
+- https://opensource.com/article/21/4/motivates-open-source-contributors[New research on motivations]
 
 - Tapping into contributors' motivations for participating in the project
 - Aligning community activities with project goals and timelines
@@ -26,7 +27,7 @@ In this chapter, we'll discuss various models and mechanisms for encouraging, in
 
 Strategies for acknowledging and honoring various contributions to an open source project are called that project's "reward models."
 The more reward models your project constructs, the better it can engage participants with differing motivations for contributing.
-Everyone contributes to projects different reasons, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions—whatever form they happen to take.
+Everyone contributes to projects for different reasons, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions—whatever form they happen to take.
 Generating those feelings in contributors is a great way to build your project's reputation as a rewarding, welcoming place.
 
 In what remains of this chapter, we'll outline some of the more popular reward models open source projects use today.
@@ -34,12 +35,20 @@ As each of these models aims to connect with a certain set of motivations partic
 
 === Point, badge, and leaderboard systems
 
-- https://opensource.com/article/21/9/community-leaderboard[On leaderboards]
+Some open source communities feature point, badge, and leaderboard systems that allow participants to track and publicly display a history of contributions to a project.
+For example, a community might maintain a list of "top contributors" or contributors "most active this month" in order to generate lighthearted competition that spurs project contribution.
+To do this, it might assign point values to project activities it seeks to elicit (fix a typo in documentation, submit a patch, assist a new user in a forum, etc.), then reward people who engage in those activities with the corresponding points (which, when tallied, determine contributors' ranking on the community leaderboard).
+Alternatively, a community might create unique digital tokens or "badges" contributors receive when they've completed particular activities or accrued a certain number of points (see the https://badges.fedoraproject.org/[Fedora Project] for a popular example of reward model).
 
 Using point systems, badges, and leaderboards to chart and publicly identify contributions rewards participants by visualizing the magnitude of their contributions.
-This is a great option for connecting with people who tend to value opportunities to show off their technical prowess.
+This reward model is useful for connecting with contributors motivated by a desire to showcase their technical prowess (it lets them telegraph the depth and breadth of their contributions), even document their history with a project as a means of building a public resume.
+In short: it's one way to help contributors gain notoriety in a community.
+It's also useful for maintainers who wish to easily identify and further engage with a project's most active contributors.
 
-- GitHub already does this
+But leaderboard systems might also be _demotivating_ for participants.
+"Contributors who enjoy competition and like to engage in activities counted for the leaderboard's scoring, the desire to be on the leaderboard can inspire increased participation," https://opensource.com/article/21/9/community-leaderboard[writes community metrics expert Georg Link]. "However, contributors who participate in ways that don't get counted in the scoring would not have any chance of showing up in the leaderboard and might be discouraged by it."
+Link explains that leaderboard systems only reward the activities project maintainers choose to reward—an implicit statement about which types of contribution and more important than others.
+"Consequently," Link says, "leaderboards can worsen the issues open source faces regarding creating a welcoming and inclusive environment [as] only a specific subset of contributors can be rewarded by leaderboards, regardless of how well they are designed."
 
 === Community-branded items
 
@@ -50,7 +59,7 @@ In this way, receiving items that allow them to publicly express their affiliati
 
 This reward model often requires substantial resources, however. The work of packing and shipping branded items to members of a global community can be time-consuming.
 Moreover, production and distribution of branded materials can involve significant monetary expenses.
-And organizations offering items of any material value must abide by applicable regulations that might prohibit, for example, distributing goods considered informal forms of compensation or bribery.
+And organizations offering items of any material value must abide by applicable regulations that might prohibit, for example, distributing goods considered informal forms of compensation (even bribery).
 
 === Community awards
 
