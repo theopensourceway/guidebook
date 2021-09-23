@@ -38,22 +38,25 @@ As each of these models aims to connect with a certain set of motivations partic
 Some open source communities feature point, badge, and leaderboard systems that allow participants to track and publicly display a history of contributions to a project.
 For example, a community might maintain a list of "top contributors" or contributors "most active this month" in order to generate lighthearted competition that spurs project contribution.
 To do this, it might assign point values to project activities it seeks to elicit (fix a typo in documentation, submit a patch, assist a new user in a forum, etc.), then reward people who engage in those activities with the corresponding points (which, when tallied, determine contributors' ranking on the community leaderboard).
-Alternatively, a community might create unique digital tokens or "badges" contributors receive when they've completed particular activities or accrued a certain number of points (see the https://badges.fedoraproject.org/[Fedora Project] for a popular example of reward model).
+In fact, some code-sharing and collaboration platforms provide this kind of "leaderboard" functionality as a feature; GitHub repositories, for example, feature an ``Insights`` tab that highlights a project's most active contributors.
+Alternatively, a community might create unique digital tokens or "badges" contributors receive when they've completed particular activities or accrued a certain number of points (see the https://badges.fedoraproject.org/[Fedora Project] for a popular example of this reward model).
 
 Using point systems, badges, and leaderboards to chart and publicly identify contributions rewards participants by visualizing the magnitude of their contributions.
 This reward model is useful for connecting with contributors motivated by a desire to showcase their technical prowess (it lets them telegraph the depth and breadth of their contributions), even document their history with a project as a means of building a public resume.
-In short: it's one way to help contributors gain notoriety in a community.
+In short, it's one way to help contributors gain notoriety in a community.
 It's also useful for maintainers who wish to easily identify and further engage with a project's most active contributors.
 
 But leaderboard systems might also be _demotivating_ for participants.
 "Contributors who enjoy competition and like to engage in activities counted for the leaderboard's scoring, the desire to be on the leaderboard can inspire increased participation," https://opensource.com/article/21/9/community-leaderboard[writes community metrics expert Georg Link]. "However, contributors who participate in ways that don't get counted in the scoring would not have any chance of showing up in the leaderboard and might be discouraged by it."
-Link explains that leaderboard systems only reward the activities project maintainers choose to reward—an implicit statement about which types of contribution and more important than others.
+Link explains that leaderboard systems only reward the activities project maintainers choose to reward—an implicit statement about which types of contribution it deems more valuable than others.
+And all potential contributors have the time, talent, or resources to contribute in precisely those ways.
 "Consequently," Link says, "leaderboards can worsen the issues open source faces regarding creating a welcoming and inclusive environment [as] only a specific subset of contributors can be rewarded by leaderboards, regardless of how well they are designed."
 
 === Community-branded items
 
 You might reward contributors by gifting them various items that signify their affiliation with the community.
 For example, you might consider giving shirts, hats, stickers, or keychains featuring the project's logo to participants in order to enhance their sense of connection with the project.
+If your community features a leaderboard-style reward model (see previous section), it might tie receipt of a particular branded item to some achievement on that board ("receive a community-branded t-shirt when you've collected 100 participation points").
 This reward model is especially useful when you want to connect with contributors who derive a strong sense of identity from participating in the project and associating with its community.
 In this way, receiving items that allow them to publicly express their affiliation with an important peer group—or signal their status _within_ that group—might motivate them to contribute to a project.
 
@@ -61,18 +64,17 @@ This reward model often requires substantial resources, however. The work of pac
 Moreover, production and distribution of branded materials can involve significant monetary expenses.
 And organizations offering items of any material value must abide by applicable regulations that might prohibit, for example, distributing goods considered informal forms of compensation (even bribery).
 
-=== Community awards
+=== Community spotlights and awards
 
+Running blog posts or video series to spotlight contributors rewards participants by helping them grow their personal brands and their professional networks.
+This is a great option for connecting with people who see community participation as an opportunity to gain visibility, maybe even find future work or employment opportunities.
 Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
 This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
 Allowing community members to reward one another allows them to continually identify and reinforce communal values and identities.
 
-=== Community spotlights
+Drawbacks: can be seen as "playing favorites," etc. You may wish to formalize and publish a basic process by which your community selects members to spotlight. Note that bestowing awards on certain contributors makes those contributors representative of the values and behaviors your community most values.
 
-Running blog posts or video series to spotlight contributors rewards participants by helping them grow their personal brands and their professional networks.
-This is a great option for connecting with people who see community participation as an opportunity to gain visibility, maybe even find future work or employment opportunities.
-
-=== Community designations
+=== Community roles and designations
 
 {Access to new community roles, rights, and access privileges.}
 
