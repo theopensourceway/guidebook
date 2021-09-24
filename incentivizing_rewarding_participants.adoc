@@ -66,13 +66,21 @@ And organizations offering items of any material value must abide by applicable 
 
 === Community spotlights and awards
 
-Running blog posts or video series to spotlight contributors rewards participants by helping them grow their personal brands and their professional networks.
-This is a great option for connecting with people who see community participation as an opportunity to gain visibility, maybe even find future work or employment opportunities.
-Allowing community members to recognize and reward others among them helps communities develop shared identities and social bonds.
-This is a great option for connecting with people who see community participation as a way to form bonds with others, to feel connected to a group and to feel united by a common sense of purpose.
-Allowing community members to reward one another allows them to continually identify and reinforce communal values and identities.
+This reward model involves showcasing the people who make your communtiy great.
+Some open source communities publish occasional blog posts or run video series to spotlight contributors who have made significant impacts on the project.
+For instance, they might feature a monthly "Meet the Contributors" or "Community Spotlight" series that highlights key contributors, allowing them to tell the community more about themselves.
+Other communities might develop an annual award series, recognizing a "Contributor of the Year" or "Most Valuable Maintainer."
+The project might then feature award winners at events or in featured interviews posted online.
 
-Drawbacks: can be seen as "playing favorites," etc. You may wish to formalize and publish a basic process by which your community selects members to spotlight. Note that bestowing awards on certain contributors makes those contributors representative of the values and behaviors your community most values.
+Because this reward model involves opportunities for gaining visibility, it's useful when you know participants are motivated by a desire to enhance their personal reputations and grow their professional networks.
+The model is also particularly useful for attracting and retaining diverse contributors.
+Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in their projects and feel more confident joinging them.
+Moreover, communities that allow members themselves to nomiate, vote for, and honor their peers helps identify and reinforce communal values and strengthen social bonds.
+So implementing this reward model can also connect with contributors who see community participation as a way to form bonds with others, to feel a sense of group belonging, and to feel connected to a purpose.
+
+Note, however, that choosing to showcase certain contributors creates the impression that those contributors embody the principles and enact the behaviors your community finds most valuable—and that more contributors should aspire to emulate them.
+Additionally, communities that implement this reward model might be accused of "playing favorites" or creating an insular culture.
+So you may wish to formalize and publish a basic process by which your community selects members to spotlight or receive awards.
 
 === Community roles and designations
 
