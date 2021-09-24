@@ -80,19 +80,20 @@ So implementing this reward model can also connect with contributors who see com
 
 Note, however, that choosing to showcase certain contributors creates the impression that those contributors embody the principles and enact the behaviors your community finds most valuable—and that more contributors should aspire to emulate them.
 Additionally, communities that implement this reward model might be accused of "playing favorites" or creating an insular culture.
-So you may wish to formalize and publish a basic process by which your community selects members to spotlight or receive awards.
+To mitigate this, you may wish to formalize and publish a basic process by which your community selects members to spotlight or receive awards.
 
 === Community roles and designations
 
-{Access to new community roles, rights, and access privileges.}
+One simple way to reward contributors to your open source project is to grant them additional rights, responsibilities, and privileges in the project.
+This might include, for example, appointing them as project maintainers, nominating them for a steering committee, elevating their permissions in the project's code repository, or allowing them to take charge of the project's social media account.
+In this way, contributors who feel most connected to a project can deepen their investment in it and enhance their sense of responsibility for its success.
 
-- Example: https://opensource.com/open-organization/20/6/scaling-energetic-community[Open Organization community governance refresh]
+This newfound sense of empowerment can also spark key community evolutions.
+For instance, as members of the https://theopenorganization.org/[Open Organization community] neared https://opensource.com/open-organization/20/6/scaling-energetic-community[the project's fifth anniversary], they "began to feel ... stagnant," as "[c]ore contributors—many who had been with the project from its inception—began feeling like their efforts weren't having the impact they should have been. They were searching for new ways to grow, stretch, and move the project forward."
+The project knew it "faced a challenge of social economy" that prompted it to ask critical questions, like "What are contributors investing in the community? Why? What were they hoping to earn, or feel as a result of their precious investments (investments of time, energy, passion, and crucial knowledge work)? And was the community structured to catalyze, recognize, and reward those investments?"
+So the project created new maintainership permissions to and installed long-standing members in them, providing key contributors with more influence over the project's future.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam tempus ornare metus nec accumsan.
-Nulla et dui arcu.
-Proin hendrerit nibh velit, quis aliquet est interdum sit amet.
-Pellentesque vitae turpis tempor ex pulvinar sodales ut vitae arcu.
+Note that this reward model involves incentives with far-reaching and potentially irreversible consequences, as rights and privileges that you've granted to contributors are often difficult to rescind.
 
 === Sponsorships
 
