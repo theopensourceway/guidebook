@@ -91,18 +91,21 @@ In this way, contributors who feel most connected to a project can deepen their 
 This newfound sense of empowerment can also spark key community evolutions.
 For instance, as members of the https://theopenorganization.org/[Open Organization community] neared https://opensource.com/open-organization/20/6/scaling-energetic-community[the project's fifth anniversary], they "began to feel ... stagnant," as "[c]ore contributors—many who had been with the project from its inception—began feeling like their efforts weren't having the impact they should have been. They were searching for new ways to grow, stretch, and move the project forward."
 The project knew it "faced a challenge of social economy" that prompted it to ask critical questions, like "What are contributors investing in the community? Why? What were they hoping to earn, or feel as a result of their precious investments (investments of time, energy, passion, and crucial knowledge work)? And was the community structured to catalyze, recognize, and reward those investments?"
-So the project created new maintainership permissions to and installed long-standing members in them, providing key contributors with more influence over the project's future.
+So the project created new maintainership permissions and installed longstanding members in them, providing key contributors with more influence over the project's future.
 
-Note that this reward model involves incentives with far-reaching and potentially irreversible consequences, as rights and privileges that you've granted to contributors are often difficult to rescind.
+Note that this reward model involves incentives with far-reaching and potentially irreversible consequences, as rescinding rights and privileges that you've granted to contributors can be difficult.
 
 === Sponsorships
 
-{Sponsored travel and/or attendance at community and industry events.}
+Sponsoring contributors' travel to (even accommodations at) industry events or professional conferences is another way to reward participation in a project.
+As project members deepen their investments in a project and community, they will frequently seek opportunities to speak about the project in these contexts—and to meet, share with, and learn from contributors from other projects.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
+This reward model is therefore especially appropriate when you know that a contributor is motivated by a desire to a professional network.
+It's a way to invest in contributors' personal and professional development, recognize that their participation in the project is part of their overall plan for self-improvement, and invite them to assume a more public-facing role assisting project growth.
+
+Of all the reward models we've surveyed so far, this one likely requires the most resources.
+Simply put: it can be monetarily expensive.
+It's also a labor-intensive reward model, as it often requires complicated logistical work (purchasing, scheduling, coordinating, etc.) on behalf of project maintaners or other leaders.
 
 == Conclusion
 
