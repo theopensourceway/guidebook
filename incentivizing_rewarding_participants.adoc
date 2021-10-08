@@ -30,7 +30,7 @@ You won't always be able to convert infrequent, casual contributors into consist
 More important is understanding how participants' contributions align with or reflect their motivations for _making_ those contributions—and responding accordingly.
 As https://opensource.com/article/17/10/managing-casual-contributors[researcher Ann Barcomb writes], "People who contribute to boost their CV or to fix an irritating bug are less likely to continue once their need is satisfied."
 Alternatively, however, these periodic contributors (or what Barcomb calls "episodic contributors") often seek low-complexity, easily explainable, and quickly addressable issues—the very kinds of issues long-time contributors would love to see others solve so they can focus on other matters.
-Community managers therefore shouldn't strive to create experiences _they believe_ will motivate everyone to join and contribute to the project as much as they should work to understanding participants' _own_ motivations for contributing to projects, then architecting project experiences that activate and satisfy those motivations, leading (presumably) to greater engagement.
+Community managers therefore shouldn't strive to create experiences _they believe_ will motivate everyone to join and contribute to the project as much as they should work to understand participants' _own_ motivations for contributing to projects, then architecting project experiences that activate and satisfy those motivations, leading (presumably) to greater engagement.
 This is critical not only because it puts community members and their needs first, but also because it allows contributors with varying degrees of time, resources, knowledge, and skill to engage a project in ways that feel comfortable for them—and feel rewarded in just the same ways others might.
 
 == Understanding a project's reward models
@@ -39,7 +39,7 @@ Strategies for acknowledging and honoring various contributions to an open sourc
 The more reward models your project constructs, the better it can engage participants with differing motivations for contributing.
 As we've already noted, everyone contributes to projects for different reasons, and the most popular projects are those that make contributors feel rewarded, valued, and respected for their contributions—whatever form they happen to take.
 Generating those feelings in contributors is a great way to build your project's reputation as a rewarding, welcoming place.
-But always remember that your community's reward models will _incentivize_ the very practices they _reward_; when people understand how a community recognizes and honors its participants, they'll engage in the behaviors they seem a community rewards in this way.
+But always remember that your community's reward models will _incentivize_ the very practices they _reward_; when people understand how a community recognizes and honors its participants, they'll engage in the behaviors they observe a community celebrate in this way.
 Community managers and architects should therefore always think carefully and act deliberately when establishing and modifying a project's particular reward model.
 What they reward—either intentionally or unintentionally—is what they'll be encouraging people to do more of.
 
@@ -51,12 +51,12 @@ As each of these models aims to connect with a certain set of motivations partic
 Some open source communities feature point, badge, and leaderboard systems that allow participants to track and publicly display a history of contributions to a project.
 For example, a community might maintain a list of "top contributors" or contributors "most active this month" in order to generate lighthearted competition that spurs project contribution.
 To do this, it might assign point values to project activities it seeks to elicit (fix a typo in documentation, submit a patch, assist a new user in a forum, etc.), then reward people who engage in those activities with the corresponding points (which, when tallied, determine contributors' ranking on the community leaderboard).
-In fact, some code-sharing and collaboration platforms provide this kind of "leaderboard" functionality as a feature; GitHub repositories, for example, feature an ``Insights`` tab that highlights a project's most active contributors.
+In fact, some code-sharing and collaboration platforms provide this kind of "leaderboard" functionality as a feature; GitHub repositories, for example, feature an Insights tab that highlights a project's most active contributors.
 Alternatively, a community might create unique digital tokens or "badges" contributors receive when they've completed particular activities or accrued a certain number of points (see the https://badges.fedoraproject.org/[Fedora Project] for a popular example of this reward model).
 
-Using point systems, badges, and leaderboards to chart and publicly identify contributions rewards participants by visualizing the magnitude of their contributions.
+Point systems, badges, and leaderboards chart and publicly identify contributions, rewarding participants by visualizing the magnitude of those contributions.
 This reward model is useful for connecting with contributors motivated by a desire to showcase their technical prowess (it lets them telegraph the depth and breadth of their contributions), even document their history with a project as a means of building a public resume.
-In short, it's one way to help contributors gain notoriety in a community.
+In short, it's one way to help contributors develop their reputations in a community.
 It's also useful for maintainers who wish to easily identify and further engage with a project's most active contributors.
 
 But leaderboard systems might also be _demotivating_ for participants.
@@ -75,11 +75,10 @@ In this way, receiving items that allow them to publicly express their affiliati
 
 This reward model often requires substantial resources, however. The work of packing and shipping branded items to members of a global community can be time-consuming.
 Moreover, production and distribution of branded materials can involve significant monetary expenses.
-And organizations offering items of any material value must abide by applicable regulations that might prohibit, for example, distributing goods considered informal forms of compensation (even bribery).
 
 === Community spotlights and awards
 
-This reward model involves showcasing the people who make your communtiy great.
+Community spotlights and awards help you showcase the people who make your communtiy great.
 Some open source communities publish occasional blog posts or run video series to spotlight contributors who have made significant impacts on the project.
 For instance, they might feature a monthly "Meet the Contributors" or "Community Spotlight" series that highlights key contributors, allowing them to tell the community more about themselves.
 Other communities might develop an annual award series, recognizing a "Contributor of the Year" or "Most Valuable Maintainer."
@@ -88,8 +87,8 @@ The project might then feature award winners at events or in featured interviews
 Because this reward model involves opportunities for gaining visibility, it's useful when you know participants are motivated by a desire to enhance their personal reputations and grow their professional networks.
 The model is also particularly useful for attracting and retaining diverse contributors.
 Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in their projects and feel more confident joinging them.
-Moreover, communities that allow members themselves to nomiate, vote for, and honor their peers helps identify and reinforce communal values and strengthen social bonds.
-So implementing this reward model can also connect with contributors who see community participation as a way to form bonds with others, to feel a sense of group belonging, and to feel connected to a purpose.
+Moreover, when communities allow _members themselves_ to nomiate, vote for, and honor their peers, they reinforce communal values and strengthen social bonds.
+So implementing this reward model can also help you connect with contributors who see community participation as a way to form bonds with others, to feel a sense of group belonging, and to feel connected to a purpose.
 
 Note, however, that choosing to showcase certain contributors creates the impression that those contributors embody the principles and enact the behaviors your community finds most valuable—and that more contributors should aspire to emulate them.
 Additionally, communities that implement this reward model might be accused of "playing favorites" or creating an insular culture.
@@ -113,7 +112,7 @@ Note that this reward model involves incentives with far-reaching and potentiall
 Sponsoring contributors' travel to (even accommodations at) industry events or professional conferences is another way to reward participation in a project.
 As project members deepen their investments in a project and community, they will frequently seek opportunities to speak about the project in these contexts—and to meet, share with, and learn from contributors from other projects.
 
-This reward model is therefore especially appropriate when you know that a contributor is motivated by a desire to a professional network.
+This reward model is therefore especially appropriate when you know that a contributor is motivated by a desire to expand a professional network.
 It's a way to invest in contributors' personal and professional development, recognize that their participation in the project is part of their overall plan for self-improvement, and invite them to assume a more public-facing role assisting project growth.
 
 Of all the reward models we've surveyed so far, this one likely requires the most resources.
