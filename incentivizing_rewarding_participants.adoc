@@ -121,10 +121,9 @@ It's also a labor-intensive reward model, as it often requires complicated logis
 
 == Conclusion
 
-{This section reviews primary themes and concludes the chapter.}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Suspendisse viverra id leo et lacinia.
-Maecenas convallis lacinia diam, et lobortis quam tincidunt hendrerit.
-Mauris eget nulla at dolor ullamcorper lacinia.
+This chapter has explored the importance of community reward models, strategies for acknowledging and honoring various contributions to an open source project.
+Community managers and architects construct compelling community experiences when they help communities implement reward models that resonate with contributors' motivations for participating in a project.
+This chapter also described multiple reward models and discussed benefits of drawbacks of each.
+The more reward models a community can feature, the greater its chances of channeling enthusiastic participation from contributors with various backgrounds, motives, and talents.
+In the next section, we'll examine how to deepen contributors' engagement with a project.
 
