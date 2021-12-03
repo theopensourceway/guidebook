@@ -46,7 +46,7 @@ What they reward—either intentionally or unintentionally—is what they'll be 
 In what remains of this chapter, we'll outline some of the more popular reward models open source projects use today.
 As each of these models aims to connect with a certain set of motivations participants may have for contributing to a project, we'll elaborate situations in which a particular model might be most useful.
 
-=== Points systems and leaderboards
+=== Point systems and leaderboards
 
 Some open source communities feature point systems and leaderboards that allow participants to track and publicly display a history of contributions to a project.
 A community might assign point values to project activities it seeks to elicit (fix a typo in documentation, submit a patch, assist a new user in a forum, etc.), then reward people who engage in those activities with the corresponding points.
@@ -80,7 +80,7 @@ In this way, they encourage contributors to assist with several aspects of a pro
 Like point systems and leaderboards, then, badges are a useful reward model in cases where participants seem motivated by a desire to expand their reputations in a community.
 
 Badge systems can complicate community engagement efforts, however, when they are easy to manipulate or "game."
-As Matt Snell notes as part of https://opensource.ieee.org/community-advisory-group/community-badging/about/-/issues/26[recent work in this area], badge systems might incentivize participants to make only the minimum viable contribution necessary to receive a badge.
+As Matt Cantu Snell notes as part of https://opensource.ieee.org/community-advisory-group/community-badging/about/-/issues/26[recent work in this area], badge systems might incentivize participants to make only the minimum viable contribution necessary to receive a badge.
 Badge systems may therefore encourage contributors to act with greater self-interest—"to work towards the badge without focusing on the well-being of the community."
 Snell recommends clearly documenting badge requirements and submitting new commnity badges to a mandatory review (or "incubation") period before implementing them.
 
