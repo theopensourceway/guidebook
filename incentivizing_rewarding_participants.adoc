@@ -19,7 +19,7 @@ When contributors feel as though their work matters, they're more likely to _con
 Contributors derive the most value from participating in an open source project when the project satisfies or otherwise _rewards_ their motivations for contributing in the first place.
 For community architects, the crux of the challenge in creating rewarding contributor experiences is aligning participant motivations with various models and mechanisms for rewarding project contributions.
 
-But not everyone contributres to open source projects for the same reasons.
+But not everyone contributes to open source projects for the same reasons.
 For example, https://arxiv.org/abs/2101.10291[recent research on motivations] for contributing to open source projects suggests that altruism and kinship-seeking impact contributor motivations more significantly than they did a decade ago.
 Moreover, participants report that their motivations for _continuing_ contributions to a project aren't always the same as their motivations for _initially contributing_ to a project.
 Someone may join a project in order to contribute a patch her employer wanted to see adopted upstream, but remain in the project after identifying project participants as a peer group and developing a sense of kinship with members.
@@ -30,6 +30,7 @@ You won't always be able to convert infrequent, casual contributors into consist
 More important is understanding how participants' contributions align with or reflect their motivations for _making_ those contributions—and responding accordingly.
 As https://opensource.com/article/17/10/managing-casual-contributors[researcher Ann Barcomb writes], "People who contribute to boost their CV or to fix an irritating bug are less likely to continue once their need is satisfied."
 Alternatively, however, these periodic contributors (or what Barcomb calls "episodic contributors") often seek low-complexity, easily explainable, and quickly addressable issues—the very kinds of issues long-time contributors would love to see others solve so they can focus on other matters.
+
 Community managers therefore shouldn't strive to create experiences _they believe_ will motivate everyone to join and contribute to the project as much as they should work to understand participants' _own_ motivations for contributing to projects, then architecting project experiences that activate and satisfy those motivations, leading (presumably) to greater engagement.
 This is critical not only because it puts community members and their needs first, but also because it allows contributors with varying degrees of time, resources, knowledge, and skill to engage a project in ways that feel comfortable for them—and feel rewarded in just the same ways others might.
 
@@ -75,7 +76,7 @@ Such activities might include attending a community event, voting in a community
 Contributors can then display these badges on their project profiles as indicators of their diverse and ongoing contributions to a project.
 
 Indeed, this reward model is useful when a community seeks to incentivize a diversity of contributions.
-Unlike point systems, which might reward people for repeatedly performing the same tasks, badge systems encourage people to contribute to a project in *multiple and different ways* by rewarding them with something unique every time they attempt and accomplish something they haven't before.
+Unlike point systems, which might reward people for repeatedly performing the same tasks, badge systems encourage people to contribute to a project in multiple and different ways by rewarding them with something unique every time they attempt and accomplish something they haven't before.
 In this way, they encourage contributors to assist with several aspects of a project.
 Like point systems and leaderboards, then, badges are a useful reward model in cases where participants seem motivated by a desire to expand their reputations in a community.
 
@@ -105,7 +106,7 @@ The project might then feature award winners at events or in featured interviews
 
 Because this reward model involves opportunities for gaining visibility, it's useful when you know participants are motivated by a desire to enhance their personal reputations and grow their professional networks.
 The model is also particularly useful for attracting and retaining diverse contributors.
-Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in their projects and feel more confident joinging them.
+Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in projects and feel more confident joinging them.
 Moreover, when communities allow _members themselves_ to nominate, vote for, and honor their peers, they reinforce communal values and strengthen social bonds.
 So implementing this reward model can also help you connect with contributors who see community participation as a way to form bonds with others, to feel a sense of group belonging, and to feel connected to a purpose.
 
@@ -113,7 +114,7 @@ Note, however, that choosing to showcase certain contributors creates the impres
 Additionally, communities that implement this reward model might be accused of "playing favorites" or creating an insular culture.
 To mitigate this, you may wish to formalize and publish a basic procedure by which your community selects members to spotlight or receive awards.
 The procedure might involve, community members nominating one another to be featured by writing testimonials about their peers' impacts on a project or the way they feel those peers embody the project's guiding values.
-The procedure might also incorporate an opportunity for nominated individuals to *decline* those nominations if they'd prefer to avoid the spotlight.
+The procedure might also incorporate an opportunity for nominated individuals to decline those nominations if they'd prefer to avoid the spotlight.
 
 === Community roles and designations
 
@@ -144,7 +145,7 @@ It's a way to invest in contributors' personal and professional development, rec
 
 Of all the reward models we've surveyed so far, this one likely requires the most resources.
 Simply put: it can be monetarily expensive.
-It's also a labor-intensive reward model, as it often requires complicated logistical work (purchasing, scheduling, coordinating, etc.) on behalf of project maintaners or other leaders.
+It's also a labor-intensive reward model, as it often requires complicated logistical work (purchasing, scheduling, coordinating, etc.) on behalf of project maintainers or other leaders.
 
 == Conclusion
 
