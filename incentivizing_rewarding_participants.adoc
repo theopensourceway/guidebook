@@ -106,7 +106,7 @@ The project might then feature award winners at events or in featured interviews
 
 Because this reward model involves opportunities for gaining visibility, it's useful when you know participants are motivated by a desire to enhance their personal reputations and grow their professional networks.
 The model is also particularly useful for attracting and retaining diverse contributors.
-Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in projects and feel more confident joinging them.
+Communities spotlighting contributors from under-represented groups provide a way for new, potential contributors from those groups to "see themselves" in projects and feel more confident joining them.
 Moreover, when communities allow _members themselves_ to nominate, vote for, and honor their peers, they reinforce communal values and strengthen social bonds.
 So implementing this reward model can also help you connect with contributors who see community participation as a way to form bonds with others, to feel a sense of group belonging, and to feel connected to a purpose.
 
