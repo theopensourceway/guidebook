@@ -128,7 +128,7 @@ The project knew it "faced a challenge of social economy" that prompted it to as
 So the project created new maintainership permissions and installed longstanding members in them, providing key contributors with more influence over the project's future.
 
 This reward model is useful when you know that community members participate in a project to broaden their professional experience.
-Contributors who receive new titles as as result of their elevated status in a project can consdier listing those titles on their resumes and other professional documents.
+Contributors who receive new titles as as result of their elevated status in a project can consider listing those titles on their resumes and other professional documents.
 They can also point people to their higher-profile work in a project as a way of demonstrating their abilities.
 Employing this model is also useful when you recognize that particular community members strive to deepen the impact they're able to have on a project.
 Knowing their ongoing work can potentially lead to increased rights and responsibilities in a project can incentivize them to contribute more consistently.
