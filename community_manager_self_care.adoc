@@ -1,7 +1,7 @@
 = Community Manager Self-Care
 // Authors: Ashley Nicolson <ashley@scotlandopensource.com>
 // Updated: 2020-07-09
-// Versions: 1.99
+// Versions: 1.99, 2.0
 // Status: PUBLISHED
 
 == Disclaimer

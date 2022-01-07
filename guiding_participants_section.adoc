@@ -1,8 +1,8 @@
 = Guiding Participants
 // Author: Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-11
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 :leveloffset: +1
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe.

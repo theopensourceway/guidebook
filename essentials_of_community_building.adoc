@@ -1,8 +1,8 @@
 = Essentials of Building a Community
 // Andy Oram <andyo@praxagora.com>
 // Updated: 2020-12-16
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 
 Free and open-source projects are among the most successful ones, and can be uniquely fulfilling for participants.
 Because these projects rely on healthy communities to get things done, they must consciously carry out community building, including the following practices:

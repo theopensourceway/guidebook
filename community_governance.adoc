@@ -1,7 +1,7 @@
 = Project and Community Governance
 // Authors: Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
 // Updated: 2020-05-27
-// Versions: 1.99
+// Versions: 1.99, 2.0
 // Status: PUBLISHED
 
 == Introduction

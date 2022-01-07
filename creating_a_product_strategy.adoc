@@ -1,8 +1,8 @@
 = Creating an Open Source Product Strategy
 // Authors: Dave Neary <dneary@redhat.com>
 // Updated: 2020-12-16
-// Version: 2.0
-// Status: Draft
+// Versions: 2.0
+// Status: PUBLISHED
 
 "Should we open source this project?"
 

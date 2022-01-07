@@ -1,8 +1,8 @@
 = Community 101: Understanding, Joining, or Forming a New Community
 // Authors: Bryan Behrenshausen <bbehrens@redhat.com>, Dave Neary <dneary@redhat.com>, Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-16
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 
 == Introduction
 

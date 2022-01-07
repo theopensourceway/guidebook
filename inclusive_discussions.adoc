@@ -1,7 +1,7 @@
 = Facilitating Inclusive Community Discussions
 // Authors: Brian Proffitt <bproffit@redhat.com>
 // Updated: 2021-07-29
-// Versions: 2.10
+// Versions: 2.1
 // Status: DRAFT
 
 

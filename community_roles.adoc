@@ -1,7 +1,7 @@
 = Community Roles
 // Authors: Andy Oram <andyo@praxagora.com>, Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-12
-// Version: 2.0
+// Versions: 2.0
 // Status: DRAFT
 
 The roles one takes in an open source community are defined around the ways a role participates, collaborates, and contributes to the community and the various community outputs.

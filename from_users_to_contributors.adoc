@@ -1,8 +1,8 @@
 = From Users to Contributors
 // Authors: Dave Neary <dneary@redhat.com>
 // Updated: 2020-05-11
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 
 == Introduction
 

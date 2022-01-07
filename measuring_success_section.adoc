@@ -2,7 +2,7 @@
 // Author: Brian Proffitt <bkp@redhat.com>
 // Updated: 2020-12-10
 // Version: 2.0
-// Status: DRAFT
+// Status: PUBLISHED
 :leveloffset: +1
 
 In the days before open source, measuring the success of a software effort was often defined in strictly financial terms.

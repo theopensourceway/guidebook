@@ -1,8 +1,8 @@
 = Defining Healthy Communities
 // Authors: Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-12
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 
 == Introduction
 

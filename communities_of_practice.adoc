@@ -1,3 +1,9 @@
+= Communities of Practice
+// Authors: 
+// Updated: 
+// Versions: 2.1
+// Status: DRAFT
+
 == Introduction
 
 "The idea that an organization is a constellation of "communities of practice" is a genuine breakthrough, and that overused word "breakthrough" is merited.

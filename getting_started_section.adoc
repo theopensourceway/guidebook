@@ -1,8 +1,8 @@
 = Getting Started
 // Author: Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-04
-// Version: 2.0
-// Status: DRAFT
+// Versions: 2.0
+// Status: PUBLISHED
 :leveloffset: +1
 
 Wherever you are in your journey as an open source practitioner, it is always useful to understand and pay attention to the basics.

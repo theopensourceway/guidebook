@@ -1,7 +1,7 @@
 = What Is a Contribution?
 // Authors: Karsten Wade <kwade@redhat.com>
 // Updated: 2020-12-16
-// Version: 2.0
+// Versions: 2.0
 // Status: DRAFT
 
 There is a common misunderstanding that only code and possibly documentation are a "true" contribution to an open source project.

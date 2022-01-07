@@ -1,7 +1,7 @@
 = Communication Norms in Open Source Software Projects
 // Authors: Leslie Hawthorn <lhawthor@redhat.com>
 // Updated: 2020-10-29
-// Versions: 1.99
+// Versions: 1.99, 2.0
 // Status: PUBLISHED
 
 == Introduction

@@ -1,6 +1,8 @@
 = Driving Adoption
-Authors:
-Updated:
+// Authors: 
+// Updated: 
+// Versions: 
+// Status: DRAFT
 
 == Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

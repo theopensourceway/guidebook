@@ -1,7 +1,7 @@
 = Understanding Community Metrics
-// Authors: Ray Paik, Brian Proffitt <bproffit@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
+// Authors: Ray Paik <ray@cube.dev>, Brian Proffitt <bproffit@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
 // Updated: 2020-09-17
-// Versions: 1.99
+// Versions: 1.99, 2.0
 // Status: PUBLISHED
 
 == Introduction: What's a "healthy" open source community?
