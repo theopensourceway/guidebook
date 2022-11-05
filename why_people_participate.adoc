@@ -43,8 +43,6 @@ Career advancement goes hand in hand with pay.
 But is open source software any different from proprietary software development in this regard?
 It may be.
 Multiple researchers have found empirical evidence to support the idea there's at least a perceived advantage that supports the argument there are career advantages to developing code that's in the open and therefore available for others to look at and work with.
-
-More recently, there's been significant empirical evidence to support the argument there are perceived career advantages to developing code and contributing content that's in the open, and therefore available for others to look at and work with.
 Indeed, the idea of "GitHub-as-resume" has become a common (if sometimes inappropriately applied) theme.
 
 == Intrinsic motivation
