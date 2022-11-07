@@ -31,7 +31,7 @@ Helping them over the particular speed bump they're hitting will turn them from 
 Feedback for new contributors is only useful to the extent that it's actionable—that is, that the contributor can _do something_ as a result of what you've offered.
 
 In the case that someone is asking a question, you may need more information from them in order to answer it.
-For instance, if you're reviewing a pull request containing materials that don't not match the project's coding conventions, you'll want the contributor to make some changes to their contribution.
+For instance, if you're reviewing a pull request containing materials that don't match the project's coding conventions, you'll want the contributor to make some changes to their contribution.
 In the event that you're giving feedback or asking for something from them, it's important to look at your project with a beginner's eye.
 There's nothing more frustrating than having a question answered with something completely esoteric—"Just frobding the dollygagger!"—and scratching your head, saying "How on Earth do I do that?"
 
