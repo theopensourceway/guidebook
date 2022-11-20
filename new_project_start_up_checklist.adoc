@@ -42,7 +42,7 @@ These are separated out into several different lists, depending on the area cove
 * [ ] Rules for contribution, committer status
 * [ ] Provisions for sub-projects & lifecycle mgmt
 * [ ] Privacy policy
-* [ ] Code of conductr
+* [ ] Code of conduct
 * [ ] Foundation membership options, if planned
 
 == Project infrastructure
