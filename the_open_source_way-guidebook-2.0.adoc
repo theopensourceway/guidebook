@@ -1,5 +1,5 @@
 = THE OPEN SOURCE WAY 2.0
-Contributors <https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTORS.md>
+Contributors <https://github.com/theopensourceway/guidebook/blob/main/CONTRIBUTORS.md>
 v2.0, 2020-12-16: This release contains opinions
 :toc: left
 :leveloffset: +1
