@@ -34,3 +34,88 @@ If you've selected an **editorial** task, you can start contributing immediately
 #### Marketing tasks
 
 - [Update with instructions for performing **marketing** tasks]
+
+## Suggesting a change via a GitHub pull request
+
+You are welcome to make pull requests against this repo from your own fork.
+Here is how we recommend you manage this:
+
+### Forking and cloning the upstream repo
+
+1. Go to https://github.com/theopensourceway/guidebook and click on the '''Fork''' button, and make a fork in your own repo.
+Tip: modify the name to make it clear it is your fork and not the upstream original, e.g. `yourname-fork-reponame`
+1. Go to your personal fork at https://github.com/you/forkname, click '''Code''' > Local > SSH, and click the copy icon to the right of the URL.
+1. Open your command line session and clone your repo locally:
+   - `git clone git@github.com:[you]/[you]-tosw-guidebook.git`
+   - `cd [you]-tosw-guidebook`
+1. Add the upstream repo so your clone can sync with upstream:
+   - `git remote add upstream git@github.com:theopensourceway/guidebook.git`
+1. Check your configuration to be like this:
+```
+git remote -vv
+origin	git@github.com:[you]/[you]-tosw-guidebook.git (fetch)
+origin	git@github.com:[you]/[you]-tosw-guidebook.git (push)
+upstream	git@github.com:theopensourceway/guidebook.git (fetch)
+upstream	git@github.com:theopensourceway/guidebook.git (push)
+```
+1. Confirm that you can sync with upstream:
+```
+git fetch origin
+git rebase origin/main
+Current branch main is up to date.
+git branch
+* main
+```
+
+
+### Making changes and pushing them to GitHub as a pull request (PR)
+
+When you want to make a change, you will make the change in your clone and submit the change to the upstream as a pull request (PR).
+
+We recommend you also work in a branch within your clone.
+This is necessary if you want to work on more than one change intended for different PRs.
+Also, you can more easily discern which change you are working on by checking which branch you are in.
+
+```
+git checkout -b [branchname]  ## e.g. you-copyedits-01
+git branch
+  main
+* you-copyedits-01
+```
+
+This confirms you are working in the branch `you-copyedits-01` and are ready for 01 or more copyedit submissions.
+
+### Creating the PR
+
+When you are ready to push your changes from local to GitHub, you need to commit them and configure the push:
+
+```
+git add ./filenames
+git commit -m "Short descriptive message"  ## Or open a text editor for multi-line messages
+git push --set-upstream origin [branchname]
+```
+
+The output will look something like the below. Note the link include in the output for making a PR only makes the PR in your fork ''not'' in the upstream.
+
+To make the PR in the upstream, visit https://github.com/theopensourceway/guidebook ; you may need to reload the page for the '''Compare & pull request''' button to appear.
+
+
+```
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: 
+remote: Create a pull request for 'you-copyedits-01' on GitHub by visiting:
+remote:      https://github.com/you/you-tosw-guidebook/pull/new/you-copyedits-01
+remote: 
+To github.com:you/you-tosw-guidebook.git
+ * [new branch]      you-copyedits-01 -> you-copyedits-01
+branch 'you-copyedits-01' set up to track 'origin/you-copyedits-01'.
+```
+
+Follow the steps in the pull request dialog, adding any addition comments you want.
+You can fill out other details if you know the answers, otherwise you can complete the PR.
