@@ -128,8 +128,9 @@ Does it match your style of getting things done?
 For example, an organization like a university or a branch of the armed forces would have two very different approaches to getting things done.
 Their reasons for forming any kind of community may be wildly different, or unexpectedly aligned.
 
-A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations form wildly different worlds.
-The key is when their common interests cross (the practice) and when there is tolerance for sharing and growing together (community).
+A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations from wildly different worlds.
+Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds.
+In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively (community).
 
 Some other considerations around forming an open source community:
 
