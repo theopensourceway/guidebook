@@ -12,7 +12,7 @@ That's because any picture of project health is actually a mosaic; multiple fact
 You'll never find just one indicator you can point to and say, "See? The community is healthy."
 
 What's more, the factors that determine overall project and community health are always changing.
-In the past, for example, some may have pointed to "total number of download" as a health metric.
+In the past, for example, some may have pointed to "total number of downloads" as a health metric.
 But today we understand that even millions of downloads does not reflect the fact that a communuity's production and quality assurance processes might be out of sync—or that _trolls_ are misbehaving on the project's mailing lists.
 A more complete picture would consider not only _results_ or _outcomes_ (like downloads, release cadence, etc.), but also _processes_ (onboarding barriers, how easily a project can discover and promote maintainers, etc.).
 
