@@ -8,7 +8,7 @@ The Open Source Way 2.0 refreshes [pre-existing materials](https://www.theopenso
 
 This project uses AsciiDoc and a git-based workflow. We track editorial, technical, governance, and marketing discussions on [their respective project boards](https://github.com/theopensourceway/guidebook/projects).
 
-Each chapter is an .adoc file that is associated with an issue. These issues are tracked on the [editorial board](https://github.com/theopensourceway/guidebook/projects/1). The chapter contains its own outline, content, and lexicon.
+Each chapter is an .adoc file that is associated with an issue. The chapter contains its own outline, content, and lexicon.
 
 Each section is an .adoc file that contains the outline of chapters for that section. Each section has one or more chapters in it. There is not an issue associated with a section, unless a new section is being created.
 
