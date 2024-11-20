@@ -1,9 +1,10 @@
-= Measuring Success
-// Author: Brian Proffitt <bkp@redhat.com>
-// Updated: 2020-12-10
-// Version: 2.0
-// Status: PUBLISHED
-:leveloffset: +1
+---
+description: Description of the section
+author: Brian Proffitt <bkp@redhat.com>
+updated: 2020-12-10
+---
+
+# Measuring success
 
 In the days before open source, measuring the success of a software effort was often defined in strictly financial terms.
 How many boxes—yes, boxes—of software did a company sell? That revenue was offset by the cost of support, authoring, and distribution (again, boxes), and voila! The profit was the measure of success.
@@ -42,11 +43,3 @@ This section is useful for you if:
 * You are seeking data that can demonstrate successes and failures.
 * You need more contributors in your project.
 * You have read this far, why stop now?
-
-include::defining_healthy_communities.adoc[]
-
-include::developing_a_metrics_plan.adoc[]
-
-include::announcing_software_releases.adoc[]
-
-:leveloffset: -1
