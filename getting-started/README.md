@@ -1,9 +1,10 @@
-= Getting Started
-// Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-04
-// Versions: 2.0
-// Status: PUBLISHED
-:leveloffset: +1
+---
+description: 
+author: Karsten Wade <kwade@redhat.com>
+updated: 2020-12-04
+---
+
+# Getting started
 
 Wherever you are in your journey as an open source practitioner, it is always useful to understand and pay attention to the basics.
 These basics include some of the types of _common knowledge_ that "everyone knows in the community", yet no one is sure how they learned it, and it's not always written down.
@@ -22,13 +23,3 @@ This section is useful for you if:
 * You want to see what steps to take for growing strong community.
 * You are looking for the definition or more meaning about a term or word you encounter in this guidebook or in the open source world in general.
 * You like to read things from the beginning.
-
-include::community_101.adoc[]
-
-include::new_project_start_up_checklist.adoc[]
-
-include::creating_a_product_strategy.adoc[]
-
-//include::terminology_and_lexicon.adoc[]
-
-:leveloffset: -1

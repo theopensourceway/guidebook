@@ -1,9 +1,10 @@
-= Guiding Participants
-// Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-11
-// Versions: 2.0
-// Status: PUBLISHED
-:leveloffset: +1
+---
+description: 
+author: Karsten Wade <kwade@redhat.com>
+updated: 2020-12-11
+---
+
+# Guiding participants
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe.
 The line separating "I'm just a user! Don't talk to me about anything more" and "How can I help contribute to this project?" seem clear enough.
@@ -33,9 +34,3 @@ This section is useful for you if:
 * You wish to build bridges to enable participants to become contributors.
 * You want to explore the benefit of user feedback in open source software. 
 * You have reached the middle of this guidebook by starting at the beginning, and are working your way toward the end.
-
-include::why_people_participate.adoc[]
-
-//include::how_participants_help_the_projects_they_love_so_much.adoc[]
-
-:leveloffset: -1

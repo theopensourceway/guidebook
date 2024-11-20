@@ -1,9 +1,10 @@
-= Growing Contributors
-// Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-11
-// Versions: 2.0
-// Status: DRAFT
-:leveloffset: +1
+---
+description: 
+author: Karsten Wade <kwade@redhat.com>
+updated: 2020-12-11
+---
+
+# Growing contributors
 
 This is the longest and most thorough section of the guidebook because the challenges of creating a community around an open source software project are complex, interesting, difficult, sticky, and rewarding.
 
@@ -33,21 +34,3 @@ This section is useful for you if:
 * You are troubleshooting issues around your contributors or work they are doing.
 * You need some reference materials to explain to the methods and philosophy of guiding a contributor community.
 * You've been waiting all guidebook to get to this section, not wanting to skip ahead, but savoring each page.
-
-include::from_users_to_contributors.adoc[]
-
-include::what_is_a_contribution.adoc[]
-
-include::essentials_of_community_building.adoc[]
-
-include::onboarding.adoc[]
-
-include::creating_a_culture_of_mentorship.adoc[]
-
-include::community_governance.adoc[]
-
-include::community_roles.adoc[]
-
-include::community_manager_self_care.adoc[]
-
-:leveloffset: -1

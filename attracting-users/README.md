@@ -1,9 +1,10 @@
-= Attracting Users
-// Author: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-09
-// Versions: 2.0
-// Status: DRAFT
-:leveloffset: +1
+---
+description: 
+author: Karsten Wade <kwade@redhat.com>
+updated: 2020-12-09
+---
+
+# Attracting users
 
 This section gives important, highly useful, and timely advice on some of the most important parts of what makes an open source software project successful.
 We put them in this section with the goal of helping to attract users, rather than saving, for example, communication or diversity considerations as later steps in the engagement toward contributor.
@@ -45,13 +46,3 @@ This section is useful for you if:
 * You are convinced you need a more diverse and inclusive community, and are looking for help in making that happen, such as convincing others or starting up programs.
 * You are not sure about this "diversity" thing and why it matters for open source software.
 * You read the chapter before this one and you like to read a book from start to finish.
-
-include::communication_norms.adoc[]
-
-//include::basics_of_a_project.adoc[]
-
-//include::driving_adoption.adoc[]
-
-include::creating_diverse_inclusive_communities.adoc[]
-
-:leveloffset: -1

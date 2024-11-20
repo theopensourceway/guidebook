@@ -1,5 +1,5 @@
 ---
-description: Description of the section
+description: 
 author: Brian Proffitt <bkp@redhat.com>
 updated: 2020-12-10
 ---
