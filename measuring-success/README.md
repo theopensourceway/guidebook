@@ -4,7 +4,7 @@ author: Brian Proffitt <bkp@redhat.com>
 updated: 2020-12-10
 ---
 
-# Measuring success
+# Measuring Success
 
 In the days before open source, measuring the success of a software effort was often defined in strictly financial terms.
 How many boxes—yes, boxes—of software did a company sell? That revenue was offset by the cost of support, authoring, and distribution (again, boxes), and voila! The profit was the measure of success.

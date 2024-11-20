@@ -4,7 +4,7 @@ author: Karsten Wade <kwade@redhat.com>
 updated: 2020-12-11
 ---
 
-# Growing contributors
+# Growing Contributors
 
 This is the longest and most thorough section of the guidebook because the challenges of creating a community around an open source software project are complex, interesting, difficult, sticky, and rewarding.
 

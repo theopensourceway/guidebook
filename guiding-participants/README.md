@@ -4,7 +4,7 @@ author: Karsten Wade <kwade@redhat.com>
 updated: 2020-12-11
 ---
 
-# Guiding participants
+# Guiding Participants
 
 "Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe.
 The line separating "I'm just a user! Don't talk to me about anything more" and "How can I help contribute to this project?" seem clear enough.

@@ -4,7 +4,7 @@ author: Karsten Wade <kwade@redhat.com>
 updated: 2020-12-09
 ---
 
-# Attracting users
+# Attracting Users
 
 This section gives important, highly useful, and timely advice on some of the most important parts of what makes an open source software project successful.
 We put them in this section with the goal of helping to attract users, rather than saving, for example, communication or diversity considerations as later steps in the engagement toward contributor.
