@@ -2,6 +2,7 @@
 
 * [The Open Source Way](README.md)
 * [Getting Started](getting-started/README.md)
+  * [Community 101](getting-started/community-101.md)
 * [Attracting Users](attracting-users/README.md)
 * [Guiding Participants](guiding-participants/README.md)
 * [Growing Contributors](growing-contributors/README.md)
