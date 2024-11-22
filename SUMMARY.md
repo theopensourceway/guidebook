@@ -1,6 +1,7 @@
 # Table of contents
 
 * [The Open Source Way](README.md)
+* [Introduction: Presenting The Open Source Way](presenting-the-open-source-way.md)
 * [Getting Started](getting-started/README.md)
   * [Community 101](getting-started/community-101.md)
   * [New Project Checklist](getting-started/new-project-checklist.md)
