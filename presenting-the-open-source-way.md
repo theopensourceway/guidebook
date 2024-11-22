@@ -6,7 +6,7 @@ updated: 2020-11-03
 
 # Presenting The Open Source Way
 
-An English idiom says, "There is a method to my madness."[^hamlet]
+An English idiom says, "There is a method to my madness." [^hamlet]
 Most of the time, the things we do make absolutely no sense to outside observers.
 Out of context, they look like sheer madness.
 But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive.
@@ -104,4 +104,4 @@ In the end, it's just one way to pull this material together (one method, you mi
 
 But at the core—in addition to the *what* and the *how* that benefit your open source community—you will also learn to understand the *why*, and be able to spread those stories wherever you go.
 
-[^hamlet]: From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in 't"
+[^hamlet]: From "Hamlet" by William Shakespeare, Act 2 Scene 2: Polonius (aside) "Though this be madness, yet there is method in 't."
