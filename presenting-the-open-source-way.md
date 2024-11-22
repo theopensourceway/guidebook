@@ -5,7 +5,7 @@ updated: 2020-11-03T00:00:00.000Z
 
 # Introduction: Presenting The Open Source Way
 
-An English idiom says, "[There is a method to my madness](#user-content-fn-1)[^1]." Most of the time, the things we do make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive. A method.
+An English idiom says, "There is a method to my madness [^1]." Most of the time, the things we do make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive. A method.
 
 A method is a _way of doing something_, a particular manner or style of practice. The practice of open source community management can seem like its own form of incomprehensible madness, especially to someone who is unfamiliar with how open source software gets made, or those who find themselves staring down the prospect of having to coordinate others to join in making it. What this guide hopes to provide is some insight into an ever-evolving methodology, a form of practice. At its core is a simple question: What are your preferences for practicing the open source way?
 
