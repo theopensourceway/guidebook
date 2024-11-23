@@ -1,4 +1,5 @@
 ---
+description: 
 author: Dave Neary <dneary@redhat.com>
 updated: 2020-12-16T00:00:00.000Z
 ---
@@ -11,7 +12,7 @@ This chapter won't answer that question for you. But it _will_ outline some cons
 
 First, ask yourself why you are considering an open source approach. Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you or your organization achieve certain goals. Identifying those benefits is the first step in creating an open source strategy.
 
-### Understand the economics of open source
+## Understand the economics of open source
 
 Open source is not a business model. It is a way to develop software collaboratively and increase a project's distribution and reach by lowering acquisition costs. To understand the business rationale that makes an open source strategy appealing, consider these economic principles:
 
@@ -26,7 +27,7 @@ Every successful commercial open source strategy is based on this principle. If 
 
 When establishing an open source strategy, your goal is to connect these principles with a concrete business goal.
 
-### Define your team and the field
+## Define your team and the field
 
 Creating a strategy requires input and buy-in from multiple stakeholders.
 
@@ -34,7 +35,7 @@ Creating a strategy requires input and buy-in from multiple stakeholders.
 * Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
 * Ensure that all stakeholders share an understanding of the problem your work is addressing. Develop your understanding of both the landscape in which the project operates and the relative benefit of investing in one option over others.
 
-### Generate a draft strategy proposal
+## Generate a draft strategy proposal
 
 Next, compose a strategy proposal document. It should contain:
 
