@@ -1,8 +1,10 @@
-= What Is a Contribution?
-// Authors: Karsten Wade <kwade@redhat.com>
-// Updated: 2020-12-16
-// Versions: 2.0
-// Status: DRAFT
+---
+description:
+author: Karsten Wade <kwade@redhat.com>
+updated: 2020-12-16
+---
+
+# What Is a Contribution?
 
 There is a common misunderstanding that only code and possibly documentation are a "true" contribution to an open source project.
 This terrible idea has a name that deserves to stay a part of history, "code is king."
@@ -11,15 +13,11 @@ Let's have no more of that.
 In truth, there are exponentially more ways to contribute than just those two ways.
 And exponentially more value for the project and the diverse group of contributors making those contributions.
 
-An open source Contribution::
-Any original, intentional, and substantive object given freely to an open source community, under the licensing of that community.
-A contribution can come from an individual or a community.
+**An open source contribution**  
+Any original, intentional, and substantive object given freely to an open source community, under the licensing of that community. A contribution can come from an individual or a community.
 
-An open source Contributor::
-Any individual person involved in making Contributions to the community.
-Communities are interpersonal by their nature.
-They consist of humans, not organizations.
-Organizations can send their members, staff, leaders, and so forth out to make contributions to a community as a contributor
+**An open source contributor**  
+Any individual person involved in making Contributions to the community. Communities are interpersonal by their nature. They consist of humans, not organizations. Organizations can send their members, staff, leaders, and so forth out to make contributions to a community as a contributor.
 
 Examples of specific contributions (objects):
 
@@ -30,8 +28,7 @@ Examples of specific contributions (objects):
 * A piece of content, such as a document, release announcement, interview, how-to article, operations page, and so forth.
 * Code, a type of content that instructs machines to do things, regardless of the type of code.
 * Physical materials, such as servers or contributor gifts.
-* Monetary, where possible and welcome.
-(This is not always an easy or even possible way to contribute to many open source projects.)
+* Monetary, where possible and welcome. (This is not always an easy or even possible way to contribute to many open source projects.)
 * Being a moderator on a forum.
 * Helping at an event
 * Being the manager for a release.
