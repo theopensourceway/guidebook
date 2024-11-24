@@ -312,8 +312,6 @@ Self care is often focused on the responsibility of the individual. Of course, a
 
 As part of community-care, this may provide strategies for managing self-care. Engaging people with appreciation, joy, and acceptance is an antidote to feelings of not being enough, low motivation, and feeling apart—even all the way to feelings of guilt and shame.
 
-[^1]: Paradox of Tolerance:
-
-    [https://en.wikipedia.org/wiki/Paradox\_of\_tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
+[^1]: Paradox of Tolerance: [https://en.wikipedia.org/wiki/Paradox\_of\_tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
 
 [^2]: Open Source Projects and Poisonous People: [https://www.youtube.com/watch?v=-F-3E8pyjFo](https://www.youtube.com/watch?v=-F-3E8pyjFo)
