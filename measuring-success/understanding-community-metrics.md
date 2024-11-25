@@ -1,6 +1,6 @@
 ---
 description:
-author: Ray Paik <ray@cube.dev>, Brian Proffitt <bproffit@redhat.com>, Bryan Behrenshausen <bbehrens@redhat.com>
+author: Ray Paik <ray@cube.dev>, Brian Proffitt <bproffit@redhat.com>, Bryan Behrenshausen <bryan.behrenshausen@sas.com>
 updated: 2020-09-17
 ---
 

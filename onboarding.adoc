@@ -1,5 +1,5 @@
 = Onboarding
-// Authors: Ray Paik <ray@cube.dev>, Bryan Behrenshausen <bbehrens@redhat.com>, Brian Proffitt <bproffit@redhat.com>
+// Authors: Ray Paik <ray@cube.dev>, Bryan Behrenshausen <bryan.behrenshausen@sas.com>, Brian Proffitt <bproffit@redhat.com>
 // Updated: 2021-01-21
 // Versions: 2.0
 // Status: DRAFT

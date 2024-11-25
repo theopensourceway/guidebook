@@ -1,5 +1,5 @@
 = Incentivizing and Rewarding Participants
-// Authors: Bryan Behrenshausen <bbehrens@redhat.com>
+// Authors: Bryan Behrenshausen <bryan.behrenshausen@sas.com>
 // Updated: 2021-09-15
 // Versions: 2.1
 // Status: DRAFT

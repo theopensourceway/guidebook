@@ -1,6 +1,6 @@
 ---
 description:
-author: Bryan Behrenshausen <bbehrens@redhat.com>, Dave Neary <dneary@redhat.com>, Karsten Wade <kwade@redhat.com>
+author: Bryan Behrenshausen <bryan.behrenshausen@sas.com>, Dave Neary <dneary@redhat.com>, Karsten Wade <kwade@redhat.com>
 updated: 2020-12-16T00:00:00.000Z
 ---
 

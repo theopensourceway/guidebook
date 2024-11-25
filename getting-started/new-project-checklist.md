@@ -2,7 +2,7 @@
 description: 
 author: >-
   Lisa Caywood <lcaywood@redhat.com>, Josh Berkus <jberkus@redhat.com, Bryan
-  Behrenshausen <bbehrens@redhat.com>, Karsten Wade <kwade@redhat.com>
+  Behrenshausen <bryan.behrenshausen@sas.com>, Karsten Wade <kwade@redhat.com>
 updated: 2020-11-17T00:00:00.000Z
 ---
 
