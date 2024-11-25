@@ -12,6 +12,7 @@
 * [Growing Contributors](growing-contributors/README.md)
   * [From Users to Contributors](growing-contributors/from-users-to-contributors.md)
   * [What Is a Contribution?](growing-contributors/what-is-a-contribution.md)
+  * [Essentials of Building a Community](growing-contributors/essentials-of-building-a-community.md)
 * [Measuring Success](measuring-success/README.md)
   * [Defining Healthy Communities](measuring-success/defining-healthy-communities.md)
   * [Understanding Community Metrics](measuring-success/understanding-community-metrics.md)
