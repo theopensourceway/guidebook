@@ -16,4 +16,4 @@
   * [Defining Healthy Communities](measuring-success/defining-healthy-communities.md)
   * [Understanding Community Metrics](measuring-success/understanding-community-metrics.md)
   * [Announcing software releases](measuring-success/announcing-software-releases.md)
-  
+* [License](LICENSE.md)
