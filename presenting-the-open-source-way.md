@@ -4,7 +4,6 @@ updated: 2020-11-03T00:00:00.000Z
 ---
 
 # Introduction: Presenting The Open Source Way
-
 An English idiom says, "[There is a method to my madness](#user-content-fn-1)[^1]." Most of the time, the things we do make absolutely no sense to outside observers. Out of context, they look like sheer madness. But for those inside that messiness—inside that whirlwind of activity—there's a certain regularity, a certain predictability, and a certain motive. A method.
 
 A method is a _way of doing something_, a particular manner or style of practice. The practice of open source community management can seem like its own form of incomprehensible madness, especially to someone who is unfamiliar with how open source software gets made, or those who find themselves staring down the prospect of having to coordinate others to join in making it. What this guide hopes to provide is some insight into an ever-evolving methodology, a form of practice. At its core is a simple question: What are your preferences for practicing the open source way?
@@ -21,7 +20,6 @@ In particular, this guide is a living document that endeavors to gather and spre
 These voices are all part of [this community of practice around open source software community management](https://theopensourceway.org).
 
 ## The shape of things (i.e., assumptions we are making)
-
 When you look at this guide's table of contents, notice the organizational flow: from user to participant to contributor. This arrangement specifically tracks our view of how a community comes about and grows. And it all starts with a need. If you've worked in open source projects and communities, you've likely seen the cycle many times. It goes something like this:
 
 1. A person or group addressing a problem creates the first iteration of software that offers one solution to that problem.
@@ -36,7 +34,6 @@ A key element of all this is recognizing the value in contributions of all types
 When you lower barriers to participation, you make your project welcoming at all levels. This doesn't mean you _remove all barriers_—just lower most of them appropriately. Appropriate barriers are necessary for someone receiving keys to systems, for example, and these barriers are different from those allowing only certain participants to contribute a help article or a patch to the configuration management system.
 
 ## Our core opinion
-
 There is an opinion at the core of this work, which explains how the content is laid out, how the steps on the path are revealed so that you can find yourself wherever you are in your journey of open source practice.
 
 > Focus on your end users and lower the barriers to participation all around.
@@ -62,7 +59,6 @@ In this journey, there are many best practices we recommend, including how to pu
 Our best way of more-deeply conveying all this information is with stories. Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in [The Open Source Way community](https://theopensourceway.org) to gather all these stories of why.
 
 ## Structure of this guide
-
 Each section of this guide consists of one or more chapters.
 
 A chapter represents discussion of a discrete topic or closely-related set of topics.
@@ -80,7 +76,6 @@ The vision for the 2.x series of this guidebook is for each chapter to consist o
 Finally, we're collecting stories from practitioners of the open source way, stories we know tend to illustrate more than one principle in action. The idea is to start with a base story or set of stories in a chapter, and supplement or substitute other stories that are contributed to the project, such as through the interview effort. Stories not interspersed into chapters will be collected at the end of the guide (for your endless uses).
 
 ## A community of practice always rebuilding itself
-
 What you are reading here is just one facet of the growing body of principles, implementations, and examples that this community is gathering, cultivating, and maintaining.
 
 In the end, it's just one way to pull this material together (one method, you might say, of organizing the madness). We'll be updating this guide. We'll be issuing similar, new guides. And we'll experiment with other ways to understand and present this material.
