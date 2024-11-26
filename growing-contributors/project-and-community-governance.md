@@ -1,7 +1,8 @@
 ---
-description:
-author: Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan Behrenshausen <bryan.behrenshausen@sas.com>
-updated: 2020-05-27
+author: >-
+  Dave Neary <dneary@redhat.com>, Josh Berkus <jberkus@redhat.com>, Bryan
+  Behrenshausen <bryan.behrenshausen@sas.com>
+updated: 2020-05-27T00:00:00.000Z
 ---
 
 # Project and Community Governance
@@ -10,19 +11,19 @@ In this chapter, we'll discuss assessing and evolving an open source project or 
 
 All organizations operate in and with governance structures. The term "governance" carries multiple meanings in an organizational context. It can refer to regulatory matters or risk management issues, for example. More generally, though, it can also refer to a system of rules, roles, and procedures that determine how power in an organization gets distributed.
 
-Because open source projects are organizations, every one features governance structures. Some of these structures are more *explicit* than others. Some are more *formal* than others. But every project has them.
+Because open source projects are organizations, every one features governance structures. Some of these structures are more _explicit_ than others. Some are more _formal_ than others. But every project has them.
 
-Unfortunately, too many discussions of open source project governance focus on activities or resources, like "speaking for the project" or "ownership of the web domain." While documenting these functions is useful, we should remember that these are *aspects* of a project's governance, but they are not the full extent of it. At its heart, open source project and community governance is about *people*—their rights and responsibilities as part of a project and the expectations others have for them.
+Unfortunately, too many discussions of open source project governance focus on activities or resources, like "speaking for the project" or "ownership of the web domain." While documenting these functions is useful, we should remember that these are _aspects_ of a project's governance, but they are not the full extent of it. At its heart, open source project and community governance is about _people_—their rights and responsibilities as part of a project and the expectations others have for them.
 
 ## What is governance?
 
 Simply put, "governance" refers to, "The rules or customs that determine who gets to do what (or is supposed to do what), how they're supposed to do it, and when."
 
-Two categories of governance-related issues are most pertinent to open source projects: those related to *roles* and those related to *policies and procedures*. For the purpose of explanation, we'll discuss each of these issues separately. In practice, however, they're inseparable—two sides of the same coin, as our forthcoming example will demonstrate.
+Two categories of governance-related issues are most pertinent to open source projects: those related to _roles_ and those related to _policies and procedures_. For the purpose of explanation, we'll discuss each of these issues separately. In practice, however, they're inseparable—two sides of the same coin, as our forthcoming example will demonstrate.
 
 ### Roles
 
-A great deal of activity hinges on roles-related governance in open source projects. Think of a *role* as a function someone in the project performs.
+A great deal of activity hinges on roles-related governance in open source projects. Think of a _role_ as a function someone in the project performs.
 
 When analyzing your own project's roles-related governance systems, ask the following questions:
 
@@ -33,41 +34,37 @@ When analyzing your own project's roles-related governance systems, ask the foll
 
 ### Policies and procedures
 
-While contributors occupy certain roles in an open source project, the project's governance structure also determines how those people do what they do as part of the project. *Policies and procedures* refer to the processes and guidelines contributors follow when performing their roles.
+While contributors occupy certain roles in an open source project, the project's governance structure also determines how those people do what they do as part of the project. _Policies and procedures_ refer to the processes and guidelines contributors follow when performing their roles.
 
 When analyzing your project's procedure- or policy-related governance systems, ask the following questions:
 
 * How do various contributions get accepted into the project?
-
 * How do contributors come to occupy and eventually depart from certain roles in the project?
-
 * How can role descriptions and responsibilities be changed?
-
 * How do project decisions get made (and by whom)?
-
 * How are debates and conflicts resolved (and by whom)?
 
 ### Roles, policies, procedures: An example
 
 Remember: A project's roles and its policies and procedures aren't discrete; they're interwoven as part of the project's overall governance model. For example, consider a project role called "Documentation Maintainer." A project might outline that role this way:
 
-1.  Role Title: Documentation Maintainer
-2.  Qualifications: several years of consistent contributions to documentation
-3.  Access to Role: other Documentation Maintainers can nominate and vote to grant this role to eligible contributors
-4.  Duties: write documentation and review documentation from other contributors
-5.  Privileges: speak for the documentation team, participate in development meetings
-6.  Authority: ultimate decision on documentation content, technology, and strategy
-7.  Change Procedure: other Documentation Maintainers vote on changes to role description
+1. Role Title: Documentation Maintainer
+2. Qualifications: several years of consistent contributions to documentation
+3. Access to Role: other Documentation Maintainers can nominate and vote to grant this role to eligible contributors
+4. Duties: write documentation and review documentation from other contributors
+5. Privileges: speak for the documentation team, participate in development meetings
+6. Authority: ultimate decision on documentation content, technology, and strategy
+7. Change Procedure: other Documentation Maintainers vote on changes to role description
 
-In many cases, a project's actual role descriptions are more elaborate than that (some projects' role handbooks are dozens of pages long). As projects mature, the number of different roles people play in them can increase. Moreover, larger and more mature projects associate roles with *collectives*—that is, a group of contributors can perform a certain role jointly. For instance, a project might feature several "steering committees," each with its own set of election procedures. This is true for the [Kubernetes project](https://kubernetes.io/), where "special interest groups" are a popular unit of governance. In that project, the role of Code Contributor is subdivided further by interest group (team) and by contributor level (Member, Reviewer, Approver, and Owner). So a contributor's *actual* role would be something like "SIG‒Network Approver," not just "Code Contributor."
+In many cases, a project's actual role descriptions are more elaborate than that (some projects' role handbooks are dozens of pages long). As projects mature, the number of different roles people play in them can increase. Moreover, larger and more mature projects associate roles with _collectives_—that is, a group of contributors can perform a certain role jointly. For instance, a project might feature several "steering committees," each with its own set of election procedures. This is true for the [Kubernetes project](https://kubernetes.io/), where "special interest groups" are a popular unit of governance. In that project, the role of Code Contributor is subdivided further by interest group (team) and by contributor level (Member, Reviewer, Approver, and Owner). So a contributor's _actual_ role would be something like "SIG‒Network Approver," not just "Code Contributor."
 
 ## Why governance?
 
 In some open source communities, the idea of "governance" has a poor reputation. This is true in cases where project contributors tend to construe governance as a purely negative force—a set of rules or procedures aimed solely at telling people what they can't do, how they shouldn't act, or how they should limit themselves to acting only within certain boundaries.
 
-But a well-crafted governance model can in fact be a largely positive force in open source communities. A project's governance model outlines that project's *terms of engagement*—the specific, tried-and-tested structures for working together and making decisions that project contributors have found works best for the community. A clear governance model encourages new contributors to become involved in your project.
+But a well-crafted governance model can in fact be a largely positive force in open source communities. A project's governance model outlines that project's _terms of engagement_—the specific, tried-and-tested structures for working together and making decisions that project contributors have found works best for the community. A clear governance model encourages new contributors to become involved in your project.
 
-A well-designed system of governance is much less likely to turn away or de-motivate project participants than a vague or non-existent one is. Consider your project from the perspective of new contributors. Are new contributors *more* or *less* likely to jump into a project without any sense of the role they're supposed to play and the rules they're supposed to follow when they want others to seriously consider your contributions? A clear governance model helps people understand precisely how they can make an immediate contribution to a project, how they can pitch in without upsetting the project's rhythms, how they can escalate questions or issues if they have them, and what sorts of leadership positions they can aspire to if they stick around long enough. So a community's goal in architecting a governance model should be, "Make structures of participation obvious." When your project's rules are clear, contributors can engage with confidence. Taking this approach to governance can positively impact a project's long-term viability and growth.
+A well-designed system of governance is much less likely to turn away or de-motivate project participants than a vague or non-existent one is. Consider your project from the perspective of new contributors. Are new contributors _more_ or _less_ likely to jump into a project without any sense of the role they're supposed to play and the rules they're supposed to follow when they want others to seriously consider your contributions? A clear governance model helps people understand precisely how they can make an immediate contribution to a project, how they can pitch in without upsetting the project's rhythms, how they can escalate questions or issues if they have them, and what sorts of leadership positions they can aspire to if they stick around long enough. So a community's goal in architecting a governance model should be, "Make structures of participation obvious." When your project's rules are clear, contributors can engage with confidence. Taking this approach to governance can positively impact a project's long-term viability and growth.
 
 ## Making governance explicit
 
@@ -75,7 +72,7 @@ Recall that every open source project features different roles contributors can 
 
 In a 2018 study, [researcher Javier Canovas found](https://opensource.com/open-organization/18/4/new-governance-model-research) that 19 of the 25 most-starred projects on GitHub hadn't published documents outlining their governance models. Canovas considered this unfortunate for several reasons.
 
-"First, [explicit governance] helps promote an organization's sense of transparency," he writes. "One could know how much time a group takes to consider an issue, the chances contributions have of making an impact on the organization, or who is going to hear their voices when they speak up. Second, explicitly defining a governance model may also help one better understand and classify how open organizations are driven."
+"First, \[explicit governance] helps promote an organization's sense of transparency," he writes. "One could know how much time a group takes to consider an issue, the chances contributions have of making an impact on the organization, or who is going to hear their voices when they speak up. Second, explicitly defining a governance model may also help one better understand and classify how open organizations are driven."
 
 Here's an example of how this works: in 2018, the Kubernetes project added a set of detailed, comprehensive Role Handbooks for their Release Team. These handbooks outlined information related to the Release Team role, including qualifications necessary for joining the team, duties members of the team perform, and details on the team's decision-making processes. As a result, the Release Team became the most popular point of entry for project contributions; new participants knew exactly what to expect. Other teams within Kubernetes followed suit—and experienced a doubling or even tripling of the number of new contributors.
 
@@ -111,7 +108,7 @@ Some open source projects that begin life as the work of a professional software
 
 Initial efforts to increase community engagement in the projects tends to focus on growing adoption and engaging with early users. Pre-existing developer teams typically continue project planning, however, in a centralized manner. For this reason, external contributors may find engaging with the project more difficult—and the project may not gain sufficient traction as a result. The rapid pace of project changes, the opacity of the planning process, and the strength of pre-existing relationships between the project's developers can make feature development more difficult for external contributors. Early patch submissions may stay unreviewed for longer periods of time, and these submissions will be relatively infrequent.
 
-This is as far as many corporate-originated projects will evolve. While the core team may engage actively with the project's user base, resources required to *grow* that developer base are considerable, and many organizations choose not to make the investment.
+This is as far as many corporate-originated projects will evolve. While the core team may engage actively with the project's user base, resources required to _grow_ that developer base are considerable, and many organizations choose not to make the investment.
 
 However, one oft-cited benefit of the open source model is an ability to collaborate with industry partners and competitors and share the burden of development of common requirements. If this is a goal, then growing participation in a corporate-originated project beyond a single vendor is critical.
 
@@ -121,7 +118,7 @@ For corporate-originated projects, expanding project participation involves enga
 
 Many projects begin enticing other vendors to contribute by demonstrating a viable market for the project. Vendors typically do not invest sustainably in open source projects unless they can justify that investment. Illustrating significant and enthusiastic user adoption of the software is therefore critical at this stage. Initial efforts focus on accelerating adoption momentum and successfully converting users into contributors by soliciting their active participation in the project roadmap and project promotion.
 
-Alternatively, a project may attempt to engage with other vendors by focusing on encouraging collaborators to "build on" a common platform. While companies may not be able to justify significant investment in the project "core," they may be able to justify investment in *extensions* to a project—if those extensions are relatively inexpensive and can support their business.
+Alternatively, a project may attempt to engage with other vendors by focusing on encouraging collaborators to "build on" a common platform. While companies may not be able to justify significant investment in the project "core," they may be able to justify investment in _extensions_ to a project—if those extensions are relatively inexpensive and can support their business.
 
 For example, by focusing initial outreach and engagement efforts on the APIs, the developer experience for extensions, and the path to distribution for people writing those extensions, projects may grow large communities of vendors building atop a platform, rather than modifying the core platform itself. Distinguishing these two areas of development—between the "core" and the "periphery"—often involves making governance decisions specific to each (only some project roles may receive permission to operate in the project "core," for instance).
 
@@ -144,9 +141,9 @@ Sometimes, when projects reach this size, they seek to transition management and
 
 When selecting a foundation with whom to partner in this way, open source projects must make several considerations, including:
 
-1.  Cost structure;
-2.  Governance requirements imposed by the foundation;
-3.  Affinity of the foundation with the user and developer base of the project.
+1. Cost structure;
+2. Governance requirements imposed by the foundation;
+3. Affinity of the foundation with the user and developer base of the project.
 
 At this point, projects will commonly discuss the extent to which member fees should influence the project's technical governance. Two dominant models for this governance exist.
 
@@ -154,7 +151,7 @@ The first is a strict separation of funding and technical inputs, where the memb
 
 Foundations can play another key role in a project's evolution: defining the market dynamics around the project, including administration of the project trademark. A trademark is one of an open source project's most valuable resources for guaranteeing that vendors are distributing the project (or derivatives of it) in a way that does not damage the project's reputation. Open source projects commonly use trademark certification as a way to "bless" certain vendor products in the market or to influence the way derivative products behave.
 
-Some projects hold tightly to the idea that contributors are *individual contributors* and not representatives of companies for which they may happen to work. In mature open source projects (like the Linux kernel), this allows people to maintain community status and seniority even when they change employers.
+Some projects hold tightly to the idea that contributors are _individual contributors_ and not representatives of companies for which they may happen to work. In mature open source projects (like the Linux kernel), this allows people to maintain community status and seniority even when they change employers.
 
 ## Examples of open source project governance models
 
@@ -216,7 +213,7 @@ High overhead—not strictly financial, but particularly in terms of contributor
 
 So far, we've discussed the nature and importance of open source project and community governance, factors that trigger evolutions in project governance models, and a few of the most popular open source governance models. Finally, let's examine some concrete steps you can take to structure your own community's governance—whether you're launching a new project or evolving one that's already active.
 
-Recall that most governance models consist of two primary dimensions: roles, and policies and procedures. The basic requirements here are actually quite spartan, and can be evolved as the project grows. What follows constitutes a kind of *minimum viable product* for project governance.
+Recall that most governance models consist of two primary dimensions: roles, and policies and procedures. The basic requirements here are actually quite spartan, and can be evolved as the project grows. What follows constitutes a kind of _minimum viable product_ for project governance.
 
 In your project, each of the following sections could very well be its own document. Or they might simply be part of a single long README—or anything in between. What's important it to get the basics of how things work down in text, so that people thinking about participating in your project know where to go, who to talk to, and most of all aren't horribly surprised.
 
@@ -230,9 +227,9 @@ Like technical documentation, governance documentation should explain how things
 
 As mentioned, your project will have a variety of real roles, but you only need to define a handful of them to start out. Those basic Roles are:
 
-1.  *Member*
-2.  *Contributor*
-3.  *Leader*
+1. _Member_
+2. _Contributor_
+3. _Leader_
 
 Whether you've thought about it, your project already features all these roles you already have in your project. Each one of them should be recorded in a roles document of some kind, either in your project's documentation or your main source code repository. This allows you to make what was implicit into explicit, both setting expectations for and allowing more people to participate in your project. For each role, you'll need to define who they are, how they qualify for that role, what they are expected to do, and what their rights and privileges are. Eventually you'll go beyond these roles and define many more specific ones. But detailing these three will take your project a fair distance on its journey.
 
@@ -242,7 +239,7 @@ This is possibly the least-documented role across all of open source, despite be
 
 Defining who Members are requires deciding who the project is actually serving, which is always a critical discussion to have. Are customers of the main sponsoring company automatically project Members? Can companies be Members, or only individuals? Are end-users Members or can they only be Contributors? More than anything, defining Members means defining who it is that project Leaders need to listen to.
 
-For almost all projects, you need to specify what rules Members are subject to (usually a code of conduct and not much else) and what they can expect from Leaders and Contributors. It's particularly helpful to explain how Members should participate in the project, such as "Members file bugs against this repository, and use the *new bug* template." Most people, given clear instructions, are happy to channel their participation into the routes you show them.
+For almost all projects, you need to specify what rules Members are subject to (usually a code of conduct and not much else) and what they can expect from Leaders and Contributors. It's particularly helpful to explain how Members should participate in the project, such as "Members file bugs against this repository, and use the _new bug_ template." Most people, given clear instructions, are happy to channel their participation into the routes you show them.
 
 In projects with democratically elected leadership, Members can be a much more rigorously defined role, because being a Member can come with voting rights. This requires you to more carefully qualify Members to avoid vote-packing or simply derailing election procedures.
 
@@ -268,23 +265,23 @@ If your project is trying to recruit new/additional Leaders, then it's also impo
 
 ## Setting policies and procedures
 
-In addition to some basic role documentation, there's a certain amount of basic paperwork that each project should create for itself. These policy and procedure (P&P) documents are considered a kind of minimum for what you need in order to grow and mature a project. Your project may, and eventually will, have other P&P docs as your contributor base expands and the number of processes you need to write down with it.
+In addition to some basic role documentation, there's a certain amount of basic paperwork that each project should create for itself. These policy and procedure (P\&P) documents are considered a kind of minimum for what you need in order to grow and mature a project. Your project may, and eventually will, have other P\&P docs as your contributor base expands and the number of processes you need to write down with it.
 
 Some of these will be mostly technical (like release process, or a support policy), and we won't be exploring those here.
 
-However, there are three governance P&P that every project should have:
+However, there are three governance P\&P that every project should have:
 
-1.  Code of conduct
-2.  Contribution process
-3.  Communication information
+1. Code of conduct
+2. Contribution process
+3. Communication information
 
-Projects that grow larger and more popular, become commercially adopted, or are actively recruiting many new contributors probably want some additional P&P documents, such as:
+Projects that grow larger and more popular, become commercially adopted, or are actively recruiting many new contributors probably want some additional P\&P documents, such as:
 
-1.  Leadership selection/election process
-2.  Contributor promotion
-3.  Release process
-4.  Security issue reporting and handling
-5.  Project trademark usage
+1. Leadership selection/election process
+2. Contributor promotion
+3. Release process
+4. Security issue reporting and handling
+5. Project trademark usage
 
 We'll talk about these eight documents below.
 
@@ -294,10 +291,10 @@ Creating a code of conduct (CoC) for your open source community is one of the si
 
 Here are the core items that every Code of Conduct needs to have:
 
-1.  A statement of what kind of behavior is encouraged
-2.  A statement of what kinds of behavior are prohibited
-3.  Contact information for reporting violations
-4.  A description of the enforcement mechanism
+1. A statement of what kind of behavior is encouraged
+2. A statement of what kinds of behavior are prohibited
+3. Contact information for reporting violations
+4. A description of the enforcement mechanism
 
 When you're starting out, both the report recipients and the enforcers of the CoC are likely to be your project founders. As your project grows, you'll want to form a specific CoC committee, but you don't need that right away.
 
@@ -305,11 +302,11 @@ When you're starting out, both the report recipients and the enforcers of the Co
 
 In order to recruit contributors, you need to tell them the basics of how to contribute to your project. For projects on GitHub or GitLab this is generally placed in a document called CONTRIBUTING.md, but it can really go anywhere as long as it's linked from your project's home page. If you've documented your Contributor role, you can just use that for your contribution docs. If you haven't, then here's a few things you should cover in your contribution document:
 
-1.  Where to communicate with other contributors.
-2.  How to submit your first code, documentation, or other contribution.
-3.  Any testing or formatting requirements, in detail.
-4.  What to expect from the review process.
-5.  When they qualify for membership/contributor status.
+1. Where to communicate with other contributors.
+2. How to submit your first code, documentation, or other contribution.
+3. Any testing or formatting requirements, in detail.
+4. What to expect from the review process.
+5. When they qualify for membership/contributor status.
 
 Some projects have paperwork that needs to be submitted before any contributions can be accepted, such as a Developer Certificate or Origin (DCO) or Contributor License Agreement (CLA), certificate of identity, or GPG keyring. Spell these out with step-by-step instructions in your contribution document.
 
@@ -343,17 +340,17 @@ Releasing software involves making decisions around what will and won't be inclu
 
 Some projects have defined release teams, in which case this document will be largely a collection of Role documents for the release team. In other projects, the maintainers do the releases, but even with those it's worthwhile to explain how they decide what gets included. This doesn't mean necessarily changing how you do releases, but rather just writing down what the real procedure already is, particularly the method of deciding which features and patches get left out. The process for writing and editing the release announcement is also worthwhile, especially if your project involves multiple vendors.
 
-This document will also have lots of non-governance content, like the locations of the servers, the commands to build packages, and how long to wait for mirrors to sync. It's expected that most of it will be technical instructions. Just don't neglect the *who* and *why* along with the *how*.
+This document will also have lots of non-governance content, like the locations of the servers, the commands to build packages, and how long to wait for mirrors to sync. It's expected that most of it will be technical instructions. Just don't neglect the _who_ and _why_ along with the _how_.
 
 ### Security issue reporting and handling
 
 Once your project's code is being used in production by external users, managing security issue reports becomes a critical priority. While this topic could use an entire chapter on its own, there is some basic governance setup associated with handling security issues. This will include:
 
-1.  Who is selected to be on the security team, how, and when.
-2.  Where security reports get sent.
-3.  How they are handled, including confidentiality requirements.
-4.  What reciprocation security researchers can expect.
-5.  How long you can wait before disclosing.
+1. Who is selected to be on the security team, how, and when.
+2. Where security reports get sent.
+3. How they are handled, including confidentiality requirements.
+4. What reciprocation security researchers can expect.
+5. How long you can wait before disclosing.
 
 Confidentiality requirements are particularly important for both the security team itself, and for the programmers and security researchers with whom you work. For example, security researchers are willing to not disclose their findings to the public until your project does, but only if they are promised that your security team won't do that either. In many projects, security team members aren't allowed to share certain information even with their own employers.
 
@@ -363,10 +360,10 @@ When a project gets popular, both commercial and non-commercial groups want to u
 
 Such a policy consists of four things:
 
-1.  A general statement of acceptable usage
-2.  Contact information to request specific permission or for clarification
-3.  A designated team, committee, or contributor who is going to handle these requests
-4.  Additional guidelines for the trademark team
+1. A general statement of acceptable usage
+2. Contact information to request specific permission or for clarification
+3. A designated team, committee, or contributor who is going to handle these requests
+4. Additional guidelines for the trademark team
 
 For the actual acceptable usage statement and guidelines, projects should obtain legal assistance. The governance part of this is selecting the "trademark team" (which could be an existing steering council, or similar), and how guidelines are updated and changed. In projects run by multiple technology vendors, it's critical to work this out in the early stages of the project, because the project's own sponsors will want to use its mark almost immediately. Make sure that responsibility here is shared between the stakeholders in your project.
 
@@ -386,13 +383,13 @@ Establishing franchise rules is critical. Some projects have allowed anyone regi
 
 Projects typically take one of three approaches to defining the electorate and candidate pools:
 
-1.  **High bar:** Voters are members of an inside group—such as committers, maintainers, and core contributors. Membership requires a long history of participation and seniority recognized by peers.
-2.  **Medium bar:** Active participants or foundation members can vote, as long as they meet a clearly articulated definition of participation.
-3.  **Low bar:** Anyone can vote as long as they complete some basic steps, like signing up to the program or joining the mailing list.
+1. **High bar:** Voters are members of an inside group—such as committers, maintainers, and core contributors. Membership requires a long history of participation and seniority recognized by peers.
+2. **Medium bar:** Active participants or foundation members can vote, as long as they meet a clearly articulated definition of participation.
+3. **Low bar:** Anyone can vote as long as they complete some basic steps, like signing up to the program or joining the mailing list.
 
 Defining an activity metric and minimum bar specifying what qualifies as "participation" can become contentious, mainly because it involves drawing arbitrary lines delimiting eligible participants. Generally, projects specify that quantified, ongoing participation is necessary to become part of the electorate.
 
-One common election fear is ballot stuffing or cohort effects, where large companies dominate the representative bodies by having a large voting bloc, or where friends of candidates will pass the low bar to become voters simply to vote for their candidate. In most cases, however, such fears are unfounded. Technical communities often try to create rules to mitigate against possible abuses of the system, but in most cases, these rules are "premature optimization," which Donald Knuth, author of *The Art of Computer Programming*, has famously described as "the root of all evil." [^1] Avoiding special rules—and addressing issues with the electoral process as they arise—is generally the better practice.
+One common election fear is ballot stuffing or cohort effects, where large companies dominate the representative bodies by having a large voting bloc, or where friends of candidates will pass the low bar to become voters simply to vote for their candidate. In most cases, however, such fears are unfounded. Technical communities often try to create rules to mitigate against possible abuses of the system, but in most cases, these rules are "premature optimization," which Donald Knuth, author of _The Art of Computer Programming_, has famously described as "[the root of all evil](#user-content-fn-1)[^1]." Avoiding special rules—and addressing issues with the electoral process as they arise—is generally the better practice.
 
 One final consideration is the process for becoming a candidate in the election. The most popular option is self-nomination, where candidates post election information and their reasons for running. Another option is nomination, which is often the same as self-nomination as the candidate typically asks people to nominate them and second their nomination.
 
@@ -402,19 +399,19 @@ Another complex community decision is the voting system. Any community will incl
 
 Most community projects have used:
 
-1.  Voting by secret ballot
-2.  Online voting, with a personal token to ensure each person may only vote once
-3.  Some form of preferential voting, listing candidates in order of preference
-4.  [Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) or [single transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) (STV) to count the votes and identify winners
+1. Voting by secret ballot
+2. Online voting, with a personal token to ensure each person may only vote once
+3. Some form of preferential voting, listing candidates in order of preference
+4. [Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) or [single transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) (STV) to count the votes and identify winners
 
 Some projects continue to use alternative voting systems like "first past the post" or weighted voting systems, in which voters receive 12 tokens to allocate to candidates however they wish, and the candidates with the most tokens win the election.
 
 Several projects use online counting software. Options to consider include:
 
-1.  [Condorcet Internet Voting Service](http://civs.cs.cornell.edu/), a free, online voting and Condorcet counting system.
-2.  [OpaVote](https://www.opavote.com/) (formerly OpenSTV), a commercial election counting Software-as-a-Service.
-3.  [OpenSTV](https://github.com/Conservatory/openstv), formerly available under the General Public License (GPL) and still used by several projects to count elections.
-4.  [Helios](https://vote.heliosvoting.org/), another free election service that allows online voting and several different vote counting methods.
+1. [Condorcet Internet Voting Service](http://civs.cs.cornell.edu/), a free, online voting and Condorcet counting system.
+2. [OpaVote](https://www.opavote.com/) (formerly OpenSTV), a commercial election counting Software-as-a-Service.
+3. [OpenSTV](https://github.com/Conservatory/openstv), formerly available under the General Public License (GPL) and still used by several projects to count elections.
+4. [Helios](https://vote.heliosvoting.org/), another free election service that allows online voting and several different vote counting methods.
 
 ### How to start
 
@@ -424,8 +421,6 @@ For example:
 
 > The goal is to ensure the technical steering committee represents everyone contributing actively to the project, valuing non-code contributions equally to code contributions, in the definition of the technical scope and direction of the project.
 
-The mission statement clarifies several things: who is being represented by the elected body, what their authority will be, and why they are being elected.
-Once you have agreed on the goal of the elected body, choose the simplest ways to define membership in the body being represented.
-Then, choose the simplest voting and counting system possible.
+The mission statement clarifies several things: who is being represented by the elected body, what their authority will be, and why they are being elected. Once you have agreed on the goal of the elected body, choose the simplest ways to define membership in the body being represented. Then, choose the simplest voting and counting system possible.
 
-[^1]: Knuth, Donald E, *The Art of Computer Programming*. Reading, Mass: Addison-Wesley Pub. Co, 1968. Print.
+[^1]: Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-Wesley Pub. Co, 1968. Print.
