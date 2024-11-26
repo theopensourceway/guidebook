@@ -10,6 +10,7 @@
   * [Communication Norms in Open Source Projects](attracting-users/communication-norms-in-open-source-software-projects.md)
 * [Guiding Participants](guiding-participants/README.md)
   * [Why People Participate in Open Source Communities](guiding-participants/why-people-participate-in-open-source-communities.md)
+  * [Incentivizing and Rewarding Participants](guiding-participants/incentivizing-and-rewarding-participants.md)
 * [Growing Contributors](growing-contributors/README.md)
   * [From Users to Contributors](growing-contributors/from-users-to-contributors.md)
   * [What Is a Contribution?](growing-contributors/what-is-a-contribution.md)
