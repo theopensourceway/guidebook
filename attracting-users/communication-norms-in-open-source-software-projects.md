@@ -5,8 +5,6 @@ updated: 2020-10-29T00:00:00.000Z
 
 # Communication Norms in Open Source Projects
 
-
-
 While the tools projects use to communicate continually evolve, best practices for communicating among project participants rarely change. This chapter will cover the basics of project communications and offer advice on serving a global audience by making the best use of particular tools and platforms. We'll see how certain norms and techniques for maintaining productive communication in your community will ring true everywhere, regardless of the communication tools or platforms a project chooses. And we will conclude with some observations on the ways ever-changing tooling and communication practices in open source projects may present challenges for the outside observer—particularly academic researchers—along with recommendations for mitigating those challenges in a way that benefits all project participants.
 
 ## The evolution of communication platforms in free and open source software projects
@@ -336,4 +334,4 @@ The most effective way to achieve communication in open source projects is to sh
 
 [^6]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 64, accessed 24 June 2020 11:46 CET
 
-[^7]: [_https://www.dreamwidth.org/legal/diversity_](https://www.dreamwidth.org/legal/diversity) accessed 2 July 2020 13:37 CET (and how leet it is :)
+[^7]: [https://www.dreamwidth.org/legal/diversity](https://www.dreamwidth.org/legal/diversity) accessed 2 July 2020 13:37 CET (and how leet it is :)
