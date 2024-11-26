@@ -7,6 +7,7 @@
   * [New Project Checklist](getting-started/new-project-checklist.md)
   * [Creating an Open Source Product Strategy](getting-started/creating-an-open-source-product-strategy.md)
 * [Attracting Users](attracting-users/README.md)
+  * [Communication Norms in Open Source Projects](attracting-users/communication-norms-in-open-source-software-projects.md)
 * [Guiding Participants](guiding-participants/README.md)
   * [Why People Participate in Open Source Communities](guiding-participants/why-people-participate-in-open-source-communities.md)
 * [Growing Contributors](growing-contributors/README.md)
