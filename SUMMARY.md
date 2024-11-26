@@ -14,6 +14,7 @@
   * [From Users to Contributors](growing-contributors/from-users-to-contributors.md)
   * [What Is a Contribution?](growing-contributors/what-is-a-contribution.md)
   * [Essentials of Building a Community](growing-contributors/essentials-of-building-a-community.md)
+  * [Constructing an Onboarding Experience](growing-contributors/constructing-an-onboarding-experience.md)
   * [Understanding Community Roles](growing-contributors/understanding-community-roles.md)
 * [Measuring Success](measuring-success/README.md)
   * [Defining Healthy Communities](measuring-success/defining-healthy-communities.md)
