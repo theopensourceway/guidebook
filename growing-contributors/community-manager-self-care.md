@@ -1,3 +1,9 @@
+---
+description:
+author: Ashley Nicolson <ashley@scotlandopensource.com>
+updated: 2020-07-09
+---
+
 # Community Manager Self-Care
 
 {% hint style="danger" %}
@@ -14,7 +20,7 @@ To help ourselves as community managers, and in turn help others, we need to lea
 
 In this chapter, we’ll explore the importance of self-care and why community managers should be mindful of the interpersonal aspects of the role that may affect them both positively and negatively. This chapter also provides practical steps to encourage and maintain a healthy work life balance that can be applied to themselves and promoted within their community.
 
-### **The importance of self-care**
+## The importance of self-care
 
 What exactly is self-care?
 
@@ -28,7 +34,7 @@ We can usually handle stress more effectively when we’re in a happy state of m
 
 This concept of self-care may appear simplistic in theory, but it is commonly overlooked or neglected—especially by community managers. Let’s explore (and deconstruct) some reasons why.
 
-### **Emotional contagion**
+## Emotional contagion
 
 Community managers are often seen as leaders, the people everyone can turn to, an inspiration for others to emulate. This seemingly high pedestal can be daunting, demanding a good deal of emotional intelligence and mental effort to deliver a community that’s not only growing [but also productive](#user-content-fn-2)[^2].
 
@@ -46,7 +52,7 @@ Identify and implement regular, dedicated time in your and the team’s workload
 
 By taking steps towards actively promoting and advocating for self-care, you prompt members following your lead to do the same. You also begin revealing your human side, eroding the unhealthy assumption that leaders are invulnerable to emotional dimensions of the work.
 
-### **Being (imperfectly and empathetically) human**
+## Being (imperfectly and empathetically) human
 
 We can often find ourselves being controlled by unrealistic generalizations (either our own, or others') of what a community manager should be: driven, friendly, successful, super-human, even perfect.
 
@@ -74,7 +80,7 @@ As everyone on a team or in a community nurtures this empathy, they will gradual
 
 It is inevitable that some members will expect you to adhere to the pretense of being the all powerful, infallible captain of the ship, but with an effective self-care routine and the backing of the members within this social support network, you’ll feel more confident in your ability to handle those stressors. You’ll also understand that your vulnerabilities are what makes you a better community leader.
 
-### **Types of self-care**
+## Types of self-care
 
 Everyone will prefer different self-care techniques and strategies, depending on their moods and circumstances. To be effective, self-care requires regular and conscious cultivation, so it’s important that we view self-care not only as a reactive choice but also as a means of alleviating the stresses of everyday life.
 
@@ -82,7 +88,7 @@ In general, however, a number of different self-care types can satisfy our basic
 
 Next, we’ll explore each of these types in more detail. But remember: we should be aiming to practice a _selection_ of activities of _all_ these types if we’re going to provide ourselves a healthy life balance and respond adequately to all types of stress.
 
-#### **Physical self-care**
+### Physical self-care
 
 Physical self-care is usually the self-care we perform at a minimum, often subconsciously: feeding, hydrating, sleeping, and exercising.
 
@@ -98,7 +104,7 @@ Physical self-care might include activities like:
 6. Stretching
 7. Doing yoga (or other forms of exercise)
 
-#### **Mental Self-Care**
+### Mental self-care
 
 Mental self-care is the act of stimulating our mind with positive and purposeful thoughts to help reduce stress levels.
 
@@ -116,7 +122,7 @@ A few examples of mental self-care:
 4. Solving puzzles
 5. Organizing or cleaning out a space in your room
 
-#### **Spiritual Self-Care**
+### Spiritual self-care
 
 This type of self-care often gets wrongly associated with being solely about religion but it can be applied to everyone whether you’re religious, atheist, agnostic, or otherwise.
 
@@ -134,7 +140,7 @@ A few examples of spiritual self-care:
 
 Regardless of the different types and activities of self-care we perform, the aim is to help us in a constant and sustainable way, to fight off and defend us against the negative effects of our role. By ignoring our physical and mental well being we will be more likely to succumb to the stress and fatigue leading us towards more dangerous chronic illnesses and syndromes, like burnout.
 
-### **Burnout**
+## Burnout
 
 What exactly is burnout? The [WHO definition of burnout](#user-content-fn-7)[^7] is:
 
@@ -146,7 +152,7 @@ It is also appearing [more and more within the tech industry](#user-content-fn-9
 
 We should highlight that work related stress and burnout are very different, and in cases some amount of stress can provide a source of motivation but only if it is manageable and for a temporary period of time. When occupational stress is long occurring, seen as chronic, affecting the overall well being of ourselves, this can develop into what is termed as _burnout_.
 
-#### **Look out for symptoms**
+### Look out for symptoms
 
 Burnout is extremely hard to detect as not only is it subtle and progressive, but it is often misdiagnosed as the earlier, more temporary, common work related stress. This is because the two are similar until it becomes too late and has developed into a much deeper and harder problem to treat.
 
@@ -198,7 +204,7 @@ Disorientation is when we feel we’ve become separated from our environment and
 
 This is not to be misunderstood to imply those experiencing signs of burnout are not feeling physically sick; they can and do. But it does highlight that with prolonged stress physical illness symptoms appear as a secondary symptom to the cause, like lingering colds, backache, headaches, etc. Sometimes these illnesses mask the deeper more emotional stress that we feel but we feel more comfortable taking a sick day instead of actually acknowledging the mental stress.
 
-### **Burnout cycle**
+## Burnout cycle
 
 Freudenberger and his colleague Gail North [later categorized the consequences](#user-content-fn-13)[^13] of these symptoms into 12 phases of one [developing burnout syndrome](#user-content-fn-14)[^14]. Similar to the symptoms, sufferers may experience episodes in multiple phases, not in sequential order, and for any length of period of time.
 
@@ -219,23 +225,23 @@ These distinctions help us to identify the deterioration in either our own, our 
 
 It’s important to be self-critical and pierce our disillusion that everything is fine—it usually isn’t and it won’t "just work its way out."
 
-### **Causes of burnout**
+## Causes of burnout
 
 We’ve identified the devastating effects of burnout now lets explore the possible sources for these symptoms within our role or even within the community.
 
 We earlier described that burnout is a combination of many factors but a recurring element is the realization, subconsciously or not, that we don’t feel our work is providing us the same sense of reward and purpose [as it had once done before](#user-content-fn-15)[^15]. Rewards don’t always equate to money or status but can simply be the deeper satisfaction and pleasure in the adhering to one’s values and achieving happiness.
 
-#### Lack of Control
+### Lack of control
 
 To feel a sense of accomplishment and ownership of a task, a role requires a suitable level of autonomy to achieve this. If we have the inability to influence our decisions or don’t have access to appropriate tools or resources, this can lead to the de-motivating feeling that our work and effort is not being appreciated enough or we are not trusted enough with this responsibility.
 
 Lack of control can also manifest when dealing with other peoples' emotions. Although we can encourage and try to direct our members to adhere to our community’s code of conduct or a preferred course of action in a conflict, we evidently cannot remove their willfulness. We must only pre-empt their next move no matter how disastrous it may be. This can lead to the feeling of being constantly in firefighting-mode and not accomplishing anything.
 
-#### Unfairness
+### Unfairness
 
 Unfairness within the role can be viewed as a number of different things that attribute to feeling powerless or being disrespected. Either you or others are treated unfairly, such as: office or community politics that create a culture of favoritism, lack of transparency in the top-down decisions, or a disproportionate amount of workload is allocated to you.
 
-#### Insufficient Reward
+### Insufficient reward
 
 You feel unappreciated, taken for granted or simply not satisfied in your role. Rewards don’t always need to be monetary but often this is the first thing to come under our scrutiny when the workload increases.
 
@@ -245,43 +251,43 @@ Intrinsic rewards are also important to maintain a healthy perception of our rol
 
 Sometimes we feel unsatisfied because we have a conflict of personal values with the company or project we work with. We are often asked to relay and even promote the decisions of the company to the community and these may not align with our own personal values. This can be seen as self-betrayal to our morals and build up resentment towards the company.
 
-#### Work Overload
+### Work overload
 
 Probably the most common experience contributing to burnout is [the over-burdening of one’s workload](#user-content-fn-16)[^16], whether from our own doing or by someone else. This can occur when the quantity of work and expectations exceeds the amount of time or resources available. We may feel that most other employees expect work assigned to us is "urgent", when in fact it may not be. It’s important to maintain boundaries and stand your ground to resist an ever increasing list of things to do.
 
-#### Lack of Community
+### Lack of community
 
 It goes without saying that community is extremely important; it fuels the purpose of the role as a source of motivation and companionship—a sense of belonging to you as a person. However, if this becomes stagnant, overwhelmed with toxic members, and feedback is non-existent, this can make the job feel stifled.
 
-### **Preventing/treating burnout**
+## Preventing/treating burnout
 
 If you feel yourself or anyone else succumbing to burnout then the most direct approach is to take a break from the source of the stress, which is more often work itself, and reflect on the [more acute causes of your burnout](#user-content-fn-17)[^17].
 
-#### Use your holiday time
+### Use your holiday time
 
 Don’t be afraid to utilize this time and don’t feel guilty either. Using your holiday does not demerit your dedication to the role, neither does it mean that everything will fall apart while away. Use this time to concentrate on yourself, and what gives you pleasure in life.
 
-#### Spend time with those you care about
+### Spend time with those you care about
 
 Re-kindle your social relationships, they have probably missed you as a result of the developing burnout. Talk through how you’re feeling and enjoy your time with them so it is overall a pleasant experience.
 
 Try to generally stay clear of negative people in your life. This could mean letting them disappear from your social network, or limit your interaction with them. Remember, other people’s emotions can affect us both positive and negatively.
 
-#### Re-evaluate priorities
+### Re-evaluate priorities
 
 Identify what is important to you and reflect upon if your current lifestyle, or work life balance mirrors that. If they don’t, then prioritize what you wish to enjoy more, block out time in your schedule, and commit to it.
 
 Also evaluate your options and consider what the next steps would be to resolve the stressors you have. This could be coming to a solution or compromises with your line manager to reduce workload or other concerns you have. There may be a point that the only way to remove certain stressors in your life is to leave your job to improve your health.
 
-#### Practice self-care
+### Practice self-care
 
 Take the time to commit yourself fully to what ever self-care activity you want to enjoy and do it. Try and practice self-care daily, detaching yourself from as much work as possible and devote yourself to some "me" time.
 
-#### Seek professional help
+### Seek professional help
 
 If all the other options have little or no affect on your physical or mental well being, or you feel you require immediate assistance, then do seek professional help as a matter of urgency.
 
-### **Work-life balance**
+## Work-life balance
 
 A healthy work-life balance is having a clear distinction between our personal and work lives without allowing one to dominate the other. Both are equally important and neither should be undervalued. We can find ourselves in unhealthy mindsets when forced to be stuck in either one extreme or the other, withholding an important sense of purpose and enjoyment from that part of our lives.
 
@@ -291,7 +297,7 @@ As well as this physical difficulty we may also have the emotional difficulty of
 
 Each person’s work life balance is different with each their own prioritizes. This is where self-care activities play a big part in establishing the distinction between work and personal life. Make a clear differentiation of what you view as work, like answering community requests or emails, arranging calls or meetings, etc. and the hours you aim to dedicate to work; anything outside of that communicate to yourself and to others that is your personal time. By dedicating a consistent and explicit downtime, we begin to develop a habit that our body and mind anticipates and begins to look forward to, making it easier to develop and maintain a good habit.
 
-#### **Addiction**
+## Addiction
 
 Work addiction, often referred to as workaholism, can affect anyone who is deeply embedded in an online community and often justifies their extensive work hours as commitment to the project. The inability to stop is often driven by the compulsive need to achieve status and success, or in some cases to escape emotional stress. Work addiction can be a vicious cycle where the feeling of achievement is an addictive "high" at the cost of our mental and physical well being, often not noticed until too late.
 
@@ -305,7 +311,7 @@ Reconsider these goals with the aim to reduce your workload. Are they achievable
 
 Not only does this help to set reasonable expectations for the team members to achieve, but also promotes that a healthy work-life balance is an integral part of their schedule. This predictable schedule also helps you to provide better forecasting to the company or community.
 
-### **Maintain boundaries**
+## Maintain boundaries
 
 When reflecting upon our work-life balance, it is important to establish clear boundaries between the two. As we’ve said earlier, due to our nature of work, we find ourselves participating within the community, and this begins to eat into our personal time, leaving nothing else. This is tolerable only on a temporary basis and only when we are required for an intervention, but this should not be the norm. Boundaries help us establish where our work ends, and pleasure begins. We’re not saying that work isn’t pleasurable, but having a variety of activities other than work helps stimulate our minds and provide alternative creative outlets.
 
@@ -319,7 +325,7 @@ As much as we don’t want to admit it, we must respect that we are not skilled 
 
 It can be beneficial to partake in mental health training for you and your team to learn how to handle situations involving members in the community or team. This can help you apply a suitable process to follow upon if someone is beyond your ability and responsibility to help them.
 
-### **Sustainability**
+## Sustainability
 
 Sustainability is an extremely important goal to have for a community, often seen as a contributing factor to the project’s own success. This should always be at the forefront of our minds when developing tools and processes for the community, with the aim for the community to become self-reliant, self-driven, and empowered. But there is a lot of work to be done to achieve this, and we need to ensure we and our team are able to keep up.
 
@@ -331,9 +337,9 @@ By beginning to form clear boundaries, reduce your workload expectations, and im
 
 The only thing that is ever consistent is time, so be aware that you may find the same rewards you gave yourself and others, change over time. Take time out to frequently reflect on what drives you and your community, positively review how much you have progressed, and assess what resources you have to adjust project goals accordingly without interfering, if possible, with a healthy work life balance.
 
-### **Self-reflection**
+## Self-reflection
 
-#### **Through the looking glass**
+### Through the looking glass
 
 An important aspect of being a manager or leader is to provide good and constructive feedback to those that are on our team, as well as the community as a whole. We understand that feedback from upper line managers/other leaders and those that report directly to us is extremely important to understand their perception of us as a person and our activities representing them: if they truly reflect our efforts.
 
@@ -349,7 +355,7 @@ Take some time to truly answer these, as gaining this self-awareness does not ha
 
 Practicing self-reflection can be difficult to begin with due to previously discussed inner restrictions we place upon ourselves as community leaders: the need of being invincible; distorted perception of our worth; and lack of visible support. However, in creating a routine of introspection and self-reflection as part of our self-care, we will begin to exercise more control over our emotions: have inner clarity on our long term goals, and ability to identify more solutions-focused activities rather than the previously emotionally driven ones.
 
-#### **Tackling imposter syndrome**
+### Tackling imposter syndrome
 
 This term was first defined by [psychologists Dr. Pauline Clance and Dr. Suzanne Imes](#user-content-fn-18)[^18] in the 1970s as the internal experience one feels, despite overwhelming amount of evidence proving otherwise, that they are incompetent and that their success was a product of luck or fraud within their field of expertise.
 
@@ -357,23 +363,23 @@ Often those that experience impostor syndrome have a hard time internalizing and
 
 Dr. Valerie Young [further categorized these types of flawed thinking](#user-content-fn-19)[^19] of what sufferers believe it takes to be competent into the following subgroups:
 
-**Perfectionist**
+#### Perfectionist
 
 Perfectionism and imposter syndrome tend to go hand in hand. When a perfectionist doesn’t achieve their unreasonable high standards they question their abilities and thus if they deserve to be in the position they are in. If they do successfully achieve their goal, there always seems to be that unattainable objective they expected to have reached or knowledge they expected to have but didn’t.
 
-**Natural Genius**
+#### Natural Genius
 
 These sufferers feel that the natural ability to achieve a task is a direct correlation to their competence. If they take a long time to master something they feel that it has less merit. Not only do they have high standards but they also have to complete it without breaking too much of a sweat.
 
-**Soloist**
+#### Soloist
 
 These are those that shy away from asking for help because they fear that would expose them for who they believe others to see them as – a fraud. Although being independent is good, it can lead to sub par results without acknowledging that two heads are often better than one.
 
-**Expert**
+#### Expert
 
 People with this complex of impostor syndrome often dismiss their success because they don’t know everything there is to know about the topic or role. Often these people dislike to be put on the spot in case there is some aspect they were unaware of and thus exposed as a fraud.
 
-**Superhuman**
+#### Superhuman
 
 Usually these people often over compare themselves to others in their industry, the seemly high achievers, and push themselves to work harder and longer to measure up to them. They also tend to heavily rely on external validation.
 
@@ -381,7 +387,7 @@ Since our role as community managers is relatively new and less established than
 
 However, there are ways to help keep impostor syndrome in check and increase your self confidence.
 
-#### Celebrate successes
+## Celebrate successes
 
 Frequently write down our successes and enjoy them. Journaling is a good way to have comparisons from earlier successes and how they lead up to our current ones. Include our own account of successes but better yet include testimonials from others, be it from community members responding to our thread posts, or colleagues praising our work. This will help support that feeling that we are contributing value in our role and others confirmed it.
 
@@ -389,17 +395,17 @@ Frequently write down our successes and enjoy them. Journaling is a good way to 
 >
 > — Byron Katie
 
-#### Change your perspective
+## Change your perspective
 
 We are hindered by our fear of being exposed as a fraud, but usually we don’t have the proof that confirms that is the case. We often wrongly assume and interpret actions of others as a direct cause and effect to things we have done or said. This is because we are viewing the situation from our perspective and only from ours.
 
 Concentrate on what value your work brings to the subject or community and visualize that success. Imagining good things happening can give you the confidence, and motivation, to commit to the task at hand and overcome the fear.
 
-#### Working in progress
+## Working in progress
 
 We are always learning, improving, and progressing. Treat our successes as continuously developing projects, adding refinements into each iteration. Not only will we be able to record multiple successes but also help acknowledge that perfectionism is impossible and mistakes are opportunities for better learning.
 
-### **Network of support**
+## Network of support
 
 We understand the power of a community, the ability to bring people together and with the right directions—and a whole lot of love—we can move mountains. So why do we feel we can’t have the same mentality toward helping ourselves?
 
@@ -419,7 +425,7 @@ However, it is important to make clear here that if we feel that we are unable t
 
 Similarly in our own direct reports' one-to-ones ensure you also have regular one-to-ones with your line manager to highlight any problems you have achieving your workload or effecting your well being. Be as direct as you are with helping others, as you are with yourself.
 
-### **Resources**
+## Resources
 
 *   **High-Octane Women: How Superachievers Can Avoid Burnout**
 
