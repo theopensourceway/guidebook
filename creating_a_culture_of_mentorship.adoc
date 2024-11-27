@@ -11,20 +11,7 @@ It examines what mentoring is, why it's important, and how you might begin culti
 
 == What is mentorship?
 
-Mentorship means different things to different people, depending on their situation, context, culture, and more.
-To some, for example, mentorship is a formal activity involving a schedule and agenda.
-To others, mentorship is an informal process among peers; it can even be a one-time conversation.
-If you ask people to define "mentorship," you will most likely receive wide-ranging responses.
 
-That is what makes mentorship such an important and powerful concept: it is both universal and personal.
-It's universal insofar as it has potential to be a positive experience for anyone, yet personal insofar as it occurs differently for every individual and in every relationship.
-
-Therefore, one way of thinking of mentorship is the following:
-
-> Mentorship is an act, experience, and opportunity to share what you can, when you can, how you can.
-
-Mentorship is important.
-It helps you, it helps others, it helps the community, and it helps the open source project.
 
 === It helps you
 

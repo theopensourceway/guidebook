@@ -15,6 +15,7 @@
   * [From Users to Contributors](growing-contributors/from-users-to-contributors.md)
   * [What Is a Contribution?](growing-contributors/what-is-a-contribution.md)
   * [Essentials of Building a Community](growing-contributors/essentials-of-building-a-community.md)
+  * [Creating a Culture of Mentorship](growing-contributors/creating-a-culture-of-mentorship.md)
   * [Constructing an Onboarding Experience](growing-contributors/constructing-an-onboarding-experience.md)
   * [Project and Community Governance](growing-contributors/project-and-community-governance.md)
   * [Understanding Community Roles](growing-contributors/understanding-community-roles.md)
