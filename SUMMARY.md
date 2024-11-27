@@ -8,6 +8,7 @@
   * [Creating an Open Source Product Strategy](getting-started/creating-an-open-source-product-strategy.md)
 * [Attracting Users](attracting-users/README.md)
   * [Communication Norms in Open Source Projects](attracting-users/communication-norms-in-open-source-software-projects.md)
+  * [Building Diverse Open Source Communities by Making Them Inclusive First](attracting-users/building-diverse-open-source-communities-by-making-them-includive-first.md)
 * [Guiding Participants](guiding-participants/README.md)
   * [Why People Participate in Open Source Communities](guiding-participants/why-people-participate-in-open-source-communities.md)
   * [Incentivizing and Rewarding Participants](guiding-participants/incentivizing-and-rewarding-participants.md)
