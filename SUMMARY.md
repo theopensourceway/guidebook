@@ -20,6 +20,7 @@
   * [Constructing an Onboarding Experience](growing-contributors/constructing-an-onboarding-experience.md)
   * [Project and Community Governance](growing-contributors/project-and-community-governance.md)
   * [Understanding Community Roles](growing-contributors/understanding-community-roles.md)
+  * [Community Manager Self-Care](growing-contributors/community-manager-self-care.md)
 * [Measuring Success](measuring-success/README.md)
   * [Defining Healthy Communities](measuring-success/defining-healthy-communities.md)
   * [Understanding Community Metrics](measuring-success/understanding-community-metrics.md)
