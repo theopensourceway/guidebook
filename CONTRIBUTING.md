@@ -7,10 +7,10 @@ This project uses a GitHub-based workflow to manage Markdown-formatted files tha
 
 Additionally, you can review outstanding [issues](https://github.com/theopensourceway/guidebook/issues) and help us address them. You can also brainstorm ideas with the project maintainers and community by initiating a [discussion](https://github.com/theopensourceway/guidebook/discussions).
 
-For a more comphrehensive look at the project, read [the wiki](https://github.com/theopensourceway/the-project/wiki).
+For a more comprehensive look at the project, read [the wiki](https://github.com/theopensourceway/the-project/wiki).
 
 ## Community architecture
-W've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update our contribution guidelines accordingly.
+We've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update our contribution guidelines accordingly.
 
 At the moment:
 
