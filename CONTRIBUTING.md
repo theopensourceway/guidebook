@@ -3,21 +3,14 @@
 We aim to make contributing to The Open Source Way a pleasant and enriching experience for all project participants, and we welcome contributions of all kinds.
 
 ## Getting started
-This project uses Markdown and a git-based workflow. We track editorial, technical, governance, and marketing discussions on [their respective project boards](https://github.com/theopensourceway/guidebook/projects).
+This project uses a GitHub-based workflow to manage Markdown-formatted files that combine to form a guidebook. Each **chapter** is a Markdown file. Chapters are organized into **sections** denoted by folders. Review [the composition](https://github.com/theopensourceway/guidebook) of the Open Source Way guidebook to determine where you'd like to make your first contribution.
 
-Each chapter is a Markdown file that is associated with an issue.
-The chapter contains its own outline, content, and lexicon.
+Additionally, you can review outstanding [issues](https://github.com/theopensourceway/guidebook/issues) and help us address them. You can also brainstorm ideas with the project maintainers and community by initiating a [discussion](https://github.com/theopensourceway/guidebook/discussions).
 
-Each section is folder that contains files of chapters for that section.
-Each section has one or more chapters in it.
-There is not an issue associated with a section, unless a new section is being created.
-
-Want to get involved?
-
-Come talk with us on [the mailing list](https://lists.theopensourceway.org/admin/lists/contrib.theopensourceway.org/) and see [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to learn how to make your first contribution.
+For a more comphrehensive look at the project, read [the wiki](https://github.com/theopensourceway/the-project/wiki).
 
 ## Community architecture
-For the 2.0 refresh, we've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update [CONTRIBUTING.md](https://github.com/theopensourceway/guidebook/blob/master/CONTRIBUTING.md) to reflect current contribution guidelines.
+W've defined a set of roles and responsibilities around an initial, core group of contributors most familiar with the goals of the project. Beyond that, we'll evolve with the participation of new contributors and update our contribution guidelines accordingly.
 
 At the moment:
 
