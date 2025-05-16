@@ -2,10 +2,10 @@
 
 We aim to make contributing to The Open Source Way a pleasant and enriching experience for all project participants, and we welcome contributions of all kinds.
 
-## Getting started
-This project uses a GitHub-based workflow to manage Markdown-formatted files that combine to form a guidebook. Each **chapter** is a Markdown file. Chapters are organized into **sections** denoted by folders. Review [the composition](https://github.com/theopensourceway/guidebook) of the Open Source Way guidebook to determine where you'd like to make your first contribution.
+## Getting acclimated
+This project uses a GitHub-based workflow to manage Markdown-formatted files that combine to form a **guidebook**. Each **chapter** of the guidebook is a Markdown file. Chapter files are organized into **sections** denoted by folders. Review [the composition](https://github.com/theopensourceway/guidebook) of the Open Source Way guidebook to determine where you'd like to make your first contribution.
 
-Additionally, you can review outstanding [issues](https://github.com/theopensourceway/guidebook/issues) and help us address them. You can also brainstorm ideas with the project maintainers and community by initiating a [discussion](https://github.com/theopensourceway/guidebook/discussions).
+Additionally, you can review outstanding [issues](https://github.com/theopensourceway/guidebook/issues) and help us address them. You can also brainstorm ideas with the project maintainers and community members by initiating a [discussion](https://github.com/theopensourceway/guidebook/discussions).
 
 For a more comprehensive look at the project, read [the wiki](https://github.com/theopensourceway/the-project/wiki).
 
@@ -24,39 +24,46 @@ At the moment:
 
 ### 1. Review outstanding issues
 
-- Check [the list of outstanding issues](https://github.com/theopensourceway/guidebook/issues) to identify something project needs and you'd like to offer.
-- Alternatively, see one of the projects various [work boards](https://github.com/theopensourceway/guidebook/projects) to get a sense of tasks-in-progress that could use your help.
+- Check [the list of outstanding issues](https://github.com/theopensourceway/guidebook/issues) to identify something the project needs and you'd like to offer.
 
 ### 2. Raise your hand
 
-- Once you've found an issue you can help us address, join the conversation about it. Project maintainers and guidebook editors will want to know who's volunteering to add new material or assist with.
+- Once you've found an issue you can help us address, join the conversation about it. You can do this by responding to a pre-existing [issue](https://github.com/theopensourceway/guidebook/issues), creating a new one, or starting a more general [discussion](https://github.com/theopensourceway/guidebook/discussions). Project maintainers and guidebook editors will want to know who's volunteering to add new material or assist with.
 
 ### 3. Start working
 
-#### Editorial tasks
+We classify issues into three general types:
 
-If you've selected an **editorial** task, you can start contributing immediately following these steps:
+- `Bug`: Something is broken and needs to be fixed (a link does work, a word is misspelled, a footnote points to the wrong place, etc.)
+- `Feature`: Something is missing that should be added (an existing chapter could be expanded, a new chapter could be added, etc.)
+- `Task`: Something that isn't necessarily *broken* or *missing* but nevertheless needs to be *done* (chapters could be re-ordered, a new version of the guide should ship, etc.)
 
-- Comment on the editorial issue you've selected, expressing your interest and indicating what you're thinking of writing about. If you're ready, propose an outline for your chapter. If you need more guidance on what should be in the outline, work with the project's [lead writer](https://github.com/shaunix) and any other interested contributors who've also left comments.
-- Refer to the project [style guide](https://github.com/theopensourceway/guidebook/blob/master/STYLE.adoc) (updated regularly) for pointers—but don't let small details slow you down. An editor will help you polish your work before it's finished.
-- Examine [the outline](https://github.com/theopensourceway/guidebook/blob/master/OUTLINE.adoc) and identify or more chapters you are interested in writing (or co-writing!).
-- Comment in the issue that corresponds to your chosen chapter, letting others working on the project know that you're interested in working on a particular chapter. Editorial leads will move the card for your chapter(s) between columns on the [editorial project board](https://github.com/theopensourceway/guidebook/projects/1). Once you're ready for an editorial review, post another note in the same issue, and we'll work on moving your card along our editorial process.
-- Examine [the chapter file](https://github.com/theopensourceway/guidebook) that corresponds to the chapter you've identified. You may find some source or seed material someone has already contributed into that chapter. Feel free to use that material; build on it to start, fill out, or complete a chapter. Or simply use it inspiration if it doesn't fit your vision. You can also consult the [1.0 guide](https://theopensourceway.org/wiki) for similar inspiration.
-- Fork the project repository and adding material on a topic of your choice to its respective chapter. Then submit a pull request outlining your changes so an editor can review what you've added and work with you to polish it.
-- Alternatively, propose edits to a guidebook chapter directly in your browser. Select a file in [the project repository](https://github.com/theopensourceway/guidebook) by clicking on it. Locate and click the [pencil icon](https://octicons.github.com/icon/pencil/) at the top of every file in the repository. Make chages to the file in your browser, then submit that file for review.
+#### Providing a bugfix
 
-#### Technical tasks
+If you've selected an issue marked `Bug`, you can start contributing immediately following these steps:
 
-- [Update with instructions for performing **technical** tasks]
+- Comment on [the issue](https://github.com/theopensourceway/guidebook/issues) you've selected, expressing your interest and indicating what you're thinking of contributing. 
+- Alternatively, simply dive right in a fix the issue by opening a pull request! Link that pull request to an open issue so maintainers know what your work is meant to address.
+- Refer to the project [style guide](https://github.com/theopensourceway/the-project/wiki/Style-Guide) (updated regularly) for guidance on how to format your fixes.
 
-#### Marketing tasks
+#### Adding a feature
 
-- [Update with instructions for performing **marketing** tasks]
+If you've selected an issue marked `Feature`, you can start contributing immediately following these steps:
+
+- If you're prosing a new chapter, open [an issue](https://github.com/theopensourceway/guidebook/issues) to describe what you'd like to add to the guidebook. If you're ready, sketch a brief but comprehensive outline for it. You can do this directly in the issue itself. If you need more guidance on what should be in the outline, just ask! Don't let a blank page (or file) keep you from getting started.
+- If you're proposing material for a pre-existing chapter, fork the project repository and add material on a topic of your choice to that chapter. Then submit a pull request outlining your changes so an editor can review what you've added and work with you to polish it.
+- Refer to the project [style guide](https://github.com/theopensourceway/the-project/wiki/Style-Guide) (updated regularly) for pointers—but don't let small details slow you down. An editor will help you polish your work before it's finished.
+
+#### Completing a task
+
+If you've selected an issue marked `Task`, you can start contributing immediately by following these steps:
+
+- Comment on [the issue](https://github.com/theopensourceway/guidebook/issues) you've selected, indicating your willingness to pitch in.
+- Describe your proposed approach to completing the task. Occasionally, issues of this type will contain *problems* but not *solutions*. Help us identify the solution!
 
 ## Suggesting a change via a GitHub pull request
 
-You are welcome to make pull requests against this repo from your own fork.
-Here is how we recommend you manage this:
+You are welcome to make pull requests against this repo from your own fork. Here is how we recommend you manage this:
 
 ### Forking and cloning the upstream repo
 
