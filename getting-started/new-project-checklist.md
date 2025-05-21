@@ -16,7 +16,7 @@ These are separated out into several different lists, depending on the area cove
 
 * [ ] Technical problem addressed by the project
 * [ ] Intended users and value proposition
-* [ ] Establish beginning roadmap w/milestones
+* [ ] Establish beginning roadmap with milestones
 
 ### Market positioning
 
@@ -26,7 +26,7 @@ These are separated out into several different lists, depending on the area cove
 
 ## Project name
 
-* [ ] Compile & vet candidate list
+* [ ] Compile and vet candidate list
 * [ ] Logo design
 * [ ] Legal review (if required)
 * [ ] Reserve name (domain name, GitHub, social media handles, etc.)
@@ -43,7 +43,7 @@ These are separated out into several different lists, depending on the area cove
 * [ ] Org structure, voting reqs & process
 * [ ] Rules for amending governance
 * [ ] Rules for contribution, committer status
-* [ ] Provisions for sub-projects & lifecycle mgmt
+* [ ] Provisions for sub-projects and lifecycle management
 * [ ] Privacy policy
 * [ ] Code of conduct
 * [ ] Foundation membership options, if planned
@@ -56,7 +56,7 @@ These are separated out into several different lists, depending on the area cove
 * [ ] Web conferencing platform
 * [ ] Community calendar (tool + who will maintain)
 * [ ] Public website and website maintenance
-* [ ] CI/CD, dev & test environments
+* [ ] CI/CD, development and test environments
 * [ ] Lab requirements, how they will be acquired
 * [ ] Code contribution tools and process
 * [ ] Project documentation platform
