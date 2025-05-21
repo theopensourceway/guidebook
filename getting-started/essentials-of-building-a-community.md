@@ -26,11 +26,12 @@ Leaders of a community should establish best practices at the start. Trying to c
 Given the significant investments—of time, energy, materials resources, labor, and emotion—required to create and sustain communities, we recommend giving serious consideration to the question of whether you *can* or *should* attempt to create one in the first place. We'll begin there.
 
 ## Considering forming a community
-It is possible and not uncommon to have software that is open source and the maintainers have shown no interest in forming a community beyond themselves. Frankly, not every code base needs its own community. Conversely, any code base may suddenly find itself at the center of a community that arises around it. Being open source doesn't mean it must have a community. But it does mean that if it has one, it gets certain benefits particular to open source software.
+Not every open source software project needs its own community. It is possible (and not uncommon) to have open source software maintained by people with no demonstrated interest in forming a community beyond themselves. 
+Conversely, any codebase may suddenly find itself at the center of a community that arises around it without any community-building action from maintainers whatsoever.
 
-Forming an open source software community has many of the same ethical and organizational considerations of forming any other community of practice. A community of practice is a group of people who share a common interest, who also get together to learn and practice within the common domain.
+Simply *being* an open source project does not guarantee the project will have a community. But it does mean that if it has one, it can reap certain benefits particular to open source software.
 
-An example of a community of practice might be hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player. Or it might be skateboarders, gathering every week at the park to learn and practice new tricks.
+Forming an open source software community has many of the same ethical and organizational considerations of forming any other community of practice. A community of practice is a group of people who share a common interest, who also get together to learn and practice within the common domain. An example of a community of practice might be hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player. Or it might be skateboarders, gathering every week at the park to learn and practice new tricks.
 
 For you and your organization to consider forming an open source software community, you must first ask yourselves: Are you willing to form and be the caretakers for any other sort of community? Does doing so match your vision? Does it match your style of getting things done?
 
@@ -46,7 +47,7 @@ Some other considerations around forming an open source community:
 * Your organization is one that is open, collaborative, and community-building by nature. You may create right-sized open source projects, where the users and contributors are closely aligned in some way. For example, collaborators at a university. If there is no legal barrier to starting a project, why not start one? You never know who might find it and benefit from it in the future.
 
 ## Challenges of open source projects
-The following aspects of communities must be taken into account when defining best practices for open source:
+Take into account the following aspects of communities when defining best practices for an open source project:
 
 * Many people joining are novices. Some need training in the technology being developed, some in tools, and most in how to interact effectively in the group.
 * People like to be recognized for their contributions, especially if they are volunteers.
@@ -168,10 +169,4 @@ This helps you know whether the project is making progress. It's also important 
 
 Another important set of metrics concern how many bugs get fixed, and how quickly. It's not bad for a project to have a lot of bug reports. Every project has bugs, so a steady stream of bug reports shows that people are using the product. But the bugs should get fixed!
 
-## Recommended reading
-Some resources we drew on to write these summary guidelines include:
-
-* Overview article: [How To Build An Open Source Community](<http://oss-watch.ac.uk/resources/howtobuildcommunity>)
-* "[Producing Open Source Software](<https://producingoss.com/>) is a book about the human side of open source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software." (From the web site.)
-* "Online communities provide a wide range of opportunities for supporting a cause, marketing a product or service, or building open source software. [The Art of Community](<https://www.jonobacon.com/2009/09/18/the-art-of-community-available-for-free-download/>) helps you recruit members, motivate them, and manage them as active participants. Discover how your community can become a reliable support network, a valuable source of new ideas, and a powerful marketing force. The expanded second edition shows you how to keep community projects on track, make use of social media, and organize collaborative events." (From the web site.)
-* [The Wisdom of Crowds](<https://www.penguinrandomhouse.com/books/175380/the-wisdom-of-crowds-by-james-surowiecki/>): A fresh look at how to gather ideas from diverse groups of people, by journalist James Surowiecki. From the website: "James Surowiecki explores a deceptively simple idea: Large groups of people are smarter than an elite few, no matter how brilliant—better at solving problems, fostering innovation, coming to wise decisions, even predicting the future."
+## Conclusion
