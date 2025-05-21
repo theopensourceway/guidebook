@@ -1,24 +1,49 @@
 ---
 description:
-author: Andy Oram <andyo@praxagora.com>
-updated: 2020-12-16
+author: Andy Oram <andyo@praxagora.com>, Karsten Wade <kwade@redhat.com>
+updated: 2025-05-21T00:00:00.000Z
 ---
 
 # Essentials of Building a Community
-Free and open-source projects are among the most successful ones, and can be uniquely fulfilling for participants. Because these projects rely on healthy communities to get things done, they must consciously carry out community building, including the following practices:
+Companies and technologists working in isolation often forget this, but by starting an open source software project, you take a big step toward lining up the people you need to ensure that what you're making meets a need, has features users want, and is easy to use. Working in open source helps remind technologists that community is critical to producing good technology and getting it accepted.
 
+Because open source projects rely on [healthy communities](measuring-success/defining-healthy-communities.md) to get things done, their members must consciously carry out the challenging work of community building, which often includes practices like:
+
+* Setting collective goals and strategy
 * Building leadership and preparing for leadership changes
 * Recruiting, training, and mentoring members, including diverse roles and demographic groups
-* Decision-making and conflict resolution
+* Guiding decisions and resolving conflicts
 * Upholding positive norms
-* Recognition and rewards
+* Recognizing and rewarding community members
 * Running effective meetings
 
-Open source helps to remind technologists that community is critical to producing good technology and getting it accepted. This is often forgotten by companies and technologists working in isolation, but if you choose to make technology free and open source, you take a big step toward lining up the people you need to ensure that a product meets a need, has features users want, and is easy to use.
+This chapter summarizes the tasks that project leaders and members should carry out for a successful community, and lists some best practices for carrying out the tasks.
 
-This document summarizes the tasks that project leaders and members should carry out for a successful community, and lists some best practices for carrying out the tasks. We recommend that every project have a community steering committee, which is parallel to the technical steering committee.
+We recommend that every project have a community steering committee, which works parallel to the technical steering committee.
 
 Leaders of a community should establish best practices at the start. Trying to catch problems and define norms in a rearguard action is confusing for participants and may drive many away. But while best practices should be made clear, they may also evolve as the community develops.
+
+Given the significant investments—of time, energy, materials resources, labor, and emotion—required to create and sustain communities, we recommend giving serious consideration to the question of whether you *can* or *should* attempt to create one in the first place. We'll begin there.
+
+## Considering forming a community
+It is possible and not uncommon to have software that is open source and the maintainers have shown no interest in forming a community beyond themselves. Frankly, not every code base needs its own community. Conversely, any code base may suddenly find itself at the center of a community that arises around it. Being open source doesn't mean it must have a community. But it does mean that if it has one, it gets certain benefits particular to open source software.
+
+Forming an open source software community has many of the same ethical and organizational considerations of forming any other community of practice. A community of practice is a group of people who share a common interest, who also get together to learn and practice within the common domain.
+
+An example of a community of practice might be hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player. Or it might be skateboarders, gathering every week at the park to learn and practice new tricks.
+
+For you and your organization to consider forming an open source software community, you must first ask yourselves: Are you willing to form and be the caretakers for any other sort of community? Does doing so match your vision? Does it match your style of getting things done?
+
+For example, an organization like a university or a branch of the armed forces would have two very different approaches to getting things done. Their reasons for forming any kind of community may be wildly different, or unexpectedly aligned.
+
+A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations from wildly different worlds. Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively (community).
+
+Some other considerations around forming an open source community:
+
+* You are interested in the benefits of open collaboration and innovation. You might already have or are planning a new technology, and open source is a way to find like-minded collaborators. Or you may just have a feeling that this is the right approach for your plans.
+* Attracting enthusiasts to your project is a key part of your growth strategy, and you've identified that open source contributors of all types are good enthusiasts for you.
+* The scientific method is core to your mission, purpose, and/or practices, and you see the benefit of having your entire software toolchain, infrastructure, et al as something your users should be able to contribute to and become maintainers of.
+* Your organization is one that is open, collaborative, and community-building by nature. You may create right-sized open source projects, where the users and contributors are closely aligned in some way. For example, collaborators at a university. If there is no legal barrier to starting a project, why not start one? You never know who might find it and benefit from it in the future.
 
 ## Challenges of open source projects
 The following aspects of communities must be taken into account when defining best practices for open source:
@@ -26,7 +51,7 @@ The following aspects of communities must be taken into account when defining be
 * Many people joining are novices. Some need training in the technology being developed, some in tools, and most in how to interact effectively in the group.
 * People like to be recognized for their contributions, especially if they are volunteers.
 * Non-technical contributions in advocacy and community-building are often unnoticed or undervalued.
-* Diversity in gender, race, and ability make a big difference in how useful the product is to broad groups of users, but this diversity is hard to achieve.
+* Diversity in gender, race, and ability make a big difference in how useful the product is to broad groups of users, but achieving this diversity is difficult.
 
 ## Building leadership
 There are many leadership roles. Many technical projects focus on technical leadership, which people usually take on after making technical contributions. Other types of leadership include:
@@ -75,7 +100,7 @@ As with recruitment and other aspects of managing members, development must be d
 ### Recognition and rewards
 Volunteers come to a project for many reasons. Experts want to create standards around their practices, students come to hone their skills, and everyone wants to make better technology for the world. But at all levels, people appreciate being rewarded for their work and will contribute more if they feel rewarded.
 
-A badging system gives contributors a clear goal to aim for, and marks people who might be able to contribute at higher levels and move into leadership. See [Badges for individuals and projects]() for more about this concept.
+A badging system gives contributors a clear goal to aim for, and marks people who might be able to contribute at higher levels and move into leadership.
 
 Metrics are crucial to determining the contributors to reward. And these must be meaningful metrics that reflect real achievements; otherwise they can offer perverse incentives to do things like make worthless commits. See the section "Who has contributed".
 
@@ -119,7 +144,7 @@ To repair the damage of the offensive statement, leaders—and hopefully other c
 
 A statement that violates the code of conduct should therefore be handled in two stages. First, a leader or moderator must declare that the statement violates the code of conduct and is not permitted. Then a leader should privately contact the person who made the statement and elicit why it was made. Was the person in the heat of a strong opinion? Did they deliberately want to provoke or discourage other members of the group? Did they honestly not realize that the statement was offensive? After determining the reason for the statement, the leader should engage with the person who made it and help them learn how to be in the community productively. The person may have to be banned, though, if they refuse intervention or insist on their "right" to violate the code of conduct.
 
-A popular and useful summary of a good community atmosphere is [The Apache Way](<https://www.apache.org/theapacheway/>), developed by the Apache Software Foundation, which is one of the leading organizations in free and open source software.
+A popular and useful summary of a good community atmosphere is [The Apache Way](https://www.apache.org/theapacheway/), developed by the Apache Software Foundation, which is one of the leading organizations in free and open source software.
 
 ## Measuring progress
 Measurements play several valuable roles, including:

@@ -1,6 +1,6 @@
 ---
 description:
-author: Bryan Behrenshausen <bryan.behrenshausen@sas.com>, Dave Neary <dneary@redhat.com>, Karsten Wade <kwade@redhat.com>
+author: Bryan Behrenshausen <bryan.behrenshausen@sas.com>
 updated: 2020-12-16T00:00:00.000Z
 ---
 
@@ -59,26 +59,6 @@ Many companies are in this position. These companies have determined that collab
 
 ### How does an organization determine whether to get involved in an open source software community?
 Getting involved in an open source software community has important organizational, procedural, and legal implications for an enterprise. Most organizations that are seriously invested in open source software development fund internal open source program offices (OSPO) to advise the organization on matters related to open source community participation. Others partner with open source experts to advise this work.
-
-## Considering forming a community
-It is possible and not uncommon to have software that is open source and the maintainers have shown no interest in forming a community beyond themselves. Frankly, not every code base needs its own community. Conversely, any code base may suddenly find itself at the center of a community that arises around it. Being open source doesn't mean it must have a community. But it does mean that if it has one, it gets certain benefits particular to open source software.
-
-Forming an open source software community has many of the same ethical and organizational considerations of forming any other community of practice. A community of practice is a group of people who share a common interest, who also get together to learn and practice within the common domain.
-
-An example of a community of practice might be hammer dulcimer players who have an annual gathering to share about the art and practice of being a hammer dulcimer player. Or it might be skateboarders, gathering every week at the park to learn and practice new tricks.
-
-For you and your organization to consider forming an open source software community, you must first ask yourselves: Are you willing to form and be the caretakers for any other sort of community? Does doing so match your vision? Does it match your style of getting things done?
-
-For example, an organization like a university or a branch of the armed forces would have two very different approaches to getting things done. Their reasons for forming any kind of community may be wildly different, or unexpectedly aligned.
-
-A feature of communities of practice that applies to open source software communities is how they can truly draw together people and organizations from wildly different worlds. Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively (community).
-
-Some other considerations around forming an open source community:
-
-* You are interested in the benefits of open collaboration and innovation. You might already have or are planning a new technology, and open source is a way to find like-minded collaborators. Or you may just have a feeling that this is the right approach for your plans.
-* Attracting enthusiasts to your project is a key part of your growth strategy, and you've identified that open source contributors of all types are good enthusiasts for you.
-* The scientific method is core to your mission, purpose, and/or practices, and you see the benefit of having your entire software toolchain, infrastructure, et al as something your users should be able to contribute to and become maintainers of.
-* Your organization is one that is open, collaborative, and community-building by nature. You may create right-sized open source projects, where the users and contributors are closely aligned in some way. For example, collaborators at a university. If there is no legal barrier to starting a project, why not start one? You never know who might find it and benefit from it in the future.
 
 ## Conclusion
 This chapter covered the basics of what an open source community is and why different types of people and organizations participate in them. Then it discussed considerations people make when determining whether to start a new open source community.
