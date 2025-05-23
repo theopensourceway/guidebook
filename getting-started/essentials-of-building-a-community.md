@@ -7,7 +7,7 @@ updated: 2025-05-21T00:00:00.000Z
 # Essentials of Building a Community
 Companies and technologists working in isolation often forget this, but by starting an open source software project, you take a big step toward lining up the people you need to ensure that what you're making meets a demonstrated need, has features users want, and is easy to use. Working in open source helps remind technologists that community is critical to producing good technology and getting it accepted.
 
-Because open source projects rely on [healthy communities](measuring-success/defining-healthy-communities.md) to get things done, their members must consciously carry out the challenging work of community building, which often includes practices like:
+Because open source projects rely on [healthy communities](../measuring-success/defining-healthy-communities.md) to get things done, their members must consciously carry out the challenging work of community building, which often includes practices like:
 
 * Setting collective goals and strategy
 * Participating in community governance and preparing for leadership changes
