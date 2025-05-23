@@ -18,11 +18,7 @@ Because open source projects rely on [healthy communities](measuring-success/def
 * Bringing the community together for meetings and other events
 * Managing the community's growth and ensuring its sustainability
 
-This chapter summarizes the tasks that project leaders and members should carry out for a successful community, and lists some best practices for carrying out the tasks.
-
-We recommend that every project have a community steering committee, which works parallel to the technical steering committee.
-
-Leaders of a community should establish best practices at the start. Trying to catch problems and define norms in a rearguard action is confusing for participants and may drive many away. But while best practices should be made clear, they may also evolve as the community develops.
+This chapter summarizes the tasks that project leaders and members should carry out for a successful community, and lists some best practices for carrying out the tasks. Consider it a kind of "community quick-start" guide—an overview of several key topics we'll explore in more detail throughout this book. We present this truncated explanation at the start because we believe community leaders should establish best practices as soon as possible; trying to catch problems and define norms in a rearguard action is confusing for participants and may drive many away. But we recognize that reading the entire _Open Source Way_ guidebook before getting to work building a community might be untenable for many.
 
 Given the significant investments—of time, energy, materials resources, labor, and emotion—required to create and sustain communities, we recommend giving serious consideration to the question of whether you *can* or *should* attempt to create one in the first place. We'll begin there.
 
