@@ -1,9 +1,9 @@
 ---
 description:
-author: Dave Neary <dneary@redhat.com>
 author: Dave Neary <dneary@redhat.com>, Bryan Behrenshausen <bryan.behrenshausen@sas.com>
 updated: 2025-06-04T00:00:00.000Z
 ---
+
 # Building a Strategy
 Launching an open source project does not guarantee its success. Successful open source software projects require more than accessible code and a willingness to collaborate. The most popular and effective projects have communities that thoroughly understand their partner and contributor ecosystems, set clear goals, and structure their collaboration with these goals squarely in mind.
 
@@ -12,7 +12,9 @@ That is, they have clear and effective strategies.
 As Karl Fogel writes in _Producing Open Source Software_: 
 
 > The hardest part about launching a free software project is transforming a private vision into a public one. You or your organization may know perfectly well what you want, but expressing that goal comprehensively to the world is a fair amount of work. It is essential, however, that you take the time to do it.[^fogel-producing-oss]
+
 In this chapter, we'll provide resources for doing that (hard and fair amount of) work. We'll provide a list of questions project leaders and maintainers should discuss in order to sketch strategies for their open source projects. Answering these questions should clarify critical facets of the project and help maintainers determine _what to do_ (and, just as importantly, what _not_ to do) to guide the project to success.
+
 Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. In the second part of this chapter, then, we discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success might feel better equipped to achieve it.
 ## What is a strategy?
 ## Building an open source project strategy
