@@ -1,20 +1,32 @@
 ---
 description:
-author: Dave Neary <dneary@redhat.com>
-updated: 2025-05-21T00:00:00.000Z
+author: Dave Neary <dneary@redhat.com>, Bryan Behrenshausen <bryan.behrenshausen@sas.com>
+updated: 2025-06-04T00:00:00.000Z
 ---
 
-# Setting goals
-Anyone advising open source communities on project goals has likely found themselves asking project leaders the same basic questions. This chapter outlines seven of the most common questions communities can ask themselves as they work to articulate a project's goal:
+# Building a Strategy
+Launching an open source project does not guarantee its success. Successful open source software projects require more than accessible code and a willingness to collaborate. The most popular and effective projects have communities that thoroughly understand their partner and contributor ecosystems, set clear goals, and structure their collaboration with these goals squarely in mind.
 
-1. What is the project?
-1. Who are the project's users?
-1. How do you engage with your user base today?
-1. What alternatives to your project already exist?
-1. Can you work closely with adjacent projects?
-1. What are your goals for the project?
-1. Who are your key stakeholders?
+That is, they have clear and effective strategies. As Karl Fogel writes in _Producing Open Source Software_: 
 
+> The hardest part about launching a free software project is transforming a private vision into a public one. You or your organization may know perfectly well what you want, but expressing that goal comprehensively to the world is a fair amount of work. It is essential, however, that you take the time to do it.[^fogel-producing-oss]
+
+In this chapter, we'll provide resources for doing that (hard and fair amount of) work. We'll provide a list of questions project leaders and maintainers should discuss in order to sketch strategies for their open source projects. Answering these questions should clarify critical facets of the project and help maintainers determine _what to do_ (and, just as importantly, what _not_ to do) to guide the project to success.
+
+Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. So we'll also discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success feel better equipped to achieve it.
+
+## What is a strategy?
+Your project's strategy is not merely a list technical capabilities, a series of long-term goals, or the community's vision of success. It is a comprehensive and adaptable plan to overcome obstacles and achieve an objective. Simply put, your strategy is your plan to architect, nurture, and grow a successful open source project.
+
+In his seminal book strategic thinking, Richard P. Rumelt outlines three components of an effective strategy[^rumelt-strategy]:
+
+1. A **diagnosis**, which explains the precise nature of the problem a team or project is facing and distills its essence into something coherent and manageable
+2. A **guiding policy**, which describes (in general terms) an approach to addressing that diagnosis
+3. A set of **coherent actions**, which a team must execute in coordinated fashion to implement the guiding policy and see it to fruition
+
+Rumelt calls these the "kernel" of good strategy because they are all necessary ingredients in any recipe for success. The work of identifying the kernel of a good strategy for an open source project can be difficult, time-consuming, and full of debate among maintainers, contributions, and other project stakeholders. But that work is absolutely essential for building a project that lasts. We'll therefore organize our advice on setting an open source strategy according to Rumelt's three-part architecture.
+
+## Building an open source strategy
 ### What is the project?
 This should be a very basic question. But its answers typically aren't. Too often, open source projects describe themselves in terminology unfamiliar to many potential users, or they focus on _how_ they do what they do, rather than on the _problems_ they can solve. When formulating potential answers to this question, focus them on _how the project helps its users_. What problem does it solve? How would you describe your project to a potential user of the project in the most succinct terms possible?
 
@@ -87,7 +99,74 @@ A small number of people who will care deeply about your project, and can repres
 
 In the case of vendor-sponsored projects, this group typically includes an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales). You may also want to include in this group someone from your content services or support organizations and someone from product security. This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals.
 
-## Reviewing the results
+### Reviewing the results
 Answers to these seven questions can furnish a single-page document that forms a baseline, a frame of reference, for any project planning conversations. After running this exercise, your team or community should share some understanding of the problems your project solves, and for whom. You will be able to communicate the value of your project in language that makes sense in your potential users' frame of reference. You will understand how your project fits into a market, and what you want to achieve with it there. Finally, you will have identified the key group inside your organization who should be aligned on your current status and future strategy.
 
 Combining the answers to these seven questions, next steps for your project should become obvious to all involved—and your community will be ready to help your project succeed in achieving its goals.
+
+## Building an Open Source Product Strategy
+
+"Should we open source this project?"
+
+This chapter won't answer that question for you. But it _will_ outline some considerations you should make as you answer the question when it arises.
+
+First, ask yourself why you are considering an open source approach. Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you or your organization achieve certain goals. Identifying those benefits is the first step in creating an open source strategy.
+
+### Understand the economics of open source
+
+Open source is not a business model. It is a way to develop software collaboratively and increase a project's distribution and reach by lowering acquisition costs. To understand the business rationale that makes an open source strategy appealing, consider these economic principles:
+
+**Reducing the price of a good increases the demand for it**  
+In the case of open source, lowering the cost of acquisition maximizes demand and, therefore, project adoption. Note that the cost of adoption is not only monetary; it also includes the time and effort needed to adopt and migrate from whatever solution you're currently using.
+
+**When the price of one good decreases, demand for its substitutes also decreases.**  
+Open source projects can undermine established proprietary software companies by being convenient to adopt at a lower cost. This principle explains how open source can be an agent for market disruption. Disruption is an opportunity to capitalize on the adoption of alternatives and grow another market.
+
+**All else being equal, when the price of a good decreases, demand for its complements increases.**  
+Every successful commercial open source strategy is based on this principle. If your goal is revenue, then you will need to determine the complements to the software that you'll be releasing as open source. Those complements should provide additional value to customers.
+
+When establishing an open source strategy, your goal is to connect these principles with a concrete business goal.
+
+### Define your team and the field
+
+Creating a strategy requires input and buy-in from multiple stakeholders.
+
+* Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
+* Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
+* Ensure that all stakeholders share an understanding of the problem your work is addressing. Develop your understanding of both the landscape in which the project operates and the relative benefit of investing in one option over others.
+
+### Generate a draft strategy proposal
+
+Next, compose a strategy proposal document. It should contain:
+
+**An elevator pitch**  
+A high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
+
+**A business rationale**  
+A definition of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
+
+**A high-level execution plan**  
+Including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your top priority.
+
+### Move from strategy to action
+
+Strategy documents are useful if they affect action by allowing individuals to make local decisions in support of global goals. Communicating your strategy is therefore crucial to achieving strategic ends. Everyone should understand how their work impacts the open source strategy. When the entire organization understands the project's goal, reaching consensus on budget and resource allocation is much easier.
+
+**Continually monitor and communicate progress toward project goals.**  
+If fostering a diverse group of codevelopers is your community goal, then celebrate contributions from new participants and include growth figures in your monthly newsletter.
+
+**Allocate resources in a way that makes success possible.**  
+If your goal is to move an entire industry from a proprietary competitor to an open source project, and you have one person working part time to promote the open source project, then your chances of success are low.
+
+**Ensure that your strategy is a living document.**  
+Revisit it regularly with key stakeholders to ensure that your open source strategy stays fresh and relevant.
+
+Crafting an open source strategy requires representing all key constituencies in the development process to achieve buy-in, exploring reasons why open sourcing makes sense for the organization's goals, ensuring you are measuring the right things to gauge your success, and preparing to pivot if necessary. Do all of this well, and you can turn everyone involved into an advocate for the open source project.
+
+## Conclusion
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+[^rumelt-strategy]: Rumelt, R.P. (2011). Good strategy/bad strategy: The difference and why it matters. New York: Currency.
+[^fogel-producing-oss]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 13.
+
+
