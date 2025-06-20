@@ -16,19 +16,17 @@ In this chapter, we'll provide resources for doing that (hard and fair amount of
 Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. So we'll also discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success feel better equipped to achieve it.
 
 ## What is a strategy?
-## Building an open source project strategy
+Your project's strategy is not merely a list technical capabilities, a series of long-term goals, or the community's vision of success. It is a comprehensive and adaptable plan to overcome obstacles and achieve an objective. Simply put, your strategy is your plan to architect, nurture, and grow a successful open source project.
 
+In his seminal book strategic thinking, Richard P. Rumelt outlines three components of an effective strategy[^rumelt-strategy]:
 
-Anyone advising open source communities on project goals has likely found themselves asking project leaders the same basic questions. This chapter outlines seven of the most common questions communities can ask themselves as they work to articulate a project's goal:
+1. A **diagnosis**, which explains the precise nature of the problem a team or project is facing and distills its essence into something coherent and manageable
+2. A **guiding policy**, which describes (in general terms) an approach to addressing that diagnosis
+3. A set of **coherent actions**, which a team must execute in coordinated fashion to implement the guiding policy and see it to fruition
 
-1. What is the project?
-1. Who are the project's users?
-1. How do you engage with your user base today?
-1. What alternatives to your project already exist?
-1. Can you work closely with adjacent projects?
-1. What are your goals for the project?
-1. Who are your key stakeholders?
+Rumelt calls these the "kernel" of good strategy because they are all necessary ingredients in any recipe for success. The work of identifying the kernel of a good strategy for an open source project can be difficult, time-consuming, and full of debate among maintainers, contributions, and other project stakeholders. But that work is absolutely essential for building a project that lasts. We'll therefore organize our advice on setting an open source strategy according to Rumelt's three-part architecture.
 
+## Building an open source strategy
 ### What is the project?
 This should be a very basic question. But its answers typically aren't. Too often, open source projects describe themselves in terminology unfamiliar to many potential users, or they focus on _how_ they do what they do, rather than on the _problems_ they can solve. When formulating potential answers to this question, focus them on _how the project helps its users_. What problem does it solve? How would you describe your project to a potential user of the project in the most succinct terms possible?
 
