@@ -49,7 +49,7 @@ For example, let's imagine we're asking an [Istio](https://istio.io/) developer 
 
 Ask as many follow-up questions as your community needs in order to develop a simple, straightforward understanding of project and what it _can do_—that is, not just _what it does_, but _what difference it makes_ for someone who would choose to adopt and use it.
 
-### Who are the project's users?
+#### Who are the project's users?
 Many open source projects do not clearly understand who uses their projects and what those users do with the project's tools. Consider using the concept of "personas" to characterize archetypal groups of key users, and be sure to think in terms of "jobs to be done."
 
 For example, you might categorize a project's potential or current users with a number of criteria:
@@ -67,7 +67,7 @@ Moreover, anyone interested in developing an open source _product_ strategy shou
 
 A company's path to adopting open source doesn't usually follow a straight path from using an upstream open source project to converting to an enterprise open source product. Open source adoption tends to be "grassroots," bottom-up; enterprise open source products are often evaluated and purchased top-down. Those adopting an open source project inside a company can be valuable influencers when consulting on purchasing decisions—if they're connected to the purchasing process, or if the person responsible for purchasing is aware that the company is already using the product.
 
-### What alternatives to your project already exist?
+#### What alternatives to your project already exist?
 You can learn a lot about your project by assessing who that project competes with (or who you believe it _will_ compete with, if you haven't yet launched). Often, this involves paying attention to the _other_ projects the people you identified in the previous step of your diagnosis use to accomplish the same (or similar) tasks you identified in the _first_ step. Consider asking:
 
 * If your project doesn't have any competition, why is that the case?
@@ -90,7 +90,7 @@ You answers here could directly impact your community architectur eor go-to-mark
 ### Policy
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### What are your goals for the project?
+#### What are your goals for the project?
 The existential question for every open source project is: "Why does this project exist?" Specifically, for a project released by or driven by a vendor, that question becomes: "What do we want to achieve by investing in this project?"
 
 Surprisingly, many projects have difficulty answering this question.
@@ -114,13 +114,13 @@ Every successful commercial open source strategy is based on this principle. If 
 
 When establishing an open source strategy, your goal is to connect these principles with a concrete business goal.
 
-### Can you work closely with adjacent projects?
+#### Can you work closely with adjacent projects?
 If your software is frequently consumed _with_ or is particularly useful to users _of_ another project, then you may see opportunities for growing awareness of your project in its early stages and better understanding your users' needs. For example, Ceph can manage storage for OpenStack or Kubernetes; for Ceph, then, OpenStack and Kubernetes are adjacent communities. Catering to adjacent projects to find an audience may affect your technology roadmap, the events you target, the effort you put into specific integration projects, and so on. An adjacent project provides you with a potentially friendly audience who have the same problems your technology solves, so you can engage in some joint market research or UX testing, or coordinate joint events to meet and engage with potential users. This is also connected to understanding your competition; the communities important to them will also be important to you.
 
 ### Actions
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Who are your key stakeholders?
+#### Who are your key stakeholders?
 A small number of people who will care deeply about your project, and can represent a group of people or interests which affect the project. These people are your stakeholders.
 
 In the case of vendor-sponsored projects, this group typically includes an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales). You may also want to include in this group someone from your content services or support organizations and someone from product security. This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals.
@@ -152,7 +152,7 @@ A key consideration for groups crafting potential engagement pathways is _how so
 
 <!--Everything from here is raw material from earlier drafts, unincorporated into the current one. -->
 
-#### Move from strategy to action
+### Move from strategy to action
 Strategy documents are useful if they affect action by allowing individuals to make local decisions in support of global goals. Communicating your strategy is therefore crucial to achieving strategic ends. Everyone should understand how their work impacts the open source strategy. When the entire organization understands the project's goal, reaching consensus on budget and resource allocation is much easier.
 
 **Continually monitor and communicate progress toward project goals.**  
