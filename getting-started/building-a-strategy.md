@@ -18,13 +18,13 @@ Moreover, some open source _projects_ eventually become open source _products_�
 ## What is a strategy?
 Your project's strategy is not merely a list technical capabilities, a series of long-term goals, or the community's vision of success. It is a comprehensive and adaptable plan to overcome obstacles and achieve an objective. Simply put, your strategy is your plan to architect, nurture, and grow a successful open source project.
 
-In his seminal book strategic thinking, Richard P. Rumelt outlines three components of an effective strategy[^rumelt-strategy]:
+In his seminal book on strategic thinking, Richard P. Rumelt[^rumelt-strategy] outlines three components of an effective strategy:
 
 1. A **diagnosis**, which explains the precise nature of the problem a team or project is facing and distills its essence into something coherent and manageable
 2. A **guiding policy**, which describes (in general terms) an approach to addressing that diagnosis
 3. A set of **coherent actions**, which a team must execute in coordinated fashion to implement the guiding policy and see it to fruition
 
-Rumelt calls these the "kernel" of good strategy because they are all necessary ingredients in any recipe for success. The work of identifying the kernel of a good strategy for an open source project can be difficult, time-consuming, and full of debate among maintainers, contributions, and other project stakeholders. But that work is absolutely essential for building a project that lasts. We'll therefore organize our advice on setting an open source strategy according to Rumelt's three-part architecture.
+Rumelt calls these the "kernel" of good strategy because they are all necessary ingredients in any recipe for success. The work of identifying the kernel of a good strategy for an open source project can be difficult, time-consuming, and full of debate among maintainers, contributions, and other project stakeholders. But that work is absolutely essential for building a project that endures. We'll therefore organize our advice on setting an open source strategy according to Rumelt's three-part architecture.
 
 ## Building an open source strategy
 
@@ -68,7 +68,7 @@ Moreover, anyone interested in developing an open source _product_ strategy shou
 A company's path to adopting open source doesn't usually follow a straight path from using an upstream open source project to converting to an enterprise open source product. Open source adoption tends to be "grassroots," bottom-up; enterprise open source products are often evaluated and purchased top-down. Those adopting an open source project inside a company can be valuable influencers when consulting on purchasing decisions—if they're connected to the purchasing process, or if the person responsible for purchasing is aware that the company is already using the product.
 
 #### What alternatives to your project already exist?
-You can learn a lot about your project by assessing who that project competes with (or who you believe it _will_ compete with, if you haven't yet launched). Often, this involves paying attention to the _other_ projects the people you identified in the previous step of your diagnosis use to accomplish the same (or similar) tasks you identified in the _first_ step. Consider asking:
+You can learn a lot about your project by assessing who that project competes with (or who you believe it _will_ compete with, if you haven't yet launched). Often, this involves paying attention to the _other_ projects the people you identified in the previous step of your diagnosis use to accomplish the same (or similar) tasks you identified in the first step. Consider asking:
 
 * If your project doesn't have any competition, why is that the case?
 * Does this project play a role in an area of emerging technology?
@@ -84,7 +84,7 @@ If your strategy involves creating an open source product, you might also pose a
 * If a competitor is an incumbent in the market, what can you tell about them and their customers?
 * Who are your competitor's customers? What do they have in common?
 
-You answers here could directly impact your community architectur eor go-to-market activities. If you're an upstart disruptor, for instance, your goals and messaging may be anchored to your competition: "cheaper than," "an open source alternative to," "simpler and faster than." If you're in a new market and your project is involved in a "land grab," you'll need to focus on spreading your message fast—which means a higher marketing budget or more aggressive community plan, and more focus on defining the problems you solve for potential users.
+Your answers here could directly impact your community architecture or go-to-market activities. If you're an upstart disruptor, for instance, your goals and messaging may be anchored to your competition: "cheaper than," "an open source alternative to," "simpler and faster than," and so on. If you're in a new market and your project is involved in a "land grab" to quickly gain market share, you'll need to focus on spreading your message quickly—which means a higher marketing budget or more aggressive community plan, and more focus on defining the problems you solve for potential users.
 
 <!--This section is logically organized but not yet drafted. -->
 ### Policy
