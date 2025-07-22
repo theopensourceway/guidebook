@@ -27,7 +27,9 @@ In his seminal book on strategic thinking, Richard P. Rumelt[^rumelt-strategy] o
 Rumelt calls these the "kernel" of good strategy because they are all necessary ingredients in any recipe for success. The work of identifying the kernel of a good strategy for an open source project can be difficult, time-consuming, and full of debate among maintainers, contributions, and other project stakeholders. But that work is absolutely essential for building a project that endures. We'll therefore organize our advice on setting an open source strategy according to Rumelt's three-part architecture.
 
 ## Building an open source strategy
+Building a strategy for your open source project involves the work of what open source consultant Emily Omier calls "positioning."[^positioning]. For Omier, positioning an open source project involves "controlling the assumptions that people make about your project and narrowing down the audience of potential users as much as possible" (p. 5). When architecting a strategy for your open source project, you'll need to _position_ your project with, in, against, and alongside other open source projects in an ecosystem and the various groups of people who might (or might not) _use_ those projects. So to build a strategy, you'll need to take stock—not only of your technology's capabilities but also of its relationships (current or potential) in a larger web of open source projects, products, and communities.
 
+Throughout this chapter, then, we offer probing questions open source project maintainers can ask when establishing their projects' strategic positions and setting those projects' strategic goals.
 ### Diagnosing the problem
 A good diagnosis, Rumelt writes, "names or classifies the situation, linking facts to patterns and suggesting that more attention be paid to some issues and less to others" (p. 79). Or—put another way—it is the answer to a singular question: "What's going on here?"
 
