@@ -89,10 +89,16 @@ If your strategy involves creating an open source product, you might also pose a
 Your answers here could directly impact your community architecture or go-to-market activities. If you're an upstart disruptor, for instance, your goals and messaging may be anchored to your competition: "cheaper than," "an open source alternative to," "simpler and faster than," and so on. If you're in a new market and your project is involved in a "land grab" to quickly gain market share, you'll need to focus on spreading your message quickly—which means a higher marketing budget or more aggressive community plan, and more focus on defining the problems you solve for potential users.
 
 <!--This section is logically organized but not yet drafted. -->
-### Policy
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Establishing a guiding policy
+Once you've diagnosed the problem that spurs development of your project, you'll likely see multiple ways you could go about tackling it. Your community needs to choose one, because you won't have the resources to pursue them all. So you'll need to develop a _guiding policy_ for your project's strategic operations. Your strategy's guiding policy is a description of your overall approach to addressing the problem you've identified in your diagnosis. An effective guiding policy, Rumelt writes, "channels action in certain directions without defining exactly what shall be done" (p. 84). It focuses your communitiy's activities by helping it decide what kinds of things it _should_ and _shouldn't_ be doing (more on that in the next section on coordinated actions).
 
-#### What are your goals for the project?
+Don't confuse a guiding policy with a description of some _end state_ you wish to achieve. A policy is not a goal. The sentence "Our policy is to be the most popular project with our target users" is not a statement of guiding policy but rather one of guiding _vision_. While vision is important, it cannot substitute for strategy.
+
+An effective guiding policy, Rumelt writes, either _creates_ or _leverages_ sources of advantage. "Indeed," he writes, "the heart of the matter in strategy is usually advantage. Just as a lever uses mechanical advantage to multiply force, strategic advantage multiples the effectiveness of resources and/or actions" (p. 85). Choosing to open source your software unlocks many potential sources of strategic advantage for your community (including your users). But you'll need to determine precisely _which_ of those advantages you wish to leverage. The questions we offer in this section should help you make that determination. These include:
+
+- Why open source this project?
+- How can you work with adjacent projects?
+
 The existential question for every open source project is: "Why does this project exist?" Specifically, for a project released by or driven by a vendor, that question becomes: "What do we want to achieve by investing in this project?"
 
 Surprisingly, many projects have difficulty answering this question.
