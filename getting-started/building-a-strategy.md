@@ -89,27 +89,27 @@ If your strategy involves creating an open source product, you might also pose a
 Your answers here could directly impact your community architecture or go-to-market activities. If you're an upstart disruptor, for instance, your goals and messaging may be anchored to your competition: "cheaper than," "an open source alternative to," "simpler and faster than," and so on. If you're in a new market and your project is involved in a "land grab" to quickly gain market share, you'll need to focus on spreading your message quickly—which means a higher marketing budget or more aggressive community plan, and more focus on defining the problems you solve for potential users.
 
 ### Establishing a guiding policy
-Once you've diagnosed the problem that spurs development of your project, you'll likely see multiple ways you could go about tackling it. Your community needs to choose one, because you won't have the resources to pursue them all. So you'll need to develop a _guiding policy_ for your project's strategic operations. Your strategy's guiding policy is a description of your overall approach to addressing the problem you've identified in your diagnosis. An effective guiding policy, Rumelt writes, "channels action in certain directions without defining exactly what shall be done" (p. 84). It focuses your communitiy's activities by helping it decide what kinds of things it _should_ and _shouldn't_ be doing (more on that in the next section on coordinated actions).
+Once you've diagnosed the problem your believe your project should solve, you'll have a clearer sense of what makes your project unique, who the project will appeal to, and why it is potentially so valuable to that group. Your next challenge is establishing the overall approach to getting it in those users' hands. This means articulating a _guiding policy._ Your strategy's guiding policy is a description of . An effective guiding policy, Rumelt writes, "channels action in certain directions without defining exactly what shall be done" (p. 84). In this case, a clear guiding policy focuses your communitiy's activities by helping it decide what kinds of things it _should_ and _shouldn't_ be doing (more on that in the next section on coordinated actions). An effective guiding policy, Rumelt writes, either _creates_ or _leverages_ sources of advantage. "Indeed," he writes, "the heart of the matter in strategy is usually advantage. Just as a lever uses mechanical advantage to multiply force, strategic advantage multiples the effectiveness of resources and/or actions" (p. 85). Choosing to open source your software unlocks many potential sources of strategic advantage for your community (including your users). But you'll need to determine precisely _which_ of those advantages you wish to leverage. The questions we offer in this section should help you make that determination. These include:
 
-Don't confuse a guiding policy with a description of some _end state_ you wish to achieve. A policy is not a goal. The sentence "Our policy is to be the most popular project with our target users" is not a statement of guiding policy but rather one of guiding _vision_. While vision is important, it cannot substitute for strategy.
-
-An effective guiding policy, Rumelt writes, either _creates_ or _leverages_ sources of advantage. "Indeed," he writes, "the heart of the matter in strategy is usually advantage. Just as a lever uses mechanical advantage to multiply force, strategic advantage multiples the effectiveness of resources and/or actions" (p. 85). Choosing to open source your software unlocks many potential sources of strategic advantage for your community (including your users). But you'll need to determine precisely _which_ of those advantages you wish to leverage. The questions we offer in this section should help you make that determination. These include:
-
-- Why open source this project?
+- What are your goals for this project?
 - How can you work with adjacent projects?
 
-#### Why open source this project?
-The existential question for every open source project is: "Why does this project exist?" Specifically, for a project released by or driven by a vendor, that question becomes: "What do we want to achieve by investing in this project?"
+#### What are your goals for this project?
+The existential question for every open source project is: "Why does this project exist?" And more specifically for commercial open source products: "What does the company want to achieve by investing in this project?"
 
-Surprisingly, many projects have difficulty answering this question.
+Surprisingly, many projects have difficulty answering this question. They've already decided that they want to open source their software, but they haven't given qdequate thought to _why_.
 
-As a vendor, ask: Why did you open source this piece of software in the first place? Are you trying to grow a market, promote a standard, disrupt a competitor, or increase demand for another product in your portfolio? Each of these requires a different message and different set of investments.
+So first ask yourself why you are considering an open source approach. Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you, your community, or your organization achieve certain goals. For example:
 
-Understanding the reasons for open sourcing your project will help you clarify the investment required to achieve your goal remain aligned across engineering, product, and sales teams down the road. In the absence of a strong common vision for the project's goals, you may find yourself under-funding the open source project, in part because of perceptions that it competes with products you build on top of it. A good open source product strategy provides clarity on which markets you are targeting, the market segmentation between product and project, and the role that the project plays in your entire business strategy and product portfolio. Clarifying these things will pay dividends in future discussions concerning the technical roadmap, or the relative prioritization of community promotion versus sales lead generation.
+* Are you **seeking new perspectives** on your work? Open sourcing your project allows others to assess your work, offer feedback on it, and contribute to it themselves.
+* Do you hope to **lower the development burden**? Open sourcing your project invites others to play key roles in developing and maintaining your project as it becomes more popular.
+* Are you trying to **make your project more secure**? Open sourcing your software helps others spot issues and vulnerabilities you may not have noticed.
 
-First, ask yourself why you are considering an open source approach. Before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you or your organization achieve certain goals. Identifying those benefits is the first step in creating an open source strategy.
+Answer questions like these might require some introspection.
 
-Open source is not a business model. It is a way to develop software collaboratively and increase a project's distribution and reach by lowering acquisition costs. To understand the business rationale that makes an open source strategy appealing, consider these economic principles:
+The question of why one might open source a project is even more important in commercial context. When establishing an open source product strategy, your goal is to connect the benefits you'll obtain by open sourcing your software with a concrete business goal. To be sure, "open source" is not a business model. It is a licensing decision meant to unlock certain opportunities—like the chance to develop software more collaboratively with users, or to increase a project's potential reach by lowering acquisition costs. These opportunities are only valuable insofar as they relate to your organization's overall business goals.
+
+To understand any business rationale that makes an open source approach appealing, consider these economic principles:
 
 **Reducing the price of a good increases the demand for it**  
 In the case of open source, lowering the cost of acquisition maximizes demand and, therefore, project adoption. Note that the cost of adoption is not only monetary; it also includes the time and effort needed to adopt and migrate from whatever solution you're currently using.
@@ -120,9 +120,17 @@ Open source projects can undermine established proprietary software companies by
 **All else being equal, when the price of a good decreases, demand for its complements increases.**  
 Every successful commercial open source strategy is based on this principle. If your goal is revenue, then you will need to determine the complements to the software that you'll be releasing as open source. Those complements should provide additional value to customers.
 
-When establishing an open source strategy, your goal is to connect these principles with a concrete business goal.
+So are you trying to:
 
-#### Can you work closely with adjacent projects?
+* Grow a market?
+* Disrupt a competitor?
+* Promote a standard?
+* Increase demand for another product in your portfolio?
+
+Choosing to open source your software project could help you accomplish any of these goals. But each of these goals demands different approaches to project and community architecture. Mozilla has catalogued the most common such architectures—what it calls "open source archetypes"—to more clearly illustrate how an organization's goal in open sourcing a project influence both the ways that project takes shape and the kinds of activities in which a community must engage to help it succeed.[^open-source-archetypes]
+
+Understanding the reasons for open sourcing your project will help you, your organization, and your community clarify the level and types of investment required to achieve your goal. In other words, they'll be critical to the overall policy that guides your strategic actions.
+
 If your software is frequently consumed _with_ or is particularly useful to users _of_ another project, then you may see opportunities for growing awareness of your project in its early stages and better understanding your users' needs. For example, Ceph can manage storage for OpenStack or Kubernetes; for Ceph, then, OpenStack and Kubernetes are adjacent communities. Catering to adjacent projects to find an audience may affect your technology roadmap, the events you target, the effort you put into specific integration projects, and so on. An adjacent project provides you with a potentially friendly audience who have the same problems your technology solves, so you can engage in some joint market research or UX testing, or coordinate joint events to meet and engage with potential users. This is also connected to understanding your competition; the communities important to them will also be important to you.
 
 ### Actions
