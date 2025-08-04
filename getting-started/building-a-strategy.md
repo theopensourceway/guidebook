@@ -135,42 +135,48 @@ Understanding the reasons for open sourcing your project will help you, your org
 #### How can you work with adjacent projects and their communities?
 As you've studied your user community, perhaps you've noticed that users frequently consume your project along with another, different project. Or perhaps you've seen that your project could be appealing to users of who have already adopted a different approach to addressing their challenges. When either of these is the case, consider it an opportunity for expanding awareness of your project in its early stages and better understanding your users' needs.
 
+The objective here is to study the projects that sit "adjacent" to yours in a specific ecosystem of open source projects. For example, [Ceph](https://ceph.io/en/community/) can manage storage for [OpenStack](https://www.openstack.org/) or [Kubernetes](https://kubernetes.io/); for Ceph, then, OpenStack and Kubernetes are adjacent communities.
+
+Catering to adjacent projects to find an audience may affect your technology roadmap, the events you target, the effort you put into specific integration projects, and so on. An adjacent project provides you with a potentially friendly audience who have the same problems your technology solves, so you can engage in some joint market research or UX testing, or coordinate joint events to meet and engage with potential users. This is also connected to understanding your competition; the communities important to them will also be important to you. Understanding these communities, their needs, and their dynamics can help you find footholds for your own project as you attempt to create space for it in a larger ecosystem. Your open source strategy should include analysis of these opportunities, and leveraging them should be part of the overall policy that guides your actions.
+
 ### Actions
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+By now you've identified the specific problems that your project should address for a particular set of users, and you've outlined your overall approach to success for both your project and everyone investing in it. Now you'll need to decide what you and your community actually need to _do_ (and _not do_) to bring your overall strategy to fruition. In Rumelt's term, you'll need to identify a series of "coherent actions" that you can execute to realize success.
 
-#### Who are your key stakeholders?
-A small number of people who will care deeply about your project, and can represent a group of people or interests which affect the project. These people are your stakeholders.
+Identifying these actions is critical because it will sharpen your community's everyday, tactical work—that is, it will focus everyone on doing what matters most. Open source project maintainers don't often have the luxury of immediate, persistent contact with users who contribute to their projects. Instead, project contributions typically arrive unprompted from strangers who may not be working with the same rich degree of context that founders share. The best a project maintainer can hope to do is establish a scaffolding that helps volunteers acting autonomously to take action in ways that advance the project's overall goals.
 
-In the case of vendor-sponsored projects, this group typically includes an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales). You may also want to include in this group someone from your content services or support organizations and someone from product security. This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals.
+In this section, then, we suggest posing the following action-focused questions as you develop your open source strategy:
 
-Creating a strategy requires input and buy-in from multiple stakeholders.
+- How do you engage with your users?
+- Who are your key stakeholders?
 
-* Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
-* Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
-* Ensure that all stakeholders share an understanding of the problem your work is addressing. Develop your understanding of both the landscape in which the project operates and the relative benefit of investing in one option over others.
+#### How do you engage with your users?
+Once people begin turning up to your project, _engagement them_ is key to growing the project's user base and community. You can engage with users in multiple ways, each requiring different degrees of effort and resulting in differing outcomes. But determining where you should focus your efforts can be difficult, especially because the most precious resource project maintainers have is their time. Engaging users personally requires a good deal of it.
 
-#### How do you engage with your user base today?
-Once people are turning up to your project, engagement is key to growing the project's user base and community. You can engage with users in multiple ways, each requiring different degrees of effort and resulting in differing outcomes.
-
-Figuring out where you should focus your efforts can be difficult. So it's useful to take stock of all of the ways you're currently engaging with project users in order to identify blind spots and opportunities for improvement. Consider characterizing engagement techniques as "low-," "medium-," and "high-touch" (terminology borrowed from sales). **Low-touch** methods represent very little interaction between potential users and your community, while **high-touch** methods represent one-to-one or one-to-few efforts.
-
-Here are some examples of the types of things you can categorize this way:
+So as your strategic approach matures, it's useful to take stock of all of the ways you're currently engaging with project users in order to identify blind spots and opportunities for improvement. Consider characterizing engagement techniques as "low-," "medium-," and "high-touch" (terminology we borrow from sales organizations). **Low-touch** methods involve relatively little interaction between potential users and community leads, while **high-touch** methods represent one-to-one or one-to-few efforts. The former tend to require significant time to establish and set in motion, but when configured require less intervention from human actos. The latter require less investment of time and energy "up front," but can tax human actors significantly when executed. Here are some examples of the types of things you can categorize this way:
 
 * **Low touch**: Website, documentation, online training, newsletters, podcasts, blogs
 * **Medium touch**: Mailing list, bug tracker, community forum, conference presentation, webinars, user groups
 * **High touch**: Phone calls, one-on-one or one-to-few training, conversations at conferences, community meetings
 
-Ideally, your project will have a healthy mix of each of these. Working on your website, documentation, and promotional materials allows new users to act autonomously and without much help from a senior community member. Your bug tracker, mailing list, and forum provide opportunities for community members to engage with your community, ask questions, and provide feedback. This kind of activity provides an opportunity to learn more about how people are using your project. Finally, high-effort activities like training, conference booth attendance and follow-up, and in-person conversations can be extremely valuable on a one-on-one basis—but those techniques do not scale well.
+This kind of model may be useful to communities thinking about engagement activities and project goals. For instance: 
 
-The "sales funnel" model may be useful to communities thinking about engagement activities and project goals.
+* Low-touch activities are good for raising awareness of your project and getting people to look at it for the first time. Ensuring your web site and other materials clearly communicate what the project does, how it can help users, and how contributors can try it out and get started quickly is paramount. Likewise, working on your website, documentation, and promotional materials allows new users to act autonomously and without much help from a senior community member.
+* Medium-touch activities are great for creating a "center of gravity" around your project—not only making communication with users possible but also enabling those users to help each other (hopefully generating a network effect). Your bug tracker, mailing list, and forum provide opportunities for community members to engage with your community, ask questions, and provide feedback. This kind of activity provides an opportunity to learn more about how people are using your project.
+* High-touch activities are great for building relationships with key community users, gathering community case studies, and helping larger groups be productive with and become advocates for your project. High-effort activities like training, conference booth attendance and follow-up, and in-person conversations can be extremely valuable on a one-on-one basis—but those techniques do not scale well.
 
-Low-touch activities are good for raising awareness of your project and getting people to look at it for the first time. Ensuring your web site and other materials clearly communicate what the project does, how it can help users, and how contributors can try it out and get started quickly is paramount. Medium-touch activities are great for creating a "center of gravity" around your project—not only making communication with users possible but also enabling those users to help each other (hopefully generating a network effect). And high-touch activities are great for building relationships with key community users, gathering community case studies, and helping larger groups be productive with and become advocates for your project.
+Ideally, your project will have a healthy mix of each of these. A key consideration for groups crafting potential engagement pathways is _how someone unfamiliar with the project might start using it_ and, over time, gain seniority in the project to the point of becoming a core contributor.[^contributor-pathways]
 
-A key consideration for groups crafting potential engagement pathways is _how someone unfamiliar with the project might start using it_ and, over time, gain seniority in the project to the point of becoming a core contributor.
+#### Who are your key stakeholders?
+When you've identified the actions that will be most important for helping your project succeed, you'll need to ensure you've got the right _people_ with the proper _tools_ to carry out those actions. Call these people your "stakeholders"; they're the people who care most about your project and are prepared to bring their (undoubtedly considerable) talents to it.
 
-<!--Everything from here is raw material from earlier drafts, unincorporated into the current one. -->
+An open source project will include a number of stakeholders, including the maintainers who oversee the project and manage its resources, the developers who contribute code and other materials to a project (documentation, technical articles, social media announcements, etc.), and the users who provide feedback on the project and file issues they discover. Naturally, a successful project requires all of these. On top of that, you'll need to ensure that thees groups include members with the skills necessary for carrying out the actions you've identified will be critical to your project. For instance, if your project exists to advance a new technical standard, and your policy is to focus on delivering libraries for developers in your target market, and this involves writing extensive documentation according to specific technical standards—then you want to be sure experienced [documentarians](https://www.writethedocs.org/documentarians/) are part of your community (or that you're allocating sufficient time and energy to locate and attract these people to the project if not).
 
-### Move from strategy to action
+In the case of vendor-backed open source projects with commercial aims, your stakeholders also typically include people from inside your organization—an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales). You may also want to include in this group someone from your content services or support organizations and someone from product security. This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals. When working with stakeholders from your organization:
+
+* Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
+* Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
+* Ensure that all stakeholders share an understanding of the problem your work is addressing and the ways your overall approach will help address that problem in a way that's beneficial to the organization. In short, make sure your stakeholders understand the project strategy and their roles in it.
+### Executing your strategy
 Strategy documents are useful if they affect action by allowing individuals to make local decisions in support of global goals. Communicating your strategy is therefore crucial to achieving strategic ends. Everyone should understand how their work impacts the open source strategy. When the entire organization understands the project's goal, reaching consensus on budget and resource allocation is much easier.
 
 **Continually monitor and communicate progress toward project goals.**  
@@ -191,7 +197,7 @@ Answers to these seven questions can furnish a single-page document that forms a
 
 Combining the answers to these seven questions, next steps for your project should become obvious to all involved—and your community will be ready to help your project succeed in achieving its goals.
 
-### Generate a draft strategy proposal
+### Drafting a strategy proposal
 
 Next, compose a strategy proposal document. It should contain:
 
