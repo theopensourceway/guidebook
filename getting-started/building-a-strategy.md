@@ -176,43 +176,38 @@ In the case of vendor-backed open source projects with commercial aims, your sta
 * Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
 * Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
 * Ensure that all stakeholders share an understanding of the problem your work is addressing and the ways your overall approach will help address that problem in a way that's beneficial to the organization. In short, make sure your stakeholders understand the project strategy and their roles in it.
-### Executing your strategy
-Strategy documents are useful if they affect action by allowing individuals to make local decisions in support of global goals. Communicating your strategy is therefore crucial to achieving strategic ends. Everyone should understand how their work impacts the open source strategy. When the entire organization understands the project's goal, reaching consensus on budget and resource allocation is much easier.
 
-**Continually monitor and communicate progress toward project goals.**  
-If fostering a diverse group of codevelopers is your community goal, then celebrate contributions from new participants and include growth figures in your monthly newsletter.
+### Recording your strategy
+Just as important as developing a strategy for your open source project is _writing that strategy down_ and publishing it somewhere your current and future users, developers, and maintainers can review it. After all, even the most brilliant strategy is useless if no one sees, understands, and follows it. Everyone in your community should be aware of the project's strategy and understand how their work advances it.
 
-**Allocate resources in a way that makes success possible.**  
-If your goal is to move an entire industry from a proprietary competitor to an open source project, and you have one person working part time to promote the open source project, then your chances of success are low.
+Luckily, if you've drafted your strategy according to the framwork we provide in this chapter, you've already begun articulating your strategy in a way that should help others see themselves as part of it. You'll have:
 
-**Ensure that your strategy is a living document.**  
-Revisit it regularly with key stakeholders to ensure that your open source strategy stays fresh and relevant.
+- A concise (and precise) description of your project and the problem(s) it solves for users
+- A description of how your project solves that problem in a way other projects don't
+- A clear understanding of why an open source approach to this project is beneficial
+- A sense of the users, developers, and maintainers contributing to the project
+- A list of activities in which you'll engage to grow awareness of your project and lower barriers to participating in it
 
-Crafting an open source strategy requires representing all key constituencies in the development process to achieve buy-in, exploring reasons why open sourcing makes sense for the organization's goals, ensuring you are measuring the right things to gauge your success, and preparing to pivot if necessary. Do all of this well, and you can turn everyone involved into an advocate for the open source project.
+Consider releasing these materials as part of your projet's documentation so others can begin to understand your strategy—and start contributing to it. And don't stop there. Articulating a strategy is only the beginning, not an end.
 
-A good open source product strategy provides clarity on which markets you are targeting, the market segmentation between product and project, and the role that the project plays in your entire business strategy and product portfolio. Clarifying these things will pay dividends in future discussions concerning the technical roadmap, or the relative prioritization of community promotion versus sales lead generation.
+* **Continually monitor and communicate progress toward project goals.** If fostering a diverse group of codevelopers is your community goal, then celebrate contributions from new participants and include growth figures in your monthly newsletter.
+* **Allocate resources in a way that makes success possible.** If your goal is to move an entire industry from a proprietary competitor to an open source project, and you have one person working part time to promote the open source project, then your chances of success are low.
+* **Ensure that your strategy is a living document.** Revisit it regularly with key stakeholders to ensure that your open source strategy stays fresh and relevant.
 
-### Reviewing the results
-Answers to these seven questions can furnish a single-page document that forms a baseline, a frame of reference, for any project planning conversations. After running this exercise, your team or community should share some understanding of the problems your project solves, and for whom. You will be able to communicate the value of your project in language that makes sense in your potential users' frame of reference. You will understand how your project fits into a market, and what you want to achieve with it there. Finally, you will have identified the key group inside your organization who should be aligned on your current status and future strategy.
+Additionally, if you're working in a commercial organization to develop and communicate an open source product strategy, we recommend drafting a document that contains the following elements:
 
-Combining the answers to these seven questions, next steps for your project should become obvious to all involved—and your community will be ready to help your project succeed in achieving its goals.
+* **An elevator pitch**, or a high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
+* **A business rationale**, or a description of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
+* **A high-level execution plan,** or a list of your planned actions, including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your 
 
-### Drafting a strategy proposal
-
-Next, compose a strategy proposal document. It should contain:
-
-**An elevator pitch**  
-A high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
-
-**A business rationale**  
-A definition of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
-
-**A high-level execution plan**  
-Including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your top priority.
-
+When the entire organization understands the project's goal and its relationship to the organization's commercial ambitions, reaching consensus on budget and resource allocation should be much easier.
 
 ## Conclusion
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+
 
 [^rumelt-strategy]: Rumelt, R.P. (2011). Good strategy/bad strategy: The difference and why it matters. New York: Currency.
 [^positioning]: Omier, E. (n.d.) Positioning free open source software: How maintainers of open source projects can use positioning strategically to accelerate theirproject’s growth, build a dedicated community, and build exceptional software. Available online at <https://www.emilyomier.com/free-e-book>.
