@@ -203,11 +203,7 @@ Additionally, if you're working in a commercial organization to develop and comm
 When the entire organization understands the project's goal and its relationship to the organization's commercial ambitions, reaching consensus on budget and resource allocation should be much easier.
 
 ## Conclusion
-
-
-
-
-
+This chapter explained the importance of developing a strategy for your open source project. It outlined the elements of an effective open source strategy, and posed several questions you and your community can answer in order to hone a strategy for your own open source projects. After a fruitful strategic planning session, your team or community should share some understanding of the problems your project solves (and for whom). You will be able to communicate the value of your project in language that makes sense in your potential users' frame of reference. You will understand how your project fits into the broader open source ecosystem, and what you want to achieve with it there. And you will have identified the stakeholders who are capable of taking the actions required to bring about success. This chapter also explained how an effective open source _product_ strategy provides clarity on which markets you are targeting, establishes the business advantage of open sourcing your technology, elaborates the role the project plays in your entire business strategy and product portfolio, and ensures you are measuring the right results to gauge your success.
 
 [^rumelt-strategy]: Rumelt, R.P. (2011). Good strategy/bad strategy: The difference and why it matters. New York: Currency.
 [^positioning]: Omier, E. (n.d.) Positioning free open source software: How maintainers of open source projects can use positioning strategically to accelerate theirproject’s growth, build a dedicated community, and build exceptional software. Available online at <https://www.emilyomier.com/free-e-book>.
