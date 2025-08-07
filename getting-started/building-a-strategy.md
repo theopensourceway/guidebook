@@ -11,7 +11,7 @@ That is, they have clear and effective strategies. As Karl Fogel writes in _Prod
 
 > The hardest part about launching a free software project is transforming a private vision into a public one. You or your organization may know perfectly well what you want, but expressing that goal comprehensively to the world is a fair amount of work. It is essential, however, that you take the time to do it.[^fogel-producing-oss]
 
-In this chapter, we'll provide resources for doing that (hard and fair amount of) work. We'll provide a list of questions project leaders and maintainers should discuss in order to sketch strategies for their open source projects. Answering these questions should clarify critical facets of the project and help maintainers determine _what to do_ (and, just as importantly, what _not_ to do) to guide the project to success.
+In this chapter, we'll provide resources for doing that work. Along the way, we'll suggest a few guiding questions project leaders and maintainers should discuss in order to sketch strategies for their open source projects. Answering these questions should clarify critical facets of the project and help maintainers determine _what to do_ (and, just as importantly, what _not_ to do) to guide their projects to success.
 
 Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. So along the way we'll also discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success feel better equipped to achieve it.
 
@@ -210,4 +210,4 @@ This chapter explained the importance of developing a strategy for your open sou
 [^fogel-producing-oss]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 13.
 [^istio]: Incidentally, at the time of this writing, Istio described itself this way: "Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments."
 [^open-source-archetypes]: Mozilla. (2018). Open source archetypes: A framework for purposeful open source. Available at: https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf
-[^contributor-pathways]: See "Constructing and Onboarding Experience," and specifically the section on "contributor pathways," for more on this.
+[^contributor-pathways]: See "[Constructing an Onboarding Experience](growing-contributors/constructing-an-onboarding-experience.md)," specifically the section on "contributor pathways," for more on this.
