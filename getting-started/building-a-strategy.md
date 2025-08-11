@@ -13,12 +13,12 @@ That is, they have clear and effective strategies. As Karl Fogel writes in _Prod
 
 In this chapter, we'll provide resources for doing that work. Along the way, we'll suggest a few guiding questions project leaders and maintainers should discuss in order to sketch strategies for their open source projects. Answering these questions should clarify critical facets of the project and help maintainers determine _what to do_ (and, just as importantly, what _not_ to do) to guide their projects to success.
 
-Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. So along the way we'll also discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success feel better equipped to achieve it.
+Moreover, some open source _projects_ eventually become open source _products_—that is, they play some role in an organization's revenue-generating activities. In this case, the strategies that guide them become even _more_ complex, as their success or failure impacts (and is impacted by) business decisions. So in this chapter we'll also discuss the additional work of developing an open source _product_ strategy, so open source communities in pursuit of marketplace success feel better equipped to achieve it.
 
 ## What is a strategy?
-Your project's strategy is not merely a list technical capabilities, a series of long-term goals, or the community's vision of success. It is a comprehensive and adaptable plan to overcome obstacles and achieve an objective. Simply put, your strategy is your plan to architect, nurture, and grow a successful open source project.
+Your open source strategy is a comprehensive and adaptable procedure for achieving an objective and overcoming obstacles that might prevent you from that achievement. Simply put, your strategy is your plan to architect, nurture, and grow a successful open source project.
 
-In his seminal book on strategic thinking, Richard P. Rumelt[^rumelt-strategy] outlines three components of an effective strategy:
+Today, people tend to overuse the term "strategy"—so much so that its meaning may have become somewhat diluted and imprecise. Your project's strategy is not merely a list technical capabilities, a series of long-term goals, or the community's vision of success. It is a coordinated plan of action informed by thoughtful analysis of your situation. In his seminal book on strategic thinking, Richard P. Rumelt[^rumelt-strategy] outlines three components of an effective strategy:
 
 1. A **diagnosis**, which explains the precise nature of the problem a team or project is facing and distills its essence into something coherent and manageable
 2. A **guiding policy**, which describes (in general terms) an approach to addressing that diagnosis
