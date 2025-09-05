@@ -32,12 +32,12 @@ Building a strategy for your open source project involves the work of what open 
 In the following sections, we provide some of those stock-taking resources, including key questions project maintainers can be asking as they make strategic decisions.
 
 ### Locating the problem(s)
-The initial work of developing an open source strategy involves identifying problems. Better yet, we might say that it involves identifying _challenges_. People who use software (developers and everyday computer users alike) often face challenges they need help overcoming. Ideally, your open source project helps them do that. But your project and its community will also face their own challenges—that is, challenges to _getting, recognized, adopted and embraced_ by those users. So when you're thinking about your project's related problems, you'll need to think in two registers:
+The initial work of developing an open source strategy involves identifying problems. Better yet, we might say that it involves identifying _challenges_. People who use software (developers and everyday computer users alike) often face challenges they need help overcoming. Ideally, your open source project helps them do that. But your project and its community will also face their own challenges—that is, challenges to _getting recognized, adopted and embraced_ by those users. So when you're thinking about your project's related problems, you'll need to think in two registers:
 
 1. **The problem your project solves.** This is the problem you and your community are designing your project to address for users. It is often a technical problem.
 2. **The problem of getting adopted.** This is the problem of, for example, becoming visible to users, or getting adopted and embraced by those users. It is often a social (and in some cases, an economic) problem.
 
-To build an effective open source stategy, you'll need to clarify _both_ these types of problems. To elucidate the problem(s) your project both _solves_ and _faces_, you will need to develop what Rumelt calls a "diagnosis." A good diagnosis, Rumelt writes, "names or classifies the situation, linking facts to patterns and suggesting that more attention be paid to some issues and less to others" (p. 79). Or—put another way—it is the answer to a singular question: "What's going on here?"
+To build an effective open source stategy, you'll need to clarify _both_ these types of problems. To elucidate the problems your project both _solves_ and _faces_, you will need to develop what Rumelt calls a "diagnosis." A good diagnosis, Rumelt writes, "names or classifies the situation, linking facts to patterns and suggesting that more attention be paid to some issues and less to others" (p. 79). Or—put another way—it is the answer to a singular question: "What's going on here?"
 
 What are the situational forces _giving rise_ to your project? Why is it necessary in the first place? And what forces or factors could inhibit that project from finding an audience or gaining traction in some part of the open source ecosystem?
 
@@ -83,7 +83,7 @@ You can learn a lot about your project by assessing who that project competes wi
 * If your project doesn't have any competition, why is that the case?
 * Does this project play a role in an area of emerging technology?
 * Are people using similar projects to do work they could accomplish with your project—just in a different way?
-* If other projects do the same job, but have no clear leader, how are they approaching the problem differently than you are?
+* If other projects do the same job, how are they approaching the problem differently than you are?
 * What are people's motivations for using a competing project?
 * If your project has open source competitors, is joining them (rather than trying to compete with them) an option? If not, why not?
 
@@ -99,7 +99,7 @@ Your answers here could directly impact your community architecture or go-to-mar
 Remember: _All_ software is a solution to a problem someone is experiencing. In diagnosing the situation in which _your_ project takes shape, your first priority is understanding _what_ that software is, _which_ problems it solves (and _for whom_), _how_ it's related to other projects in the wider open source ecosystem, and _why_ users would choose your solution over others'.
 
 ### Outlining your approach
-Once you've diagnosed the problem you believe your project should solve, you'll have a clearer sense of what makes your project unique, who the project will appeal to, and why it is potentially so valuable to that group. You'll also likely recognize some of the hurdles you'll need to overcome as you build and grow your project and community.
+Once you've diagnosed the problems you believe your project should solve and the problems you expect to encounter when attempting to popularize it, you'll have a clearer sense of what makes your project unique, who the project will appeal to, and why it is potentially so valuable to that group. You'll also likely recognize some of the hurdles you'll need to overcome as you build and grow your project and community.
 
 So your next challenge is establishing the overall approach to getting it in users' hands and responding to their needs and concerns. Choosing to open source your software unlocks key avenues and opportunities for you and your community—but you'll be much more successful if you collectively choose to traverse _one_ of those avenues rather than all of them.
 
@@ -125,7 +125,7 @@ The question of why one might open source a project is even more pressing in com
 
 To understand any business rationale that makes an open source approach appealing, consider these economic principles:
 
-**Reducing the price of a good increases the demand for it**  
+**Reducing the price of a good increases the demand for it.**  
 In the case of open source, lowering the cost of acquisition maximizes demand and, therefore, project adoption. Note that the cost of adoption is not only monetary; it also includes the time and effort needed to adopt and migrate from whatever solution you're currently using.
 
 **When the price of one good decreases, demand for its substitutes also decreases.**  
@@ -141,21 +141,22 @@ So are you trying to:
 * Promote a standard?
 * Increase demand for another product in your portfolio?
 
-Choosing to open source your software project could help you accomplish any of these goals. But each of these goals demands different approaches to project and community architecture. Mozilla has catalogued the most common such architectures—what it calls "open source archetypes"—to more clearly illustrate how an organization's goals in open sourcing a project influence both the ways that project takes shape and the kinds of activities in which a community must engage to help it succeed.[^open-source-archetypes]
 
-Understanding the reasons for open sourcing your project will help you, your organization, and your community clarify the both the levels and types of investment required to achieve your goal. In other words, they'll be critical to the overall policy that guides your strategic actions.
+Choosing to open source your software project could help you accomplish any of these goals. But each of these goals demands different approaches to project and community architecture. Mozilla has catalogued the most common such architectures—what it calls "[open source archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)"—to more clearly illustrate how an organization's goals in open sourcing a project influence both the ways that project takes shape and the kinds of activities in which a community must engage to help it succeed.[^open-source-archetypes]
+
+Understanding the reasons for open sourcing your project will help you, your organization, and your community clarify both the levels and types of investment required to achieve your goal. In other words, they'll be critical to the overall policy that guides your strategic actions.
 
 #### How can you work with adjacent projects and their communities?
-As you've studied your user community, perhaps you've noticed that users frequently consume your project along with another, different project. Or perhaps you've seen that your project could be appealing to users of who have already adopted a different approach to addressing their challenges. When either of these is the case, consider it an opportunity for expanding awareness of your project in its early stages and better understanding your users' needs.
+As you've studied your user community, perhaps you've noticed that users frequently consume your project along with another, different project. Or perhaps you've seen that your project could be appealing to users who have already adopted a different approach to addressing their challenges. When either of these is the case, consider it an opportunity for expanding awareness of your project in its early stages and better understanding your users' needs.
 
 The objective here is to study the projects that sit "adjacent" to yours in a specific ecosystem of open source projects. For example, [Ceph](https://ceph.io/en/community/) can manage storage for [OpenStack](https://www.openstack.org/) or [Kubernetes](https://kubernetes.io/); for Ceph, then, OpenStack and Kubernetes are adjacent communities.
 
-Catering to adjacent projects to find an audience may affect your technology roadmap, the events you target, the effort you put into specific integration projects, and so on. An adjacent project provides you with a potentially friendly audience who have the same problems your technology solves, so you can engage in some joint market research or UX testing, or coordinate joint events to meet and engage with potential users. This is also connected to understanding your competition; the communities important to them will also be important to you. Understanding these communities, their needs, and their dynamics can help you find footholds for your own project as you attempt to create space for it in a larger ecosystem. Your open source strategy should include analysis of these opportunities, and leveraging them should be part of the overall policy that guides your actions.
+Catering to adjacent projects to find an audience may affect your technology roadmap, the events you target, the effort you put into specific integration projects, and more. An adjacent project provides you with a potentially friendly audience who have the same problems your technology solves, so you can engage in some joint market research or UX testing, or coordinate joint events to meet and engage with potential users. This is also connected to understanding your competition; the communities important to them will also be important to you. Understanding these communities, their needs, and their dynamics can help you find footholds for your own project as you attempt to create space for it in a larger ecosystem. Your open source strategy should include analysis of these opportunities, and leveraging them should be part of the overall policy that guides your actions.
 
 ### Determining your actions
-By now you've identified the specific problems that your project should address for a particular set of users, and you've outlined your overall approach to success for both your project and everyone investing in it. Now you'll need to decide what you and your community actually need to _do_ (and _not do_) to bring your overall strategy to fruition. In Rumelt's term, you'll need to identify a series of "coherent actions" that you can execute to realize success.
+By now you've identified the specific problems that your project should address for a particular set of users, and you've outlined your overall approach to success for both your project and everyone investing in it. Now you'll need to decide what you and your community actually need to _do_ (and _not do_) to bring your overall strategy to fruition. In Rumelt's terms, you'll need to identify a series of "coherent actions" that you can execute to realize success.
 
-Identifying these actions is critical because it will sharpen your community's everyday, tactical work—that is, it will focus everyone on doing what matters most. Open source project maintainers don't often have the luxury of immediate, persistent contact with users who contribute to their projects. Instead, project contributions typically arrive unprompted from strangers who may not be working with the same rich degree of context that founders share. The best a project maintainer can hope to do is establish a scaffolding that helps volunteers acting autonomously to take action in ways that advance the project's overall goals.
+Identifying these actions is critical because it will sharpen your community's everyday, tactical work—that is, it will focus everyone on doing what matters most. Open source project maintainers don't often have the luxury of immediate, sustained contact with users who contribute to their projects. Instead, project contributions typically arrive unprompted from strangers who may not be working with the same rich degree of context that founders share. The best a project maintainer can hope to do is establish a scaffolding that helps volunteers acting autonomously to take action in ways that advance the project's overall goals.
 
 In this section, then, we suggest posing the following action-focused questions as you develop your open source strategy:
 
@@ -211,7 +212,7 @@ Additionally, if you're working in a commercial organization to develop and comm
 
 * **An elevator pitch**, or a high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
 * **A business rationale**, or a description of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
-* **A high-level execution plan,** or a list of your planned actions, including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your 
+* **A high-level execution plan,** or a list of your planned actions, including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your indicators of success.
 
 When the entire organization understands the project's goal and its relationship to the organization's commercial ambitions, reaching consensus on budget and resource allocation should be much easier.
 
