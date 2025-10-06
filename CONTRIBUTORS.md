@@ -6,10 +6,13 @@
   * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
 * Community 101
   * Author(s): [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com), [Dave Neary](mailto:dneary@redhat.com), [Karsten Wade](mailto:kwade@redhat.com)
+* Essentials of Building a Community
+  * Author(s): [Andy Oram](mailto:andyo@praxagora.com)
+* Building a Strategy
+  * Author(s): [Dave Neary](mailto:dneary@redhat.com) (lead), [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com)
 * New Project Checklist
   * Author(s): [Lisa Caywood](mailto:lcaywood@redhat.com), [Josh Berkus](mailto:jberkus@redhat.com), [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com), [Karsten Wade](mailto:kwade@redhat.com)
-* Creating an Open Source Product Strategy
-  * Author(s): [Dave Neary](mailto:dneary@redhat.com)
+  * Editor: [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com)
 * Communication Norms in Open Source Software Projects
   * Author(s): [Leslie Hawthorn](mailto:lhawthor@redhat.com)
   * Editor(s)/Reviewer(s): [Paula Dickerson](mailto:pdickers@redhat.com) (lead), Editorial team
@@ -25,8 +28,6 @@
   * Author(s): [Dave Neary](mailto:dneary@redhat.com)
 * What Is a Contribution?
   * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
-* Essentials of Building a Community
-  * Author(s): [Andy Oram](mailto:andyo@praxagora.com)
 * Constructing an Onboarding Experience
   * Author(s): [Ray Paik](mailto:ray@cube.dev), [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com)
 * Creating a Culture of Mentorship
@@ -47,7 +48,7 @@
 * Announcing Software Releases
   * Author(s): [Brian Proffitt](mailto:bkp@redhat.com)
 
-## Project teams 
+## Project teams
 
 ### Editorial team
 
