@@ -5,7 +5,7 @@
 * [Getting Started](getting-started/README.md)
   * [Community 101](getting-started/community-101.md)
   * [Essentials of Building a Community](getting-started/essentials-of-building-a-community.md)
-  * [Bulding a Strategy](getting-started/building-a-strategy.md)
+  * [Building a Strategy](getting-started/building-a-strategy.md)
   * [New Project Checklist](getting-started/new-project-checklist.md)
 * [Attracting Users](attracting-users/README.md)
   * [Communication Norms in Open Source Projects](attracting-users/communication-norms-in-open-source-software-projects.md)
