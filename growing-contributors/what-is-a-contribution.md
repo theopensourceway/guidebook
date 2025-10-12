@@ -6,12 +6,9 @@ updated: 2020-12-16
 
 # What Is a Contribution?
 
-There is a common misunderstanding that only code and possibly documentation are a "true" contribution to an open source project.
-This terrible idea has a name that deserves to stay a part of history, "code is king."
-Let's have no more of that.
+There is a common misunderstanding that only code and possibly documentation are a "true" contribution to an open source project. This terrible idea has a name that deserves to stay a part of history, "code is king." Let's have no more of that.
 
-In truth, there are exponentially more ways to contribute than just those two ways.
-And exponentially more value for the project and the diverse group of contributors making those contributions.
+In truth, there are exponentially more ways to contribute than just those two ways. And exponentially more value for the project and the diverse group of contributors making those contributions.
 
 **An open source contribution**  
 Any original, intentional, and substantive object given freely to an open source community, under the licensing of that community. A contribution can come from an individual or a community.
@@ -47,9 +44,6 @@ Examples of specific contributions (objects):
 * Building a contributor/maintainer/leader recruiting process.
 * And so forth.
 
-Practically any skill you might learn in a job role, from customer service to product management, can underly a contribution.
-Any need you can imagine another community having, might be a need of an open source community and can form the basis of a contribution.
+Practically any skill you might learn in a job role, from customer service to product management, can underly a contribution. Any need you can imagine another community having, might be a need of an open source community and can form the basis of a contribution.
 
-It is useful to be mindful of the breadth and depth of types of contributions.
-As part of the practice of community management, you will have to be aware of the many ways people contribute to a project.
-Then you can thank them for their contribution, connecting their action from the individual back to the whole and the greater effort.
+It is useful to be mindful of the breadth and depth of types of contributions. As part of the practice of community management, you will have to be aware of the many ways people contribute to a project. Then you can thank them for their contribution, connecting their action from the individual back to the whole and the greater effort.
