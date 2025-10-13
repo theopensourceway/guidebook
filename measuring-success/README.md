@@ -8,8 +8,7 @@ updated: 2020-12-10
 
 In the days before open source, measuring the success of a software effort was often defined in strictly financial terms. How many boxes—yes, boxes—of software did a company sell? That revenue was offset by the cost of support, authoring, and distribution (again, boxes), and voila! The profit was the measure of success.
 
-In the open source world, it doesn't quite work like that. For one thing, while there are commercially successful open source projects, the success of those projects is still not strictly tied to just the financials.
-Nor is success set against the common benchmark of downloads. It is very easy to presume, for instance, that if a software project has millions of downloads, it is doing very well. But just because users are consuming the software steadily does not mean there aren't internal problems in the project's community. There could be any number of factors set to bring the project to a halt. Conversely, there are many very successful projects that don't have the headlines and the huge popularity.
+In the open source world, it doesn't quite work like that. For one thing, while there are commercially successful open source projects, the success of those projects is still not strictly tied to just the financials. Nor is success set against the common benchmark of downloads. It is very easy to presume, for instance, that if a software project has millions of downloads, it is doing very well. But just because users are consuming the software steadily does not mean there aren't internal problems in the project's community. There could be any number of factors set to bring the project to a halt. Conversely, there are many very successful projects that don't have the headlines and the huge popularity.
 
 So, if money and fame are not the success factors in open source software projects, what are?
 

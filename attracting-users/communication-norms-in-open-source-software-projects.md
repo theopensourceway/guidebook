@@ -54,7 +54,7 @@ For example, consider the basic distinction between project _users_ and project 
 If your project observes certain coding conventions, be sure to include those conventions in the developer documentation. Having a patch rejected by a maintainer because you haven't indented code a certain way can be rather demotivating. Users, however, likely won't need these details.
 
 {% hint style="success" %}
-Develop a style guide for your project and make sure it is easy to find in your developer-oriented documentation. Not every project will create its own style guide, but it is best practice to note what coding conventions the project will observe. If the project uses a previously published style guide, make sure to link to it in [the developer documentation](#user-content-fn-1)[^1].
+Develop a style guide for your project and make sure it is easy to find in your developer-oriented documentation. Not every project will create its own style guide, but it is best practice to note what coding conventions the project will observe. If the project uses a previously published style guide, make sure to link to it in the developer documentation[^guides].
 {% endhint %}
 
 ### The virtual showcase: Crafting your project's website
@@ -69,7 +69,7 @@ Include a simple overview of the project in an easy-to-spot location on the proj
 
 Think of this information as the opportunity to explain to someone who has never heard of your project why it could matter to them—in 30 seconds or less. For example, Drupal's [about page](https://www.drupal.org/about) describes the project this way:
 
-> Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web [experiences need](#user-content-fn-2)[^2].
+> Drupal is content management software. It's used to make many of the websites and applications you use every day. Drupal has great standard features, like easy content authoring, reliable performance, and excellent security. But what sets it apart is its flexibility; modularity is one of its core principles. Its tools help you build the versatile, structured content that dynamic web.
 
 In this description—just a single paragraph—we learn:
 
@@ -81,7 +81,7 @@ Let's take another example from a popular project: Kubernetes.
 
 When visiting the project home page, [kubernetes.io](http://kubernetes.io/), a visitor immediately sees the following explanation:
 
-> Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers that make up an application into logical units for easy management and discovery. Kubernetes builds upon 15 years of experience of running production workloads at Google, combined with best-of-breed ideas and [practices from the community](#user-content-fn-3)[^3].
+> Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers that make up an application into logical units for easy management and discovery. Kubernetes builds upon 15 years of experience of running production workloads at Google, combined with best-of-breed ideas and [practices from the community](https://kubernetes.io/).
 
 In this description, we immediately learn:
 
@@ -129,7 +129,7 @@ This section details how an issue tracker can be used as an essential communicat
 
 #### What is an issue tracker?
 
-An _issue tracker_ (sometimes also known as a _bug tracker_, _issues list_, or _issue queue_) is a tool that allows people to submit reports when they encounter instances where they believe the software is [not working as intended](#user-content-fn-4)[^4]. As a way to monitor pending tasks and allow for collaborative commenting and review of work in progress, some projects manage their entire development workflow via their issue trackers.
+An _issue tracker_ (sometimes also known as a _bug tracker_, _issues list_, or _issue queue_) is a tool that allows people to submit reports when they encounter instances where they believe the software is not working as intended[^not-working]. As a way to monitor pending tasks and allow for collaborative commenting and review of work in progress, some projects manage their entire development workflow via their issue trackers.
 
 In this section, we'll discuss using an issue tracker for the purpose of reporting failures with the software. By reporting your issue using a project's issue tracker, you ensure maintainers who are looking out for problems see your report and act upon it.
 
@@ -179,7 +179,7 @@ Whether you are a user of the project reporting an issue or a project maintainer
 
 At times, the details of addressing a particular issue can cause tension or arguments within the community.
 
-While healthy and respectful debate is part of any thriving project—software or otherwise—tempers can flare easily, and ([as has been well documented](#user-content-fn-5)[^5]) people tend to behave with less civility online than they would in person.
+While healthy and respectful debate is part of any thriving project—software or otherwise—tempers can flare easily, and as [has been well documented](https://www.bbc.com/future/article/20180403-why-do-people-become-trolls-online-and-in-social-media) people tend to behave with less civility online than they would in person.
 
 If an issue has become especially contentious and discourse has become rude or inflammatory, restrict access to that issue for a stated period of time (say 24 to 48 hours) to allow people time to calm down, reflect, and state their argument in a more even-tempered and constructive manner.
 
@@ -197,7 +197,7 @@ If a project does not use issue templates, look at other issues that have been "
 
 > "While the size and skill of the development community constrains the rate at which tickets can be resolved, the project should at least try to acknowledge each ticket the moment it appears. Even if the ticket lingers for a while, a response encourages the reporter to stay involved, because she feels that a human has registered what she has done (remember that filing a ticket usually involves more effort than, say, posting an email)."
 >
-> —[Karl Fogel, Producing Open Source Software](#user-content-fn-6)[^6]
+> — Karl Fogel, Producing Open Source Software[^fogel-oss]
 
 Thank the submitter for filing the issue. Helping a project improve is an excellent contribution to that project's health. Further, by being gracious, kind and welcoming, you encourage continued participation and contribution from the issue reporter.
 
@@ -275,7 +275,7 @@ Simply _listing_ communication channels is not sufficient. Your documentation mu
 
 As has been discussed throughout this chapter, maintaining kind and gracious communications is vital for the project's ongoing health and well-being. While assuming everyone understands what "kind and gracious communication" looks like may seem natural, one cannot assume a consistent meaning for all participants, especially when dealing with a global audience. Project maintainers and community members do well to lead by example. But it sets an appropriate tone for the project to make an explicit statement about what constitutes civil discourse, what matters are off-topic for the project, and what is expected from anyone communicating with the project, especially about matters that may cause conflict .
 
-From the [Diversity Statement of the Dreamwidth Project](#user-content-fn-7)[^7]:^
+From the [Diversity Statement of the Dreamwidth Project](https://www.dreamwidth.org/legal/diversity):
 
 > "We welcome people of any gender identity or expression, race, ethnicity, size, nationality, sexual orientation, ability level, neurotype, religion, elder status, family structure, culture, subculture, political opinion, identity, and self-identification. We welcome activists, artists, bloggers, crafters, dilettantes, musicians, photographers, readers, writers, ordinary people, extraordinary people, and everyone in between. We welcome people who want to change the world, people who want to keep in touch with friends, people who want to make great art, and people who just need a break after work. We welcome fans, geeks, nerds, and pixel-stained technopeasant wretches. (We welcome Internet beginners who aren't sure what any of those terms refer to.) We welcome you no matter if the Internet was a household word by the time you started secondary school or whether you were already retired by the time the World Wide Web was invented.
 >
@@ -322,16 +322,8 @@ When a project launches or consists of a small group of people working together,
 
 The most effective way to achieve communication in open source projects is to show others kindness and courtesy, and to assume good intent upon first contact with people you've never met. Though this chapter contains any number of helpful best practices for effective communication, simply acting with graciousness to other people is the most important step one can take to communicate well. Remember there is a human being reading what you have written, and remember to treat them with the same respect you want for yourself.
 
-[^1]: For a sample style guide, see [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) or the [style guide for contributing to Mozilla Firefox](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html), a project that employs multiple programming languages in its development.
+[^guides]: For a sample style guide, see [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) or the [style guide for contributing to Mozilla Firefox](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html), a project that employs multiple programming languages in its development.
 
-[^2]: [https://www.drupal.org/about](https://www.drupal.org/about) accessed June 22, 2020 05:43 CET
+[^not-working]: The authors are grateful for the work of Kent C.Dodds and Sara Drasner in their article [An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/).
 
-[^3]: Kubernetes home page, [https://kubernetes.io/](https://kubernetes.io/), accessed June 22, 2020 05:57 CET
-
-[^4]: [5](https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html#_footnoteref_5). The authors are grateful for the work of Kent C.Dodds and Sara Drasner in their article [An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/), accessed 24 June 2020 12:52 CET.
-
-[^5]: Gaia Vince, [Evolution explains why we act differently online](https://www.bbc.com/future/article/20180403-why-do-people-become-trolls-online-and-in-social-media).
-
-[^6]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 64, accessed 24 June 2020 11:46 CET
-
-[^7]: [https://www.dreamwidth.org/legal/diversity](https://www.dreamwidth.org/legal/diversity) accessed 2 July 2020 13:37 CET (and how leet it is :)
+[^fogel-oss]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 64.
