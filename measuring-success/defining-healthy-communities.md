@@ -179,7 +179,7 @@ Whatever they are looking for, whatever they need, your contributor community do
 
 #### Do not let poisonous people bog down the community
 
-Remember the paradox of tolerance: if you are tolerant without limit, your ability to be tolerant is [eventually seized or destroyed by the intolerant](#user-content-fn-1)[^1].
+Remember the [paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance): if you are tolerant without limit, your ability to be tolerant is eventually seized or destroyed by the intolerant.
 
 #### Seek consensus, use voting as a last resort
 
@@ -237,7 +237,7 @@ Make your community culture be to document answers when asking for help. Ideally
 
 ### Four shared virtues
 
-These four virtues were described by Brian Fitzpatrick and Ben Collins-Sussman in their seminal talk on [avoiding poisonous people in communities](#user-content-fn-2)[^2].
+These four virtues were described by Brian Fitzpatrick and Ben Collins-Sussman in their seminal talk on [avoiding poisonous people in communities](https://www.youtube.com/watch?v=-F-3E8pyjFo).
 
 * Politeness
 * Respect
@@ -311,7 +311,3 @@ Self care is often focused on the responsibility of the individual. Of course, a
 ### Social strategies
 
 As part of community-care, this may provide strategies for managing self-care. Engaging people with appreciation, joy, and acceptance is an antidote to feelings of not being enough, low motivation, and feeling apart—even all the way to feelings of guilt and shame.
-
-[^1]: Paradox of Tolerance: [https://en.wikipedia.org/wiki/Paradox\_of\_tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance)
-
-[^2]: Open Source Projects and Poisonous People: [https://www.youtube.com/watch?v=-F-3E8pyjFo](https://www.youtube.com/watch?v=-F-3E8pyjFo)

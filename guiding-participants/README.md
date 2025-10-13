@@ -6,11 +6,7 @@ updated: 2020-12-11
 
 # Guiding Participants
 
-"Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe.
-The line separating "I'm just a user! Don't talk to me about anything more" and "How can I help contribute to this project?" seem clear enough.
-Yet active participation in a project begins the moment someone cares enough about the software to do more than simply consume it.
-And because open source software is by nature inclusive and participatory, most *users* become *participants* rather quickly and easily—often by simply leaving a comment on the project's blog, filing an issue in the project's tracker, or engaging with the project on social media.
-By using open source software, they've *already* begun participating in the process of making the software better.
+"Participation" in an open source project is an interesting—and somewhat amorphous—concept to describe. The line separating "I'm just a user! Don't talk to me about anything more" and "How can I help contribute to this project?" seem clear enough. Yet active participation in a project begins the moment someone cares enough about the software to do more than simply consume it. And because open source software is by nature inclusive and participatory, most *users* become *participants* rather quickly and easily—often by simply leaving a comment on the project's blog, filing an issue in the project's tracker, or engaging with the project on social media. By using open source software, they've *already* begun participating in the process of making the software better.
 
 Here are some examples of various types of participation:
 

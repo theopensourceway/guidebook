@@ -389,7 +389,7 @@ Projects typically take one of three approaches to defining the electorate and c
 
 Defining an activity metric and minimum bar specifying what qualifies as "participation" can become contentious, mainly because it involves drawing arbitrary lines delimiting eligible participants. Generally, projects specify that quantified, ongoing participation is necessary to become part of the electorate.
 
-One common election fear is ballot stuffing or cohort effects, where large companies dominate the representative bodies by having a large voting bloc, or where friends of candidates will pass the low bar to become voters simply to vote for their candidate. In most cases, however, such fears are unfounded. Technical communities often try to create rules to mitigate against possible abuses of the system, but in most cases, these rules are "premature optimization," which Donald Knuth, author of _The Art of Computer Programming_, has famously described as "[the root of all evil](#user-content-fn-1)[^1]." Avoiding special rules—and addressing issues with the electoral process as they arise—is generally the better practice.
+One common election fear is ballot stuffing or cohort effects, where large companies dominate the representative bodies by having a large voting bloc, or where friends of candidates will pass the low bar to become voters simply to vote for their candidate. In most cases, however, such fears are unfounded. Technical communities often try to create rules to mitigate against possible abuses of the system, but in most cases, these rules are "premature optimization," which Donald Knuth[^knuth], author of _The Art of Computer Programming_, has famously described as "the root of all evil." Avoiding special rules—and addressing issues with the electoral process as they arise—is generally the better practice.
 
 One final consideration is the process for becoming a candidate in the election. The most popular option is self-nomination, where candidates post election information and their reasons for running. Another option is nomination, which is often the same as self-nomination as the candidate typically asks people to nominate them and second their nomination.
 
@@ -423,4 +423,4 @@ For example:
 
 The mission statement clarifies several things: who is being represented by the elected body, what their authority will be, and why they are being elected. Once you have agreed on the goal of the elected body, choose the simplest ways to define membership in the body being represented. Then, choose the simplest voting and counting system possible.
 
-[^1]: Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-Wesley Pub. Co, 1968. Print.
+[^knuth]: Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-Wesley Pub. Co, 1968.
