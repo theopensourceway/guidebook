@@ -69,13 +69,13 @@ You are welcome to make pull requests against this repo from your own fork. Here
 
 1. Go to https://github.com/theopensourceway/guidebook and click on the '''Fork''' button, and make a fork in your own repo.
 Tip: modify the name to make it clear it is your fork and not the upstream original, e.g. `yourname-fork-reponame`
-1. Go to your personal fork at https://github.com/you/forkname, click '''Code''' > Local > SSH, and click the copy icon to the right of the URL.
-1. Open your command line session and clone your repo locally:
+2. Go to your personal fork at https://github.com/you/forkname, click '''Code''' > Local > SSH, and click the copy icon to the right of the URL.
+3. Open your command line session and clone your repo locally:
    - `git clone git@github.com:[you]/[you]-tosw-guidebook.git`
    - `cd [you]-tosw-guidebook`
-1. Add the upstream repo so your clone can sync with upstream:
+4. Add the upstream repo so your clone can sync with upstream:
    - `git remote add upstream git@github.com:theopensourceway/guidebook.git`
-1. Check your configuration to be like this:
+5. Check your configuration to be like this:
 ```
 git remote -vv
 origin	git@github.com:[you]/[you]-tosw-guidebook.git (fetch)
@@ -83,7 +83,7 @@ origin	git@github.com:[you]/[you]-tosw-guidebook.git (push)
 upstream	git@github.com:theopensourceway/guidebook.git (fetch)
 upstream	git@github.com:theopensourceway/guidebook.git (push)
 ```
-1. Confirm that you can sync with upstream:
+6. Confirm that you can sync with upstream:
 ```
 git fetch origin
 git rebase origin/main
