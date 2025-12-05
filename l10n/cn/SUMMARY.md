@@ -5,7 +5,7 @@
 * [马上开始](getting-started/README.md)
   * [社区入门指南](getting-started/community-101.md)
   * [社区建设要点](getting-started/essentials-of-building-a-community.md)
-  * [构建战略] (getting-started/building-a-strategy.md)
+  * [构建战略](getting-started/building-a-strategy.md)
   * [新项目清单](getting-started/new-project-checklist.md)
 * [吸引用户](attracting-users/README.md)
   * [开源项目中的沟通规范](attracting-users/communication-norms-in-open-source-software-projects.md)
