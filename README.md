@@ -7,4 +7,4 @@ It collects best practices for initiating, nurturing, growing, and maintaining g
 ## Translations and localizations
 The Open Source Way is available in the following languages:
 - [English](https://github.com/theopensourceway/guidebook) (en_US)
-- [Chinese](https://github.com/theopensourceway/guidebook/tree/main/l10n/cn) (zh)
+- [Chinese](https://github.com/theopensourceway/guidebook/tree/main/l10n/cn) (CN)
