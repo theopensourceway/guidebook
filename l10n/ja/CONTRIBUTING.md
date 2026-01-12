@@ -127,21 +127,20 @@ git push --set-upstream origin [branchname]
 アップストリームにPRを作成するには、https://github.com/theopensourceway/guidebook にアクセスしてください。『Compare & pull request』ボタンが表示されるまでページを再読み込みする必要がある場合があります。
 
 ```
-オブジェクトの列挙: 5, 完了。
-オブジェクトのカウント: 100% (5/5), 完了。
-最大12スレッドを使用したデルタ圧縮
-オブジェクトの圧縮: 100% (2/2), 完了。
-オブジェクト書き込み: 100% (3/3), 345 バイト | 345.00 KiB/s, 完了。
-合計 3 (デルタ 1), 再利用 0 (デルタ 0), パック再利用 0
-remote: デルタ解決中: 100% (1/1), ローカルオブジェクト 1 個で完了。
-リモート: 
-リモート: GitHub で 『you-copyedits-01』 のプルリクエストを作成するには:
-リモート:      https://github.com/you/you-tosw-guidebook/pull/new/you-copyedits-01
-リモート: 
-github.com:you/you-tosw-guidebook.git へ
- 
-* [new branch]      you-copyedits-01 -> you-copyedits-01
-ブランチ 『you-copyedits-01』 が 『origin/you-copyedits-01』 を追跡するように設定されました。
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 345 bytes | 345.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: 
+remote: Create a pull request for 'you-copyedits-01' on GitHub by visiting:
+remote:      https://github.com/you/you-tosw-guidebook/pull/new/you-copyedits-01
+remote: 
+To github.com:you/you-tosw-guidebook.git
+ * [new branch]      you-copyedits-01 -> you-copyedits-01
+branch 'you-copyedits-01' set up to track 'origin/you-copyedits-01'.
 ```
 
 プルリクエストダイアログの手順に従い、追加したいコメントがあれば記入してください。
