@@ -1,7 +1,7 @@
 # Table of contents
 
-* [The Open Source Way (オープンソース・ウェイ)](README.md)
-* [はじめに：オープンソース・ウェイの提唱](presenting-the-open-source-way.md)
+* [The Open Source Way (オープンソースウェイ)](README.md)
+* [はじめに：オープンソースウェイの提唱](presenting-the-open-source-way.md)
 * [はじめに](getting-started/README.md)
   * [コミュニティ101](getting-started/community-101.md)
   * [コミュニティ構築の要点](getting-started/essentials-of-building-a-community.md)

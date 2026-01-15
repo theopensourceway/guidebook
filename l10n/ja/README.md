@@ -1,5 +1,5 @@
-# The Open Source Way (オープンソース・ウェイ)
+# The Open Source Way (オープンソースウェイ)
 
-[The Open Source Way (以降：オープンソース・ウェイ)](https://www.theopensourceway.org/) は、オープンソースコミュニティの運営に関心を持つすべての人に向けた（やや主観的な）ガイドブックです。
+[The Open Source Way (以降：オープンソースウェイ)](https://www.theopensourceway.org/) は、オープンソースコミュニティの運営に関心を持つすべての人に向けた（やや主観的な）ガイドブックです。
 
 情熱的な貢献者たちのグループを立ち上げ、育成し、成長させ、維持するためのベストプラクティスを集めたものです。

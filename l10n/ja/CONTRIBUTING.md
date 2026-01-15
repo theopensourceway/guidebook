@@ -4,7 +4,7 @@
 
 ## 慣れるために
 
-このプロジェクトでは、GitHub ベースのワークフローを使用して、**ガイドブック**を構成する Markdown 形式のファイルを管理しています。ガイドブックの各**章**は Markdown ファイルです。章ファイルはフォルダで示される**セクション**に整理されています。最初の貢献先を決めるには、オープンソース・ウェイガイドブックの[構成](https://github.com/theopensourceway/guidebook)を確認してください。
+このプロジェクトでは、GitHub ベースのワークフローを使用して、**ガイドブック**を構成する Markdown 形式のファイルを管理しています。ガイドブックの各**章**は Markdown ファイルです。章ファイルはフォルダで示される**セクション**に整理されています。最初の貢献先を決めるには、オープンソースウェイガイドブックの[構成](https://github.com/theopensourceway/guidebook)を確認してください。
 
 また、未解決の[課題](https://github.com/theopensourceway/guidebook/issues)を確認し、解決に協力することもできます。プロジェクトのメンテナやコミュニティメンバーとアイデアを共有するには、[ディスカッション](https://github.com/theopensourceway/guidebook/discussions)を開始してください。
 
