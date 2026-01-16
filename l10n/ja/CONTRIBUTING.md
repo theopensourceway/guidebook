@@ -119,7 +119,7 @@ git branch
 
 ```
 git add ./filenames
-git commit -m 「短い説明メッセージ」  ## 複数行のメッセージの場合はテキストエディタを開く
+git commit -m "短い説明メッセージ"  ## 複数行のメッセージの場合はテキストエディタを開く
 git push --set-upstream origin [branchname]
 ```
 
