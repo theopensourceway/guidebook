@@ -1,4 +1,4 @@
-# Table of contents
+# 目次
 
 * [The Open Source Way (オープンソースウェイ)](README.md)
 * [はじめに：オープンソースウェイの提唱](presenting-the-open-source-way.md)
