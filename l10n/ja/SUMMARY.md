@@ -12,7 +12,7 @@
   * [多様なオープンソースコミュニティ構築：インクルージョン（包摂性）を最優先に](attracting-users/building-diverse-open-source-communities-by-making-them-includive-first.md)
 * [参加者のガイド](guiding-participants/README.md)
   * [オープンソースコミュニティへの参加理由](guiding-participants/why-people-participate-in-open-source-communities.md)
-  * [参加者の動機付けと報酬](guiding-participants/incentivizing-and-rewarding-participants.md)
+  * [参加者のインセンティブと報酬](guiding-participants/incentivizing-and-rewarding-participants.md)
 * [貢献者の育成](growing-contributors/README.md)
   * [ユーザーから貢献者へ](growing-contributors/from-users-to-contributors.md)
   * [貢献とは何か?](growing-contributors/what-is-a-contribution.md)
