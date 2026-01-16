@@ -71,7 +71,7 @@
 
 1. https://github.com/theopensourceway/guidebook にアクセスし、『Fork』ボタンをクリックして、ご自身のリポジトリにフォークを作成してください。
 ヒント: アップストリームのオリジナルではなく自身のフォークであることが明確になるよう、名前を変更してください（例: `yourname-fork-reponame`）。
-2. 自身のフォークページ（https://github.com/you/forkname）に移動し、『コード』 > ローカル > SSH をクリックし、URL 右側のコピーアイコンをクリックします。
+2. 自身のフォークページ（`https://github.com/you/forkname`）に移動し、『コード』 > ローカル > SSH をクリックし、URL 右側のコピーアイコンをクリックします。
 3. コマンドラインセッションを開き、リポジトリをローカルにクローンします。
    - `git clone git@github.com:[you]/[you]-tosw-guidebook.git`
    - `cd [you]-tosw-guidebook`
