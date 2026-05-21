@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../CODE_OF_CONDUCT.md:1
+msgid "Open Source Way Contributor Code of Conduct"
+msgstr "开源之道贡献者行为准则"
+
+#: ../../CODE_OF_CONDUCT.md:3
+msgid "Our Pledge"
+msgstr "我们的承诺"
+
+#: ../../CODE_OF_CONDUCT.md:5
+msgid ""
+"In the interest of fostering an open and welcoming environment, we as "
+"contributors and maintainers pledge to making participation in our project "
+"and our community a harassment-free experience for everyone, regardless of "
+"age, body size, disability, ethnicity, sex characteristics, gender identity "
+"and expression, level of experience, education, socio-economic status, "
+"nationality, personal appearance, race, religion, or sexual identity and "
+"orientation."
+msgstr "为了促进一个开放和欢迎的环境，我们作为贡献者和维护者承诺，使参与我们的项目和社区成为一个无骚扰的体验，适用于每个人，无论年龄、身体大小、残疾、种族、性别特征、性别认同和表达、经验水平、教育、社会经济地位、国籍、个人外貌、种族、宗教或性身份和取向。"
+
+#: ../../CODE_OF_CONDUCT.md:12
+msgid "Our Standards"
+msgstr "我们的标准"
+
+#: ../../CODE_OF_CONDUCT.md:14
+msgid ""
+"Examples of behavior that contributes to creating a positive environment "
+"include:"
+msgstr "有助于创造积极环境的行为示例包括："
+
+#: ../../CODE_OF_CONDUCT.md:17
+msgid "Using welcoming and inclusive language"
+msgstr "使用欢迎和包容的语言"
+
+#: ../../CODE_OF_CONDUCT.md:18
+msgid "Being respectful of differing viewpoints and experiences"
+msgstr "尊重不同的观点和经验"
+
+#: ../../CODE_OF_CONDUCT.md:19
+msgid "Gracefully accepting constructive criticism"
+msgstr "优雅地接受建设性批评"
+
+#: ../../CODE_OF_CONDUCT.md:20
+msgid "Focusing on what is best for the community"
+msgstr "专注于对社区最有利的事情"
+
+#: ../../CODE_OF_CONDUCT.md:21
+msgid "Showing empathy towards other community members"
+msgstr "对其他社区成员表现出同情"
+
+#: ../../CODE_OF_CONDUCT.md:23
+msgid "Examples of unacceptable behavior by participants include:"
+msgstr "参与者不可接受的行为示例包括："
+
+#: ../../CODE_OF_CONDUCT.md:25
+msgid ""
+"The use of sexualized language or imagery and unwelcome sexual attention or "
+"advances"
+msgstr "使用性别化语言或图像以及不受欢迎的性关注或进攻"
+
+#: ../../CODE_OF_CONDUCT.md:27
+msgid "Trolling, insulting/derogatory comments, and personal or political attacks"
+msgstr "网络喷子、侮辱性/贬损性评论，以及个人或政治攻击"
+
+#: ../../CODE_OF_CONDUCT.md:28
+msgid "Public or private harassment"
+msgstr "公开或私下骚扰"
+
+#: ../../CODE_OF_CONDUCT.md:29
+msgid ""
+"Publishing others' private information, such as a physical or electronic "
+"address, without explicit permission"
+msgstr "在未获得明确许可的情况下发布他人的私人信息，例如物理或电子地址"
+
+#: ../../CODE_OF_CONDUCT.md:31
+msgid ""
+"Other conduct which could reasonably be considered inappropriate in a "
+"professional setting"
+msgstr "其他在专业环境中合理被认为不当的行为"
+
+#: ../../CODE_OF_CONDUCT.md:34
+msgid "Our Responsibilities"
+msgstr "我们的责任"
+
+#: ../../CODE_OF_CONDUCT.md:36
+msgid ""
+"Project maintainers are responsible for clarifying the standards of "
+"acceptable behavior and are expected to take appropriate and fair corrective"
+" action in response to any instances of unacceptable behavior."
+msgstr "项目维护者负责澄清可接受行为的标准，并预计在任何不可接受行为的实例中采取适当和公正的纠正措施。"
+
+#: ../../CODE_OF_CONDUCT.md:40
+msgid ""
+"Project maintainers have the right and responsibility to remove, edit, or "
+"reject comments, commits, code, wiki edits, issues, and other contributions "
+"that are not aligned to this Code of Conduct, or to ban temporarily or "
+"permanently any contributor for other behaviors that they deem "
+"inappropriate, threatening, offensive, or harmful."
+msgstr "项目维护者有权和责任删除、编辑或拒绝与本行为准则不一致的评论、提交、代码、维基编辑、问题和其他贡献，或因其他他们认为不当、威胁、冒犯或有害的行为而暂时或永久禁止任何贡献者。"
+
+#: ../../CODE_OF_CONDUCT.md:46
+msgid "Scope"
+msgstr "范围"
+
+#: ../../CODE_OF_CONDUCT.md:48
+msgid ""
+"This Code of Conduct applies within all project spaces, and it also applies "
+"when an individual is representing the project or its community in public "
+"spaces. Examples of representing a project or community include using an "
+"official project e-mail address, posting via an official social media "
+"account, or acting as an appointed representative at an online or offline "
+"event. Representation of a project may be further defined and clarified by "
+"project maintainers."
+msgstr "本行为准则适用于所有项目空间，并且在个人代表项目或其社区在公共空间时也适用。代表项目或社区的示例包括使用官方项目电子邮件地址、通过官方社交媒体账户发布信息，或在在线或离线活动中担任指定代表。项目的代表性可能由项目维护者进一步定义和澄清。"
+
+#: ../../CODE_OF_CONDUCT.md:55
+msgid "Enforcement"
+msgstr "执行"
+
+#: ../../CODE_OF_CONDUCT.md:57
+msgid ""
+"Instances of abusive, harassing, or otherwise unacceptable behavior may be "
+"reported by contacting the project team at ombuds@theopensourceway.org. All "
+"complaints will be reviewed and investigated and will result in a response "
+"that is deemed necessary and appropriate to the circumstances. The project "
+"team is obligated to maintain confidentiality with regard to the reporter of"
+" an incident. Further details of specific enforcement policies may be posted"
+" separately."
+msgstr ""
+"虐待、骚扰或其他不可接受行为的实例可以通过联系项目团队 ombuds@theopensourceway.org "
+"进行报告。所有投诉将被审查和调查，并将根据情况采取必要和适当的回应。项目团队有义务对事件报告者保持保密。具体执行规定的进一步细节可能会单独发布。"
+
+#: ../../CODE_OF_CONDUCT.md:64
+msgid ""
+"Project maintainers who do not follow or enforce the Code of Conduct in good"
+" faith may face temporary or permanent repercussions as determined by other "
+"members of the project's leadership."
+msgstr "未能善意遵循或执行行为准则的项目维护者可能会面临其他项目领导成员决定的临时或永久后果。"
+
+#: ../../CODE_OF_CONDUCT.md:68
+msgid "Attribution"
+msgstr "归属"
+
+#: ../../CODE_OF_CONDUCT.md:70
+msgid ""
+"This Code of Conduct is adapted from the [Contributor Covenant][homepage], "
+"version 1.4, available at https://www.contributor-covenant.org/version/1/4"
+"/code-of-conduct.html"
+msgstr ""
+"本行为准则改编自 [贡献者公约][homepage]，版本 1.4， 可在 https://www.contributor-covenant.org"
+"/zh-cn/version/3/0/code_of_conduct/ 获取。"
+
+#: ../../CODE_OF_CONDUCT.md:75
+msgid ""
+"For answers to common questions about this code of conduct, see https://www"
+".contributor-covenant.org/faq"
+msgstr "有关本行为准则的常见问题的答案，请参见 https://www.contributor-covenant.org/faq"

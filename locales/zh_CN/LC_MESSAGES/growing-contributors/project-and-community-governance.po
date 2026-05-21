@@ -1,0 +1,1780 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../growing-contributors/project-and-community-governance.md:8
+msgid "Project and Community Governance"
+msgstr "项目与社区治理"
+
+#: ../../growing-contributors/project-and-community-governance.md:10
+msgid ""
+"In this chapter, we'll discuss assessing and evolving an open source project"
+" or community governance model."
+msgstr "本章将探讨如何评估并优化开源项目或社区治理模式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:12
+msgid ""
+"All organizations operate in and with governance structures. The term "
+"\"governance\" carries multiple meanings in an organizational context. It "
+"can refer to regulatory matters or risk management issues, for example. More"
+" generally, though, it can also refer to a system of rules, roles, and "
+"procedures that determine how power in an organization gets distributed."
+msgstr "所有组织都在特定的治理结构中运作。\"治理\"一词在组织语境中具有多重含义，它既可以指监管事务或风险管理问题，更广义而言，也指决定组织权力分配的一套规则、角色和程序体系。"
+
+#: ../../growing-contributors/project-and-community-governance.md:14
+msgid ""
+"Because open source projects are organizations, every one features "
+"governance structures. Some of these structures are more _explicit_ than "
+"others. Some are more _formal_ than others. But every project has them."
+msgstr "由于开源项目本质上也是组织，因此每个项目都具备治理结构。这些结构的*显性*程度各不相同，*形式化*程度也各有差异，但每个项目都必然存在这样的治理机制。"
+
+#: ../../growing-contributors/project-and-community-governance.md:16
+msgid ""
+"Unfortunately, too many discussions of open source project governance focus "
+"on activities or resources, like \"speaking for the project\" or \"ownership"
+" of the web domain.\" While documenting these functions is useful, we should"
+" remember that these are _aspects_ of a project's governance, but they are "
+"not the full extent of it. At its heart, open source project and community "
+"governance is about _people_—their rights and responsibilities as part of a "
+"project and the expectations others have for them."
+msgstr "遗憾的是，太多关于开源项目治理的讨论聚焦于具体活动或资源，例如\"代表项目发声\"或\"网站域名所有权\"。虽然记录这些职能有其价值，但我们必须认识到，这些仅是项目治理的*组成部分*，而非全貌。开源项目与社区治理的核心在于*人*——即成员作为项目一份子的权利与责任，以及他人对其行为的期待。"
+
+#: ../../growing-contributors/project-and-community-governance.md:18
+msgid "What is governance?"
+msgstr "什么是治理？"
+
+#: ../../growing-contributors/project-and-community-governance.md:20
+msgid ""
+"Simply put, \"governance\" refers to, \"The rules or customs that determine "
+"who gets to do what (or is supposed to do what), how they're supposed to do "
+"it, and when.\""
+msgstr "简而言之，\"治理\"即指：\"决定谁有权（或有义务）做什么、如何行事以及何时行动的规则或惯例。\""
+
+#: ../../growing-contributors/project-and-community-governance.md:22
+msgid ""
+"Two categories of governance-related issues are most pertinent to open "
+"source projects: those related to _roles_ and those related to _policies and"
+" procedures_. For the purpose of explanation, we'll discuss each of these "
+"issues separately. In practice, however, they're inseparable—two sides of "
+"the same coin, as our forthcoming example will demonstrate."
+msgstr "对开源项目而言，最相关的治理问题可分为两类：与角色相关的事项，以及与规定和流程相关的事项。为便于说明，我们将分别讨论这两类问题。但实际上它们密不可分——就像硬币的两面，后续示例将生动展现这一点。"
+
+#: ../../growing-contributors/project-and-community-governance.md:24
+msgid "Roles"
+msgstr "角色"
+
+#: ../../growing-contributors/project-and-community-governance.md:26
+msgid ""
+"A great deal of activity hinges on roles-related governance in open source "
+"projects. Think of a _role_ as a function someone in the project performs."
+msgstr "开源项目中大量活动都依赖于角色治理机制。所谓*角色*，可理解为项目成员所承担的职能。"
+
+#: ../../growing-contributors/project-and-community-governance.md:28
+msgid ""
+"When analyzing your own project's roles-related governance systems, ask the "
+"following questions:"
+msgstr "在分析你自身项目中与角色相关的治理体系时，请思考以下问题："
+
+#: ../../growing-contributors/project-and-community-governance.md:30
+msgid "What roles do (or can) project contributors play?"
+msgstr "项目贡献者可以（或应当）承担哪些角色？"
+
+#: ../../growing-contributors/project-and-community-governance.md:31
+msgid "What qualifies a person to play a particular role in the project?"
+msgstr "如何判定某人具备在项目中担任特定角色的资格？"
+
+#: ../../growing-contributors/project-and-community-governance.md:32
+msgid ""
+"What duties, privileges, and forms of authority are associated with each "
+"role?"
+msgstr "每个角色关联哪些职责、特权与权限形式？"
+
+#: ../../growing-contributors/project-and-community-governance.md:33
+msgid ""
+"What project resources are the province or responsibility of people who "
+"perform certain roles?"
+msgstr "哪些项目资源由特定角色的执行者管辖或负责？"
+
+#: ../../growing-contributors/project-and-community-governance.md:35
+msgid "Policies and procedures"
+msgstr "规定和程序"
+
+#: ../../growing-contributors/project-and-community-governance.md:37
+msgid ""
+"While contributors occupy certain roles in an open source project, the "
+"project's governance structure also determines how those people do what they"
+" do as part of the project. _Policies and procedures_ refer to the processes"
+" and guidelines contributors follow when performing their roles."
+msgstr "虽然贡献者在开源项目中担任特定角色，但项目的治理结构也决定了这些成员如何以项目参与者的身份开展工作。_规定与流程_是指贡献者在履行其角色时需遵循的规程与准则。"
+
+#: ../../growing-contributors/project-and-community-governance.md:39
+msgid ""
+"When analyzing your project's procedure- or policy-related governance "
+"systems, ask the following questions:"
+msgstr "在分析项目程序或规定相关的治理体系时，请思考以下问题："
+
+#: ../../growing-contributors/project-and-community-governance.md:41
+msgid "How do various contributions get accepted into the project?"
+msgstr "各类贡献如何被项目接纳？"
+
+#: ../../growing-contributors/project-and-community-governance.md:42
+msgid ""
+"How do contributors come to occupy and eventually depart from certain roles "
+"in the project?"
+msgstr "贡献者如何获得特定角色并最终退出这些角色？"
+
+#: ../../growing-contributors/project-and-community-governance.md:43
+msgid "How can role descriptions and responsibilities be changed?"
+msgstr "角色描述和职责如何变更？"
+
+#: ../../growing-contributors/project-and-community-governance.md:44
+msgid "How do project decisions get made (and by whom)?"
+msgstr "项目决策如何制定（由谁制定）？"
+
+#: ../../growing-contributors/project-and-community-governance.md:45
+msgid "How are debates and conflicts resolved (and by whom)?"
+msgstr "争议与冲突如何解决（由谁解决）？"
+
+#: ../../growing-contributors/project-and-community-governance.md:47
+msgid "Roles, policies, procedures: An example"
+msgstr "角色、规定与流程：示例"
+
+#: ../../growing-contributors/project-and-community-governance.md:49
+msgid ""
+"Remember: A project's roles and its policies and procedures aren't discrete;"
+" they're interwoven as part of the project's overall governance model. For "
+"example, consider a project role called \"Documentation Maintainer.\" A "
+"project might outline that role this way:"
+msgstr "请记住：项目的角色、规定与流程并非孤立存在，它们作为项目整体治理模型的组成部分相互交织。例如，假设某个项目设有\"文档维护者\"这一角色，其职责范围可能被界定为："
+
+#: ../../growing-contributors/project-and-community-governance.md:51
+msgid "Role Title: Documentation Maintainer"
+msgstr "角色名称：文档维护者"
+
+#: ../../growing-contributors/project-and-community-governance.md:52
+msgid "Qualifications: several years of consistent contributions to documentation"
+msgstr "资格要求：需有持续数年的文档贡献经历"
+
+#: ../../growing-contributors/project-and-community-governance.md:53
+msgid ""
+"Access to Role: other Documentation Maintainers can nominate and vote to "
+"grant this role to eligible contributors"
+msgstr "角色获取途径：其他文档维护者可提名并投票决定是否授予合格贡献者此角色"
+
+#: ../../growing-contributors/project-and-community-governance.md:54
+msgid "Duties: write documentation and review documentation from other contributors"
+msgstr "职责：编写文档并审核其他贡献者提交的文档"
+
+#: ../../growing-contributors/project-and-community-governance.md:55
+msgid ""
+"Privileges: speak for the documentation team, participate in development "
+"meetings"
+msgstr "权限：代表文档团队发言，参与开发会议"
+
+#: ../../growing-contributors/project-and-community-governance.md:56
+msgid ""
+"Authority: ultimate decision on documentation content, technology, and "
+"strategy"
+msgstr "职权：对文档内容、技术及战略拥有最终决定权"
+
+#: ../../growing-contributors/project-and-community-governance.md:57
+msgid ""
+"Change Procedure: other Documentation Maintainers vote on changes to role "
+"description"
+msgstr "变更流程：其他文档维护者投票表决角色描述的修改"
+
+#: ../../growing-contributors/project-and-community-governance.md:59
+msgid ""
+"In many cases, a project's actual role descriptions are more elaborate than "
+"that (some projects' role handbooks are dozens of pages long). As projects "
+"mature, the number of different roles people play in them can increase. "
+"Moreover, larger and more mature projects associate roles with "
+"_collectives_—that is, a group of contributors can perform a certain role "
+"jointly. For instance, a project might feature several \"steering "
+"committees,\" each with its own set of election procedures. This is true for"
+" the [Kubernetes project](https://kubernetes.io/), where \"special interest "
+"groups\" are a popular unit of governance. In that project, the role of Code"
+" Contributor is subdivided further by interest group (team) and by "
+"contributor level (Member, Reviewer, Approver, and Owner). So a "
+"contributor's _actual_ role would be something like \"SIG‒Network "
+"Approver,\" not just \"Code Contributor.\""
+msgstr ""
+"许多情况下，项目的实际角色描述比这更为详尽（某些项目的角色手册长达数十页）。随着项目成熟，参与者在其中扮演的不同角色数量会增加。此外，规模更大、更成熟的项目会将角色与集体关联——即一组贡献者可共同履行某个角色。例如，一个项目可能设有多个\"指导委员会\"，每个委员会都有各自的选举程序。[Kubernetes项目](https://kubernetes.io/)就是如此，其\"特别兴趣小组（special"
+" interest "
+"groups）\"是常见的治理单元。在该项目中，代码贡献者角色会按兴趣小组（团队）和贡献者级别（成员、评审员、批准者、所有者）进一步细分。因此，贡献者的_实际_角色可能是\"SIG-网络批准者\"而不仅是\"代码贡献者\"。"
+
+#: ../../growing-contributors/project-and-community-governance.md:61
+msgid "Why governance?"
+msgstr "为何需要治理？"
+
+#: ../../growing-contributors/project-and-community-governance.md:63
+msgid ""
+"In some open source communities, the idea of \"governance\" has a poor "
+"reputation. This is true in cases where project contributors tend to "
+"construe governance as a purely negative force—a set of rules or procedures "
+"aimed solely at telling people what they can't do, how they shouldn't act, "
+"or how they should limit themselves to acting only within certain "
+"boundaries."
+msgstr "在某些开源社区中，\"治理\"这个概念名声不佳。当项目贡献者倾向于将治理纯粹视为一种负面约束力时尤其如此——他们认为治理只是一套规则或程序，专门用来告诉人们不能做什么、不该如何行事，或者要求他们必须局限在特定范围内活动。"
+
+#: ../../growing-contributors/project-and-community-governance.md:65
+msgid ""
+"But a well-crafted governance model can in fact be a largely positive force "
+"in open source communities. A project's governance model outlines that "
+"project's _terms of engagement_—the specific, tried-and-tested structures "
+"for working together and making decisions that project contributors have "
+"found works best for the community. A clear governance model encourages new "
+"contributors to become involved in your project."
+msgstr "但事实上，精心设计的治理模式完全可以成为开源社区中的积极力量。一个项目的治理模式明确了该项目的_参与规则_——那些经过实践检验的具体协作结构和决策机制，正是项目贡献者发现最适合社区运作的方式。清晰的治理模式能鼓励新贡献者参与你的项目。"
+
+#: ../../growing-contributors/project-and-community-governance.md:67
+msgid ""
+"A well-designed system of governance is much less likely to turn away or de-"
+"motivate project participants than a vague or non-existent one is. Consider "
+"your project from the perspective of new contributors. Are new contributors "
+"_more_ or _less_ likely to jump into a project without any sense of the role"
+" they're supposed to play and the rules they're supposed to follow when they"
+" want others to seriously consider your contributions? A clear governance "
+"model helps people understand precisely how they can make an immediate "
+"contribution to a project, how they can pitch in without upsetting the "
+"project's rhythms, how they can escalate questions or issues if they have "
+"them, and what sorts of leadership positions they can aspire to if they "
+"stick around long enough. So a community's goal in architecting a governance"
+" model should be, \"Make structures of participation obvious.\" When your "
+"project's rules are clear, contributors can engage with confidence. Taking "
+"this approach to governance can positively impact a project's long-term "
+"viability and growth."
+msgstr "一套设计完善的治理体系，相比模糊不清或缺失的体系，更不容易让项目参与者望而却步或丧失动力。请从新贡献者的角度审视你的项目：当希望他人认真考虑自己的贡献时，新成员是更愿意加入一个对其应扮演角色和遵守规则毫无概念的项目，还是相反？清晰的治理模式能帮助人们准确理解：如何立即为项目做出贡献，如何在不打乱项目节奏的情况下参与，遇到问题时如何升级处理，以及长期坚持后可能获得哪些领导职位。因此社区构建治理模式的目标应是\"让参与机制一目了然\"。当项目规则明确时，贡献者便能自信地参与。采用这种治理方式将对项目的长期生存能力和成长产生积极影响。"
+
+#: ../../growing-contributors/project-and-community-governance.md:69
+msgid "Making governance explicit"
+msgstr "明确治理规则"
+
+#: ../../growing-contributors/project-and-community-governance.md:71
+msgid ""
+"Recall that every open source project features different roles contributors "
+"can play and procedures that people in those roles are typically (or should "
+"be) following. This is true whether or not those roles and procedures are "
+"actually documented anywhere. Where roles aren't documented, they are "
+"implicit in regular contributors' activities (and not infrequently a source "
+"of argument). Successful open source projects make their governance models "
+"explicit."
+msgstr "请记住，每个开源项目都包含贡献者可扮演的不同角色，以及这些角色通常（或应当）遵循的流程。无论这些角色和流程是否被正式记录，这一事实都成立。当角色未被书面化时，它们会隐含在常规贡献者的行为中（且常常成为争议的源头）。成功的开源项目会将其治理模式明确化。"
+
+#: ../../growing-contributors/project-and-community-governance.md:73
+msgid ""
+"In a 2018 study, [researcher Javier Canovas found](https://opensource.com"
+"/open-organization/18/4/new-governance-model-research) that 19 of the 25 "
+"most-starred projects on GitHub hadn't published documents outlining their "
+"governance models. Canovas considered this unfortunate for several reasons."
+msgstr ""
+"2018 年的一项研究中，[研究员哈维尔·卡诺瓦斯发现](https://opensource.com/open-organization/18/4"
+"/new-governance-model-research)，GitHub 上标星数最多的 25 个项目中有 19 "
+"个未曾发布阐述其治理模式的文件。卡诺瓦斯认为这种情况令人遗憾，原因有多方面。"
+
+#: ../../growing-contributors/project-and-community-governance.md:75
+msgid ""
+"\"First, \\[explicit governance] helps promote an organization's sense of "
+"transparency,\" he writes. \"One could know how much time a group takes to "
+"consider an issue, the chances contributions have of making an impact on the"
+" organization, or who is going to hear their voices when they speak up. "
+"Second, explicitly defining a governance model may also help one better "
+"understand and classify how open organizations are driven.\""
+msgstr "\"首先，\\[明确的治理\\]有助于提升组织的透明度感，\"他写道。\"人们可以了解一个团队考虑问题需要多长时间，贡献有多大可能对组织产生影响，或者当他们发声时谁会听到他们的声音。其次，明确定义治理模式也可能帮助人们更好地理解和分类开放组织的运作方式。\""
+
+#: ../../growing-contributors/project-and-community-governance.md:77
+msgid ""
+"Here's an example of how this works: in 2018, the Kubernetes project added a"
+" set of detailed, comprehensive Role Handbooks for their Release Team. These"
+" handbooks outlined information related to the Release Team role, including "
+"qualifications necessary for joining the team, duties members of the team "
+"perform, and details on the team's decision-making processes. As a result, "
+"the Release Team became the most popular point of entry for project "
+"contributions; new participants knew exactly what to expect. Other teams "
+"within Kubernetes followed suit—and experienced a doubling or even tripling "
+"of the number of new contributors."
+msgstr ""
+"这里有一个实际案例：2018 年，Kubernetes "
+"项目为其发布团队制定了一套详尽全面的《角色手册》。这些手册明确了与发布团队角色相关的信息，包括加入团队所需的资质条件、团队成员的具体职责以及团队决策流程的细节。正因如此，发布团队成为项目贡献最热门的入口——新参与者能清晰了解工作预期。Kubernetes"
+" 内部其他团队纷纷效仿这一做法，新贡献者数量随之实现了两倍甚至三倍的增长。"
+
+#: ../../growing-contributors/project-and-community-governance.md:79
+msgid ""
+"Clear and explicit governance models have another critical "
+"benefit—cultivating a strong sense of trust in your project's community. "
+"Members of projects with robust, detailed governance models benefit from a "
+"shared commitment to a transparent set of procedures, policies, and role "
+"descriptions. They can appeal to a commonly understood set of guidelines "
+"when disputes arise. All of this makes questions about participants' "
+"motives, intentions, goals, and authority less contentious."
+msgstr "清晰明确的治理模式还带来另一项关键优势——在项目社区中培养强烈的信任感。拥有完善、细致治理模式的项目成员能受益于对一套透明程序、规定及角色描述的共同承诺。当争议出现时，他们可以诉诸于共同理解的准则框架。这一切都使得关于参与者动机、意图、目标及权限的质疑不再那么容易引发争执。"
+
+#: ../../growing-contributors/project-and-community-governance.md:81
+msgid "How community-originated projects evolve"
+msgstr "社区发起项目的演进之道"
+
+#: ../../growing-contributors/project-and-community-governance.md:83
+msgid ""
+"Open source projects rarely begin by \"selecting\" and implementing a "
+"perfectly preconceived governance model. Much more commonly, projects' "
+"governance models evolve as their communities grow and diversify."
+msgstr "开源项目很少从一开始就\"选择\"并实施一个完全预设的治理模式。更常见的情况是，项目的治理模式会随着社区的发展和多样化而逐步演变。"
+
+#: ../../growing-contributors/project-and-community-governance.md:85
+msgid ""
+"In its early days, a project might only have one or two developers, making "
+"discussions of \"governance\" largely irrelevant (the project is simply not "
+"big enough to have a need for any structured decision-making process). But "
+"this will change as the project attracts additional contributors. And "
+"because a project's governance model, its culture, and the behaviors of its "
+"leaders are all intimately entwined, any change to one will likely spur "
+"changes in the others. While every project is different—growing in its own "
+"way and following its own trajectory of maturation—we might note certain "
+"common, recurring milestones in a project's development that tend to trigger"
+" governance evolutions."
+msgstr "项目初期可能仅有一两名开发者，此时讨论\"治理\"基本无关紧要（项目规模尚小，无需结构化决策流程）。但随着项目吸引更多贡献者，这种情况将发生改变。由于项目的治理模式、文化氛围与领导者的行为方式紧密交织，任何一方的变动都可能引发连锁反应。尽管每个项目都独具特色——以各自方式成长并遵循独特的发展轨迹——但我们仍能观察到项目演进过程中某些常见且反复出现的关键节点，这些节点往往会推动治理机制的演变。"
+
+#: ../../growing-contributors/project-and-community-governance.md:87
+msgid "Work among founders (1 or 2 members)"
+msgstr "创始成员间的工作（1 到 2 人）"
+
+#: ../../growing-contributors/project-and-community-governance.md:89
+msgid ""
+"Projects that start with a single developer (or small group of developers) "
+"do not often require any formal governance structure. Gauging consensus is "
+"easy, and during the early stages of a project, disagreements about what "
+"should be done (and who should do it) are rare. A project's early members "
+"all typically have carte blanche to take the actions they see as best for "
+"the project, like approving code for inclusion. Normally, no structure is "
+"required in addition to a GitHub repository, and all early developers "
+"receive project membership status almost immediately."
+msgstr ""
+"由单个开发者（或小型开发团队）启动的项目通常不需要任何正式的治理结构。此时达成共识很容易，在项目的早期阶段，关于该做什么（以及由谁来做）的分歧很少见。项目的早期成员通常都拥有全权，可以采取他们认为对项目最有利的行动，比如批准代码入库。除了"
+" GitHub 仓库之外，通常不需要任何额外结构，所有早期开发者几乎都能立即获得项目成员身份。"
+
+#: ../../growing-contributors/project-and-community-governance.md:91
+msgid "Early project growth (up to 5 members)"
+msgstr "项目早期增长阶段（5 人以下）"
+
+#: ../../growing-contributors/project-and-community-governance.md:93
+msgid ""
+"As projects begin growing, the limitations of this approach become obvious. "
+"When a project has even five developers, coordinating work becomes more "
+"difficult, and newer developers may not be immediately familiar with the "
+"design choices and coding standards the project's early developers have "
+"followed."
+msgstr "随着项目规模扩大，这种方式的局限性逐渐显现。当开发者数量达到五人时，工作协调就变得更为困难，新加入的开发者可能无法立即理解项目早期开发者遵循的设计决策与编码规范。"
+
+#: ../../growing-contributors/project-and-community-governance.md:95
+msgid ""
+"So the first evolution projects tend to undergo is often one that requires "
+"code submissions to undergo peer review before being merged. The \"first "
+"level\" of the project's hierarchy consists of those with the authority to "
+"approve pull requests or code and content submissions for inclusion in the "
+"project. Initially, deciding who receives this authority is easy; the "
+"project's original, trusted developers all receive it, and the project "
+"founder acts as final arbiter in case of disagreements."
+msgstr "因此，开源项目通常经历的第一个演变阶段，往往要求代码提交需经过同行评审才能合并。项目层级中的\"第一级\"由那些拥有批准权限的成员构成，他们负责审核拉取请求或代码及内容提交是否纳入项目。最初阶段，决定谁获得这种权限相对简单：项目最初的核心开发者们都会获得此权限，而项目创始人则充当意见分歧时的最终仲裁者。"
+
+#: ../../growing-contributors/project-and-community-governance.md:97
+msgid "Mid-term project growth (10 to 15 members)"
+msgstr "中期项目增长（10到15名成员）"
+
+#: ../../growing-contributors/project-and-community-governance.md:99
+msgid ""
+"The next event to trigger a project governance evolution is often related to"
+" how people who join the project become recognized members of the group. "
+"This tends to occur when the size of the project has increased to "
+"approximately 10 or 15 developers. At this point, a project community "
+"typically must develop more formal guidelines for admitting new project "
+"members."
+msgstr ""
+"触发项目治理演变的下一阶段通常与新成员如何获得项目认可相关。这一转变往往发生在项目规模增长至约 10 到 15 "
+"名开发者时。此时，项目社区通常需要制定更正式的新成员准入规范。"
+
+#: ../../growing-contributors/project-and-community-governance.md:101
+msgid ""
+"One common standard projects use to assess new members is sustained "
+"participation (how long and how often the contributor has been active in the"
+" project) combined with a judgment about what one might call \"good "
+"taste\"—an assessment about the quality of work a contributor tends to "
+"submit, that contributor's good judgement in review comments, etc. Still, "
+"the project founder tends to be the gatekeeper and final arbiter of who gets"
+" promoted inside the project."
+msgstr "开源项目评估新成员时常用的一项标准是持续参与度（贡献者在项目中活跃的时长与频率），并结合对其\"良好品味\"的判断——即评估贡献者通常提交的工作质量、在评审意见中展现的明智判断等。尽管如此，项目创始人往往仍是决定内部晋升的守门人与最终裁决者。"
+
+#: ../../growing-contributors/project-and-community-governance.md:103
+msgid "How corporate-originated projects evolve"
+msgstr "企业主导项目的演化路径"
+
+#: ../../growing-contributors/project-and-community-governance.md:105
+msgid ""
+"Some open source projects that begin life as the work of a professional "
+"software development team operating in a corporate environment tend to "
+"evolve somewhat differently. Because these projects originate in corporate "
+"environments, they often inherit the organizational structure of those "
+"environments. They may, for example, already feature a robust group of "
+"developers with their own notions of hierarchy (managers, architects, junior"
+" and senior developers, and so on)."
+msgstr "某些起源于企业环境下专业软件开发团队的开源项目，其发展轨迹往往有所不同。由于这些项目诞生于企业环境，它们通常会继承原有的组织结构。例如，这类项目可能已具备完善的开发者群体，并自带层级观念（如经理、架构师、初级与高级开发者等角色划分）。"
+
+#: ../../growing-contributors/project-and-community-governance.md:107
+msgid "Early-stage corporate-originated projects"
+msgstr "企业主导项目的早期阶段"
+
+#: ../../growing-contributors/project-and-community-governance.md:109
+msgid ""
+"Initial efforts to increase community engagement in the projects tends to "
+"focus on growing adoption and engaging with early users. Pre-existing "
+"developer teams typically continue project planning, however, in a "
+"centralized manner. For this reason, external contributors may find engaging"
+" with the project more difficult—and the project may not gain sufficient "
+"traction as a result. The rapid pace of project changes, the opacity of the "
+"planning process, and the strength of pre-existing relationships between the"
+" project's developers can make feature development more difficult for "
+"external contributors. Early patch submissions may stay unreviewed for "
+"longer periods of time, and these submissions will be relatively infrequent."
+msgstr "提升项目社区参与度的初期努力往往集中于扩大采用率和吸引早期用户。已有的开发团队通常仍以集中化的方式进行项目规划。正因如此，外部贡献者可能会发现参与项目更为困难——项目也可能因此无法获得足够的关注度。项目变更的快速节奏、规划过程的不透明性，以及项目开发人员之间已有的紧密关系，都可能使外部贡献者更难参与功能开发。早期提交的补丁可能会长时间无人审查，且这些提交相对而言较为稀少。"
+
+#: ../../growing-contributors/project-and-community-governance.md:111
+msgid ""
+"This is as far as many corporate-originated projects will evolve. While the "
+"core team may engage actively with the project's user base, resources "
+"required to _grow_ that developer base are considerable, and many "
+"organizations choose not to make the investment."
+msgstr "许多企业发起的项目往往止步于此。虽然核心团队可能会积极与项目用户群体互动，但_扩大_开发者群体所需的资源相当可观，许多组织选择不进行这项投资。"
+
+#: ../../growing-contributors/project-and-community-governance.md:113
+msgid ""
+"However, one oft-cited benefit of the open source model is an ability to "
+"collaborate with industry partners and competitors and share the burden of "
+"development of common requirements. If this is a goal, then growing "
+"participation in a corporate-originated project beyond a single vendor is "
+"critical."
+msgstr "然而，开源模式常被提及的一个优势就是能够与行业伙伴及竞争对手合作，共同承担通用需求的开发负担。若以此为目标，那么推动企业发起的项目突破单一供应商的局限、吸引多方参与就至关重要。"
+
+#: ../../growing-contributors/project-and-community-governance.md:115
+msgid "Evolving to multi-vendor corporate open source"
+msgstr "演进至多厂商企业开源"
+
+#: ../../growing-contributors/project-and-community-governance.md:117
+msgid ""
+"For corporate-originated projects, expanding project participation involves "
+"engaging with both interested individuals who are using the project and "
+"vendors who might be motivated to invest in the project. Uniting these "
+"parties will have implications for project governance."
+msgstr "对于企业发起的项目而言，扩大项目参与度需要同时吸引两类群体：使用该项目的个人贡献者，以及有投资动机的供应商。整合这些参与方将对项目治理产生深远影响。"
+
+#: ../../growing-contributors/project-and-community-governance.md:119
+msgid ""
+"Many projects begin enticing other vendors to contribute by demonstrating a "
+"viable market for the project. Vendors typically do not invest sustainably "
+"in open source projects unless they can justify that investment. "
+"Illustrating significant and enthusiastic user adoption of the software is "
+"therefore critical at this stage. Initial efforts focus on accelerating "
+"adoption momentum and successfully converting users into contributors by "
+"soliciting their active participation in the project roadmap and project "
+"promotion."
+msgstr "许多项目通过展示项目的市场潜力来吸引其他供应商参与贡献。供应商通常不会对开源项目进行持续性投入，除非他们能证明这种投资的合理性。因此，在这个阶段，展示软件拥有大量热情的用户群体至关重要。初期工作重点在于加速采用势头，并通过邀请用户积极参与项目路线图和项目推广，成功将他们转化为贡献者。"
+
+#: ../../growing-contributors/project-and-community-governance.md:121
+msgid ""
+"Alternatively, a project may attempt to engage with other vendors by "
+"focusing on encouraging collaborators to \"build on\" a common platform. "
+"While companies may not be able to justify significant investment in the "
+"project \"core,\" they may be able to justify investment in _extensions_ to "
+"a project—if those extensions are relatively inexpensive and can support "
+"their business."
+msgstr "另一种方式是，项目可以尝试通过鼓励合作者在共同平台上\"构建\"来与其他供应商建立联系。虽然企业可能无法证明对项目\"核心\"进行大量投资的合理性，但如果项目扩展成本相对较低且能支持其业务，他们可能会愿意投资于项目扩展。"
+
+#: ../../growing-contributors/project-and-community-governance.md:123
+msgid ""
+"For example, by focusing initial outreach and engagement efforts on the "
+"APIs, the developer experience for extensions, and the path to distribution "
+"for people writing those extensions, projects may grow large communities of "
+"vendors building atop a platform, rather than modifying the core platform "
+"itself. Distinguishing these two areas of development—between the \"core\" "
+"and the \"periphery\"—often involves making governance decisions specific to"
+" each (only some project roles may receive permission to operate in the "
+"project \"core,\" for instance)."
+msgstr ""
+"例如，通过将初期推广和参与工作的重点放在 "
+"API、扩展的开发体验以及扩展开发者的分发路径上，项目可以培育出大量基于平台构建的供应商社区，而非直接修改平台核心代码。区分\"核心\"与\"外围\"这两个开发领域，通常需要针对各自特点制定治理规则（例如，只有特定项目角色才被允许在\"核心\"区域进行操作）。"
+
+#: ../../growing-contributors/project-and-community-governance.md:125
+msgid ""
+"When a corporate-originated project has demonstrated substantial market "
+"opportunity (either by proving that the project fills a significant gap in "
+"the market or by growing a large user base directly), it can engage with "
+"potential vendor partners to collaborate on the project. This discussion is "
+"partly technical and partly business-focused."
+msgstr "当企业发起的项目展现出巨大市场机遇时（无论是通过证明项目填补了市场重要空白，还是直接积累了庞大用户群），便可与潜在供应商合作伙伴展开项目协作。这类讨论既涉及技术层面，也聚焦商业考量。"
+
+#: ../../growing-contributors/project-and-community-governance.md:127
+msgid ""
+"Before making a significant investment of engineering resources in a "
+"project, vendors will likely ask:"
+msgstr "在投入大量项目资源之前，供应商通常会提出以下问题："
+
+#: ../../growing-contributors/project-and-community-governance.md:129
+msgid ""
+"Can we engage with the project on a level playing field? Or do stakeholders "
+"use different processes to evaluate changes from different vendors "
+"(Contributor Licensing Agreements that give additional rights to the "
+"originating vendor over others, for example)? One common way to ensure a "
+"level playing field from a legal perspective is to contribute the project's "
+"management and trademark to a foundation."
+msgstr "我们能否在公平竞争的环境中参与项目？还是说利益相关方对不同供应商的变更采用不同评估流程（例如贡献者许可协议赋予原始供应商比其他方更多的权利）？从法律角度确保公平竞争的常见做法是将项目管理和商标权移交给基金会。"
+
+#: ../../growing-contributors/project-and-community-governance.md:130
+msgid ""
+"Does this project meet a customer need? Vendors will consider market fit, "
+"and how the project fits into their product portfolio."
+msgstr "该项目是否满足客户需求？供应商会评估市场契合度，以及项目如何融入其产品组合。"
+
+#: ../../growing-contributors/project-and-community-governance.md:132
+msgid ""
+"Accepting participation from additional vendors can significantly impact a "
+"project's governance. One way to ease potentially turbulent impacts is to "
+"target vendors with whom the originating vendor does not compete directly. "
+"For example, a cloud hosting company may have more success recruiting a "
+"vendor of on-premise software products to its project than it would "
+"recruiting a competing hosting vendor. Competing vendors may only be willing"
+" to join when a project can demonstrate a consistent record of multi-vendor "
+"engagement in the project."
+msgstr "接纳更多供应商参与可能对项目治理产生重大影响。缓解潜在动荡影响的一种方法是瞄准与原始供应商不存在直接竞争关系的供应商。例如，云托管公司招募本地软件产品供应商加入其项目，可能比招募竞争性托管供应商更易成功。只有当项目能证明其长期保持多供应商参与的记录时，竞争性供应商才可能愿意加入。"
+
+#: ../../growing-contributors/project-and-community-governance.md:134
+msgid "Governing sustained evolution"
+msgstr "持续演进治理之道"
+
+#: ../../growing-contributors/project-and-community-governance.md:136
+msgid ""
+"Once project participation reaches a kind of \"critical mass,\" many common "
+"patterns emerge—regardless of whether an individual or corporation has "
+"initiated a project."
+msgstr "当项目参与度达到某种\"临界规模\"时，许多常见模式便会显现——无论项目是由个人还是企业发起的。"
+
+#: ../../growing-contributors/project-and-community-governance.md:138
+msgid ""
+"In all the cases we've discussed so far, rules and procedures for decision "
+"making tend to be implicit. And since most open source projects never "
+"recruit more than 10 active developers (or one core vendor), most projects "
+"never reach a point where explicitly documenting project governance becomes "
+"necessary. Those that do, however, will likely adopt even more nuanced and "
+"complex governance models. Refer to \"Examples of open source governance "
+"models\" below to learn more about these."
+msgstr ""
+"在我们目前讨论的所有案例中，决策规则和流程往往都是隐性的。由于大多数开源项目活跃开发者数量从未超过 10 "
+"人（或单一核心供应商），多数项目永远不需要将治理机制明确成文。但那些需要规范治理的项目，往往会采用更为精细复杂的治理模式。请参阅下文\"开源治理模式示例\"了解详情。"
+
+#: ../../growing-contributors/project-and-community-governance.md:140
+msgid ""
+"Sometimes, when projects reach this size, they seek to transition management"
+" and trademark of a project to an independent entity (usually called "
+"\"foundations\" in the open source world). On rare occasions, projects may "
+"establish their own independent consortium for this purpose. More "
+"frequently, however, a project will approach an existing foundation (such as"
+" the Apache Software Foundation, the Linux Foundation, the Cloud Native "
+"Computing Foundation, the Eclipse Foundation, the OpenStack Foundation, or "
+"the Software Freedom Conservancy, to name just a few) and ask the foundation"
+" to adopt the project."
+msgstr ""
+"当项目发展到如此规模时，有时会寻求将项目的管理和商标移交给独立实体（在开源领域通常称为\"基金会\"）。极少数情况下，项目可能会为此成立自己的独立联盟。但更常见的是，项目会联系现有基金会（例如"
+" Apache 软件基金会、Linux 基金会、云原生计算基金会、Eclipse 基金会、OpenStack "
+"基金会或软件自由保护协会等），请求基金会接管该项目。"
+
+#: ../../growing-contributors/project-and-community-governance.md:142
+msgid ""
+"When selecting a foundation with whom to partner in this way, open source "
+"projects must make several considerations, including:"
+msgstr "开源项目在选择以这种方式合作的基金会时，必须考虑以下几个因素："
+
+#: ../../growing-contributors/project-and-community-governance.md:144
+msgid "Cost structure;"
+msgstr "成本结构；"
+
+#: ../../growing-contributors/project-and-community-governance.md:145
+msgid "Governance requirements imposed by the foundation;"
+msgstr "基金会规定的治理要求；"
+
+#: ../../growing-contributors/project-and-community-governance.md:146
+msgid "Affinity of the foundation with the user and developer base of the project."
+msgstr "基金会与项目用户及开发者群体的亲密度。"
+
+#: ../../growing-contributors/project-and-community-governance.md:148
+msgid ""
+"At this point, projects will commonly discuss the extent to which member "
+"fees should influence the project's technical governance. Two dominant "
+"models for this governance exist."
+msgstr "此时，项目通常会探讨会员费用应在多大程度上影响项目的技术治理。对此存在两种主流治理模式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:150
+msgid ""
+"The first is a strict separation of funding and technical inputs, where the "
+"members who join at the highest membership level have input into (and can "
+"influence) project budgetary matters (for example, how funds will be "
+"disbursed between infrastructure, headcount, marketing, events), but "
+"technical merit dictates how the project is governed technically. The second"
+" is a \"pure member\" organization, where members are entitled to appoint "
+"representatives to a technical governing board with oversight on which sub-"
+"projects will be adopted in the project, and how the projects will be "
+"governed."
+msgstr "首先是资金投入与技术投入的严格分离，最高级别会员对项目预算事项（例如资金在基础设施、人员配置、市场营销、活动等方面的分配）拥有决策权并可施加影响，但技术治理完全由技术价值决定。其次是\"纯会员\"组织模式，会员有权委派代表加入技术治理委员会，该委员会负责监督哪些子项目将被纳入主项目以及项目的具体治理方式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:152
+msgid ""
+"Foundations can play another key role in a project's evolution: defining the"
+" market dynamics around the project, including administration of the project"
+" trademark. A trademark is one of an open source project's most valuable "
+"resources for guaranteeing that vendors are distributing the project (or "
+"derivatives of it) in a way that does not damage the project's reputation. "
+"Open source projects commonly use trademark certification as a way to "
+"\"bless\" certain vendor products in the market or to influence the way "
+"derivative products behave."
+msgstr "基金会在项目发展过程中还能扮演另一关键角色：界定围绕项目的市场动态，包括对项目商标的管理。商标是开源项目最宝贵的资源之一，它能确保供应商以不损害项目声誉的方式分发项目（或其衍生品）。开源项目通常利用商标认证来\"加持\"市场上的特定供应商产品，或影响衍生品的行为方式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:154
+msgid ""
+"Some projects hold tightly to the idea that contributors are _individual "
+"contributors_ and not representatives of companies for which they may happen"
+" to work. In mature open source projects (like the Linux kernel), this "
+"allows people to maintain community status and seniority even when they "
+"change employers."
+msgstr ""
+"某些项目坚持认为贡献者仅代表_个人_，而非其任职公司的代表。在成熟的开源项目（如 Linux "
+"内核）中，这种做法使得人们即使更换雇主，仍能保持社区地位和资历。"
+
+#: ../../growing-contributors/project-and-community-governance.md:156
+msgid "Examples of open source project governance models"
+msgstr "开源项目治理模型示例"
+
+#: ../../growing-contributors/project-and-community-governance.md:158
+msgid "\"Do-ocracy\""
+msgstr "\"实干主义\"（Do-ocracy）"
+
+#: ../../growing-contributors/project-and-community-governance.md:160
+msgid ""
+"Open source projects adopting the \"do-ocracy\" governance model tend to "
+"forgo formal and elaborate governance conventions and instead insist that "
+"\"decisions are made by those who do the work.\" In other words: In a do-"
+"ocracy, members gain authority by making the most consistent contributions. "
+"Peer review remains common under this model; however, individual "
+"contributors tend to retain de facto decision-making power over project "
+"components on which they've worked most closely."
+msgstr "采用\"实干主义\"模式的开源项目往往摒弃正式繁琐的治理章程，转而坚持\"由实际做事的人做决策\"。换言之：在实干派治理体系中，成员通过持续贡献获得话语权。这种模式下同行评审依旧普遍存在，但个人贡献者通常对他们密切参与的项目模块保留实际决策权。"
+
+#: ../../growing-contributors/project-and-community-governance.md:162
+msgid ""
+"For this reason, some do-ocracies will claim to have \"no governance at "
+"all,\" relying instead on individual stakeholders' authority to make "
+"decisions on matters \"where they've done the most work.\" But as we've "
+"already explained, such claims about an absence of governance are misguided."
+" Every open source project has a governance model. In the case of most do-"
+"ocracies, the governance model is merely implicit in the everyday "
+"interactions of project members. As a result, joining them can be difficult "
+"and intimidating for newcomers, as would-be contributors might not "
+"immediately know how to participate or seek approval for their "
+"contributions."
+msgstr "正因如此，某些实干型治理模式会宣称自己\"完全不存在治理\"，仅依靠个体参与者基于\"所做工作领域\"的决策权威。但正如前文所述，这种否认治理存在的说法实属误解。每个开源项目都具备治理模型，对于多数实干型治理而言，其治理模型只是隐含在项目成员的日常互动中。这种隐性治理会导致新人难以融入——潜在贡献者可能无法立即知晓如何参与项目，或如何获得贡献批准。"
+
+#: ../../growing-contributors/project-and-community-governance.md:164
+msgid ""
+"**To get started in a project with this governance model:** Find an aspect "
+"of the project you feel you can improve and simply begin working. Review the"
+" recorded history of changes to the project to identify the participants "
+"whose feedback will be integral to your successful contribution. As the "
+"project accepts more of your contributions, you will gradually accrue "
+"influence in the community. Do not expect to influence decisions in a do-"
+"ocracy until you are able to demonstrate a history of successful "
+"contribution."
+msgstr "**在这种治理模式下开展工作的要诀是：**找到你认为能够改进的项目环节直接开始工作。通过查阅项目变更记录，锁定那些对你的成功贡献至关重要的核心评审者。随着项目接纳更多你的贡献，你将逐步积累社区影响力。切记：在实干型治理体系中，唯有证明自己持续产出有效贡献的历史，方能获得决策话语权。"
+
+#: ../../growing-contributors/project-and-community-governance.md:166
+msgid "Founder-leader"
+msgstr "创始人领导"
+
+#: ../../growing-contributors/project-and-community-governance.md:168
+msgid ""
+"The founder-leader governance model is most common among new projects or "
+"those with a small number of contributors (and since most open source "
+"projects have only a small number of contributors, this is a rather popular "
+"model!). In these projects, the individual or group who started the project "
+"also administers the project, establishes its vision, controls all "
+"permissions to merge code into it, and assumes the right to speak for it in "
+"public. Some projects refer to their founder-leaders as \"BDFLs\" or "
+"\"Benevolent Dictators for Life,\" a term that is falling out of fashion."
+msgstr "创始人-领导者治理模式在新项目或贡献者较少的项目中最为常见（由于大多数开源项目仅有少量贡献者，这种模式相当流行！）。在这些项目中，启动项目的个人或团体同时负责项目管理、确立愿景、掌控所有代码合并权限，并享有公开代表项目发言的权利。部分项目将其创始人-领导者称为\"BDFL\"或\"终身仁慈独裁者\"，这一称谓正逐渐淡出潮流。"
+
+#: ../../growing-contributors/project-and-community-governance.md:170
+msgid ""
+"In projects following the founder-leader model, lines of power and authority"
+" are typically quite clear; they radiate from founder-leaders, who are the "
+"final decision-makers for all project matters. This model's limitations "
+"become apparent as a project grows to a certain size. Separating the "
+"founder-leaders' personal preferences from project design decisions "
+"eventually becomes difficult, and founder-leaders can become bottlenecks for"
+" project decision-making work. In extreme cases, founder-leader models can "
+"create a kind of \"caste\" system in a project, as non-founders begin "
+"feeling like they're unable to affect changes that aren't in line with a "
+"founder's vision. Disagreements can lead to project splits. Worse, a "
+"founder-leader's disappearance, whether due to burnout or planned "
+"retirement, can cause a project to disintegrate entirely."
+msgstr "在遵循创始人-领导者模式的项目中，权力与权威的脉络通常十分清晰——它们从创始人-领导者处辐射而出，这些核心人物对所有项目事务拥有最终决策权。但随着项目规模扩大到一定程度，这种模式的局限性就会显现。创始人的个人偏好逐渐难以与项目设计决策相剥离，他们可能演变为项目决策流程的瓶颈。极端情况下，这种模式会在项目中形成某种\"种姓制度\"，非创始人成员开始感到无法推动任何偏离创始人愿景的变革。意见分歧可能导致项目分裂。更严重的是，当创始人因过劳或计划性退出而离开时，整个项目可能土崩瓦解。"
+
+#: ../../growing-contributors/project-and-community-governance.md:172
+msgid ""
+"**To get started in a project with this governance model:** Browse project "
+"mailing lists or discussion forums to identify the project's founder-"
+"leaders, then address questions about participation and contribution to "
+"those leaders through one of the community's public communication channels. "
+"Founder-leaders tend to have a comprehensive view of the project's needs and"
+" will direct you to areas of the project that will benefit most from your "
+"contribution. Be sure to understand founder-leaders' vision for the project,"
+" as most founder-leaders will veto proposed changes they feel conflict with "
+"that vision. When starting out, do not expect to propose changes that will "
+"not serve the founder-leaders' vision for the project."
+msgstr "**要在采用此类治理模式的项目中起步：**首先浏览项目邮件列表或讨论论坛，识别出项目的创始领导者，随后通过社区的公共交流渠道向这些领导者提出关于参与和贡献的问题。创始领导者通常对项目需求有全局视角，并会指引你至最能从你贡献中受益的项目领域。务必理解创始领导者对项目的愿景，因为多数创始领导者会否决他们认为与该愿景相冲突的变更提议。刚开始时，不要期望提出无助于实现创始领导者项目愿景的变更。"
+
+#: ../../growing-contributors/project-and-community-governance.md:174
+msgid "Self-appointing council or board"
+msgstr "自我任命委员会或董事会"
+
+#: ../../growing-contributors/project-and-community-governance.md:176
+msgid ""
+"Recognizing shortcomings of the founder-leader model, the self-appointing "
+"council or board model aims to better facilitate community leadership "
+"turnover and succession. Under this model, members of an open source project"
+" may appoint a number of leadership groups to govern various aspects of a "
+"project. Such groups may have names like \"steering committee,\" \"committer"
+" council,\" \"technical operating committee, \"architecture council,\" or "
+"\"board of directors.\" And typically, these groups construct their own "
+"decision-making conventions and succession procedures."
+msgstr "认识到创始人领导模式的不足，自任命理事会或董事会模式旨在更好地促进社区领导权的交接与继任。在这一模式下，开源项目成员可任命多个领导团队来管理项目的不同方面。这类团队可能被称为\"指导委员会\"、\"提交者理事会\"、\"技术运营委员会\"、\"架构委员会\"或\"董事会\"等。通常情况下，这些团队会自行制定决策惯例和继任程序。"
+
+#: ../../growing-contributors/project-and-community-governance.md:178
+msgid ""
+"The self-appointing council or board governance model is useful in cases "
+"where a project does not have a sponsoring foundation and establishing "
+"electoral mechanisms is prohibitively difficult. But the model's drawbacks "
+"become apparent when self-appointing governing groups grow insular and "
+"unrepresentative of the entire project community (as member-selection "
+"processes tend to spawn self-reinforcing leadership cultures). Moreover, "
+"this model can stymie community participation in leadership activities, as "
+"community members often feel like they must \"wait to be chosen\" before "
+"they can take initiative on work that interests them."
+msgstr "在项目缺乏赞助基金会且建立选举机制极为困难的情况下，自治委员会或董事会治理模式颇为实用。但当自治管理机构变得封闭、无法代表整个项目社区时（由于成员选拔过程容易形成自我强化的领导文化），这种模式的弊端便显露无遗。此外，该模式还会阻碍社区成员参与领导活动——因为成员们常感觉必须\"等待被选中\"才能主动开展感兴趣的工作。"
+
+#: ../../growing-contributors/project-and-community-governance.md:180
+msgid ""
+"**To get started in a project with this governance model:** Because this "
+"governance model is typical of more mature open source projects, communities"
+" adopting this model will often curate getting started documentation aimed "
+"at assisting potential contributors. Find this documentation and read it "
+"first. Then read the project's governance documentation to determine how its"
+" governing bodies are composed. In many cases, you can locate a council or "
+"board governing the part of the project where you would like to make a "
+"contribution. That body will be able to oversee your contribution and answer"
+" questions you may have."
+msgstr "**要在采用此种治理模式的项目中入门：**由于该治理模式常见于较成熟的开源项目，采用此模式的社区通常会精心编写入门文档以帮助潜在贡献者。请先找到并阅读这份文档。接着查阅项目的治理文档，了解其治理机构如何组成。多数情况下，你能找到管理你希望贡献领域的理事会或委员会。该机构将能监督你的贡献并解答你可能有的疑问。"
+
+#: ../../growing-contributors/project-and-community-governance.md:182
+msgid "Electoral"
+msgstr "选举"
+
+#: ../../growing-contributors/project-and-community-governance.md:184
+msgid ""
+"Some open source projects choose to conduct governance through elections. "
+"They may hold elections for various roles, or conduct similar electoral "
+"processes to ratify or update project policies and procedures. Under the "
+"electoral model, communities establish and document electoral procedures to "
+"which they all agree, then enact those procedures as a regular matter of "
+"decision-making."
+msgstr "部分开源项目选择通过选举进行治理。它们可能针对不同角色举行选举，或通过类似选举流程来批准或更新项目规定与程序。在选举模式下，社区会建立并记录全体认可的选举规程，随后将这些规程作为常规决策机制付诸实施。"
+
+#: ../../growing-contributors/project-and-community-governance.md:186
+msgid ""
+"This model is more common in larger open source projects where multiple "
+"qualified and interested contributors offer to play the same role. Elections"
+" are also common for projects with a sponsor (a foundation, for example), "
+"because an electoral process can make the allocation of sponsor resources "
+"more transparent. Electoral governance also tends to lead to precise "
+"documentation of project roles, procedures, and participation guidelines. "
+"When election documents make these matters explicit, they help new "
+"contributors maximize their involvement in a project."
+msgstr "这种模式在大型开源项目中更为常见，通常会有多位具备资质且热心的贡献者竞相承担相同职责。对于有赞助方（例如基金会）支持的项目，选举制度也较为普遍，因为选举流程能使赞助资源的分配更加透明化。选举治理机制往往还会促使项目角色、运作流程和参与准则形成详尽文档。当选举文件明确载明这些事项时，能有效帮助新贡献者快速融入项目并充分发挥作用。"
+
+#: ../../growing-contributors/project-and-community-governance.md:188
+msgid ""
+"But elections also have drawbacks. They can become contentious, distracting,"
+" and time-consuming for all project members (whether those members are "
+"running or not). Some communities promote elections as a solution to the "
+"indefinite tenure of well-known project members; however, elections don't "
+"generally cause turnover unless term limits are part of the project's "
+"policies."
+msgstr "但选举也存在弊端。它们可能引发争议，分散项目成员的注意力，并耗费所有成员的时间（无论这些成员是否参选）。部分社区将选举视为解决知名项目成员无限期任职的方案；然而，除非项目规定中设有任期限制，否则选举通常不会导致人员更替。"
+
+#: ../../growing-contributors/project-and-community-governance.md:190
+msgid ""
+"**To get started in a project with this governance model:** Communities "
+"appointing leaders through elections typically feature election results and "
+"a leadership roster prominently on their project websites. Review those "
+"documents to determine a point of contact in the project. Well-governed open"
+" source communities will it make clear on their project websites their "
+"processes for proposing and reviewing items that the community can vote on. "
+"As you establish a reputation for making useful contributions to the "
+"project, you may eventually decide to be a candidate for a project "
+"leadership position. Be sure to interact productively and collaborate "
+"effectively with other contributors as they may be voting you into a "
+"leadership position some day."
+msgstr "**要在一个采用此类治理模式的项目中起步：**通过选举任命领导者的社区通常会在项目网站上显著展示选举结果和领导团队名单。查阅这些文件以确定项目中的联络人。治理良好的开源社区会在项目网站上明确说明提案流程及可供社区投票表决事项的审核机制。当你因对项目做出有益贡献而建立声誉后，最终可能会决定参选项目领导职位。务必与其他贡献者保持高效互动和有效协作，因为他们未来可能成为将你推选至领导岗位的投票者。"
+
+#: ../../growing-contributors/project-and-community-governance.md:192
+msgid "Single-vendor"
+msgstr "单一供应商"
+
+#: ../../growing-contributors/project-and-community-governance.md:194
+msgid ""
+"Occasionally, individual companies or industry consortia may choose to "
+"distribute software under the terms of an open source license as a way of "
+"reaching potential developers and users—even if they do not accept project "
+"contributions from those audiences. They might do this to accelerate "
+"adoption of their work, spur development activity atop a software platform, "
+"support a plugin ecosystem, or avoid the overhead required for cultivating "
+"an external developer community."
+msgstr "偶尔会有个别企业或行业联盟选择以开源许可证条款分发软件——即便他们不接受来自开发者或用户群体的项目贡献。此举可能旨在加速其成果的普及、推动软件平台上的开发活动、支持插件生态系统，或是避免培育外部开发者社区所需的管理成本。"
+
+#: ../../growing-contributors/project-and-community-governance.md:196
+msgid ""
+"Under this model, the governing organization usually does not accept "
+"contributions from anyone outside it. Instead, open and closed source "
+"innovation occurs at the edges of the project, just where it contacts the "
+"rest of the world. For this reason, some commentators call this the \"walled"
+" garden\" governance model. Occasionally, projects following this model will"
+" adopt license with strong \"copyleft\" requirements, which they see as a "
+"deterrent to commercial competitors benefitting from their work on the "
+"project (the goal is to force competitors and customers with production "
+"requirements to purchase a non-open source license for the software—what "
+"some call a \"dual-license\" approach). This model becomes problematic in "
+"cases where a project claims to have an open community but is in fact wholly"
+" owned by a company or consortium."
+msgstr "在这种模式下，治理组织通常不接受外部人员的贡献。开放与封闭的创新发生在项目与外界接触的边缘地带。因此，有评论者将这种模式称为\"围墙花园\"治理模型。采用该模式的项目偶尔会选择具有严格\"著佐权（Copyleft）\"要求的许可证，旨在阻止商业竞争对手从其项目成果中获利（其核心目标是迫使有生产需求的竞争对手和客户购买软件的非开源许可——即所谓的\"双重许可\"策略）。当项目宣称拥有开放社区，实则完全由某家公司或财团掌控时，这种模式就会引发争议。"
+
+#: ../../growing-contributors/project-and-community-governance.md:198
+msgid ""
+"**To get started in a project with this governance model:** First, consider "
+"any existing relationship between your employer and the company originating "
+"the project, if applicable. Next, assess the project's licensing terms and "
+"review its change history and bug tracker to determine whether you are able "
+"to contribute to the aspect of the project that interests you—and in the way"
+" you would like. Given the project's particular licensing stipulations, you "
+"may find yourself working alongside or on top of a particular project rather"
+" than contributing to it directly."
+msgstr "**要在采用此类治理模式的项目中起步：首先**首先，考虑你与项目发起企业之间是否存在现有合作关系（如适用）。接着，评估项目许可条款，查阅其变更记录与缺陷追踪系统，以确认你能否参与感兴趣的项目环节——且以你期望的方式参与。鉴于项目的特殊许可规定，你可能会发现需要并行开发或基于特定项目进行二次开发，而非直接向其贡献代码。"
+
+#: ../../growing-contributors/project-and-community-governance.md:200
+msgid "Foundation-backed"
+msgstr "基金会支持"
+
+#: ../../growing-contributors/project-and-community-governance.md:202
+msgid ""
+"To exert greater control over resources and project code, some open source "
+"projects choose to be managed by an incorporated NGO (non-government "
+"organization), such as a charitable nonprofit or trade association. Doing "
+"this allows the \"project,\" as an abstract entity, to take ownership of "
+"resources like servers, trademarks, patents, and insurance policies."
+msgstr "为更有效地掌控资源与项目代码，部分开源项目选择由注册非政府组织（NGO）进行管理，例如慈善非营利机构或行业协会。此举使\"项目\"作为抽象实体，能够拥有服务器、商标、专利及保险单等资源的所有权。"
+
+#: ../../growing-contributors/project-and-community-governance.md:204
+msgid ""
+"In some cases, foundation leadership and project leadership can form a "
+"single governance structure that manages all aspects of the open source "
+"project. In other cases, the foundation manages some matters—such as "
+"trademarks and events—and other governance structures in the project(s) "
+"control other matters (such as code approval)."
+msgstr "某些情况下，基金会领导层与项目领导层可合并为单一治理架构，统筹管理开源项目的所有事务。而在另一些情况下，基金会仅负责商标管理、活动筹办等特定事务，项目中的其他治理结构则负责代码审核等事项。"
+
+#: ../../growing-contributors/project-and-community-governance.md:206
+msgid ""
+"Extensive funding and legal requirements normally limit this model to larger"
+" open source projects. However, many smaller projects choose to join larger "
+"so-called umbrella foundations, such as the Software Freedom Conservancy or "
+"the Linux Foundation, to reap some of the benefits of this governance model."
+" This governance model is advantageous for projects seeking to establish "
+"legal relationships with third parties (like conference venues) or projects "
+"seeking to ensure successful leadership transitions following departure of "
+"key individuals. It might also help prevent the commercialization of the "
+"project under a single vendor."
+msgstr ""
+"通常，庞大的资金需求和法律规定使得这种治理模式仅适用于大型开源项目。不过，许多小型项目会选择加入伞形基金会（如软件自由保护协会或 Linux "
+"基金会），以获取这种治理模式的部分优势。该模式特别适合需要与第三方（如会议场地）建立法律关系的项目，或是需要确保核心成员离职后领导权顺利交接的项目。它还能有效防止项目被单一供应商商业化。"
+
+#: ../../growing-contributors/project-and-community-governance.md:208
+msgid ""
+"High overhead—not strictly financial, but particularly in terms of "
+"contributor time, which can be substantial—is a significant drawback of the "
+"foundation-backed governance model. Some foundations are incorporated as "
+"industry consortia, in which sponsoring companies govern the organization. "
+"Different consortia allow different degrees of participation from individual"
+" project contributors; some are fairly open groups, while in others only "
+"corporate managers have authority."
+msgstr "高成本——并非严格指财务成本，尤其体现在贡献者时间的大量投入上——是基金会支持型治理模式的一个显著缺点。一些基金会以行业联盟的形式注册成立，由赞助企业共同管理组织。不同联盟对个人项目贡献者的参与度设定各异：有些是相当开放的群体，而另一些则只赋予企业管理层决策权。"
+
+#: ../../growing-contributors/project-and-community-governance.md:210
+msgid ""
+"**To get started in a project with this governance model:** If a foundation "
+"does not govern day-to-day project contribution activity, then locate the "
+"project's getting started documentation and follow it. Otherwise, note that "
+"individual projects under a particular foundation's umbrella will have their"
+" own sets of leaders, though some common guidelines may standardize basic "
+"contribution processes across all projects a foundation governs. To identify"
+" a specific project's leaders, consider addressing a request to the "
+"foundation members' mailing list. You might also examine the project's "
+"change history to identify frequent contributors and contact them. As many "
+"foundations feature a contribution-based voting system, familiarize yourself"
+" with steps required to become a full voting member of the foundation. If "
+"the foundation is a members-only industry consortium, determine whether your"
+" employer is already a member. If not, talk to your manager about the "
+"importance of the project to your work and ask whether your employer might "
+"consider joining. In either case, foundation projects may require signing "
+"contributor paperwork. Your legal department should assist with reviewing "
+"and signing such paperwork."
+msgstr ""
+"**要参与采用此类治理模式的项目：**若基金会不直接管理日常项目贡献活动，请查阅该项目的入门文档并按其指引操作。否则需注意，特定基金会管辖下的各子项目虽可能遵循统一的贡献流程基础规范，但均设有独立领导团队。要确认具体项目负责人，可考虑向基金会成员邮件列表发送查询请求，或通过分析项目变更历史记录识别高频贡献者并与之联系。由于多数基金会采用基于贡献度的投票机制，建议提前了解成为基金会正式投票成员所需的步骤。若该基金会为行业会员制联盟，请先确认雇主是否已加入。若未加入，应向主管说明该项目对工作的重要性，并询问企业是否考虑入会。无论何种情况，参与基金会项目可能需签署贡献者协议文件。"
+" 贵公司的法务部门应协助审核并签署此类文件。"
+
+#: ../../growing-contributors/project-and-community-governance.md:212
+msgid "Conducting basic governance"
+msgstr "实施基础治理"
+
+#: ../../growing-contributors/project-and-community-governance.md:214
+msgid ""
+"So far, we've discussed the nature and importance of open source project and"
+" community governance, factors that trigger evolutions in project governance"
+" models, and a few of the most popular open source governance models. "
+"Finally, let's examine some concrete steps you can take to structure your "
+"own community's governance—whether you're launching a new project or "
+"evolving one that's already active."
+msgstr "至此，我们已经探讨了开源项目与社区治理的本质及重要性、促使治理模式演变的因素，以及几种最流行的开源治理模式。最后，让我们来看看构建社区治理体系的具体步骤——无论你是启动一个新项目，还是优化已有活跃项目的治理结构。"
+
+#: ../../growing-contributors/project-and-community-governance.md:216
+msgid ""
+"Recall that most governance models consist of two primary dimensions: roles,"
+" and policies and procedures. The basic requirements here are actually quite"
+" spartan, and can be evolved as the project grows. What follows constitutes "
+"a kind of _minimum viable product_ for project governance."
+msgstr "需知多数治理模式包含两个核心维度：角色划分，以及规定与流程。其基础要求其实相当精简，可随项目发展逐步完善。以下内容构成了项目治理的_最低可行方案（MVP）_。"
+
+#: ../../growing-contributors/project-and-community-governance.md:218
+msgid ""
+"In your project, each of the following sections could very well be its own "
+"document. Or they might simply be part of a single long README—or anything "
+"in between. What's important it to get the basics of how things work down in"
+" text, so that people thinking about participating in your project know "
+"where to go, who to talk to, and most of all aren't horribly surprised."
+msgstr ""
+"在你的项目中，以下每个部分都可以自成一份文档，也可能只是冗长 README "
+"文件的一部分，或者介于两者之间的任何形式。重要的是将基本运作方式以文字形式记录下来，让有意参与项目的人知道该去哪里、该与谁交流，最重要的是不会感到措手不及。"
+
+#: ../../growing-contributors/project-and-community-governance.md:220
+msgid "The importance of honesty"
+msgstr "诚实的重要性"
+
+#: ../../growing-contributors/project-and-community-governance.md:222
+msgid ""
+"When writing governance documentation, it can be tempting to define your "
+"project as you would like it to be—or how your corporate marketing "
+"department would like it to be seen—rather than how it actually is. "
+"Particularly, project leaders frequently make the mistake of attempting to "
+"make the project appear more democratic than it actually is, in "
+"documentation. This falls apart when users or contributors expect your "
+"project to live up to its governance documentation, and it doesn't. People "
+"who would have been fine with being told a project was single-company at the"
+" outset become very upset if they ask for their committer status and are "
+"refused later."
+msgstr "在撰写治理文档时，人们往往会倾向于按照理想中的项目状态——或是企业营销部门希望呈现的形象——而非实际状况来定义项目。尤其常见的是，项目领导者常犯的错误是在文档中试图让项目显得比实际情况更为民主。当用户或贡献者期待项目能践行其治理文档的承诺却未能如愿时，这种粉饰就会土崩瓦解。那些原本能坦然接受项目由单一公司主导的人，如果在后期申请提交者身份遭拒时，往往会感到极度失望。"
+
+#: ../../growing-contributors/project-and-community-governance.md:224
+msgid ""
+"Like technical documentation, governance documentation should explain how "
+"things actually work. If there are aspirational goals, those go in their own"
+" section under \"Roadmap\" or \"TODO.\""
+msgstr "与技术文档类似，治理文档应当如实阐明实际运作机制。若存在愿景目标，应将其归入\"路线图\"或\"待办事项\"的独立章节。"
+
+#: ../../growing-contributors/project-and-community-governance.md:226
+msgid "Defining roles"
+msgstr "角色定义"
+
+#: ../../growing-contributors/project-and-community-governance.md:228
+msgid ""
+"As mentioned, your project will have a variety of real roles, but you only "
+"need to define a handful of them to start out. Those basic Roles are:"
+msgstr "如前所述，你的项目将包含多种实际角色，但初期只需定义少数几个基础角色即可。这些基本角色包括："
+
+#: ../../growing-contributors/project-and-community-governance.md:230
+msgid "_Member_"
+msgstr "_成员_"
+
+#: ../../growing-contributors/project-and-community-governance.md:231
+msgid "_Contributor_"
+msgstr "_贡献者_"
+
+#: ../../growing-contributors/project-and-community-governance.md:232
+msgid "_Leader_"
+msgstr "_领导者_"
+
+#: ../../growing-contributors/project-and-community-governance.md:234
+msgid ""
+"Whether you've thought about it, your project already features all these "
+"roles you already have in your project. Each one of them should be recorded "
+"in a roles document of some kind, either in your project's documentation or "
+"your main source code repository. This allows you to make what was implicit "
+"into explicit, both setting expectations for and allowing more people to "
+"participate in your project. For each role, you'll need to define who they "
+"are, how they qualify for that role, what they are expected to do, and what "
+"their rights and privileges are. Eventually you'll go beyond these roles and"
+" define many more specific ones. But detailing these three will take your "
+"project a fair distance on its journey."
+msgstr "无论你是否考虑过，你的项目中已经包含了所有这些角色。每一个角色都应记录在某种形式的角色文档中，无论是项目文档还是主源代码仓库。这能让你将隐性的内容显性化，既为参与者设定预期，也让更多人有机会加入项目。对于每个角色，你需要定义：担任者是谁、如何获得该角色资格、预期职责范围、以及享有的权利与特权。未来你还会超越这些基础角色，定义更多具体职能。但仅详细规范这三类角色，就能为项目发展奠定坚实基础。"
+
+#: ../../growing-contributors/project-and-community-governance.md:236
+msgid "Members"
+msgstr "成员"
+
+#: ../../growing-contributors/project-and-community-governance.md:238
+msgid ""
+"This is possibly the least-documented role across all of open source, "
+"despite being the most pervasive. Members are the people or organizations "
+"who participate in your project and are recognized for it. Depending on how "
+"your project is run, these can be subscribers on a mailing list, sponsoring "
+"companies, known end-users, participants at an event, or members of a "
+"foundation. In some projects, Member is synonymous with Contributor, but in "
+"most this is not the case. Most projects have a much larger cadre of people "
+"who are involved with the project in some way but are not actively "
+"contributing code or content to it."
+msgstr "这可能是开源领域中最普遍却最缺乏文档记录的角色。成员是指参与你项目并因此获得认可的个人或组织。根据项目运作方式的不同，成员可以是邮件列表订阅者、赞助企业、知名终端用户、活动参与者或基金会成员。在某些项目中，\"成员\"与\"贡献者\"是同义词，但多数情况下并非如此。大多数项目都拥有更庞大的外围群体——他们以某种方式参与项目，但并未积极贡献代码或内容。"
+
+#: ../../growing-contributors/project-and-community-governance.md:240
+msgid ""
+"Defining who Members are requires deciding who the project is actually "
+"serving, which is always a critical discussion to have. Are customers of the"
+" main sponsoring company automatically project Members? Can companies be "
+"Members, or only individuals? Are end-users Members or can they only be "
+"Contributors? More than anything, defining Members means defining who it is "
+"that project Leaders need to listen to."
+msgstr "界定成员身份需要明确项目实际服务的对象，这始终是个关键问题。主要赞助企业的客户是否自动成为项目成员？企业能否作为成员，还是仅限于个人？终端用户属于成员范畴，抑或仅能作为贡献者存在？最重要的是，定义成员身份意味着明确项目领导者需要倾听的对象范围。"
+
+#: ../../growing-contributors/project-and-community-governance.md:242
+msgid ""
+"For almost all projects, you need to specify what rules Members are subject "
+"to (usually a code of conduct and not much else) and what they can expect "
+"from Leaders and Contributors. It's particularly helpful to explain how "
+"Members should participate in the project, such as \"Members file bugs "
+"against this repository, and use the _new bug_ template.\" Most people, "
+"given clear instructions, are happy to channel their participation into the "
+"routes you show them."
+msgstr "对于几乎所有项目，都需要明确规定成员需遵守哪些规则（通常是行为准则，内容不宜过多），以及他们能从领导者和贡献者那里获得什么。尤其重要的是说明成员应如何参与项目，比如\"成员需使用新问题模板在本仓库提交_错误报告_\"。大多数人只要获得清晰指引，都会很乐意按照你指明的路径参与贡献。"
+
+#: ../../growing-contributors/project-and-community-governance.md:244
+msgid ""
+"In projects with democratically elected leadership, Members can be a much "
+"more rigorously defined role, because being a Member can come with voting "
+"rights. This requires you to more carefully qualify Members to avoid vote-"
+"packing or simply derailing election procedures."
+msgstr "在采用民主选举领导机制的项目中，\"成员\"这一角色可以被更严格地定义，因为成员身份可能附带投票权。这就要求更审慎地筛选成员资格，以防止选票操纵或干扰选举程序。"
+
+#: ../../growing-contributors/project-and-community-governance.md:246
+msgid "Contributors"
+msgstr "贡献者"
+
+#: ../../growing-contributors/project-and-community-governance.md:248
+msgid ""
+"Far more projects have a written definition of Contributors, but fewer than "
+"you'd think. It's often assumed, in the age of publicly hosted source code "
+"control, that you count anyone in the GitHub or GitLab statistics as "
+"therefore a Contributor. But defining \"who is a Contributor to this "
+"project\" can be deceptively hard."
+msgstr ""
+"有书面贡献者定义的项目远比想象中少得多。在源代码公开托管时代，人们常默认将 GitHub 或 GitLab "
+"统计中的所有人都视为贡献者。但界定\"谁是本项目的贡献者\"可能出人意料地困难。"
+
+#: ../../growing-contributors/project-and-community-governance.md:250
+msgid ""
+"Is it anyone who posted on a mailing list, or do you need 100 merged pull "
+"requests? Is it just code contributors, or contributors of any kind? What "
+"about folks who do events and advocacy? Are staff who work for a "
+"contributing company automatically considered Contributors, or do they have "
+"to earn it individually? What about someone who contributed a lot of code "
+"three years ago, but not since then? Who gets listed in your release credits"
+" and how?"
+msgstr ""
+"是任何在邮件列表发过言的人就算贡献者，还是需要合并 100 "
+"个拉取请求？仅限代码贡献者，还是包含所有类型的贡献者？那些组织活动和进行宣传的人呢？为赞助公司工作的员工是否自动被视为贡献者，还是必须通过个人努力获得资格？三年前贡献了大量代码但此后再无动作的人呢？谁会被列入发布致谢名单，以何种方式？"
+
+#: ../../growing-contributors/project-and-community-governance.md:252
+msgid ""
+"The conversation around this will often have a greater effect on your "
+"project than the document does."
+msgstr "围绕这些问题的讨论往往比书面文件对项目产生的影响更为深远。"
+
+#: ../../growing-contributors/project-and-community-governance.md:254
+msgid ""
+"The Contributor role is also one for which you'll need to set many more "
+"expectations for what Contributors receive in return for their work. This "
+"not only includes an explanation of the intellectual property rules of the "
+"project (e.g., does the contributor still own their code or not), but also "
+"questions like how soon Contributor can expect their submissions to be "
+"reviewed and accepted or rejected. Generally, you should also explain how "
+"the Contributor will be credited for their participation."
+msgstr "贡献者这一角色还需要你为其设定更多关于工作回报的期望。这不仅包括解释项目的知识产权规则（例如贡献者是否仍拥有其代码所有权），还涉及诸如贡献者提交的内容预计多久会得到审核及是否被采纳等问题。通常，你还应说明贡献者将如何因其参与而获得认可。"
+
+#: ../../growing-contributors/project-and-community-governance.md:256
+msgid ""
+"It's also a place where you set out clearly what rules Contributors need to "
+"follow. For example, some projects require Contributors or their employers "
+"to sign paperwork officially sharing their copyright or other intellectual "
+"property (see below for more on this). You may also require Contributors to "
+"do certain things to help maintain the project, such as review others' "
+"submissions or help with documentation."
+msgstr "这也是一个明确制定贡献者需遵循规则的地方。例如，某些项目要求贡献者或其雇主签署文件，正式共享其版权或其他知识产权（下文将详述）。你可能还会要求贡献者完成特定事项以协助维护项目，例如审阅他人提交的内容或协助文档编写。"
+
+#: ../../growing-contributors/project-and-community-governance.md:258
+msgid "Leaders"
+msgstr "领导者"
+
+#: ../../growing-contributors/project-and-community-governance.md:260
+msgid ""
+"As we noted, every project has leadership, even when those leaders are not "
+"clearly identified. As such, at a minimum you'll need to transparently "
+"identify who your Leaders are, so that decision-making processes can be "
+"clear. Many projects also explain the qualifications and procedure to become"
+" a Leader, whether it's selection by a committee, election, or simply based "
+"on your job. If you have a more politically sophisticated project, then "
+"those should be written down in a selection/election procedure document as "
+"well (refer below), but if it's simple, selection can just be part of the "
+"role document."
+msgstr "正如我们所指出的，每个项目都有领导者，即使这些领导者未被明确指定。因此，至少需要透明地明确谁是项目的领导者，以便决策过程清晰可循。许多项目还会说明成为领导者的资格和程序，无论是通过委员会选拔、选举产生，还是仅基于职位任命。如果项目具有更复杂的治理结构，这些内容应写入专门的选拔/选举程序文件（参见下文）；若结构简单，选拔流程可直接作为角色说明文件的一部分。"
+
+#: ../../growing-contributors/project-and-community-governance.md:262
+msgid ""
+"What fewer projects put into their leadership role documents is the other "
+"parts: the powers and limitations of the Leaders, their duties, and how "
+"people leave the role (voluntary or not). It's very important that everyone "
+"know exactly how far a Leader's authority extends, as well as what they're "
+"responsible for, or you end up with a lot of conflict between Leaders and "
+"other project members. Having a set of written duties helps immensely when "
+"your leadership team has to decide to remove a project Leader who has "
+"stopped participating, but does not want to resign."
+msgstr "很少有项目会在领导角色文档中明确其他部分：领导者的权力与限制、他们的职责，以及人员如何退出该角色（自愿或非自愿）。至关重要的是，每个人都必须清楚了解领导者权限的边界及其责任范围，否则领导者与其他项目成员之间会产生大量冲突。当领导团队需要决定罢免一位已停止参与但不愿辞职的项目领导者时，成文的职责描述将发挥巨大作用。"
+
+#: ../../growing-contributors/project-and-community-governance.md:264
+msgid ""
+"If your project is trying to recruit new/additional Leaders, then it's also "
+"important to have a detailed set of qualifications a Leader needs to meet. "
+"Contrary to some expectations, having detailed qualifications gives people "
+"who want to move up in the project a target to shoot for."
+msgstr "若你的项目正试图招募新的或额外的领导者，那么明确列出领导者需满足的详细资质要求同样至关重要。与某些预期相反，详尽的资质标准恰恰为渴望在项目中晋升的成员提供了明确的奋斗目标。"
+
+#: ../../growing-contributors/project-and-community-governance.md:266
+msgid "Setting policies and procedures"
+msgstr "制定政策与程序"
+
+#: ../../growing-contributors/project-and-community-governance.md:268
+msgid ""
+"In addition to some basic role documentation, there's a certain amount of "
+"basic paperwork that each project should create for itself. These policy and"
+" procedure (P\\&P) documents are considered a kind of minimum for what you "
+"need in order to grow and mature a project. Your project may, and eventually"
+" will, have other P\\&P docs as your contributor base expands and the number"
+" of processes you need to write down with it."
+msgstr ""
+"除了基本角色文档外，每个项目还应自行制定一定数量的基础文书工作。这些政策与程序（P&P）文件被视为项目发展成熟所需的最低标准。随着贡献者群体的扩大以及需要书面记录流程的增加，你的项目可能且最终将拥有更多"
+" P&P 文档。"
+
+#: ../../growing-contributors/project-and-community-governance.md:270
+msgid ""
+"Some of these will be mostly technical (like release process, or a support "
+"policy), and we won't be exploring those here."
+msgstr "其中部分内容主要涉及技术层面（如发布流程或支持政策），我们在此不作深入探讨。"
+
+#: ../../growing-contributors/project-and-community-governance.md:272
+msgid "However, there are three governance P\\&P that every project should have:"
+msgstr "然而，每个项目都应具备三项治理政策与程序（P&P）："
+
+#: ../../growing-contributors/project-and-community-governance.md:274
+msgid "Code of conduct"
+msgstr "行为准则"
+
+#: ../../growing-contributors/project-and-community-governance.md:275
+#: ../../growing-contributors/project-and-community-governance.md:301
+msgid "Contribution process"
+msgstr "贡献流程"
+
+#: ../../growing-contributors/project-and-community-governance.md:276
+#: ../../growing-contributors/project-and-community-governance.md:313
+msgid "Communication information"
+msgstr "沟通信息"
+
+#: ../../growing-contributors/project-and-community-governance.md:278
+msgid ""
+"Projects that grow larger and more popular, become commercially adopted, or "
+"are actively recruiting many new contributors probably want some additional "
+"P\\&P documents, such as:"
+msgstr "对于规模扩大、知名度提升、获得商业应用或正在积极招募大量新贡献者的项目，可能需要补充以下政策与程序文档，例如："
+
+#: ../../growing-contributors/project-and-community-governance.md:280
+#: ../../growing-contributors/project-and-community-governance.md:321
+msgid "Leadership selection/election process"
+msgstr "领导选择/选举程序"
+
+#: ../../growing-contributors/project-and-community-governance.md:281
+#: ../../growing-contributors/project-and-community-governance.md:329
+msgid "Contributor promotion"
+msgstr "贡献者晋升机制"
+
+#: ../../growing-contributors/project-and-community-governance.md:282
+#: ../../growing-contributors/project-and-community-governance.md:337
+msgid "Release process"
+msgstr "发布程序"
+
+#: ../../growing-contributors/project-and-community-governance.md:283
+#: ../../growing-contributors/project-and-community-governance.md:345
+msgid "Security issue reporting and handling"
+msgstr "安全问题的报告与处理"
+
+#: ../../growing-contributors/project-and-community-governance.md:284
+msgid "Project trademark usage"
+msgstr "项目商标使用规范"
+
+#: ../../growing-contributors/project-and-community-governance.md:286
+msgid "We'll talk about these eight documents below."
+msgstr "以下我们将讨论这八份文档"
+
+#: ../../growing-contributors/project-and-community-governance.md:288
+msgid "Developing a code of conduct"
+msgstr "制定行为准则"
+
+#: ../../growing-contributors/project-and-community-governance.md:290
+msgid ""
+"Creating a code of conduct (CoC) for your open source community is one of "
+"the simplest and most powerful ways to begin influencing the project's "
+"governance model. A code of conduct is a description of expectations for "
+"community members' behavior when they act within or on behalf of the "
+"project. It might outline the values a community agrees to uphold, "
+"articulate the behaviors community members expect one another to exhibit in "
+"the service of those values, and identify the consequences of violating the "
+"code. The most effective codes of conduct are those written through "
+"collaborative processes that involve participants across the community (not "
+"just project leadership!). In this way, constructing a code of conduct can "
+"become a compelling community-building exercise."
+msgstr "为开源社区制定行为准则（CoC）是影响项目治理模式最简单且最有效的方式之一。行为准则描述了社区成员在参与或代表项目活动时应遵守的行为规范，可能包含社区共同维护的核心价值观、成员为践行这些价值观应展现的具体行为，以及违反准则的后果。最高效的行为准则往往通过社区全员（而不仅是项目领导层）共同参与的协作流程制定。这种方式使得行为准则的构建过程本身就能成为极具凝聚力的社区建设活动。"
+
+#: ../../growing-contributors/project-and-community-governance.md:292
+msgid "Here are the core items that every Code of Conduct needs to have:"
+msgstr "以下是每份行为准则必须包含的核心内容："
+
+#: ../../growing-contributors/project-and-community-governance.md:294
+msgid "A statement of what kind of behavior is encouraged"
+msgstr "鼓励哪些行为的声明"
+
+#: ../../growing-contributors/project-and-community-governance.md:295
+msgid "A statement of what kinds of behavior are prohibited"
+msgstr "禁止哪些行为的声明"
+
+#: ../../growing-contributors/project-and-community-governance.md:296
+msgid "Contact information for reporting violations"
+msgstr "违规举报联系方式"
+
+#: ../../growing-contributors/project-and-community-governance.md:297
+msgid "A description of the enforcement mechanism"
+msgstr "行为准则的执行机制描述"
+
+#: ../../growing-contributors/project-and-community-governance.md:299
+msgid ""
+"When you're starting out, both the report recipients and the enforcers of "
+"the CoC are likely to be your project founders. As your project grows, "
+"you'll want to form a specific CoC committee, but you don't need that right "
+"away."
+msgstr "最初阶段，行为准则（CoC）的报告接收者和执行者通常是项目创始人。随着项目发展，你将需要组建专门的行为准则委员会，但不必急于一时。"
+
+#: ../../growing-contributors/project-and-community-governance.md:303
+msgid ""
+"In order to recruit contributors, you need to tell them the basics of how to"
+" contribute to your project. For projects on GitHub or GitLab this is "
+"generally placed in a document called CONTRIBUTING.md, but it can really go "
+"anywhere as long as it's linked from your project's home page. If you've "
+"documented your Contributor role, you can just use that for your "
+"contribution docs. If you haven't, then here's a few things you should cover"
+" in your contribution document:"
+msgstr ""
+"为了吸引贡献者，你需要告知他们参与项目的基本方式。对于 GitHub 或 GitLab 上的项目，这些内容通常存放在名为 CONTRIBUTING.md"
+" "
+"的文件中，但只要能从项目主页链接访问，实际存放位置并无限制。若你已定义过\"贡献者角色\"文档，可直接将其作为贡献指南使用。若尚未定义，则应在贡献文档中涵盖以下要点："
+
+#: ../../growing-contributors/project-and-community-governance.md:305
+msgid "Where to communicate with other contributors."
+msgstr "与其他贡献者交流的地点。"
+
+#: ../../growing-contributors/project-and-community-governance.md:306
+msgid "How to submit your first code, documentation, or other contribution."
+msgstr "如何提交你的第一份代码、文档或其他贡献。"
+
+#: ../../growing-contributors/project-and-community-governance.md:307
+msgid "Any testing or formatting requirements, in detail."
+msgstr "任何测试或格式要求，具体说明。。"
+
+#: ../../growing-contributors/project-and-community-governance.md:308
+msgid "What to expect from the review process."
+msgstr "评审流程的预期内容。"
+
+#: ../../growing-contributors/project-and-community-governance.md:309
+msgid "When they qualify for membership/contributor status."
+msgstr "当他们符合成员/贡献者资格时。"
+
+#: ../../growing-contributors/project-and-community-governance.md:311
+msgid ""
+"Some projects have paperwork that needs to be submitted before any "
+"contributions can be accepted, such as a Developer Certificate or Origin "
+"(DCO) or Contributor License Agreement (CLA), certificate of identity, or "
+"GPG keyring. Spell these out with step-by-step instructions in your "
+"contribution document."
+msgstr ""
+"一些项目在接受任何贡献前需要提交书面文件，例如开发者原创证书（DCO）、贡献者许可协议（CLA）、身份证明或 GPG "
+"密钥环。请在贡献文档中通过分步说明详细阐述这些要求。"
+
+#: ../../growing-contributors/project-and-community-governance.md:315
+msgid ""
+"Most open source projects have multiple ways that project members talk to "
+"each other, including email, chat, issues, code reviews, video conferencing,"
+" and even in-person meetings. You need to spell out which channels your "
+"project uses, and how to join them. It's also important to keep this "
+"information up to date."
+msgstr "大多数开源项目都提供多种成员交流渠道，包括电子邮件、即时通讯、问题追踪、代码审查、视频会议乃至线下聚会。项目需明确说明采用的沟通方式及参与方法，同时保持这些信息的实时更新至关重要。"
+
+#: ../../growing-contributors/project-and-community-governance.md:317
+msgid ""
+"If you have them, it's useful to list both your user forums as well as the "
+"channels used for contributors, so that people know where to take their "
+"questions. Distinguish the media used for official project business as "
+"opposed to unofficial channels used for general discussion. It's extremely "
+"frustrating for contributors to be told \"oh, we decided that on the mailing"
+" list\" if they didn't even know there was a mailing list. Any regular "
+"meetings should link to a calendar, or at least information about the next "
+"meeting. And if your community has any important events, such as annual "
+"developer conference, mention it."
+msgstr "若已建立相关渠道，列出用户论坛和贡献者使用的沟通平台会很有帮助，这样人们就知道该去哪里提问。需明确区分用于官方项目事务的媒介与用于一般讨论的非正式渠道。如果贡献者甚至不知道存在邮件列表，却被告知\"哦，我们在邮件列表上讨论过这事\"，会让人极其沮丧。任何定期会议都应链接到日历，或至少提供下次会议的信息。如果社区有重要活动，比如年度开发者大会，也请一并说明。"
+
+#: ../../growing-contributors/project-and-community-governance.md:319
+msgid ""
+"Refer to this guidebook's chapter on communication norms in open source "
+"projects for more detail."
+msgstr "请参阅本手册中关于开源项目沟通规范的相关章节以获取更多详情。"
+
+#: ../../growing-contributors/project-and-community-governance.md:323
+msgid ""
+"If you've already documented your \"leadership\" role, the information on "
+"how project members become leaders will be part of it. However, some "
+"projects don't get around to writing roles, and other projects have multi-"
+"step election procedures that require additional documentation. Some just "
+"want a quick-reference of how the election or selection process works."
+msgstr "若你已记录\"领导层\"角色相关说明，关于项目成员如何成为领导者的信息应包含其中。但有些项目尚未编写角色说明，另一些项目则采用多步骤选举程序，需要额外文档支持。部分项目仅需快速查阅选举或遴选流程的运作方式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:325
+msgid ""
+"If you have the typical new small project, this document will be very short "
+"indeed, containing simply the list of project leaders, who are also the "
+"project founders. If your project has a self-appointing council, it's not "
+"that much more complicated; just write down how the selection works."
+msgstr "如果你的项目是典型的新兴小型项目，这份文档确实会非常简短，只需列出项目负责人（通常也是项目创始人）即可。若项目设有自主推选委员会，流程也不复杂——只需写明推选机制如何运作。"
+
+#: ../../growing-contributors/project-and-community-governance.md:327
+msgid ""
+"Projects that have full-blown elections will need a longer document "
+"containing all of the provisions of elections, including who gets to vote, "
+"how the vote is conducted and by whom, what the schedule is, and how "
+"candidates are selected. We'll offer additional advice on holding elections "
+"at the conclusion of this chapter."
+msgstr "开展正式选举的项目需要一份更详尽的文件，其中包含选举的所有条款，包括投票者资格、投票方式及执行者、时间安排以及候选人筛选机制。本章末尾我们将提供关于举行选举的补充建议。"
+
+#: ../../growing-contributors/project-and-community-governance.md:331
+msgid ""
+"If your project has multiple levels of contributor status, with a defined "
+"progression between them—what's known as a \"contributor ladder\"—then it "
+"can be useful to write a specific document explaining how this works. This "
+"will give new contributors an idea of what's ahead of them and what they "
+"need to do to move up. It also helps make sure that contributor promotion is"
+" being done fairly."
+msgstr "如果你的项目设有多个贡献者等级，并定义了明确的晋升路径——这通常被称为“贡献者阶梯”——那么撰写一份详细说明该机制的文件将十分有益。这份文件能让新贡献者了解未来的发展路径及晋升所需条件，同时也有助于确保贡献者晋升过程的公平性。"
+
+#: ../../growing-contributors/project-and-community-governance.md:333
+msgid ""
+"For fairness, it's preferable to make the promotion rules as objective as "
+"possible. For example, \"Has consistently helped with code reviews in the "
+"subproject\" is good, but, \"Has completed at least 40 code reviews over the"
+" last three months in the subproject\" is better. Quantifiable rules help "
+"you avoid overlooking contributors who are valuable, but not outspoken."
+msgstr ""
+"为体现公平性，最好将晋升规则制定得尽可能客观。例如\"持续协助子项目代码审查\"是好的标准，但\"过去三个月在子项目中完成至少 40 "
+"次代码审查\"则更为理想。可量化的规则能帮助你避免忽视那些贡献卓著但不善言辞的参与者。"
+
+#: ../../growing-contributors/project-and-community-governance.md:335
+msgid ""
+"Smaller projects, with only a couple of contributor levels (e.g., "
+"Contributor and Owner), do not need a separate document for this."
+msgstr "规模较小的项目仅包含少数贡献者层级（如贡献者与所有者），无需为此单独制定文档。"
+
+#: ../../growing-contributors/project-and-community-governance.md:339
+msgid ""
+"Releasing software involves making decisions around what will and won't be "
+"included in the current release. When a project is small, this is pretty "
+"obvious, but in larger projects with contributors working for multiple "
+"employers, deciding what stays and what gets cut can be political. Decisions"
+" about which platforms are supported can also be contentious. As such, when "
+"your project grows you're going to want to write down some process around "
+"releases."
+msgstr "发布软件需要决定当前版本包含与不包含哪些内容。对于小型项目而言，这相当显而易见，但在拥有多位来自不同雇主的贡献者的大型项目中，决定保留或删减哪些内容可能涉及政治因素。关于支持哪些平台的决策同样容易引发争议。因此，当项目规模扩大时，你需要制定明确的发布流程规范。"
+
+#: ../../growing-contributors/project-and-community-governance.md:341
+msgid ""
+"Some projects have defined release teams, in which case this document will "
+"be largely a collection of Role documents for the release team. In other "
+"projects, the maintainers do the releases, but even with those it's "
+"worthwhile to explain how they decide what gets included. This doesn't mean "
+"necessarily changing how you do releases, but rather just writing down what "
+"the real procedure already is, particularly the method of deciding which "
+"features and patches get left out. The process for writing and editing the "
+"release announcement is also worthwhile, especially if your project involves"
+" multiple vendors."
+msgstr "部分项目设有专门的发布团队，这种情况下本文档主要作为发布团队的角色职责汇编。而在其他项目中，维护者负责版本发布工作，即便如此，阐明他们如何决定版本包含内容仍具价值。这并非意味着必须改变现有发布流程，而是将实际运作的规程——尤其是决定哪些功能与补丁不予纳入的评判标准——形成书面记录。撰写与编辑发布公告的流程同样值得规范，当项目涉及多个供应商时尤为如此。"
+
+#: ../../growing-contributors/project-and-community-governance.md:343
+msgid ""
+"This document will also have lots of non-governance content, like the "
+"locations of the servers, the commands to build packages, and how long to "
+"wait for mirrors to sync. It's expected that most of it will be technical "
+"instructions. Just don't neglect the _who_ and _why_ along with the _how_."
+msgstr "本文档还将包含大量非治理性内容，例如服务器位置、软件包构建命令以及镜像同步等待时长等。预计大部分内容将是技术性说明。但切勿在阐述操作方式的同时，忽略执行*主体*与*目的*。"
+
+#: ../../growing-contributors/project-and-community-governance.md:347
+msgid ""
+"Once your project's code is being used in production by external users, "
+"managing security issue reports becomes a critical priority. While this "
+"topic could use an entire chapter on its own, there is some basic governance"
+" setup associated with handling security issues. This will include:"
+msgstr "当外部用户在生产环境中使用你的项目代码时，管理安全漏洞报告就成为了至关重要的任务。尽管这个话题值得用整章篇幅来探讨，但处理安全问题确实涉及一些基本的治理框架搭建。主要包括以下方面："
+
+#: ../../growing-contributors/project-and-community-governance.md:349
+msgid "Who is selected to be on the security team, how, and when."
+msgstr "安全团队的成员如何选拔、选拔方式及时间安排。"
+
+#: ../../growing-contributors/project-and-community-governance.md:350
+msgid "Where security reports get sent."
+msgstr "安全报告的接收渠道。"
+
+#: ../../growing-contributors/project-and-community-governance.md:351
+msgid "How they are handled, including confidentiality requirements."
+msgstr "处理流程（包括保密要求）。"
+
+#: ../../growing-contributors/project-and-community-governance.md:352
+msgid "What reciprocation security researchers can expect."
+msgstr "安全研究人员可获得的回报。"
+
+#: ../../growing-contributors/project-and-community-governance.md:353
+msgid "How long you can wait before disclosing."
+msgstr "漏洞披露前的等待时限。"
+
+#: ../../growing-contributors/project-and-community-governance.md:355
+msgid ""
+"Confidentiality requirements are particularly important for both the "
+"security team itself, and for the programmers and security researchers with "
+"whom you work. For example, security researchers are willing to not disclose"
+" their findings to the public until your project does, but only if they are "
+"promised that your security team won't do that either. In many projects, "
+"security team members aren't allowed to share certain information even with "
+"their own employers."
+msgstr "保密要求对安全团队本身以及与之合作的程序员和安全研究人员尤为重要。例如，安全研究人员愿意在你的项目公开之前不对外披露其发现，但前提是他们必须得到承诺，你的安全团队也不会这样做。在许多项目中，安全团队成员甚至不被允许与自己的雇主分享某些信息。"
+
+#: ../../growing-contributors/project-and-community-governance.md:357
+msgid "Trademark usage"
+msgstr "商标使用规范"
+
+#: ../../growing-contributors/project-and-community-governance.md:359
+msgid ""
+"When a project gets popular, both commercial and non-commercial groups want "
+"to use the project's name, word mark, and graphical logo. Whether it's just "
+"statements of support, a third party wanting to sell shirts with your "
+"project on them, or other projects that derive from yours, projects need "
+"these entities to be following some kind of official policy around usage. "
+"Even if the project has not filed for a trademark with any government yet, "
+"establishing a pattern of policy and permission will help protect your "
+"project's name and marks in the future."
+msgstr ""
+"当一个项目变得流行时，商业和非商业团体都想使用该项目的名称、文字标识和图形标志。无论是单纯的声援表态、第三方想售卖印有你们项目图案的 T "
+"恤，还是衍生自你们项目的其他作品，项目都需要这些实体遵循某种官方的使用政策。即使项目尚未在任何政府机构注册过商标，建立政策规范和许可模式也有助于在未来保护项目的名称和标识。"
+
+#: ../../growing-contributors/project-and-community-governance.md:361
+msgid "Such a policy consists of four things:"
+msgstr "此类政策包含四个要素："
+
+#: ../../growing-contributors/project-and-community-governance.md:363
+msgid "A general statement of acceptable usage"
+msgstr "可接受使用的一般声明"
+
+#: ../../growing-contributors/project-and-community-governance.md:364
+msgid "Contact information to request specific permission or for clarification"
+msgstr "请求特定许可或澄清的联系信息"
+
+#: ../../growing-contributors/project-and-community-governance.md:365
+msgid ""
+"A designated team, committee, or contributor who is going to handle these "
+"requests"
+msgstr "负责处理这些请求的指定团队、委员会或贡献者"
+
+#: ../../growing-contributors/project-and-community-governance.md:366
+msgid "Additional guidelines for the trademark team"
+msgstr "商标团队的附加准则"
+
+#: ../../growing-contributors/project-and-community-governance.md:368
+msgid ""
+"For the actual acceptable usage statement and guidelines, projects should "
+"obtain legal assistance. The governance part of this is selecting the "
+"\"trademark team\" (which could be an existing steering council, or "
+"similar), and how guidelines are updated and changed. In projects run by "
+"multiple technology vendors, it's critical to work this out in the early "
+"stages of the project, because the project's own sponsors will want to use "
+"its mark almost immediately. Make sure that responsibility here is shared "
+"between the stakeholders in your project."
+msgstr "关于实际可接受的使用声明和准则，项目应寻求法律协助。此部分的治理工作包括选定\"商标团队\"（可能是现有的指导委员会或类似机构），以及准则的更新与修改方式。对于由多家技术供应商共同运营的项目，在项目初期就解决这一问题至关重要，因为项目发起方几乎会立即希望使用其商标。请确保项目各利益相关方在此事项上共同承担责任。"
+
+#: ../../growing-contributors/project-and-community-governance.md:370
+msgid ""
+"Like security issues, the trademark team needs to be able to handle "
+"confidential contacts, because sometimes pre-release startups may want to "
+"use your project name."
+msgstr "与安全问题类似，商标团队需要能够处理保密联络，因为有时处于预发布阶段的初创公司可能会希望使用你的项目名称。"
+
+#: ../../growing-contributors/project-and-community-governance.md:372
+msgid "Holding community elections"
+msgstr "举行社区选举"
+
+#: ../../growing-contributors/project-and-community-governance.md:374
+msgid ""
+"As community projects grow, many choose to select community representatives."
+" This process may occur when a community loses a founder, a group decides to"
+" move to a \"ruling technical council\" governance model, or when a project "
+"moves to a non-profit governing body with paying members."
+msgstr "随着社区项目的发展，许多组织会选择推选社区代表。这一过程可能发生在社区失去创始人时，某个群体决定转向\"技术委员会治理\"模式时，或是项目转移到由付费会员组成的非营利管理机构时。"
+
+#: ../../growing-contributors/project-and-community-governance.md:376
+msgid ""
+"Regardless of the circumstances, many projects opt to select their community"
+" representatives through elections. Historically, choosing a voting system, "
+"defining an electorate, and limiting the pool of eligible candidates has "
+"proven complicated for community projects."
+msgstr "无论何种情况，许多项目都倾向于通过选举产生社区代表。历史经验表明，对社区项目而言，选择投票制度、界定投票者范围以及限定候选人资格都是相当复杂的流程。"
+
+#: ../../growing-contributors/project-and-community-governance.md:378
+msgid ""
+"This section summarizes project election best practices, including who gets "
+"to vote, who can be a candidate, and how elections are run."
+msgstr "本节将概述项目选举的最佳实践，包括投票者资格认定、候选人条件设定以及选举运作方式等核心内容。"
+
+#: ../../growing-contributors/project-and-community-governance.md:380
+msgid "Electorate and eligible candidate pool"
+msgstr "投票者与合格候选人群体"
+
+#: ../../growing-contributors/project-and-community-governance.md:382
+msgid ""
+"Establishing franchise rules is critical. Some projects have allowed anyone "
+"registered for a project's site to vote in an election—a very low bar—but "
+"have specified that only project committers could be election candidates—a "
+"high bar. However, almost all projects eventually broaden the pool of "
+"potential candidates to equal the pool of voters. Anyone who can vote in the"
+" election is therefore eligible to become a candidate."
+msgstr "制定特许规则至关重要。某些项目允许任何在项目网站注册的用户参与选举投票——门槛极低——但规定只有项目提交者才能成为候选人——门槛极高。然而，几乎所有项目最终都会将潜在候选人范围扩大到与投票者范围一致。因此，任何具备选举投票资格的人，都有资格成为候选人。"
+
+#: ../../growing-contributors/project-and-community-governance.md:384
+msgid ""
+"Projects typically take one of three approaches to defining the electorate "
+"and candidate pools:"
+msgstr "项目通常采用以下三种方式之一来界定投票者与候选人群体："
+
+#: ../../growing-contributors/project-and-community-governance.md:386
+msgid ""
+"**High bar:** Voters are members of an inside group—such as committers, "
+"maintainers, and core contributors. Membership requires a long history of "
+"participation and seniority recognized by peers."
+msgstr "**高门槛：**投票者属于内部核心群体——如代码提交者、维护者和核心贡献者。成员资格需具备长期参与经历，并获得同僚认可的高级资历。"
+
+#: ../../growing-contributors/project-and-community-governance.md:387
+msgid ""
+"**Medium bar:** Active participants or foundation members can vote, as long "
+"as they meet a clearly articulated definition of participation."
+msgstr "**中等门槛：**只要符合明确定义的参与标准，活跃贡献者或基金会成员即可参与投票。"
+
+#: ../../growing-contributors/project-and-community-governance.md:388
+msgid ""
+"**Low bar:** Anyone can vote as long as they complete some basic steps, like"
+" signing up to the program or joining the mailing list."
+msgstr "**低门槛：**任何人只需完成注册项目或加入邮件列表等基本步骤，即可获得投票资格。"
+
+#: ../../growing-contributors/project-and-community-governance.md:390
+msgid ""
+"Defining an activity metric and minimum bar specifying what qualifies as "
+"\"participation\" can become contentious, mainly because it involves drawing"
+" arbitrary lines delimiting eligible participants. Generally, projects "
+"specify that quantified, ongoing participation is necessary to become part "
+"of the electorate."
+msgstr "制定活动指标和界定\"参与\"资格的最低标准容易引发争议，主要因为这涉及人为划定合格参与者的边界。通常项目方会要求选举人必须满足可量化的持续参与条件。"
+
+#: ../../growing-contributors/project-and-community-governance.md:392
+msgid ""
+"One common election fear is ballot stuffing or cohort effects, where large "
+"companies dominate the representative bodies by having a large voting bloc, "
+"or where friends of candidates will pass the low bar to become voters simply"
+" to vote for their candidate. In most cases, however, such fears are "
+"unfounded. Technical communities often try to create rules to mitigate "
+"against possible abuses of the system, but in most cases, these rules are "
+"\"premature optimization,\" which Donald Knuth[^knuth], author of _The Art "
+"of Computer Programming_, has famously described as \"the root of all "
+"evil.\" Avoiding special rules—and addressing issues with the electoral "
+"process as they arise—is generally the better practice."
+msgstr "选举中一个常见的担忧是选票灌水或群体效应——大公司凭借庞大的投票集团主导代表机构，或者候选人的朋友仅为了支持特定候选人而轻易跨过低门槛成为投票者。然而在大多数情况下，这类担忧并无根据。技术社区常试图制定规则来防范可能的制度滥用，但正如《计算机程序设计艺术》作者高德纳的名言：\"过早优化是万恶之源[^knuth]\"，这些规则往往属于\"过早优化\"。更好的做法通常是避免特殊规则，待选举流程出现问题后再针对性解决。"
+
+#: ../../growing-contributors/project-and-community-governance.md:394
+msgid ""
+"One final consideration is the process for becoming a candidate in the "
+"election. The most popular option is self-nomination, where candidates post "
+"election information and their reasons for running. Another option is "
+"nomination, which is often the same as self-nomination as the candidate "
+"typically asks people to nominate them and second their nomination."
+msgstr "最后需要考虑的是成为选举候选人的流程。最普遍的做法是自我提名，候选人发布选举信息及参选理由。另一种方式是他人提名，这通常与自我提名无异，因为候选人往往会主动请他人提名自己并附议支持。"
+
+#: ../../growing-contributors/project-and-community-governance.md:396
+msgid "Voting system"
+msgstr "投票系统"
+
+#: ../../growing-contributors/project-and-community-governance.md:398
+msgid ""
+"Another complex community decision is the voting system. Any community will "
+"include people passionate about how to vote—and how to count votes. Without "
+"proper care, conversations about these issues can go on for months and "
+"result in proposals that are almost impossible to implement."
+msgstr "另一个复杂的社区决策是投票制度。任何社区都会有人热衷于讨论投票方式——以及如何计票。若处理不当，关于这些问题的讨论可能持续数月，最终形成的提案几乎无法实施。"
+
+#: ../../growing-contributors/project-and-community-governance.md:400
+msgid "Most community projects have used:"
+msgstr "大多数社区项目都采用："
+
+#: ../../growing-contributors/project-and-community-governance.md:402
+msgid "Voting by secret ballot"
+msgstr "无记名投票"
+
+#: ../../growing-contributors/project-and-community-governance.md:403
+msgid "Online voting, with a personal token to ensure each person may only vote once"
+msgstr "在线投票，通过个人令牌确保每人只能投票一次"
+
+#: ../../growing-contributors/project-and-community-governance.md:404
+msgid "Some form of preferential voting, listing candidates in order of preference"
+msgstr "某种形式的优先顺序投票制，即按偏好程度列出候选人排序"
+
+#: ../../growing-contributors/project-and-community-governance.md:405
+msgid ""
+"[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) or [single "
+"transferable vote](https://en.wikipedia.org/wiki/Single_transferable_vote) "
+"(STV) to count the votes and identify winners"
+msgstr "使用[孔多塞方法](https://en.wikipedia.org/wiki/Condorcet_method)或[单一可转让投票](https://en.wikipedia.org/wiki/Single_transferable_vote)（STV）进行计票并确定胜选者"
+
+#: ../../growing-contributors/project-and-community-governance.md:407
+msgid ""
+"Some projects continue to use alternative voting systems like \"first past "
+"the post\" or weighted voting systems, in which voters receive 12 tokens to "
+"allocate to candidates however they wish, and the candidates with the most "
+"tokens win the election."
+msgstr "一些项目仍采用\"简单多数制\"或加权投票系统等替代方案——在后者中，投票者会获得 12 个代币，可按意愿分配给候选人，获得最多代币的候选人胜选。"
+
+#: ../../growing-contributors/project-and-community-governance.md:409
+msgid "Several projects use online counting software. Options to consider include:"
+msgstr "多个项目采用在线计数软件。可考虑的选项包括："
+
+#: ../../growing-contributors/project-and-community-governance.md:411
+msgid ""
+"[Condorcet Internet Voting Service](http://civs.cs.cornell.edu/), a free, "
+"online voting and Condorcet counting system."
+msgstr "[孔多塞互联网投票服务](http://civs.cs.cornell.edu/)，一款免费的在线投票及孔多塞计票系统。"
+
+#: ../../growing-contributors/project-and-community-governance.md:412
+msgid ""
+"[OpaVote](https://www.opavote.com/) (formerly OpenSTV), a commercial "
+"election counting Software-as-a-Service."
+msgstr "[OpaVote](https://www.opavote.com/)（前OpenSTV），一款商业化的选举计票软件即服务(SaaS)。"
+
+#: ../../growing-contributors/project-and-community-governance.md:413
+msgid ""
+"[OpenSTV](https://github.com/Conservatory/openstv), formerly available under"
+" the General Public License (GPL) and still used by several projects to "
+"count elections."
+msgstr "[OpenSTV](https://github.com/Conservatory/openstv)曾以通用公共许可证(GPL)发布，目前仍有多个项目使用该软件进行选举计票。"
+
+#: ../../growing-contributors/project-and-community-governance.md:414
+msgid ""
+"[Helios](https://vote.heliosvoting.org/), another free election service that"
+" allows online voting and several different vote counting methods."
+msgstr "[Helios](https://vote.heliosvoting.org/)是另一款免费选举服务，支持在线投票并提供多种计票方式。"
+
+#: ../../growing-contributors/project-and-community-governance.md:416
+msgid "How to start"
+msgstr "如何开始"
+
+#: ../../growing-contributors/project-and-community-governance.md:418
+msgid ""
+"If you are planning to propose an election system, begin with a mission "
+"statement."
+msgstr "若计划提出选举制度方案，请从使命宣言着手。"
+
+#: ../../growing-contributors/project-and-community-governance.md:420
+msgid "For example:"
+msgstr "例如："
+
+#: ../../growing-contributors/project-and-community-governance.md:422
+msgid ""
+"The goal is to ensure the technical steering committee represents everyone "
+"contributing actively to the project, valuing non-code contributions equally"
+" to code contributions, in the definition of the technical scope and "
+"direction of the project."
+msgstr "目标是确保技术指导委员会在定义项目的技术范围和发展方向时，能代表所有为项目积极贡献的成员，并同等重视非代码贡献与代码贡献。"
+
+#: ../../growing-contributors/project-and-community-governance.md:424
+msgid ""
+"The mission statement clarifies several things: who is being represented by "
+"the elected body, what their authority will be, and why they are being "
+"elected. Once you have agreed on the goal of the elected body, choose the "
+"simplest ways to define membership in the body being represented. Then, "
+"choose the simplest voting and counting system possible."
+msgstr "使命宣言明确了几个要点：选举代表机构所代表的对象、其职权范围以及选举原因。一旦就选举机构的目标达成共识，应选择最简明的方式界定被代表机构的成员资格，继而采用尽可能简单的投票与计票机制。"
+
+#: ../../growing-contributors/project-and-community-governance.md:426
+msgid ""
+"Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-"
+"Wesley Pub. Co, 1968."
+msgstr ""
+"Knuth, Donald E, _The Art of Computer Programming_. Reading, Mass: Addison-"
+"Wesley Pub. Co, 1968. Print."

@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../guiding-participants/README.md:7
+msgid "Guiding Participants"
+msgstr "指导参与者"
+
+#: ../../guiding-participants/README.md:9
+msgid ""
+"\"Participation\" in an open source project is an interesting—and somewhat "
+"amorphous—concept to describe. The line separating \"I'm just a user! Don't "
+"talk to me about anything more\" and \"How can I help contribute to this "
+"project?\" seem clear enough. Yet active participation in a project begins "
+"the moment someone cares enough about the software to do more than simply "
+"consume it. And because open source software is by nature inclusive and "
+"participatory, most *users* become *participants* rather quickly and "
+"easily—often by simply leaving a comment on the project's blog, filing an "
+"issue in the project's tracker, or engaging with the project on social "
+"media. By using open source software, they've *already* begun participating "
+"in the process of making the software better."
+msgstr "\"参与\"开源项目是一个有趣且略带模糊的概念。表面上，\"我只是个用户！别跟我谈更深层的事\"和\"我能如何为这个项目做贡献？\"之间的界限似乎很清晰。但实际上，当某人开始关心这款软件而不止于消费它时，就已然开启了积极参与的旅程。由于开源软件天生具有包容性和参与性，大多数用户会相当快速且轻松地转变为参与者——可能只是在项目博客留下评论，在问题追踪系统中提交工单，或通过社交媒体与项目互动。当他们使用开源软件时，其实就已经参与了让软件变得更好的进程。"
+
+#: ../../guiding-participants/README.md:11
+msgid "Here are some examples of various types of participation:"
+msgstr "以下是各类参与方式的示例："
+
+#: ../../guiding-participants/README.md:13
+msgid ""
+"Talking to a friend about how much you like the software or the goals of the"
+" open source project."
+msgstr "和朋友聊聊你有多喜欢这款软件或该开源项目的目标。"
+
+#: ../../guiding-participants/README.md:14
+msgid ""
+"Engaging in a hallway or booth-side discussion about the software at a "
+"conference or event."
+msgstr "在会议或活动期间，在走廊或展位旁讨论这款软件。"
+
+#: ../../guiding-participants/README.md:15
+msgid ""
+"Asking, upvoting, and answering questions about the software on various "
+"forums."
+msgstr "在各种论坛上提出、点赞和回答关于该软件的问题。"
+
+#: ../../guiding-participants/README.md:16
+msgid "Putting a sticker on your laptop to advertize your support of the software."
+msgstr "在笔记本电脑上贴贴纸，宣传你对这款软件的支持。"
+
+#: ../../guiding-participants/README.md:17
+msgid "Giving constructive feedback to a contributor about the software or project."
+msgstr "向贡献者提供关于软件或项目的建设性反馈。"
+
+#: ../../guiding-participants/README.md:18
+msgid "Recommending and offering to help others adopt and use the software."
+msgstr "推荐并主动帮助他人采用和使用软件。"
+
+#: ../../guiding-participants/README.md:20
+msgid "This section contains chapters that:"
+msgstr "本节包含以下章节："
+
+#: ../../guiding-participants/README.md:22
+msgid "Discuss the ideas and forces behind the motivation to participate."
+msgstr "探讨参与动机背后的理念和驱动力。"
+
+#: ../../guiding-participants/README.md:23
+msgid "Present details on how active participants benefit the project."
+msgstr "详细介绍活跃参与者如何为项目带来益处。"
+
+#: ../../guiding-participants/README.md:25
+msgid "This section is useful for you if:"
+msgstr "本节内容在以下情况特别有用："
+
+#: ../../guiding-participants/README.md:27
+msgid ""
+"You are looking to understand the differences among communities made up of "
+"less engaged users, enthusiastic participants, and active contributors."
+msgstr "你想了解由参与度较低的用户、热情参与者以及活跃贡献者组成的社区之间的差异。"
+
+#: ../../guiding-participants/README.md:28
+msgid ""
+"You want to understand what attracts people to participate in a pathway "
+"toward contribution."
+msgstr "你想探究是什么吸引人们走上贡献之路。"
+
+#: ../../guiding-participants/README.md:29
+msgid "You are looking to give your participation community a better experience."
+msgstr "你希望为你的参与社区提供更好的体验。"
+
+#: ../../guiding-participants/README.md:30
+msgid "You wish to build bridges to enable participants to become contributors."
+msgstr "你渴望搭建桥梁，帮助参与者转变为贡献者。"
+
+#: ../../guiding-participants/README.md:31
+msgid "You want to explore the benefit of user feedback in open source software."
+msgstr "你想探索用户反馈在开源软件中的益处。"
+
+#: ../../guiding-participants/README.md:32
+msgid ""
+"You have reached the middle of this guidebook by starting at the beginning, "
+"and are working your way toward the end."
+msgstr "你从本指南的开头开始阅读，现已到达中间部分，正朝着结尾逐步推进。"

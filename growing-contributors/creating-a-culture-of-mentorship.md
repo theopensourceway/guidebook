@@ -89,11 +89,11 @@ If this matches your projects's version of sustainable, then a mentoring program
 
 Self-sustainability is an important focus for a mentoring program. And don't think anyone goes from "mentoring people" to "a mentoring program" by accident. Here's the argument:
 
-1.  If we can agree that lowering the barriers for entry into a project is key to bringing in new people; and
-2.  If we can agree that people coming into a new project benefit from having one or more people they feel permitted and even encouraged to ask questions and learn from; and
-3.  If we can agree new people having lackluster or negative interactions with existing project members is likely to drive the new people away; and
-4.  If we can agree that having a person (mentor, friend) for new people to turn to is a way to prevent the driving-away and especially prevent *silent segfaults* (people just disappearing with no explanation);
-5.  Then we can see that doing mentoring with even a tiny bit of repeatable process support is going to yield better, more satisfying results than an ad-hoc process.
+1. If we can agree that lowering the barriers for entry into a project is key to bringing in new people; and
+2. If we can agree that people coming into a new project benefit from having one or more people they feel permitted and even encouraged to ask questions and learn from; and
+3. If we can agree new people having lackluster or negative interactions with existing project members is likely to drive the new people away; and
+4. If we can agree that having a person (mentor, friend) for new people to turn to is a way to prevent the driving-away and especially prevent *silent segfaults* (people just disappearing with no explanation);
+5. Then we can see that doing mentoring with even a tiny bit of repeatable process support is going to yield better, more satisfying results than an ad-hoc process.
 
 Once you agree that even a lightweight program is better than an ad-hoc process, we're going in the right direction. With this in mind, here are a few absolute must-have elements to include in your mentoring program.
 

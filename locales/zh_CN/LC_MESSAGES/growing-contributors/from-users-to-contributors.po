@@ -1,0 +1,514 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../growing-contributors/from-users-to-contributors.md:7
+msgid "From Users to Contributors"
+msgstr "从用户到贡献者"
+
+#: ../../growing-contributors/from-users-to-contributors.md:8
+msgid ""
+"Every open source project begins with code and one or more developers. What "
+"turns that *project* into a *community* are the people who engage with one "
+"another *around* that code. No matter the maturity level of your project, "
+"one of the most important things you can do to ensure its success is "
+"encourage and maintain engagement with its users and contributors."
+msgstr "每个开源项目都始于代码和一位或多位开发者。而将*项目*转变为*社区*的，正是围绕这些代码进行互动的人们。无论项目处于何种成熟阶段，确保其成功最重要的事情之一就是鼓励并维持与用户及贡献者的互动。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:10
+msgid ""
+"When a user of your project makes the effort to engage with the developers "
+"of the project, treat the contribution as you would a gift from someone "
+"close to you. This person has taken time they could have spent on something "
+"else and chosen to use that time to engage with the project. Perhaps they've"
+" submitted bug reports, offered feature requests, or made pull requests; "
+"whatever the contribution, the initial interactions they create are critical"
+" for determining whether that person will develop a positive or negative "
+"impression of your project and its community."
+msgstr "当项目用户主动与开发者互动时，请将这份贡献视为挚友馈赠的馈赠。对方本可将时间用于其他事务，却选择投入你的项目——无论是提交错误报告、功能建议还是拉取请求，这些初次互动都将直接影响他们对项目及社区形成积极或消极的印象。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:12
+msgid ""
+"Here are a few steps you can take to create a welcoming culture that treats "
+"user engagement as the gift it is."
+msgstr "以下是营造友好文化的几个步骤，将用户互动视为珍贵的馈赠。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:14
+msgid "Accept the gift"
+msgstr "接受馈赠"
+
+#: ../../growing-contributors/from-users-to-contributors.md:15
+msgid ""
+"Reacting positively to user engagement might be difficult if, for example, a"
+" user is upset because something in your project doesn't work as they'd "
+"expect. At times like this, remember that this person is making an effort to"
+" tell you about their issue. Think of it like the time your well-meaning "
+"aunt got you the cheap knock-off building blocks instead of the Lego set you"
+" were hoping for; when someone engages with your project for the first time,"
+" you have a single opportunity to make a good first impression."
+msgstr "如果用户因为你项目中的某些内容不如预期那样工作而感到沮丧，积极回应用户参与可能会很困难。在这种时候，请记住这个人正在努力告诉你他们的问题。想想你善意的阿姨给你买便宜仿制积木而不期望的乐高套装的那次；当有人第一次参与你的项目时，你只有一次机会留下良好的第一印象。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:17
+msgid ""
+"First, thank the person for their contribution and acknowledge it. Many "
+"times, when people turn up to your project upset, the very first thing they "
+"want is reassurance that they aren't the source of the trouble---reassurance"
+" that, yes, this is harder to use than it should be. Helping them over the "
+"particular speed bump they're hitting will turn them from critics to "
+"cheerleaders for the project."
+msgstr "首先，感谢对方的贡献并予以肯定。很多时候，当人们带着不满情绪来到你的项目时，他们最需要的首先是确认问题并非由自己引起——确认这个项目确实存在使用难度过高的问题。帮助他们解决当前遇到的具体障碍，就能将这些批评者转化为项目的支持者。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:19
+msgid "Provide actionable, useful feedback"
+msgstr "提供具体可行的有效反馈"
+
+#: ../../growing-contributors/from-users-to-contributors.md:20
+msgid ""
+"Feedback for new contributors is only useful to the extent that it's "
+"actionable---that is, that the contributor can *do something* as a result of"
+" what you've offered."
+msgstr "对于新贡献者的反馈，只有在具备可操作性时才有价值——也就是说，贡献者能够根据你提供的建议采取*具体行动*。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:22
+msgid ""
+"In the case that someone is asking a question, you may need more information"
+" from them in order to answer it. For instance, if you're reviewing a pull "
+"request containing materials that don't match the project's coding "
+"conventions, you'll want the contributor to make some changes to their "
+"contribution. In the event that you're giving feedback or asking for "
+"something from them, it's important to look at your project with a "
+"beginner's eye. There's nothing more frustrating than having a question "
+"answered with something completely esoteric---\\\"Just frobding the "
+"dollygagger!\\\"---and scratching your head, saying \\\"How on Earth do I do"
+" that?\\\""
+msgstr ""
+"当有人提出问题时，你可能需要获取更多信息才能解答。例如在审查包含不符合项目编码规范的拉取请求时，你会希望贡献者对其提交内容进行修改。在提供反馈或提出要求时，关键要以新手的视角审视项目。最令人沮丧的莫过于得到一个完全晦涩的答复——\"只要调整"
+" dollygagger 就行！\"——然后挠着头问：\"这到底该怎么做？\""
+
+#: ../../growing-contributors/from-users-to-contributors.md:24
+msgid ""
+"When reviewing code, do not assume a high level of proficiency with the "
+"programming language, your project, or even with how to update a pull "
+"request in GitHub. If your project runs on Kubernetes, do not assume that "
+"the person you are dealing with is an admin on the Kubernetes cluster, or is"
+" familiar with Kubernetes internals."
+msgstr ""
+"审查代码时，切勿预设对方对编程语言、项目本身乃至 GitHub 上如何更新拉取请求具有高度熟练度。如果你的项目基于 Kubernetes "
+"运行，不要默认认为对接人员是 Kubernetes 集群管理员或熟悉 Kubernetes 内部机制。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:26
+msgid ""
+"If in doubt, you can always ask some level-setting questions. But if you're "
+"telling someone to change an option in a config file, be sure to provide "
+"instructions on where to *find* the file and explain the file's format."
+msgstr "如有疑问，不妨先询问一些基础性问题。但若需指导他人修改配置文件中的选项，务必说明文件位置及格式规范。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:28
+msgid "Give engaged users a good experience"
+msgstr "为积极参与的用户提供良好体验"
+
+#: ../../growing-contributors/from-users-to-contributors.md:29
+msgid ""
+"When someone engages with your project, do everything in your power to "
+"ensure they come away from the interaction feeling good. This is important"
+"---not just for the person you are dealing with, but for all of the people "
+"you'll never hear from who are looking on. The latter person might be a "
+"reader who finds a StackOverflow question six months later, or a bystander "
+"in a community chat forum. When these users observe others having a good "
+"experience, they'll feel better about the project too."
+msgstr ""
+"当有人参与你的项目时，请全力确保他们在互动后获得良好体验。这不仅关乎当前接触的对象，更会影响无数潜在观察者——比如半年后查阅 StackOverflow"
+" 问题的读者，或是社区论坛的旁观者。当这些用户见证他人的愉快经历时，也会对项目产生更多好感。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:31
+msgid "People over process"
+msgstr "以人为本胜过流程至上"
+
+#: ../../growing-contributors/from-users-to-contributors.md:32
+msgid ""
+"Large development teams rely on process for efficient operation. Whether "
+"they use bug tracker workflow management to validate whether and when "
+"changes can be merged, or perform smoke tests that run on every pull "
+"request, they build layers of tooling to help developers work through a "
+"large number of changes without going mad."
+msgstr "大型开发团队依赖流程保障高效运作。无论是通过缺陷跟踪系统的工作流管理来验证变更能否及何时合并，还是对每个拉取请求执行冒烟测试，他们构建层层工具链，帮助开发者在处理海量变更时保持理智。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:34
+msgid ""
+"For someone active in the project, this kind of infrastructure provides huge"
+" value! But for a newcomer to your project, it's all very mysterious."
+msgstr "对项目活跃成员而言，这类基础设施极具价值！但对初来乍到的新手来说，这一切都显得神秘莫测。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:36
+msgid ""
+"As a community-focused software developer, you'll need to be mindful of "
+"newcomers to your project. If their first PR does not pass smoke tests, it "
+"is worth taking an extra minute to explain what the tests are and why they "
+"are important, rather than just commenting \\\"CI fail\\\" or \\\"whitespace"
+" issues\\\" without any context."
+msgstr ""
+"作为注重社区建设的开发者，你需要特别关照项目新人。若他们的首次 PR 未通过冒烟测试，多花一分钟解释测试内容及其重要性，远比干巴巴地评论\"CI "
+"失败\"或\"空格问题\"更有意义。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:38
+msgid ""
+"In short, value the person making the contribution more highly than the "
+"contribution itself."
+msgstr "简而言之，要将贡献者本人看得比其贡献更为重要。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:40
+msgid "Build relationships"
+msgstr "建立人际关系"
+
+#: ../../growing-contributors/from-users-to-contributors.md:41
+msgid ""
+"Finally, when a new contributor shows up to your project, remember that "
+"you're facing an opportunity to engage with someone who is using your "
+"project, to find out more about how they found it, what they like and "
+"dislike about it, and more. That information is golden; direct access to "
+"users is one of the advantages open source software development has over "
+"proprietary software development. Take advantage of it!"
+msgstr "最后，当有新贡献者出现在你的项目里时，请记住你正面临一个与项目使用者互动的宝贵机会，去了解他们如何发现项目、喜欢和不喜欢哪些方面等等。这些信息价值不菲；直接接触用户是开源软件开发相较于专有软件开发的一大优势。好好利用它吧！"
+
+#: ../../growing-contributors/from-users-to-contributors.md:43
+msgid ""
+"These conversations will have another by-product: For a user who may have "
+"been considering your software as the product of a faceless corporation, you"
+" are putting a name and face to the project. In short, you are building a "
+"relationship."
+msgstr "这些对话还会带来另一个副产品：对于那些可能曾将你的软件视为无名企业产品的用户来说，你正在为项目赋予姓名和面孔。简而言之，你正在建立一种关系。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:45
+msgid ""
+"Think about the first time you turn up in a new school, neighborhood, or "
+"company. What makes you feel like you belong is that *human connection* with"
+" someone who, just a few minutes before, was a stranger. This relationship, "
+"as small and nascent as it is, is what will bring this person back to your "
+"project and turn them from a consumer into a community participant."
+msgstr "试想初到新学校、新社区或新公司时的情景。让你产生归属感的，正是与几分钟前还是陌生人的那种*人际联结*。这种关系虽微小且初生，却能让对方重返你的项目，从使用者转变为社区参与者。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:47
+msgid "Helping developers engage with community projects"
+msgstr "帮助开发者参与社区项目"
+
+#: ../../growing-contributors/from-users-to-contributors.md:48
+msgid ""
+"One of the most common issues seen with experienced professional software "
+"developers who start to work on community software is a reluctance to engage"
+" with public communication channels, like mailing lists. Understanding the "
+"reasons why, and helping your developers engage with the community, is a key"
+" to creating a successful and fruitful relationship with the community you "
+"are working with."
+msgstr "经验丰富的专业软件开发者在开始参与社区软件项目时，最常见的问题之一是不愿使用邮件列表等公共沟通渠道。理解其中的原因并帮助开发者融入社区，是与你所合作的社区建立成功且富有成效关系的关键。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:50
+msgid ""
+"Common reasons for this reluctance include a lack of confidence in written "
+"English skills, a perceived lack of technical skills, nervousness related to"
+" public peer review, and perceiving community interaction as "
+"\"communication\" or \"marketing,\" which they believe is not part of their "
+"job."
+msgstr "造成这种犹豫的常见原因包括：对英语写作能力缺乏信心、自认为技术水平不足、对公开同行评审感到紧张，以及将社区互动视为\"沟通\"或\"营销\"——他们认为这不属于本职工作范畴。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:52
+msgid "Lack of confidence"
+msgstr "缺乏信心"
+
+#: ../../growing-contributors/from-users-to-contributors.md:53
+msgid ""
+"Traditionally, university engineering courses do not put a strong focus on "
+"clear written communications. This can lead to professional software "
+"developers who have not developed their writing skills. In open source "
+"projects, written communication is critical to working asynchronously with a"
+" community team: blogging to promote work, documenting feature proposals, or"
+" debating the pros and cons of roadmap items on a mailing list."
+msgstr "传统上，大学工程类课程并不十分重视清晰的书面沟通能力培养。这可能导致专业软件开发人员缺乏写作技能锻炼。而在开源项目中，书面交流对于与社区团队进行异步协作至关重要：无论是通过博客宣传工作成果、编写功能提案文档，还是在邮件列表中讨论路线图项目的利弊。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:55
+msgid ""
+"In addition, while most engineers appreciate good logic, rhetoric and debate"
+" are not typically part of an engineering syllabus. The end result is that "
+"when asked to write about their work, or to ask a question on a public "
+"forum, they hesitate."
+msgstr "此外，虽然大多数工程师都推崇逻辑严谨，但修辞学和辩论技巧通常不属于工程学课程范畴。最终结果是，当需要撰写工作报告或在公共论坛提问时，他们往往会犹豫不决。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:57
+msgid ""
+"For non-English speakers, lack of confidence in English proficiency can also"
+" be an issue that gets in the way of mailing list participation."
+msgstr "对于非英语母语者而言，英语水平不足导致的信心缺失也可能成为阻碍邮件列表参与的障碍。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:59
+msgid ""
+"I remember one engineer I worked with, who was very hesitant to write email "
+"about topics we discussed, even when we agreed that they needed to be "
+"discussed with the community. When he did, he appeared to ignore responses "
+"or questions from community members. When this was discussed with him, it "
+"was clear that he did not feel comfortable engaging in a discussion in "
+"writing on a publicly archived mailing list. He was nervous that any mis-"
+"steps or breaches of etiquette would be dealt with harshly by the community."
+msgstr "我记得曾共事过一位工程师，他对撰写我们讨论过的问题邮件显得十分犹豫，即便我们都认为有必要与社区进行探讨。当他终于动笔时，他似乎又对社区成员的回复或质疑置若罔闻。后来与他谈及此事，才发现他对于在公开存档的邮件列表中进行书面讨论感到不适——他担心任何失当之举或礼节疏忽都会遭到社区的严厉指摘。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:61
+msgid "The best way to cure this problem is with baby steps."
+msgstr "解决这个问题的最佳方式是循序渐进。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:63
+msgid ""
+"A great first step is to get engineers answering questions. One way to help "
+"is to publicly refer a question to an engineer on the mailing list, while "
+"affirming their expertise in the area. \\\"Tammy knows the RLE algorithms "
+"inside out. Tammy, would you mind answering Franz's question, please?\\\""
+msgstr ""
+"一个很好的开端是让工程师们参与解答问题。有效的方法是在邮件列表中公开将问题转给某位工程师，同时肯定他们在该领域的专长。\"Tammy 对 RLE "
+"算法了如指掌。Tammy，能否请你回答 Franz 的问题？\""
+
+#: ../../growing-contributors/from-users-to-contributors.md:65
+msgid ""
+"This is something of a Jedi mind trick, and serves three purposes. First, an"
+" individual can easily ignore a question if it is addressed to a group, but "
+"it is a rare person who doesn't answer when you ask them a question directly"
+"--it's human nature."
+msgstr "这有点像绝地武士的心理技巧，能达成三个目的。首先，当问题面向群体时，个人很容易忽略，但直接向某人提问时很少有人会不回答——这是人性使然。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:67
+msgid ""
+"Second, affirming your engineer's skills reinforces that they are indeed "
+"seen as the expert in the area in question, giving them more confidence to "
+"answer. Third, by identifying an individual engineer with a specific skill "
+"set, you are giving people outside your company a glimpse inside the walls. "
+"You are making your team human, a collection of individuals with different "
+"strengths and weaknesses, rather than an amorphous group---\\\"the Acme Co "
+"developers.\\\""
+msgstr ""
+"其次，肯定工程师的技能可以强化他们在相关领域被视为专家的认知，从而增强他们回答问题的信心。第三，通过明确指定具备特定技能的个人工程师，你让外部人士得以窥见公司内部的情况。你让团队显得人性化——这是一群各有所长、各有所短的个体，而非面目模糊的\"Acme"
+" 公司开发组\"整体。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:69
+msgid ""
+"Another worthwhile thing to do is to get developers into the habit of "
+"writing regularly. It is not enough to stand over people and ask them all to"
+" have a blog. If writing is intimidating, then doing it more often will make"
+" it less so. There are many ways to do this--rewarding blog posts, requiring"
+" regular status reports, longer commit messages or comments when closing "
+"tickets, or scheduling time for creative writing workshops. The goal is not "
+"to turn developers into novelists. The goal is to get your team in the habit"
+" of writing."
+msgstr "另一件值得做的事是让开发者养成定期写作的习惯。仅仅站在一旁要求每个人都开博客是不够的。如果写作令人畏惧，那么更频繁地练习会让它变得不那么可怕。实现这一点有很多方法——奖励博客文章、要求定期提交状态报告、在关闭工单时撰写更详细的提交信息或评论，或是安排时间举办创意写作研讨会。目标不是把开发者变成小说家，而是让你的团队养成写作的习惯。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:71
+msgid ""
+"Finally, you should train your engineers in basic netiquette and writing "
+"good emails. Developers should treat writing email in a similar way to "
+"patches. When you generate a patch, typically the last thing you do before "
+"you send it is you check over it, to make sure nothing silly is included. "
+"The same habit applied to email would identify any places where phrasing is "
+"awkward and ambiguous, resulting in better email."
+msgstr "最后，你应该对工程师进行基本的网络礼仪和邮件写作培训。开发者对待写邮件应该像对待代码补丁一样认真。当你生成一个补丁时，通常在发送前最后一步是检查它，确保没有包含任何愚蠢的错误。将同样的习惯应用到邮件中，就能发现措辞不当或模糊的地方，从而写出更好的邮件。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:73
+msgid "The peer review gauntlet"
+msgstr "同行评审的严苛考验"
+
+#: ../../growing-contributors/from-users-to-contributors.md:74
+msgid ""
+"While writing can be intimidating for many software engineers, subjecting "
+"their work to peer review to a group of people they do not know very well "
+"can be nerve-wracking."
+msgstr "对于许多软件工程师来说，写作本身已令人望而生畏，而将自己的作品交给一群不太熟悉的人进行同行评审更是令人紧张不已。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:76
+msgid ""
+"In my experience, systematic peer review is not the norm in the software "
+"industry. Some managers see peer review as overhead. After all, the "
+"developer was hired because they were competent to do the job, and nobody "
+"likes to be second-guessed by \\\"the community.\\\" Once engineers reach a "
+"certain level of experience, peer review seems to be more an exception than "
+"the rule for professional software developers in our industry."
+msgstr "根据我的经验，系统性同行评审在软件行业并非惯例。部分管理者将同行评审视为额外负担——毕竟开发者是因胜任工作才被聘用，没人喜欢被\"社区\"反复质疑。当工程师积累到一定经验后，同行评审对我们行业的专业软件开发人员而言，更像是例外而非常态。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:78
+msgid ""
+"In community projects, peer review is expected. In fact, it is a best "
+"practice, one of the things that separates successful community projects "
+"from the crowd. Community developers expect to hear about features before "
+"they are developed, and have an opportunity to suggest better ways the "
+"feature can be implemented. They expect new contributors to submit patches "
+"that they can review--it is the way a new contributor builds trust before "
+"gaining committer or maintainer status."
+msgstr "在社区项目中，同行评审是常规要求。事实上，这是区分成功社区项目与普通项目的关键最佳实践之一。社区开发者期望在功能开发前就能参与讨论，并有机会提出更优的实现方案。他们要求新贡献者提交可供审查的补丁——这是新人获得提交者或维护者身份前建立信任的必经之路。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:80
+msgid ""
+"The best way to get people used to peer review inside professional software "
+"teams is to have a company policy against the \\\"day one commit bit\\\"---"
+"the practice of getting commit access to an open source project repository "
+"on the day you start in the company. For corporate-sponsored projects, new "
+"developers should go through the same review process for their work that "
+"contributors outside your company have to go through."
+msgstr "让专业软件团队成员适应同行评审的最佳方式，是制定公司规定禁止\"首日提交权限\"——即禁止员工入职当天就获得开源项目代码库提交权限的做法。对于企业赞助的项目，新开发人员提交的代码应当与外部贡献者一样经过完整的评审流程。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:82
+msgid ""
+"For corporate contributions to community projects, that means discouraging "
+"internal branches and a \"gatekeeper\" project structure, where one or two "
+"developers commit the work of others in the team."
+msgstr "对于企业参与社区项目的贡献，这意味着要避免内部分支和\"守门人\"式的项目结构——即由一两名开发人员负责提交团队其他成员的工作成果。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:84
+msgid ""
+"Developers should submit their work upstream at the same time it is being "
+"submitted internally. For those changes which only apply to your internal "
+"branches, peer review should still occur in a private repository. With the "
+"recent advent of git-based repositories as a norm for software development, "
+"this is less of a challenge for companies now than it once was, and it is "
+"necessary to transition your team to successful community contributors."
+msgstr ""
+"开发者在向内部提交代码的同时，也应将工作成果提交至上游社区。对于那些仅适用于内部分支的变更，仍需在私有代码库中进行同行评审。随着基于 git "
+"的代码库成为软件开发新常态，这对企业而言已不像过去那样具有挑战性，但让团队顺利转型为成功的社区贡献者仍是必要之举。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:86
+msgid ""
+"Having new developers go through this review period is important for a "
+"number of reasons--the most important is that you are demonstrating that "
+"employees have the same burden to prove themselves in the project as non-"
+"employee contributors, and it provides new employees with a period where "
+"they familiarise themselves with project coding and communication "
+"conventions and norms, and when they also introduce themselves to the "
+"community at large. This is fundamental to the mentorship of new developers "
+"by more experienced community developers."
+msgstr "让新晋开发者经历这段评审期具有重要意义——最重要的是这能证明企业员工与非员工贡献者同样需要经过项目验证，同时也为新员工提供了熟悉项目编码规范、沟通惯例的适应期，并在此期间向整个社区进行自我介绍。这一过程对于资深社区开发者指导新人而言至关重要。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:88
+msgid "Communication and marketing are not my job"
+msgstr "沟通和营销不是我的职责"
+
+#: ../../growing-contributors/from-users-to-contributors.md:89
+msgid ""
+"In the mind of some developers, posting project plans to the mailing list "
+"constitutes an announcement and needs substantial preparation. These "
+"developers frame communicating with community users on a mailing list as "
+"being equivalent to \"support\" or \"communication,\" and not as a core part"
+" of the engineering function."
+msgstr "在某些开发者看来，将项目计划发布到邮件列表等同于\"发布公告\"，需要做大量准备工作。这些开发者把在邮件列表上与社区用户交流视为\"支持\"或\"沟通\"行为，而非项目职能的核心组成部分。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:91
+msgid ""
+"If a developer frames \"sending an email to a mailing list\" as \"making an "
+"announcement,\" it fits in the \"marketing\" box in their head. A developer "
+"once told me she didn't have time to send email to the mailing list, because"
+" she had real work to do. \\\"Dealing with the community\\\" was my job as "
+"community manager, as far as she was concerned. In her mind, community "
+"messaging was a type of support, and was not part of her job."
+msgstr "如果开发者将\"给邮件列表发邮件\"框定为\"发布公告\"，这在他们脑海中就被归入\"市场宣传\"范畴。曾有开发者告诉我，她没时间给邮件列表发邮件，因为还有\"真正的工作\"要做。在她看来，\"处理社区事务\"是我作为社区管理者的职责。她认为社区信息传递属于支持性工作，并非其本职范畴。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:93
+msgid ""
+"The authors of The Cluetrain Manifesto claimed that in the modern connected "
+"world, there is no such thing as a marketing department, that every "
+"interaction between an employee of your company and someone outside your "
+"company is an opportunity to win or lose reputation."
+msgstr "《Cluetrain 宣言》的作者们提出，在当今互联互通的世界里，营销部门已不复存在——公司员工与外部人员的每次互动，都是赢得或丧失声誉的机会。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:95
+msgid ""
+"In free software development teams, this is even more true. There is no "
+"marketing department for project communications. To be productive, you need "
+"to talk to your peers, so the institutional barrier to external "
+"communications must disappear for people dealing in community projects."
+msgstr "在自由软件开发团队中，这一点尤为显著。项目传播没有专门的营销部门。要想高效工作，就必须与同行交流，因此对于从事社区项目的人员而言，对外沟通的制度性障碍必须消除。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:97
+msgid ""
+"Even in organizations that are clear about their expectations for open "
+"source communication, engineers may impose limits on themselves. They might "
+"spend hours polishing proposals before sending them on. This is counter-"
+"productive in community projects, since the more polished an initial "
+"proposal is, the more emotional investment has been made in it. Polished "
+"proposals are harder to review and change, too, since they look done "
+"already. It is better to release a rough early draft, giving the author an "
+"opportunity to integrate early feedback."
+msgstr "即使在那些对开源沟通有明确期望的组织中，工程师们也可能会自我设限。他们可能会花上数小时打磨提案后才提交。这在社区项目中适得其反，因为初始提案越是精致，投入的情感成本就越高。精雕细琢的提案也更难被评审和修改，因为它们看起来已经完成了。更好的做法是发布粗糙的早期草案，让作者有机会整合早期反馈。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:99
+msgid ""
+"The best way to prove to your team the benefits of \\\"release early, "
+"release often\\\" is by example. As a team lead or manager, you can lead by "
+"publishing team plans publicly and early, and iterating often. When you do, "
+"point out the benefits which result to your team. Breaking down this barrier"
+" will take time, but by making it clear that perfection is not expected, and"
+" by rewarding early release of information and encouraging feedback, your "
+"team will soon learn that participants outside your company are peers, not "
+"an audience."
+msgstr "向团队证明\"早发布、常发布\"优势的最佳方式是以身作则。作为团队负责人或管理者，你可以通过尽早公开团队计划并频繁迭代来引领示范。实施时，要向团队明确指出由此带来的益处。打破这种心理障碍需要时间，但通过明确表示不追求完美、奖励早期信息发布并鼓励反馈，你的团队很快会意识到外部参与者是协作伙伴，而非观众。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:101
+msgid ""
+"Another useful technique is to ask your engineers to break tasks into "
+"smaller parts, so that even if they do hold off until the first part is up "
+"to a high standard, information is still getting out there more quickly, "
+"allowing feedback to inform later stages of the process."
+msgstr "另一个有用的技巧是要求工程师将任务分解为更小的部分，这样即使他们坚持等到第一部分达到高标准，信息也能更快地传播出去，从而让反馈可以指导后续阶段的工作。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:103
+msgid ""
+"Working against the goal of early communication is the common desire for the"
+" big reveal. Companies often want to align product releases and "
+"announcements with major trade shows. This can lead companies to ask their "
+"engineers to work internally on significant features for fear that the big "
+"surprise will be ruined otherwise. The alternative seems to be to announce a"
+" project when you start, rather than when you have something to show--but "
+"this can result in a long wait before products get to market, and impatience"
+" and bad press from the mainstream press."
+msgstr "阻碍早期沟通目标实现的是人们普遍渴望的\"重磅发布\"心态。企业往往希望将产品发布和公告与大型贸易展会同步。这可能导致公司要求工程师在内部秘密开发重要功能，唯恐提前曝光会破坏惊喜效果。另一种做法是在项目启动时就宣布，而非等到有成果展示时——但这会导致产品上市前经历漫长等待，引发主流媒体的不耐烦和负面报道。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:105
+msgid ""
+"It is possible to separate engineers discussing design decisions and "
+"implementation details of significant features in a mailing list, and using "
+"a press release and marketing campaign to promote an announcement. When the "
+"final announcement comes out, the community will not be completely "
+"surprised, and you will not find yourself having to defend yourself for "
+"working in secret for months, and proposing a big code drop which is "
+"difficult to review."
+msgstr "可以将工程师讨论重大功能的设计决策和实现细节的邮件列表，与通过新闻稿和营销活动来宣传公告区分开来。这样当最终公告发布时，社区不会感到完全意外，你也不必为自己数月来秘密工作、突然提交大量难以审查的代码而被迫辩解。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:107
+msgid "Building relationships"
+msgstr "建立关系"
+
+#: ../../growing-contributors/from-users-to-contributors.md:108
+msgid ""
+"The key lesson here is that you want your developers to feel a connection to"
+" people working outside the company. That requires people outside your "
+"company to feel a connection with them, too. By drawing the curtain back on "
+"your team, its members and their skills and priorities, you are creating the"
+" circumstances for the people working on your project to come to appreciate "
+"each other as peers, and to feel comfortable discussing features and patches"
+" on their merits."
+msgstr "这里的关键在于，要让你的开发者感受到与公司外部工作者的联系。这同样需要外部人员也能与他们建立联结。通过揭开团队的面纱，展示成员们的技能与工作重点，你正在为项目参与者创造相互欣赏的契机，让他们能基于功能与补丁本身的价值自在交流。"
+
+#: ../../growing-contributors/from-users-to-contributors.md:110
+msgid ""
+"When you get to that point, you have won the battle. Developers in your team"
+" will see other developers working on the project as peers, colleagues, and "
+"even friends."
+msgstr "当你达成这一境界时，便已赢得这场战役。团队中的开发者会将其他项目贡献者视为同行、同事，乃至朋友。"

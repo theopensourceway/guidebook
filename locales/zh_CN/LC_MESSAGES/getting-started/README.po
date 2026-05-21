@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../getting-started/README.md:7
+msgid "Getting Started"
+msgstr "入门指南"
+
+#: ../../getting-started/README.md:9
+msgid ""
+"Wherever you are in your journey as an open source practitioner, it is "
+"always useful to understand and pay attention to the basics. These basics "
+"include some of the types of _common knowledge_ that \"everyone knows in the"
+" community\", yet no one is sure how they learned it, and it's not always "
+"written down. The chapters in this section are good places to start for "
+"practioners of all levels."
+msgstr "无论你作为开源实践者处于哪个阶段，理解和关注基础知识总是有益的。这些基础包括某些\"社区内人尽皆知\"的_常识_类型，但没人确定它们是如何被习得的，而且往往没有书面记载。本部分的章节对所有水平的实践者来说都是很好的入门起点。"
+
+#: ../../getting-started/README.md:11
+msgid "This section contains chapters that:"
+msgstr "本节包含的章节："
+
+#: ../../getting-started/README.md:13
+msgid "Introduce some core concepts around open source communities."
+msgstr "介绍围绕开源社区的一些核心概念。"
+
+#: ../../getting-started/README.md:14
+msgid "Outline steps you might take in starting an open source project."
+msgstr "概述你在启动开源项目时可能采取的步骤。"
+
+#: ../../getting-started/README.md:15
+msgid "Define key terms and words you will encounter throughout this guidebook."
+msgstr "定义本指南中将会遇到的关键术语和词汇。"
+
+#: ../../getting-started/README.md:17
+msgid "This section is useful for you if:"
+msgstr "本节内容在以下情况特别有用："
+
+#: ../../getting-started/README.md:19
+msgid "You are unsure where to start."
+msgstr "你不知从何入手。"
+
+#: ../../getting-started/README.md:20
+msgid ""
+"You want to read an overview of the steps of starting a new open source "
+"project."
+msgstr "你想了解启动新开源项目的步骤概述。"
+
+#: ../../getting-started/README.md:21
+msgid "You want to see what steps to take for growing strong community."
+msgstr "你想了解建设强大社区需要采取什么步骤。"
+
+#: ../../getting-started/README.md:22
+msgid ""
+"You are looking for the definition or more meaning about a term or word you "
+"encounter in this guidebook or in the open source world in general."
+msgstr "你想查看本指南或开源领域中遇到的术语或词汇的定义和更多含义。"
+
+#: ../../getting-started/README.md:23
+msgid "You like to read things from the beginning."
+msgstr "你喜欢从头开始阅读。"

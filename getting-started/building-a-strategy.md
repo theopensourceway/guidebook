@@ -52,8 +52,8 @@ This is a deceptively simple question. Its answers typically aren't so simple.
 
 Too often, open source projects describe themselves in terminology unfamiliar to many potential users, or they focus on _how_ they do what they do, rather than on the _problems_ they can solve. When formulating potential answers to this question, focus them on _how the project helps its users_. Ask questions like:
 
-* What problem does this project solve?
-* How would you describe your project to a potential user of the project in the most succinct terms possible?
+- What problem does this project solve?
+- How would you describe your project to a potential user of the project in the most succinct terms possible?
 
 For example, let's imagine we're asking an [Istio](https://istio.io/) developer what Istio is. The most basic answer is "it's a service mesh." One might argue, however, that most container application developers don't entirely understand what a "service mesh" is. So the shorthand description—"It's a service mesh!"—doesn't help a novice understand whether or how to use it. A better explanation might involve describing Istio[^istio] in terms of an application data plane and control plane (if you're talking to someone with a background in networking, for example), or perhaps a concept of traffic cops assigned to components of an application (if I am explaining the project to someone entirely unfamiliar with the concept of a service mesh).
 
@@ -64,35 +64,35 @@ Many open source projects do not clearly understand who uses their projects and 
 
 For example, you might categorize a project's potential or current users with a number of criteria:
 
-* Is the project more useful to an individual or to an organization?
-* Is your project particularly useful in a specific industry vertical or business domain?
-* What size organization will find your project most useful? Are you targeting sysadmins in large enterprises, or the small and medium business space?
-* What are the job titles of the people who will be downloading, installing and using your project? Are they the same people? Or are the users different from the project administrators?
+- Is the project more useful to an individual or to an organization?
+- Is your project particularly useful in a specific industry vertical or business domain?
+- What size organization will find your project most useful? Are you targeting sysadmins in large enterprises, or the small and medium business space?
+- What are the job titles of the people who will be downloading, installing and using your project? Are they the same people? Or are the users different from the project administrators?
 
 Answers to these questions will influence the priorities your community sets for structuring the project, promoting it, and even the degree of engineering effort you'll invest into certain features. For example, if your project runs in a datacenter or on a cluster of servers, your audience will typically be a business audience—people running IT professionally (or as a volunteer in a university). For a mobile application or a web development framework, the majority of your audience will be running your project on their personal computer, workstation, or mobile phone. Each of these groups has different resource prerequisites, and the problems motivating their use of the project and its tools are different. Mis-targetting the wrong categories of users could raise adoption challenges for your project.
 
 Moreover, anyone interested in developing an open source _product_ strategy should think additionally about the critical relationship between project _users_ and product _buyers_. So if your strategy involves commercial aims, you might also wish to ask something like:
 
-* What is the relationship between the people who download and install open source projects and the people who evaluate and purchase commercial products?
+- What is the relationship between the people who download and install open source projects and the people who evaluate and purchase commercial products?
 
 A company's path to adopting open source doesn't usually follow a straight path from using an upstream open source project to converting to an enterprise open source product. Open source adoption tends to be "grassroots," bottom-up; enterprise open source products are often evaluated and purchased top-down. Those adopting an open source project inside a company can be valuable influencers when consulting on purchasing decisions—if they're connected to the purchasing process, or if the person responsible for purchasing is aware that the company is already using the product.
 
 #### What alternatives to your project already exist?
 You can learn a lot about your project by assessing who that project competes with (or who you believe it _will_ compete with, if you haven't yet launched the project). Often, this involves paying attention to the other projects the people you identified in the _previous_ step of your analysis use to accomplish the same (or similar) tasks you identified in the _first_ step. Consider asking:
 
-* If your project doesn't have any competition, why is that the case?
-* Does this project play a role in an area of emerging technology?
-* Are people using similar projects to do work they could accomplish with your project—just in a different way?
-* If other projects do the same job, how are they approaching the problem differently than you are?
-* What are people's motivations for using a competing project?
-* If your project has open source competitors, is joining them (rather than trying to compete with them) an option? If not, why not?
+- If your project doesn't have any competition, why is that the case?
+- Does this project play a role in an area of emerging technology?
+- Are people using similar projects to do work they could accomplish with your project—just in a different way?
+- If other projects do the same job, how are they approaching the problem differently than you are?
+- What are people's motivations for using a competing project?
+- If your project has open source competitors, is joining them (rather than trying to compete with them) an option? If not, why not?
 
 Analyzing your competition can help you begin diagnosing the situation in which your project operates and plays a role. Answering a number of these key questions early in a project's strategic process will help when your community begins prioritizing features and deciding how to contact potential users (which we'll cover below, when we discuss developing coherent action plans). Perhaps, for example, you can piggyback on existing gatherings between people already interested in a competitor's technology and spread your message there.
 
 If your strategy involves creating an open source product, you might also pose a few questions about market competition and customers, like:
 
-* If a competitor is an incumbent in the market, what can you tell about them and their customers?
-* Who are your competitor's customers? What do they have in common?
+- If a competitor is an incumbent in the market, what can you tell about them and their customers?
+- Who are your competitor's customers? What do they have in common?
 
 Your answers here could directly impact your community architecture or go-to-market activities. If you're an upstart attempting to disrupt an established market, for instance, your goals and messaging may be anchored to your competition: "cheaper than," "an open source alternative to," "simpler and faster than," and so on. If you're in a new market and your project is involved in a "land grab" to quickly gain market share, you'll need to focus on spreading your message quickly—which means a higher marketing budget or more aggressive community plan, and more focus on defining the problems you solve for potential users.
 
@@ -115,9 +115,9 @@ Surprisingly, many projects have difficulty answering this question. They've alr
 
 So before committing to creating and maintaining an open source project, understand _why_ open sourcing the project will help you, your community, or your organization achieve certain objectives. For example:
 
-* Are you **seeking new perspectives** on your work? Open sourcing your project allows others to assess your work, offer feedback on it, and contribute to it in ways that can help you grow as a software developer.
-* Do you hope to **lower the development burden**? Open sourcing your project invites others to play key roles in developing and maintaining your project as it becomes more popular.
-* Are you trying to **make your project more secure**? Open sourcing your software helps others spot issues and vulnerabilities you may not have noticed.
+- Are you **seeking new perspectives** on your work? Open sourcing your project allows others to assess your work, offer feedback on it, and contribute to it in ways that can help you grow as a software developer.
+- Do you hope to **lower the development burden**? Open sourcing your project invites others to play key roles in developing and maintaining your project as it becomes more popular.
+- Are you trying to **make your project more secure**? Open sourcing your software helps others spot issues and vulnerabilities you may not have noticed.
 
 Answering questions like these might require some introspection. But doing so will help you and any (current or nascent) community determine how it will design, plan, architect, and maintain the project.
 
@@ -136,10 +136,10 @@ Every successful commercial open source strategy is based on this principle. If 
 
 So are you trying to:
 
-* Grow a market?
-* Disrupt a competitor?
-* Promote a standard?
-* Increase demand for another product in your portfolio?
+- Grow a market?
+- Disrupt a competitor?
+- Promote a standard?
+- Increase demand for another product in your portfolio?
 
 
 Choosing to open source your software project could help you accomplish any of these goals. But each of these goals demands different approaches to project and community architecture. Mozilla has catalogued[^open-source-archetypes] the most common such architectures—what it calls "[open source archetypes](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)"—to more clearly illustrate how an organization's goals in open sourcing a project influence both the ways that project takes shape and the kinds of activities in which a community must engage to help it succeed.
@@ -168,15 +168,15 @@ Once people begin turning up to your project, _engaging them_ is key to growing 
 
 So as your strategic approach matures, it's useful to take stock of all of the ways you're currently engaging with project users in order to identify blind spots and opportunities for improvement. Consider characterizing engagement techniques as "low-," "medium-," and "high-touch" (terminology we borrow from sales organizations). **Low-touch** methods involve relatively little interaction between potential users and community leads, while **high-touch** methods represent one-to-one or one-to-few efforts. The former tend to require significant time to establish and set in motion, but when configured require less intervention from human actos. The latter require less investment of time and energy "up front," but can tax human actors significantly when executed. Here are some examples of the types of things you can categorize this way:
 
-* **Low touch**: Website, documentation, online training, newsletters, podcasts, blogs
-* **Medium touch**: Mailing list, bug tracker, community forum, conference presentation, webinars, user groups
-* **High touch**: Phone calls, one-on-one or one-to-few training, conversations at conferences, community meetings
+- **Low touch**: Website, documentation, online training, newsletters, podcasts, blogs
+- **Medium touch**: Mailing list, bug tracker, community forum, conference presentation, webinars, user groups
+- **High touch**: Phone calls, one-on-one or one-to-few training, conversations at conferences, community meetings
 
 This kind of model may be useful to communities thinking about engagement activities and project goals. For instance: 
 
-* Low-touch activities are good for raising awareness of your project and getting people to look at it for the first time. Ensuring your web site and other materials clearly communicate what the project does, how it can help users, and how contributors can try it out and get started quickly is paramount. Likewise, working on your website, documentation, and promotional materials allows new users to act autonomously and without much help from a senior community member.
-* Medium-touch activities are great for creating a "center of gravity" around your project—not only making communication with users possible but also enabling those users to help each other (hopefully generating a network effect). Your bug tracker, mailing list, and forum provide opportunities for community members to engage with your community, ask questions, and provide feedback. This kind of activity provides an opportunity to learn more about how people are using your project.
-* High-touch activities are great for building relationships with key community users, gathering community case studies, and helping larger groups be productive with and become advocates for your project. High-effort activities like training, conference booth attendance and follow-up, and in-person conversations can be extremely valuable on a one-on-one basis—but those techniques do not scale well.
+- Low-touch activities are good for raising awareness of your project and getting people to look at it for the first time. Ensuring your web site and other materials clearly communicate what the project does, how it can help users, and how contributors can try it out and get started quickly is paramount. Likewise, working on your website, documentation, and promotional materials allows new users to act autonomously and without much help from a senior community member.
+- Medium-touch activities are great for creating a "center of gravity" around your project—not only making communication with users possible but also enabling those users to help each other (hopefully generating a network effect). Your bug tracker, mailing list, and forum provide opportunities for community members to engage with your community, ask questions, and provide feedback. This kind of activity provides an opportunity to learn more about how people are using your project.
+- High-touch activities are great for building relationships with key community users, gathering community case studies, and helping larger groups be productive with and become advocates for your project. High-effort activities like training, conference booth attendance and follow-up, and in-person conversations can be extremely valuable on a one-on-one basis—but those techniques do not scale well.
 
 Ideally, your project will have a healthy mix of each of these. A key consideration for groups crafting potential engagement pathways[^contributor-pathways] is _how someone unfamiliar with the project might start using it_ and, over time, gain seniority in the project to the point of becoming a core contributor.
 
@@ -187,9 +187,9 @@ An open source project will include a number of stakeholders, including the main
 
 In the case of vendor-backed open source projects with commercial aims, your stakeholders also typically include people from inside your organization—an engineering lead, product management, product marketing, and a representative of the field (field engineer, sales). You may also want to include in this group someone from your content services or support organizations and someone from product security. This is the group of people you will brief to prepare a stakeholder review, and you should gather them once every six to 12 months to check in on the state of the project and ensure alignment on the goals and the required investments to achieve those goals. When working with stakeholders from your organization:
 
-* Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
-* Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
-* Ensure that all stakeholders share an understanding of the problem your work is addressing and the ways your overall approach will help address that problem in a way that's beneficial to the organization. In short, make sure your stakeholders understand the project strategy and their roles in it.
+- Strike a balance between involving too many people at an early stage and ensuring buy-in from a diverse group of people from the start.
+- Organize your stakeholders using a model of growing, concentric circles. Identify a core team that shares draft proposals early and often and engages with additional groups to gain awareness of concerns or constraints. Involving these stakeholders early will help you catch and address deal-breaking issues early.
+- Ensure that all stakeholders share an understanding of the problem your work is addressing and the ways your overall approach will help address that problem in a way that's beneficial to the organization. In short, make sure your stakeholders understand the project strategy and their roles in it.
 
 ### Recording your strategy
 Just as important as developing a strategy for your open source project is _writing that strategy down_ and publishing it somewhere your current and future users, developers, and maintainers can review it. After all, even the most brilliant strategy is useless if no one sees, understands, and follows it. Everyone in your community should be aware of the project's strategy and understand how their work advances it.
@@ -204,15 +204,15 @@ Luckily, if you've drafted your strategy according to the framwork we provide in
 
 Consider releasing these materials as part of your projet's documentation so others can begin to understand your strategy—and start contributing to it. And don't stop there. Articulating a strategy is only the beginning, not an end.
 
-* **Continually monitor and communicate progress toward project goals.** If fostering a diverse group of codevelopers is your community goal, then celebrate contributions from new participants and include growth figures in your monthly newsletter.
-* **Allocate resources in a way that makes success possible.** If your goal is to move an entire industry from a proprietary competitor to an open source project, and you have one person working part time to promote the open source project, then your chances of success are low.
-* **Ensure that your strategy is a living document.** Revisit it regularly with key stakeholders to ensure that your open source strategy stays fresh and relevant.
+- **Continually monitor and communicate progress toward project goals.** If fostering a diverse group of codevelopers is your community goal, then celebrate contributions from new participants and include growth figures in your monthly newsletter.
+- **Allocate resources in a way that makes success possible.** If your goal is to move an entire industry from a proprietary competitor to an open source project, and you have one person working part time to promote the open source project, then your chances of success are low.
+- **Ensure that your strategy is a living document.** Revisit it regularly with key stakeholders to ensure that your open source strategy stays fresh and relevant.
 
 Additionally, if you're working in a commercial organization to develop and communicate an open source product strategy, we recommend drafting a document that contains the following elements:
 
-* **An elevator pitch**, or a high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
-* **A business rationale**, or a description of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
-* **A high-level execution plan,** or a list of your planned actions, including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your indicators of success.
+- **An elevator pitch**, or a high-level description of the open source project's goal and a short explanation of how the project benefits the sponsoring company. No two projects will have identical goals, so no two projects will share exactly the same product strategy.
+- **A business rationale**, or a description of how success for the community project translates into success for the company or product team. For example, "Wide adoption of this project will help people glean more benefit from our other products," or "An open source reference implementation of a standard will encourage adoption of the standard by multiple companies, enabling a network effect for others building on top of the standard."
+- **A high-level execution plan,** or a list of your planned actions, including key performance indicators (KPIs) that will be important for determining success. Project goals suggest these KPIs. For example, if your goal is de facto standard implementation with wide adoption, then you might measure the number of vendors distributing standard-compliant implementations. If your goal is market education, then the performance of introductory documentation, learning paths, tutorials, and magazine articles will be your indicators of success.
 
 When the entire organization understands the project's goal and its relationship to the organization's commercial ambitions, reaching consensus on budget and resource allocation should be much easier.
 

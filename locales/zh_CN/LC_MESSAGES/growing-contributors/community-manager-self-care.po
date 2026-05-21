@@ -1,0 +1,1998 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../growing-contributors/community-manager-self-care.md:7
+msgid "Community Manager Self-Care"
+msgstr "社区管理者自我健康管理"
+
+#: ../../growing-contributors/community-manager-self-care.md:9
+#, python-brace-format, python-format
+msgid ""
+"{% hint style=\"danger\" %} Materials in this chapter are for "
+"informational purposes only, not for the purpose of providing medical "
+"advice. This chapter is not intended as a substitute for professional "
+"medical advice, diagnosis, or treatment. Always seek the advice of your "
+"physician or other qualified health care provider with any questions or "
+"concerns you may have regarding your health, both mental and physical. {%"
+" endhint %}"
+msgstr ""
+"{% hint style=\"danger\" %} "
+"本章材料仅供信息参考之用，并非旨在提供医疗建议。本章内容不能替代专业的医疗建议、诊断或治疗。对于你可能有的任何身心健康问题或疑虑，请务必咨询你的医生或其他合格的医疗服务提供者。"
+" {% endhint %}"
+
+#: ../../growing-contributors/community-manager-self-care.md:13
+msgid ""
+"Because of their roles (but also, perhaps, because of their natures), "
+"community managers often focus (even fixate) on the health and well-being"
+" of their community members and teams. They understand the challenges and"
+" difficulties associated with encouraging stable, safe, and inclusive "
+"online communities, places where people demonstrate compassion and "
+"empathy. But too often, they mistakenly assume they’re immune to the same"
+" emotionally difficult challenges they strive to help other community "
+"members overcome."
+msgstr "由于职责所在（或许也源于天性），社区管理者常常将注意力（甚至过度关注）聚焦于社区成员与团队的健康福祉。他们深谙构建稳定、安全、包容的线上社区所面临的挑战——那些需要人们展现同理心与共情力的空间。但可悲的是，他们往往误以为自己能免疫于那些正努力帮助其他成员克服的情感困境。"
+
+#: ../../growing-contributors/community-manager-self-care.md:15
+msgid ""
+"What’s more, they may even try to _hide_ their vulnerabilities, for fear "
+"of being perceived as less capable of performing their roles—or, worse, "
+"being rejected by their communities or peer groups completely. This "
+"perspective on vulnerability can lead community managers down an "
+"isolating road, one that might make them feel as though they aren’t able "
+"to reach out to seek help when they need it."
+msgstr "更甚者，他们可能刻意_隐藏_脆弱面，唯恐被视作能力不足——或更糟，遭到社区或同侪群体的彻底排斥。这种对脆弱性的认知偏差，会将社区管理者推向孤立无援的境地，让他们在真正需要援助时，却感觉无法向外求援。"
+
+#: ../../growing-contributors/community-manager-self-care.md:17
+msgid ""
+"And yet, the longer we don’t attend to our well being, prolonging "
+"treatment for our increasingly negative symptoms, the larger the "
+"problem—until, eventually, we are mentally and physically debilitated, "
+"suffocated, and denied of the fulfillment and joy our role once provided "
+"us. Regaining that joy could take months, even years. In fact, we may "
+"never regain that same level of passion for the role again."
+msgstr "然而，我们越是忽视自身健康，拖延治疗日益恶化的负面症状，问题就会越严重——直到最终，我们在身心上都被削弱、窒息，被剥夺了这个角色曾带给我们的成就感和快乐。重获这种快乐可能需要数月，甚至数年时间。事实上，我们可能永远都无法再对这份工作重燃同样的热情。"
+
+#: ../../growing-contributors/community-manager-self-care.md:19
+msgid ""
+"To help ourselves as community managers, and in turn help others, we need"
+" to learn how to spot the signs of dissatisfaction, disillusionment, and "
+"burnout. These signs can be subtle and hard to detect, but by identifying"
+" and acknowledging these changes in behavior (first and foremost in "
+"yourself), you begin applying similar awareness to others in your "
+"communities. This experience can provide insight to developing and "
+"building up social norms and mechanisms for the community to help reduce "
+"the occurrence and impact of burnout, thus promoting a physically and "
+"mentally healthy and more productive community."
+msgstr "作为社区管理者，为了帮助自己进而帮助他人，我们需要学会识别不满、幻灭和过劳的迹象。这些迹象可能微妙而难以察觉，但通过发现并承认这些行为变化（首先是在自己身上），你就能开始以同样的觉察力关注社区中的其他人。这种经验有助于为社区制定和建立社会规范与机制，从而减少过劳的发生和影响，进而促进一个身心健康、更具生产力的社区。"
+
+#: ../../growing-contributors/community-manager-self-care.md:21
+msgid ""
+"In this chapter, we’ll explore the importance of self-care and why "
+"community managers should be mindful of the interpersonal aspects of the "
+"role that may affect them both positively and negatively. This chapter "
+"also provides practical steps to encourage and maintain a healthy work "
+"life balance that can be applied to themselves and promoted within their "
+"community."
+msgstr "本章将探讨自我健康管理的重要性，以及社区管理者为何需要关注这一角色在人际关系层面可能带来的正负面影响。同时，本章还将提供切实可行的步骤，帮助建立并保持健康的工作生活平衡，这些方法既适用于管理者自身，也可在社区内推广实践。"
+
+#: ../../growing-contributors/community-manager-self-care.md:23
+msgid "The importance of self-care"
+msgstr "自我健康管理的重要性"
+
+#: ../../growing-contributors/community-manager-self-care.md:25
+msgid "What exactly is self-care?"
+msgstr "究竟什么是自我健康管理？"
+
+#: ../../growing-contributors/community-manager-self-care.md:27
+msgid "The WHO (World Health Organization) defines self-care as:"
+msgstr "世界卫生组织（WHO）将自我健康管理定义为："
+
+#: ../../growing-contributors/community-manager-self-care.md:29
+msgid ""
+"\"Self-care is the ability of individuals, families and communities to "
+"promote health, prevent disease, maintain health, and to cope with "
+"illness and disability with or without the support of a healthcare "
+"provider[^1]\"."
+msgstr "\"自我保健是指个人、家庭和社区在有或没有医疗保健提供者[^1]支持的情况下，促进健康、预防疾病、维持健康以及应对疾病和残疾的能力\"。"
+
+#: ../../growing-contributors/community-manager-self-care.md:31
+msgid ""
+"Thus, self-care is the practice of making conscious, mindful efforts to "
+"perform activities that aid in our physical, emotional, relational, and "
+"perhaps spiritual well-being at a fundamental level. Most of us already "
+"practice self-care daily by taking actions to protect our overall health "
+"(for example, eating healthy, exercising, and getting enough sleep). "
+"Sometimes, however, we may find acts like these alone are insufficient "
+"for maintaining our well-being—and that a conscious effort at finding "
+"additional support is required."
+msgstr "因此，自我保健是一种有意识、用心地实践基本活动，以促进我们身体、情感、人际关系乃至灵性层面的健康。大多数人日常已通过采取保护整体健康的行动（如健康饮食、锻炼和充足睡眠）进行自我保健。但有时我们会发现，仅靠这些行为不足以维持健康——需要有意识地寻求额外支持。"
+
+#: ../../growing-contributors/community-manager-self-care.md:33
+msgid ""
+"We can usually handle stress more effectively when we’re in a happy state"
+" of mind. By practicing self-care, we can build a resilience to life’s "
+"unavoidable stressors."
+msgstr "当我们处于愉悦的心理状态时，通常能更有效地应对压力。通过实践自我保健，我们可以增强对生活中不可避免的压力源的适应力。"
+
+#: ../../growing-contributors/community-manager-self-care.md:35
+msgid ""
+"This concept of self-care may appear simplistic in theory, but it is "
+"commonly overlooked or neglected—especially by community managers. Let’s "
+"explore (and deconstruct) some reasons why."
+msgstr "这种自我保健概念在理论上看似简单，却常被忽视或忽略——尤其是社区管理者。让我们来探讨（并解构）其中的一些原因。"
+
+#: ../../growing-contributors/community-manager-self-care.md:37
+msgid "Emotional contagion"
+msgstr "情绪传染"
+
+#: ../../growing-contributors/community-manager-self-care.md:39
+msgid ""
+"Community managers are often seen as leaders, the people everyone can "
+"turn to, an inspiration for others to emulate. This seemingly high "
+"pedestal can be daunting, demanding a good deal of emotional intelligence"
+" and mental effort to deliver a community that’s not only growing but "
+"also productive[^2]."
+msgstr "社区管理者常被视为领导者，是众人可依靠的对象，也是他人效仿的楷模。这种看似崇高的地位可能令人望而生畏，需要极高的情商和心理能量来维系一个不仅持续壮大且富有成效[^2]的社区。"
+
+#: ../../growing-contributors/community-manager-self-care.md:41
+msgid ""
+"When the going gets tough, it’s often our responsibility (and our desire)"
+" to pull the community through those times. But in order to do this, we "
+"need to be in top condition _ourselves_. That is, we first need to look "
+"after ourselves before we can look after others in any sustainable way. "
+"Otherwise, we’ll never be able to adequately face whatever is thrown at "
+"us—and something always is, when interacting with diverse personalities, "
+"resolving conflicts, making tough decisions, all while working towards "
+"future long term objectives. And that is why self-care is so important."
+msgstr "当困境来临时，带领社区渡过难关往往既是我们的责任，也是我们的心愿。但要做到这点，我们必须首先保持最佳状态。也就是说，唯有先妥善关照自我，才能以可持续的方式照顾他人。否则我们将永远无法从容应对各种挑战——在与多元个性互动、解决冲突、做出艰难决策的同时还要兼顾长期目标时，挑战总会不期而至。正因如此，自我健康管理才显得尤为重要。"
+
+#: ../../growing-contributors/community-manager-self-care.md:43
+msgid ""
+"One of the first tasks on the road to self-care, then, is to be aware of "
+"how our own emotional states can impact our communities."
+msgstr "踏上自我健康管理之路的首要任务之一，便是觉察自身情绪状态对社区可能产生的影响。"
+
+#: ../../growing-contributors/community-manager-self-care.md:45
+msgid ""
+"Emotions (both positive and negative) are highly contagious[^3]. Our "
+"emotional expressions have the power to unconsciously influence people "
+"around us, such that others may even begin unconsciously mimicking our "
+"own[^4]. If we are in a state of anxiety or stress, others will sense "
+"this and add to it with their own negative energy. We see this when "
+"dealing with particularly toxic community members infecting others, but "
+"fail to identify that we ourselves can unconsciously unduly influence "
+"others as well. Similarly, if we are in a genuine pleasant mood, then "
+"people tend to be driven by that positive mood and become more "
+"productive."
+msgstr ""
+"情绪（无论积极或消极）具有极强的传染性[^3]。我们的情绪表达会无意识地影响周围人，甚至让他人开始不自觉地模仿我们的状态[^4]。若我们处于焦虑或压力中，他人会感知到这种情绪并以自身的负能量加剧它。我们在应对某些极具毒性的社区成员影响他人时能观察到这种现象，却未能意识到自己也可能在无意识中过度影响他人。同理，当我们真正处于愉悦状态时，人们往往会被这种积极情绪感染，从而变得更具效率。"
+
+#: ../../growing-contributors/community-manager-self-care.md:47
+msgid ""
+"In short: In order to bring out the best in others we must bring our best"
+" to the table."
+msgstr "简而言之：要想激发他人最好的一面，我们必须先展现出自己最好的一面。"
+
+#: ../../growing-contributors/community-manager-self-care.md:49
+msgid ""
+"As leaders, we wield potentially immense power to make positive changes "
+"in our communities. Let’s use this power. Take every opportunity to "
+"utilize your influence for encouraging and promoting self-care—not only "
+"for the community’s benefit, but also for yourself. Educate yourself on "
+"what self-care looks like to you, and communicate that understanding with"
+" your team. Community managers don’t need to share their most intimate "
+"fears or anxieties. Yet simply initiating a conversation on the "
+"importance of self-care can be beneficial, not just for the team "
+"_running_ the community, but for the _entire_ community."
+msgstr "作为领导者，我们拥有为社区带来积极改变的巨大潜力。让我们善用这份力量。抓住每个机会运用你的影响力来鼓励和倡导自我健康管理——不仅为了社区的利益，也为了你自己。了解自我健康管理对你而言意味着什么，并将这种理解与团队分享。社区管理者无需透露内心最深处的恐惧或焦虑，但仅仅开启一场关于自我健康管理重要性的对话，就能带来益处，不仅对运营社区的团队如此，对整个社区亦然。"
+
+#: ../../growing-contributors/community-manager-self-care.md:51
+msgid ""
+"Identify and implement regular, dedicated time in your and the team’s "
+"workload to practice self-care. Set realistic expectations on "
+"deliverables and communicate frequently within the team the potential "
+"triggers of stress or strain that may require more downtime to focus on "
+"one’s physical and mental health."
+msgstr "识别并在你和团队的工作安排中预留固定时间用于自我健康管理。对交付成果设定切实可行的预期，并在团队内部经常沟通可能导致压力或紧张的潜在因素，这些情况可能需要更多休息时间来关注身心健康。"
+
+#: ../../growing-contributors/community-manager-self-care.md:53
+msgid ""
+"By taking steps towards actively promoting and advocating for self-care, "
+"you prompt members following your lead to do the same. You also begin "
+"revealing your human side, eroding the unhealthy assumption that leaders "
+"are invulnerable to emotional dimensions of the work."
+msgstr "通过积极倡导和推广自我健康管理，你不仅促使追随者效仿这一行为，同时也展现出自己作为普通人的一面，从而打破\"领导者对工作情感层面无动于衷\"这种不健康的刻板印象。"
+
+#: ../../growing-contributors/community-manager-self-care.md:55
+msgid "Being (imperfectly and empathetically) human"
+msgstr "（不完美却共情的）真实人性"
+
+#: ../../growing-contributors/community-manager-self-care.md:57
+msgid ""
+"We can often find ourselves being controlled by unrealistic "
+"generalizations (either our own, or others') of what a community manager "
+"should be: driven, friendly, successful, super-human, even perfect."
+msgstr "我们常常被各种不切实际的标签所束缚——无论是自己还是他人对社区管理者形象的期待：进取、友善、成功、超人般、甚至完美无缺。"
+
+#: ../../growing-contributors/community-manager-self-care.md:59
+msgid ""
+"However, these impressions of what a leader really \"should\" be are full"
+" of contradictions and fundamentally flawed. A leader can be many things "
+"to many people, but the most important aspect is that they are human: "
+"flaws and all."
+msgstr "但这些关于领导者\"应有形象\"的认知充满矛盾且本质上是错误的。领导者对不同人群可以呈现不同面貌，但最重要的是保持真实人性——包括所有缺陷。"
+
+#: ../../growing-contributors/community-manager-self-care.md:61
+msgid ""
+"And yet community managers may tend to over-compensate, attempting to "
+"live up to these leadership images—especially by suppressing and hiding "
+"negative emotions for fear of being seen as \"too emotional\" or, worse, "
+"\"out of control.\""
+msgstr "然而，社区管理者往往会矫枉过正，试图迎合这些领导力形象——尤其是通过压抑和隐藏负面情绪，生怕被视为\"过于情绪化\"或更糟的\"失控\"。"
+
+#: ../../growing-contributors/community-manager-self-care.md:63
+msgid ""
+"But there’s a difference between being _in_ control, being _controlled_, "
+"and being _under_ control."
+msgstr "但\"掌控局面\"、\"被控制\"和\"处于可控状态\"之间存在本质区别。"
+
+#: ../../growing-contributors/community-manager-self-care.md:65
+msgid ""
+"The belief that \"being in control is a reflection of our confidence in "
+"what we produce\" is inaccurate. It actually demonstrates that we are "
+"reluctant to show others that we are not perfect and struggle to accept "
+"anything less[^5]. Although maintaining this front can help shield us "
+"temporarily from others' emotions and criticisms towards us, it doesn’t "
+"protect us from our own self-destruction caused by bottling them up."
+msgstr ""
+"“掌控局面反映了我们对自身产出的自信”这一信念并不准确。实际上，它表明我们不愿向他人展示自己的不完美，且难以接受任何逊色之处[^5]。尽管维持这种表象能暂时保护我们免受他人情绪和批评的影响，却无法避免因压抑这些情绪而导致的自我毁灭。"
+
+#: ../../growing-contributors/community-manager-self-care.md:67
+msgid ""
+"The consequences of suppressing your emotions will inevitably surface, "
+"and dramatically so. This is when our emotions _control us_ (and our "
+"actions), which often leads to rumination, collapse of relationships with"
+" one’s team or community, and other negative outcomes like burnout."
+msgstr "压抑情绪的后果终将显现，且往往是爆发式的。这时情绪会反过来_控制我们_（及我们的行为），通常导致过度焦虑、与团队或社区关系破裂，以及其他负面结果如职业过劳。"
+
+#: ../../growing-contributors/community-manager-self-care.md:69
+msgid ""
+"The ultimate aim is to be \"under control,\" both with your emotions and "
+"your workload. Here, our passion and attention are directed in a "
+"constructive and purposeful manner—a particularly important place to be "
+"in when we’ve made a mistake."
+msgstr "最终目标是实现\"掌控自如\"——无论是情绪还是工作量。在这里，我们的热情与注意力都以建设性和目标明确的方式释放，这种状态在我们犯错时尤为重要。"
+
+#: ../../growing-contributors/community-manager-self-care.md:71
+msgid ""
+"The phrase \"bring your whole self to work\" is a good expression of "
+"allowing yourself this forgiveness. We should feel like we can admit when"
+" we don’t know something, haven’t made the correct decision, or have made"
+" a mistake. And we should also recognize and accept that we can have good"
+" days and bad ones."
+msgstr "\"带着完整的自我去工作\"这句话完美诠释了这种自我宽恕。我们应该能够坦然承认自己有所不知、决策失误或犯了错误。同时也需要认识到并接受：我们既有状态好的日子，也有状态差的时候。"
+
+#: ../../growing-contributors/community-manager-self-care.md:73
+msgid ""
+"Being honest with ourselves is as important as being honest with our "
+"communities. If we’re not honest with ourselves and in tune with our "
+"emotional states, we may unintentionally escalate difficult situations "
+"within our communities (due to our failures at acknowledging that perhaps"
+" _we_ should be stepping back until we feel we have more clarity to "
+"address the situation appropriately)."
+msgstr "对自身保持诚实与对社区保持诚实同等重要。如果我们不能诚实地面对自己，无法与情绪状态和谐共处，就可能在社区中无意激化矛盾（因为我们未能意识到：或许应该暂时退后一步，直到能以更清晰的思路妥善处理问题）。"
+
+#: ../../growing-contributors/community-manager-self-care.md:75
+msgid ""
+"Maintaining this kind of emotional labor can be incredibly exhausting. We"
+" must acknowledge and accept that being perfect is unattainable, and more"
+" importantly, not a requirement for being a great leader. What _is_ "
+"important is people can relate to your human side."
+msgstr "维持这种情感劳动可能令人崩溃。我们必须承认并接受：完美无法企及，更重要的是——这从来不是成为优秀领导者的必要条件。真正重要的是人们能感受到你作为普通人的一面。"
+
+#: ../../growing-contributors/community-manager-self-care.md:77
+msgid ""
+"People gravitate to others with whom they share a kinship[^6], and being "
+"able to identify this feeling of kinship is one hallmark of an effective "
+"community manager. If your members see that you possess qualities they "
+"can relate to, they can more easily empathize with you. Ironically, we "
+"often emphasize the significance of practicing empathy for our members or"
+" team, but it’s equally important that our members demonstrate compassion"
+" and gratitude towards us too."
+msgstr ""
+"人们会被与自己有共鸣[^6]的人所吸引，而能够识别这种共鸣感正是一名优秀社区管理者的标志。如果你的成员发现你具备他们能产生共鸣的特质，他们就更易对你产生共情。有趣的是，我们常强调对成员或团队展现同理心的重要性，但同样关键的是成员们也需对我们展现出理解与感激。"
+
+#: ../../growing-contributors/community-manager-self-care.md:79
+msgid ""
+"As everyone on a team or in a community nurtures this empathy, they will "
+"gradually deepen connections and trust between them, which in turn can "
+"help them establish an informal social support network. This network can "
+"be a conduit for promoting the importance of self-care, creating "
+"judgment-free zones, or providing safe havens to individual members "
+"(including yourself) for emotional reflection, airing frustrations, or "
+"sharing workloads."
+msgstr "当团队或社区中的每个人都培养这种共情能力时，彼此间的联系与信任会逐渐加深，进而帮助他们建立起非正式的社交支持网络。这个网络可以成为传递自我健康管理重要性的渠道，创造不带评判的安全空间，或为个体成员（包括你自己）提供情绪宣泄、压力释放或分担工作的避风港。"
+
+#: ../../growing-contributors/community-manager-self-care.md:81
+msgid ""
+"It is inevitable that some members will expect you to adhere to the "
+"pretense of being the all powerful, infallible captain of the ship, but "
+"with an effective self-care routine and the backing of the members within"
+" this social support network, you’ll feel more confident in your ability "
+"to handle those stressors. You’ll also understand that your "
+"vulnerabilities are what makes you a better community leader."
+msgstr "难免会有成员期望你扮演全知全能、永不犯错的队长角色，但通过有效的自我健康管理实践以及社交支持网络中成员的支持，你将更有信心应对这些压力源。同时你也会明白，正是自身的脆弱性让你成为更优秀的社区领导者。"
+
+#: ../../growing-contributors/community-manager-self-care.md:83
+msgid "Types of self-care"
+msgstr "自我健康管理的类型"
+
+#: ../../growing-contributors/community-manager-self-care.md:85
+msgid ""
+"Everyone will prefer different self-care techniques and strategies, "
+"depending on their moods and circumstances. To be effective, self-care "
+"requires regular and conscious cultivation, so it’s important that we "
+"view self-care not only as a reactive choice but also as a means of "
+"alleviating the stresses of everyday life."
+msgstr "根据情绪状态和具体情境，每个人偏好的自我健康管理技巧与策略各不相同。有效的自我健康管理需要定期有意识地培养，因此我们不仅要将其视为应激选择，更要看作缓解日常生活压力的重要手段。"
+
+#: ../../growing-contributors/community-manager-self-care.md:87
+msgid ""
+"In general, however, a number of different self-care types can satisfy "
+"our basic need to promote a healthy and happy mind and body. These are: "
+"_physical_, _mental_, _spiritual_, _emotional_, and _social_."
+msgstr "总体而言，以下五种基本类型的自我健康管理能满足我们保持身心健康的核心需求：*身体层面*、*心理层面*、*灵性层面*、*情感层面*以及*社交层面*。"
+
+#: ../../growing-contributors/community-manager-self-care.md:89
+msgid ""
+"Next, we’ll explore each of these types in more detail. But remember: we "
+"should be aiming to practice a _selection_ of activities of _all_ these "
+"types if we’re going to provide ourselves a healthy life balance and "
+"respond adequately to all types of stress."
+msgstr "接下来我们将更详细探讨每种类型。但请记住：若要维持健康的生活平衡并妥善应对各类压力，我们应当有意识地选择实践所有这些类型的活动。"
+
+#: ../../growing-contributors/community-manager-self-care.md:91
+msgid "Physical self-care"
+msgstr "身体层面的自我健康管理"
+
+#: ../../growing-contributors/community-manager-self-care.md:93
+msgid ""
+"Physical self-care is usually the self-care we perform at a minimum, "
+"often subconsciously: feeding, hydrating, sleeping, and exercising."
+msgstr "身体层面的自我健康管理通常是我们下意识进行的最基本自我照顾行为：进食、补水、睡眠和锻炼。"
+
+#: ../../growing-contributors/community-manager-self-care.md:95
+msgid ""
+"However, we often find ourselves neglecting these necessities for the "
+"sake of work (enduring frequent all-nighters, for example, or forgetting "
+"to eat lunch every weekday). Keeping ourselves nourished helps us "
+"maintain bodily health. Getting into healthy physical self-care routines "
+"also helps us take regular breaks from our work—and our work "
+"_environments_."
+msgstr "然而我们常因工作忽视这些基本需求（比如频繁熬夜加班，或工作日总忘记吃午餐）。保持身体营养摄入有助于维持健康。养成健康的身体自爱习惯也能让我们定期从工作_环境_抽离休息。"
+
+#: ../../growing-contributors/community-manager-self-care.md:97
+msgid "Physical self-care might include activities like:"
+msgstr "身体自我健康管理可以包括以下活动："
+
+#: ../../growing-contributors/community-manager-self-care.md:99
+msgid "Maintaining a regular sleep routine"
+msgstr "保持规律的睡眠习惯"
+
+#: ../../growing-contributors/community-manager-self-care.md:100
+msgid "Eating a healthy diet"
+msgstr "健康饮食"
+
+#: ../../growing-contributors/community-manager-self-care.md:101
+msgid "Taking a nap"
+msgstr "午睡小憩"
+
+#: ../../growing-contributors/community-manager-self-care.md:102
+msgid "Getting a massage"
+msgstr "享受按摩"
+
+#: ../../growing-contributors/community-manager-self-care.md:103
+msgid "Going for a stroll"
+msgstr "散步放松"
+
+#: ../../growing-contributors/community-manager-self-care.md:104
+msgid "Stretching"
+msgstr "伸展"
+
+#: ../../growing-contributors/community-manager-self-care.md:105
+msgid "Doing yoga (or other forms of exercise)"
+msgstr "做瑜伽（或其他形式的锻炼）"
+
+#: ../../growing-contributors/community-manager-self-care.md:107
+msgid "Mental self-care"
+msgstr "心理的自我健康管理"
+
+#: ../../growing-contributors/community-manager-self-care.md:109
+msgid ""
+"Mental self-care is the act of stimulating our mind with positive and "
+"purposeful thoughts to help reduce stress levels."
+msgstr "心理自我健康管理是通过积极且有意义的思考来刺激我们的心智，从而帮助降低压力水平的活动。"
+
+#: ../../growing-contributors/community-manager-self-care.md:111
+msgid ""
+"These are doing things that keep the mind engage at an intellectual level"
+" on topics that interest you or help de-clutter your thoughts to re-"
+"organize them."
+msgstr "这类活动能让你的心智在感兴趣的问题上保持智力层面的参与，或是帮助你整理纷乱的思绪，使其重新有序。"
+
+#: ../../growing-contributors/community-manager-self-care.md:113
+msgid ""
+"Mental self-care is often less tangible than other types so it can be "
+"more difficult to see an immediate benefit."
+msgstr "与其他类型的自我健康管理相比，心理自我健康管理往往更难以捉摸，因此更难立即看到其益处。"
+
+#: ../../growing-contributors/community-manager-self-care.md:115
+msgid ""
+"However, with consistency of exercising mental self-care we will see it’s"
+" benefits shape and form healthy attitudes towards others aspects of our "
+"life as we will be more inclined to be mentally satisfied."
+msgstr "然而，通过持续践行心理自我健康管理，我们将看到它的益处逐渐显现，塑造出对生活其他方面的健康态度，因为我们将会更倾向于获得心理上的满足。"
+
+#: ../../growing-contributors/community-manager-self-care.md:117
+msgid "A few examples of mental self-care:"
+msgstr "心理自我健康管理的几个例子："
+
+#: ../../growing-contributors/community-manager-self-care.md:119
+msgid "Reading a new book or article"
+msgstr "阅读一本新书或文章"
+
+#: ../../growing-contributors/community-manager-self-care.md:120
+msgid "Trying a hobby or interest"
+msgstr "尝试一项爱好或兴趣"
+
+#: ../../growing-contributors/community-manager-self-care.md:121
+msgid "Writing a list of goals"
+msgstr "写下目标清单"
+
+#: ../../growing-contributors/community-manager-self-care.md:122
+msgid "Solving puzzles"
+msgstr "解决难题"
+
+#: ../../growing-contributors/community-manager-self-care.md:123
+msgid "Organizing or cleaning out a space in your room"
+msgstr "整理或清理房间中的一块空间"
+
+#: ../../growing-contributors/community-manager-self-care.md:125
+msgid "Spiritual self-care"
+msgstr "灵性层面的自我健康管理"
+
+#: ../../growing-contributors/community-manager-self-care.md:127
+msgid ""
+"This type of self-care often gets wrongly associated with being solely "
+"about religion but it can be applied to everyone whether you’re "
+"religious, atheist, agnostic, or otherwise."
+msgstr "这类自我健康管理常被错误地单纯与宗教信仰挂钩，但它适用于所有人——无论你是宗教信徒、无神论者、不可知论者还是其他群体。"
+
+#: ../../growing-contributors/community-manager-self-care.md:129
+msgid ""
+"Spiritual self-care are activities that nurtures the connection between "
+"you and your soul, providing you a deeper sense of meaning, or "
+"understanding of the universe. The word soul is merely a representation "
+"of the entity or uniqueness you feel embodies you, this can also be your "
+"inner spirit, energy source, or another reference."
+msgstr "灵性层面的自我健康管理是指那些滋养你与灵魂联结的活动，它能让你获得更深层的生命意义感或宇宙认知。\"灵魂\"这个词仅代表你认为体现自我本质的实体或独特性，也可以指内在精神、能量源泉或其他称谓。"
+
+#: ../../growing-contributors/community-manager-self-care.md:131
+msgid "A few examples of spiritual self-care:"
+msgstr "灵性自我健康管理的若干示例："
+
+#: ../../growing-contributors/community-manager-self-care.md:133
+msgid "Volunteering for a cause you care about"
+msgstr "投身你热爱的事业"
+
+#: ../../growing-contributors/community-manager-self-care.md:134
+msgid "Meditating"
+msgstr "冥想"
+
+#: ../../growing-contributors/community-manager-self-care.md:135
+msgid "Spending time in nature"
+msgstr "亲近自然"
+
+#: ../../growing-contributors/community-manager-self-care.md:136
+msgid "Praying or attending religious service"
+msgstr "参加宗教礼拜或祷告"
+
+#: ../../growing-contributors/community-manager-self-care.md:137
+msgid "Determining your most important values or morals"
+msgstr "明确自己最重要的价值观或道德准则"
+
+#: ../../growing-contributors/community-manager-self-care.md:138
+msgid "Considering your significant relationships"
+msgstr "思考你重要的人际关系"
+
+#: ../../growing-contributors/community-manager-self-care.md:139
+msgid "Discovering new forms of spirituality and religion"
+msgstr "探索灵性与宗教的新形式"
+
+#: ../../growing-contributors/community-manager-self-care.md:141
+msgid ""
+"Regardless of the different types and activities of self-care we perform,"
+" the aim is to help us in a constant and sustainable way, to fight off "
+"and defend us against the negative effects of our role. By ignoring our "
+"physical and mental well being we will be more likely to succumb to the "
+"stress and fatigue leading us towards more dangerous chronic illnesses "
+"and syndromes, like burnout."
+msgstr "无论我们进行何种形式的自我健康管理活动，其核心目标都是持续且可持续地帮助我们抵御和对抗角色压力带来的负面影响。若忽视身心健康，我们将更容易被压力和疲劳击垮，进而诱发更危险的慢性疾病和综合征，例如职业过劳。"
+
+#: ../../growing-contributors/community-manager-self-care.md:143
+msgid "Burnout"
+msgstr "过劳"
+
+#: ../../growing-contributors/community-manager-self-care.md:145
+msgid "What exactly is burnout? The WHO definition of burnout[^7] is:"
+msgstr "职业过劳究竟是什么？世界卫生组织对职业过劳的定义[^7]是："
+
+#: ../../growing-contributors/community-manager-self-care.md:147
+msgid ""
+"\"Burnout is a syndrome conceptualized as resulting from chronic "
+"workplace stress that has not been successfully managed.\""
+msgstr "\"职业过劳是一种因长期工作压力未能得到有效管理而产生的综合征。\""
+
+#: ../../growing-contributors/community-manager-self-care.md:149
+msgid ""
+"Burnout can affect us all and in any occupation, however it seems more "
+"prevalent in roles that are mentally and emotionally draining for "
+"extended periods of time. This is common due to the prevailing norms "
+"within those roles of being selfless and putting others first[^8]: going "
+"the extra mile to maintain a happy and content environment or atmosphere "
+"either for the client or within a community."
+msgstr "职业过劳可能影响我们每个人，无论身处何种行业。然而，在那些长期消耗心智与情感的岗位上，这种现象似乎更为普遍。究其原因，往往与这些岗位中盛行的无私精神有关——人们习惯于将他人置于首位[^8]：无论是为了客户还是社群，他们总是不遗余力地营造愉悦满足的环境或氛围。"
+
+#: ../../growing-contributors/community-manager-self-care.md:151
+msgid ""
+"It is also appearing more and more within the tech industry[^9]. This "
+"increase has been attributed to the seemly accepted 24/7 work mentality "
+"and competitiveness of the industry, leading to workers involved in "
+"technology, particularly software development, to becoming overwhelmed "
+"and mentally exhausted to the point of risking their health."
+msgstr ""
+"这种现象在科技行业中也日益普遍[^9]。究其原因，往往被归咎于业内近乎常态的全天候工作文化和激烈竞争氛围，导致科技从业者——尤其是软件开发人员——长期处于超负荷状态，精神耗竭至危及健康的地步。"
+
+#: ../../growing-contributors/community-manager-self-care.md:153
+msgid ""
+"We should highlight that work related stress and burnout are very "
+"different, and in cases some amount of stress can provide a source of "
+"motivation but only if it is manageable and for a temporary period of "
+"time. When occupational stress is long occurring, seen as chronic, "
+"affecting the overall well being of ourselves, this can develop into what"
+" is termed as _burnout_."
+msgstr "必须强调，工作相关压力与职业过劳截然不同。适度的压力在可控且暂时的情况下，反而能成为动力源泉。然而，当职业压力长期持续、演变为慢性状态，并开始侵蚀我们的整体福祉时，便可能发展为所谓的\"职业过劳\"。"
+
+#: ../../growing-contributors/community-manager-self-care.md:155
+msgid "Look out for symptoms"
+msgstr "留意症状"
+
+#: ../../growing-contributors/community-manager-self-care.md:157
+msgid ""
+"Burnout is extremely hard to detect as not only is it subtle and "
+"progressive, but it is often misdiagnosed as the earlier, more temporary,"
+" common work related stress. This is because the two are similar until it"
+" becomes too late and has developed into a much deeper and harder problem"
+" to treat."
+msgstr "职业过劳极难被察觉，这不仅因其症状隐蔽且呈渐进性发展，更因它常被误诊为早期阶段更短暂、更常见的职场压力。二者症状相似，直到为时已晚，问题已演变成更严重、更难治愈的深层次病症。"
+
+#: ../../growing-contributors/community-manager-self-care.md:159
+msgid ""
+"Psychologist Herbert Freudenberger has released multiple books and "
+"articles since the 1970s regarding his research of the possible causes, "
+"implications, and affects of burnout. His work[^10] has helped to define "
+"the different symptoms and thus the phases of experiencing burnout."
+msgstr ""
+"自 20 世纪 70 "
+"年代以来，心理学家赫伯特·弗罗伊登伯格陆续出版了多部著作并发表文章，阐述他对职业过劳潜在诱因、影响及作用机制的研究成果。他的工作[^10]帮助界定了职业过劳的不同症状表现，从而划分出经历过劳的各个阶段。"
+
+#: ../../growing-contributors/community-manager-self-care.md:161
+msgid ""
+"Perhaps you recognize several of them in yourself; perhaps you recognize "
+"only one or two. It’s not always easy to see the signs since not only do "
+"they gradually occur over time, but also hide behind our own denial of "
+"something being wrong."
+msgstr "或许你发现自己符合其中多项特征，或许仅符合一两条。识别这些征兆并非易事，因为它们不仅随时间推移逐渐显现，还常被我们\"一切正常\"的自我否认心理所掩盖。"
+
+#: ../../growing-contributors/community-manager-self-care.md:163
+msgid "Exhaustion"
+msgstr "崩溃"
+
+#: ../../growing-contributors/community-manager-self-care.md:165
+msgid ""
+"Loss of energy and accompanying feelings of weariness are usually the "
+"first distress signals especially if you naturally have high energy "
+"levels[^11]. However, be careful not to push yourself harder if you do "
+"find yourself struggling to keep up with your usual round of activities. "
+"Doing so will only exacerbate the problem."
+msgstr ""
+"精力流失与随之而来的疲惫感往往是最初的警示信号，尤其当你本是精力充沛之人[^11]时更需警惕。但要注意，若发现自己难以维持日常活动节奏，切莫强迫自己硬撑。这样做只会让问题恶化。"
+
+#: ../../growing-contributors/community-manager-self-care.md:167
+msgid ""
+"Similarly to our emotions, our energy also affects others around us. We "
+"tend to fuel our energy by achieving our goals and reaping the rewards, "
+"thus sharing that with others. If we are unable to attain rewards due to "
+"the lack of energy levels then this feeds into a vicious cycle."
+msgstr "与情绪同理，我们的能量状态也会影响周围人。我们通常通过实现目标、收获回报来补充能量，并将这份能量传递给他人。若因精力不足而无法获得回报，便会陷入恶性循环。"
+
+#: ../../growing-contributors/community-manager-self-care.md:169
+msgid ""
+"The things that once excited us, like leaving a meeting fired up to "
+"accomplish an objective, have now become mundane and seen as an excessive"
+" use of our already depleting energy. You may not see the lack of "
+"accomplishments, like others do, because you see less and less "
+"significance in obtaining the rewards and blame your tiredness on your "
+"increasing workload."
+msgstr "那些曾让我们兴奋的事——比如开完会后斗志昂扬地要去达成目标——如今变得索然无味，被视为对已濒临枯竭能量的过度消耗。你可能像他人那样察觉不到成就缺失，因为你越来越觉得获取回报无关紧要，并将疲倦归咎于日益增加的工作量。"
+
+#: ../../growing-contributors/community-manager-self-care.md:171
+msgid "Detachment"
+msgstr "疏离"
+
+#: ../../growing-contributors/community-manager-self-care.md:173
+msgid ""
+"We usually demonstrate a sense of detachment or apathy as a self-"
+"protective device to help ward off emotional stress or pain. When we "
+"begin to feel let down by situations or those around us, whether that is "
+"the team, community, company, or even ourselves, we are temped to down "
+"play their importance; \"I don’t care, it wasn’t important anyway,\" and "
+"move away from the things that used to involve us. By doing so we are "
+"depriving them the power to affect us negatively, however, this also "
+"blocks their ability to positively affect us. This can lead to loneliness"
+" and isolation."
+msgstr "我们常以疏离或冷漠作为自我保护的手段，来抵御情绪压力或痛苦。当开始对周遭情境或人事感到失望时——无论是团队、社区、公司，甚至我们自己——我们往往会贬低其重要性：\"我不在乎，反正这也没什么大不了的\"，并逐渐远离曾全心投入的事物。这样做固然能削弱它们对我们的负面影响力，却也同时阻断了其带来积极影响的可能性，最终可能导致孤独与孤立。"
+
+#: ../../growing-contributors/community-manager-self-care.md:175
+msgid "Boredom and Cynicism"
+msgstr "过劳与愤世嫉俗"
+
+#: ../../growing-contributors/community-manager-self-care.md:177
+msgid ""
+"Once you’ve become more detached from the things that excited you, you "
+"find it increasingly hard to remain interested in what’s going on around "
+"you. You begin to question the value of your activities, your "
+"relationships, and perhaps the bigger aspects of your life. This can lead"
+" you to becoming skeptical or even suspicious of other people’s motives "
+"and causes."
+msgstr "当你对曾经热衷的事物逐渐疏离后，会发现自己越来越难对周围发生的一切保持兴趣。你开始质疑自身活动的价值、人际关系的意义，乃至生命中更宏大的层面。这种状态可能使人变得多疑，甚至对他人的动机与事业心生猜忌。"
+
+#: ../../growing-contributors/community-manager-self-care.md:179
+msgid "Impatience and heightened irritability"
+msgstr "焦躁易怒与敏感易激"
+
+#: ../../growing-contributors/community-manager-self-care.md:181
+msgid ""
+"People who have high energy levels also usually have a characteristic of "
+"being mildly impatient, whether it is with others or with themselves, due"
+" to their ability to perform things quickly to then progress onto "
+"something else. However, when experiencing burnout, the perception "
+"becomes that we need to over-accomplish things and thus so does the "
+"impatience to do so. This impatience can spill out over to others as "
+"irritability with everyone around them. Things that were once trivial and"
+" minor become huge obstacles often with the blame pointed at others "
+"creating it rather than ourselves."
+msgstr "精力旺盛的人通常还带有一种轻微的急躁特性，无论是对于他人还是自己。因为他们能够快速完成事情，继而转向下一项任务。然而，当遭遇过劳时，我们会产生必须超额完成任务的错觉，随之而来的就是达成目标的急躁感。这种急躁可能转化为对周围人的易怒情绪。那些曾经微不足道的小事会变成巨大障碍，而我们往往将责任归咎于他人而非自己。"
+
+#: ../../growing-contributors/community-manager-self-care.md:183
+msgid "A sense of omnipotence"
+msgstr "全能感"
+
+#: ../../growing-contributors/community-manager-self-care.md:185
+msgid ""
+"We don’t start off feeling this way about our role, but often when we are"
+" overwhelmed with our workload we can default to a sentiment: \"No one "
+"else can do this, only I can.\""
+msgstr "我们起初并不会对自己的角色有这种感觉，但常常在工作压力过大时，会不自觉地陷入一种情绪：“这件事只有我能做，别人都做不了。”"
+
+#: ../../growing-contributors/community-manager-self-care.md:187
+msgid ""
+"This sort of statement is often an attempt to justify the over exertion "
+"of the effort and applying value to it while other areas of our workload "
+"are failing. It’s that grasping for control when things are becoming out "
+"of control."
+msgstr "这类言论往往是为了证明过度投入的努力是合理的，并赋予其价值，尽管我们工作量的其他方面正在失败。这是在情况失控时试图抓住控制权的表现。"
+
+#: ../../growing-contributors/community-manager-self-care.md:189
+msgid ""
+"Rest assured that indeed others can perform those tasks, though "
+"differently and maybe not to the same degree of excellence you may have "
+"done but it could be a situation that doesn’t always require excellence. "
+"This type of egoism is more often a hindrance to progression and the "
+"initiative of others."
+msgstr "请放心，其他人确实能完成这些任务，虽然方式不同，可能也达不到你所能做到的那种卓越程度，但有些情况并不总是需要追求完美。这类自我中心主义往往阻碍了进步和他人的主动性。"
+
+#: ../../growing-contributors/community-manager-self-care.md:191
+msgid "A suspicion of being unappreciated"
+msgstr "一种不被赏识的猜疑"
+
+#: ../../growing-contributors/community-manager-self-care.md:193
+msgid ""
+"To counter-balance our lack of energy we often increase our efforts, but "
+"this doesn’t necessarily reflect good results. However, we don’t "
+"acknowledge this, we only see the effort expended. We can then begin to "
+"feel like we’re being less appreciated from others in the team or the "
+"community as a whole. \"Can’t they see all the hard work I’m doing, "
+"staying late at night?\" This feeling can lead to being bitter and angry."
+msgstr "为了弥补精力的不足，我们往往会加倍努力，但这未必能带来理想的效果。然而我们意识不到这一点，只盯着自己付出的辛劳。于是我们开始觉得团队或社区中的其他人不够重视自己——\"他们难道看不见我熬夜工作的辛苦吗？\"这种情绪可能演变为怨恨与愤怒。"
+
+#: ../../growing-contributors/community-manager-self-care.md:195
+msgid "Paranoia"
+msgstr "妄想症"
+
+#: ../../growing-contributors/community-manager-self-care.md:197
+msgid ""
+"Leading from the signs of feeling unappreciated to feeling as though the "
+"world is against us[^12]. When things go wrong, but we are unable to "
+"understand or see why, we tend to seek out a target, not ourselves, to "
+"blame regardless if there is little merit in the accusation. Often the "
+"person labeled as the culprit becomes the target of our frustrations. "
+"This can be team members, friends, or even family."
+msgstr ""
+"从感到不被重视的迹象，逐渐演变为感觉整个世界都在与自己为敌[^12]。当事情出错，而我们却无法理解或看清原因时，我们往往会寻找一个非自身的指责对象——即便这种指控毫无根据。通常，被贴上\"罪魁祸首\"标签的人会成为我们发泄挫败感的目标，这可能是团队成员、朋友，甚至家人。"
+
+#: ../../growing-contributors/community-manager-self-care.md:199
+msgid "Disorientation"
+msgstr "迷失方向感"
+
+#: ../../growing-contributors/community-manager-self-care.md:201
+msgid ""
+"Disorientation is when we feel we’ve become separated from our "
+"environment and understanding of what is going on around us. Discovering "
+"yourself in a situation that you didn’t become aware of, or realizing "
+"that you previously understood a concept but now do not. We see ourselves"
+" starting to forget things easily and our concentration span deteriorates"
+" leading us into more confusion and agitation, fueling the other symptoms"
+" like paranoia."
+msgstr "迷失方向感是指我们感到与周围环境分离，无法理解身边正在发生的事情。当你发现自己身处一种未曾察觉的境况，或是突然意识到原本理解的概念现在变得陌生时，就会出现这种状态。我们开始发现自己容易遗忘，注意力持续时间不断下降，这导致我们陷入更深的困惑与焦躁，进而加剧了诸如偏执妄想等其他症状。"
+
+#: ../../growing-contributors/community-manager-self-care.md:203
+msgid "Psychosomatic complaints"
+msgstr "心身性不适"
+
+#: ../../growing-contributors/community-manager-self-care.md:205
+msgid ""
+"This is not to be misunderstood to imply those experiencing signs of "
+"burnout are not feeling physically sick; they can and do. But it does "
+"highlight that with prolonged stress physical illness symptoms appear as "
+"a secondary symptom to the cause, like lingering colds, backache, "
+"headaches, etc. Sometimes these illnesses mask the deeper more emotional "
+"stress that we feel but we feel more comfortable taking a sick day "
+"instead of actually acknowledging the mental stress."
+msgstr "此处不应误解为暗示经历过劳迹象的人不会感到身体不适；他们确实可能并确实会有身体不适。但这确实强调了，长期压力下，身体疾病症状会作为原因的次要表现出现，比如反复感冒、背痛、头痛等。有时候，这些疾病掩盖了我们内心深处更强烈的情感压力，而我们更倾向于请病假而非真正承认精神上的压力。"
+
+#: ../../growing-contributors/community-manager-self-care.md:207
+msgid "Burnout cycle"
+msgstr "过劳循环"
+
+#: ../../growing-contributors/community-manager-self-care.md:209
+msgid ""
+"Freudenberger and his colleague Gail North later categorized the "
+"consequences[^13] of these symptoms into 12 phases of one developing "
+"burnout syndrome[^14]. Similar to the symptoms, sufferers may experience "
+"episodes in multiple phases, not in sequential order, and for any length "
+"of period of time."
+msgstr ""
+"弗罗伊登伯格和他的同事盖尔·诺斯后来将这些症状的后果[^13]归类为职业过劳综合征[^14]发展的12个阶段。与症状相似，患者可能经历多个阶段的症状发作，并非按顺序出现，且持续时间长短不一。"
+
+#: ../../growing-contributors/community-manager-self-care.md:211
+msgid ""
+"**A compulsion to prove oneself**: desire to prove oneself, to have "
+"impact on one’s peers, initially seems beneficial until this desire turns"
+" into obsession."
+msgstr "**自我证明强迫症**：渴望证明自己、对同辈产生影响，这种欲望起初看似有益，直至演变为执念。"
+
+#: ../../growing-contributors/community-manager-self-care.md:212
+msgid ""
+"**Intensity (Working Harder)**: compulsion becomes misconstrued as "
+"dedication and commitment. This can appear as an unwillingness to "
+"delegate work, for fear of losing perfect control, or working harder and "
+"longer."
+msgstr "**内卷（高强度工作）**：强迫心理被误解为奉献与投入。这可能表现为不愿委派工作（担心失去绝对控制权），或更加拼命延长工作时间。"
+
+#: ../../growing-contributors/community-manager-self-care.md:213
+msgid ""
+"**Neglecting their needs**: work begins to dominate and subtler duties "
+"and pleasures are viewed as unnecessary like sleep, eating healthy, etc."
+msgstr "**忽视自己需求**：工作开始占据主导地位，睡眠、健康饮食等基本需求与生活乐趣被视为不必要的琐事。"
+
+#: ../../growing-contributors/community-manager-self-care.md:214
+msgid ""
+"**Displacement of conflicts**: conflict from others are considered "
+"meddlesome and seen as a threat. Coping mechanisms are put into place to "
+"dismiss problems and these can manifest into physical breakdowns."
+msgstr "**冲突转移**：来自他人的冲突被视为多管闲事和威胁。人们会启动应对机制来回避问题，这些机制可能演变为身体崩溃。"
+
+#: ../../growing-contributors/community-manager-self-care.md:215
+msgid ""
+"**Distortion of Values**: focus on work only, values are distorted as "
+"well as relationships. This leads to them being dismissed or abandoned."
+msgstr "**价值观扭曲**：只关注工作，导致价值观和人际关系被扭曲。这会使它们遭到忽视或抛弃。"
+
+#: ../../growing-contributors/community-manager-self-care.md:216
+msgid ""
+"**Denial of Emerging Problems**: mechanisms to defend oneself against the"
+" impact of life and in turn their demands. Develop inability to tolerate "
+"ambiguity and become non-receptive; projecting the anxieties and "
+"insecurities externally."
+msgstr "**对出现问题的否认**：建立防御机制来抵御生活冲击及其要求。逐渐变得无法容忍不确定性且拒绝接受现实；将焦虑与不安向外投射。"
+
+#: ../../growing-contributors/community-manager-self-care.md:217
+msgid ""
+"**Withdrawal**: Become detached from our emotions and from other people. "
+"Often \"escaping\" through television, books, or other means like "
+"alcohol/drugs."
+msgstr "**社恐**：与自身情感及他人疏离。常通过电视、书籍或酒精/药物等方式\"逃避\"。"
+
+#: ../../growing-contributors/community-manager-self-care.md:218
+msgid ""
+"**Odd Behavioral Changes**: friends and family identify increasingly "
+"obvious changes in behavior like attitude, language, or physical "
+"activities."
+msgstr "**出现异常行为**：亲友会注意到当事人态度、语言或身体活动等方面日益明显的行为改变。"
+
+#: ../../growing-contributors/community-manager-self-care.md:219
+msgid ""
+"**Depersonalization**: viewing the needs of one’s self and others are now"
+" significantly undervalued and dismissed."
+msgstr "**人格解体**：对自身及他人需求的认知显著贬低和漠视。。"
+
+#: ../../growing-contributors/community-manager-self-care.md:220
+msgid ""
+"**Inner Emptiness**: feelings of hollowness and uselessness. There is a "
+"desire to replenish but are usually just quick wins, or false cures and "
+"ultimately unfulfilling."
+msgstr "**空心病**：感到空洞无意义。虽有填补的渴望，但往往只是短暂缓解或虚假慰藉，最终仍无法获得满足。"
+
+#: ../../growing-contributors/community-manager-self-care.md:221
+msgid ""
+"**Depression**: feeling of being hopeless and joyless. Despair and "
+"exhaustion are primary feelings and the overwhelming desire to escape."
+msgstr "**抑郁**：陷入无望与无欢的心境。绝望与崩溃成为主导情绪，逃离现状的欲望压倒一切。"
+
+#: ../../growing-contributors/community-manager-self-care.md:222
+msgid ""
+"**Burnout Syndrome**: suicidal thoughts, physical, and mental collapse "
+"leading to life threatening situations. Immediate professional medical "
+"help is imperative."
+msgstr "**过劳综合征**：出现自杀念头，身心崩溃至危及生命的境地。此时必须立即寻求专业医疗救助。"
+
+#: ../../growing-contributors/community-manager-self-care.md:224
+msgid ""
+"These distinctions help us to identify the deterioration in either our "
+"own, our team’s, or community member’s activities and their attitudes "
+"towards themselves and others."
+msgstr "这些区分有助于我们发现自身、团队或社区成员在活动中的消极变化，以及他们对待自己和他人态度的恶化。"
+
+#: ../../growing-contributors/community-manager-self-care.md:226
+msgid ""
+"It’s important to be self-critical and pierce our disillusion that "
+"everything is fine—it usually isn’t and it won’t \"just work its way "
+"out.\""
+msgstr "自我批评至关重要，要戳穿“一切安好”的幻象——现实通常并非如此，问题也不会“自行解决”。"
+
+#: ../../growing-contributors/community-manager-self-care.md:228
+msgid "Causes of burnout"
+msgstr "过劳的原因"
+
+#: ../../growing-contributors/community-manager-self-care.md:230
+msgid ""
+"We’ve identified the devastating effects of burnout now lets explore the "
+"possible sources for these symptoms within our role or even within the "
+"community."
+msgstr "既然我们已经认识到过劳的破坏性影响，现在让我们探讨这些症状可能源自我们的工作角色，甚至来自社区内部。"
+
+#: ../../growing-contributors/community-manager-self-care.md:232
+msgid ""
+"We earlier described that burnout is a combination of many factors but a "
+"recurring element is the realization, subconsciously or not, that we "
+"don’t feel our work is providing us the same sense of reward and purpose "
+"as it had once done before[^15]. Rewards don’t always equate to money or "
+"status but can simply be the deeper satisfaction and pleasure in the "
+"adhering to one’s values and achieving happiness."
+msgstr ""
+"我们先前提到，职业过劳是多种因素共同作用的结果，但一个反复出现的因素在于——无论是否意识到，我们逐渐发觉工作不再像过去那样[^15]带来同样的回报感和意义。回报并非总是等同于金钱或地位，它也可以仅仅是坚守个人价值观并获得幸福感所带来的深层满足与愉悦。"
+
+#: ../../growing-contributors/community-manager-self-care.md:234
+msgid "Lack of control"
+msgstr "缺乏掌控感"
+
+#: ../../growing-contributors/community-manager-self-care.md:236
+msgid ""
+"To feel a sense of accomplishment and ownership of a task, a role "
+"requires a suitable level of autonomy to achieve this. If we have the "
+"inability to influence our decisions or don’t have access to appropriate "
+"tools or resources, this can lead to the de-motivating feeling that our "
+"work and effort is not being appreciated enough or we are not trusted "
+"enough with this responsibility."
+msgstr "要让任务带来成就感和归属感，角色必须拥有适当的自主权来实现这一点。如果我们无法影响决策，或无法获取合适的工具与资源，就可能导致挫败感——觉得自己的工作和努力未获充分重视，或是未得到足够的信任来承担这份责任。"
+
+#: ../../growing-contributors/community-manager-self-care.md:238
+msgid ""
+"Lack of control can also manifest when dealing with other peoples' "
+"emotions. Although we can encourage and try to direct our members to "
+"adhere to our community’s code of conduct or a preferred course of action"
+" in a conflict, we evidently cannot remove their willfulness. We must "
+"only pre-empt their next move no matter how disastrous it may be. This "
+"can lead to the feeling of being constantly in firefighting-mode and not "
+"accomplishing anything."
+msgstr "在处理他人情绪时，失控感同样会显现。虽然我们可以鼓励并尝试引导成员遵守社区行为准则或在冲突中采取优选行动方案，但显然无法消除他们的任性妄为。无论后果多么严重，我们都只能预判他们的下一步行动。这可能导致一直处于被动应对状态而一事无成的挫败感。"
+
+#: ../../growing-contributors/community-manager-self-care.md:240
+msgid "Unfairness"
+msgstr "不公平"
+
+#: ../../growing-contributors/community-manager-self-care.md:242
+msgid ""
+"Unfairness within the role can be viewed as a number of different things "
+"that attribute to feeling powerless or being disrespected. Either you or "
+"others are treated unfairly, such as: office or community politics that "
+"create a culture of favoritism, lack of transparency in the top-down "
+"decisions, or a disproportionate amount of workload is allocated to you."
+msgstr "角色中的不公平可以体现在诸多方面，这些因素会让人感到无能为力或不受尊重。无论是你还是他人遭遇不公，例如：办公室或社区政治滋生的拉帮结派、自上而下决策缺乏透明度，或是分配给你的工作量严重失衡。"
+
+#: ../../growing-contributors/community-manager-self-care.md:244
+msgid "Insufficient reward"
+msgstr "奖励不足"
+
+#: ../../growing-contributors/community-manager-self-care.md:246
+msgid ""
+"You feel unappreciated, taken for granted or simply not satisfied in your"
+" role. Rewards don’t always need to be monetary but often this is the "
+"first thing to come under our scrutiny when the workload increases."
+msgstr "你感到自己的付出未被重视、被视为理所当然，或单纯对目前的角色不满。奖励不一定是金钱形式的，但当工作量增加时，金钱往往是我们最先审视的方面。"
+
+#: ../../growing-contributors/community-manager-self-care.md:248
+msgid ""
+"We also need social rewards where we gain the recognition from others. A "
+"lack of recognition can be from the company itself not appreciating our "
+"worth, the team’s lack of respect towards us, or from the community not "
+"seeing all the \"behind the scenes\" activities we perform."
+msgstr "我们也需要获得社会性奖励——来自他人的认可。这种认可缺失可能源于公司自身未能重视我们的价值、团队对我们的尊重不足，或是社区没有看到我们完成的所有\"幕后\"工作。"
+
+#: ../../growing-contributors/community-manager-self-care.md:250
+msgid ""
+"Intrinsic rewards are also important to maintain a healthy perception of "
+"our role. This is where you take the self-acknowledgment of doing a good "
+"job and feel accomplished. When we feel we aren’t living up to our "
+"standards we begin to feel disappointed and become de-motivated."
+msgstr "内在奖励对于保持对自身角色的健康认知同样重要。这是指你对出色完成工作产生的自我认可与成就感。当我们感到自己未能达到标准时，就会开始感到失望并丧失动力。"
+
+#: ../../growing-contributors/community-manager-self-care.md:252
+msgid ""
+"Sometimes we feel unsatisfied because we have a conflict of personal "
+"values with the company or project we work with. We are often asked to "
+"relay and even promote the decisions of the company to the community and "
+"these may not align with our own personal values. This can be seen as "
+"self-betrayal to our morals and build up resentment towards the company."
+msgstr "有时我们会感到不满意，因为我们的个人价值观与我们合作的公司或项目存在冲突。我们经常被要求向社区传达甚至推广公司的决策，而这些决策可能与我们的个人价值观不一致。这可以被视为对我们道德观的自我背叛，并逐渐积累对公司的怨恨。"
+
+#: ../../growing-contributors/community-manager-self-care.md:254
+msgid "Work overload"
+msgstr "工作超负荷"
+
+#: ../../growing-contributors/community-manager-self-care.md:256
+msgid ""
+"Probably the most common experience contributing to burnout is the over-"
+"burdening of one’s workload[^16], whether from our own doing or by "
+"someone else. This can occur when the quantity of work and expectations "
+"exceeds the amount of time or resources available. We may feel that most "
+"other employees expect work assigned to us is \"urgent\", when in fact it"
+" may not be. It’s important to maintain boundaries and stand your ground "
+"to resist an ever increasing list of things to do."
+msgstr ""
+"导致过劳的最常见原因或许是工作负担过重[^16]，无论这种压力源于自身还是他人。当工作量与期望值超出可用时间或资源时，这种情况就会发生。我们可能觉得其他同事交办的工作都\"十万火急\"，而实际上未必如此。关键是要保持界限，坚守立场，抵制日益增长的任务清单。"
+
+#: ../../growing-contributors/community-manager-self-care.md:258
+msgid "Lack of community"
+msgstr "缺乏社区"
+
+#: ../../growing-contributors/community-manager-self-care.md:260
+msgid ""
+"It goes without saying that community is extremely important; it fuels "
+"the purpose of the role as a source of motivation and companionship—a "
+"sense of belonging to you as a person. However, if this becomes stagnant,"
+" overwhelmed with toxic members, and feedback is non-existent, this can "
+"make the job feel stifled."
+msgstr "不言而喻，社区极其重要；它为这一角色提供动力源泉与情感归属——让你作为个体获得认同感。然而，若社区陷入停滞、充斥负面成员且缺乏反馈机制，这份工作就会令人窒息。"
+
+#: ../../growing-contributors/community-manager-self-care.md:262
+msgid "Preventing/treating burnout"
+msgstr "预防/应对职业过劳"
+
+#: ../../growing-contributors/community-manager-self-care.md:264
+msgid ""
+"If you feel yourself or anyone else succumbing to burnout then the most "
+"direct approach is to take a break from the source of the stress, which "
+"is more often work itself, and reflect on the more acute causes of your "
+"burnout[^17]."
+msgstr "若你或他人出现过劳征兆，最直接的解决方式是暂时远离压力源（通常是工作本身），并深入反思导致过劳的具体原因[^17]。"
+
+#: ../../growing-contributors/community-manager-self-care.md:266
+msgid "Use your holiday time"
+msgstr "善用你的休假时间"
+
+#: ../../growing-contributors/community-manager-self-care.md:268
+msgid ""
+"Don’t be afraid to utilize this time and don’t feel guilty either. Using "
+"your holiday does not demerit your dedication to the role, neither does "
+"it mean that everything will fall apart while away. Use this time to "
+"concentrate on yourself, and what gives you pleasure in life."
+msgstr "不要害怕利用这段时间，也无需感到愧疚。休假不会减损你对工作的投入，也不意味着离开时一切都会分崩离析。用这段时间专注于自己，寻找生活中能带给你快乐的事物。"
+
+#: ../../growing-contributors/community-manager-self-care.md:270
+msgid "Spend time with those you care about"
+msgstr "与你关心的人共度时光"
+
+#: ../../growing-contributors/community-manager-self-care.md:272
+msgid ""
+"Re-kindle your social relationships, they have probably missed you as a "
+"result of the developing burnout. Talk through how you’re feeling and "
+"enjoy your time with them so it is overall a pleasant experience."
+msgstr "重新点燃你的社交关系——由于逐渐加剧的职业过劳，他们可能一直很想念你。倾诉你的感受，享受与他们相处的时光，让这段共处成为美好的体验。"
+
+#: ../../growing-contributors/community-manager-self-care.md:274
+msgid ""
+"Try to generally stay clear of negative people in your life. This could "
+"mean letting them disappear from your social network, or limit your "
+"interaction with them. Remember, other people’s emotions can affect us "
+"both positive and negatively."
+msgstr "尽量远离生活中消极的人。这可能意味着让他们从你的社交圈中淡出，或减少与他们的互动。记住，他人的情绪会以积极或消极的方式影响我们。"
+
+#: ../../growing-contributors/community-manager-self-care.md:276
+msgid "Re-evaluate priorities"
+msgstr "重新评估优先事项"
+
+#: ../../growing-contributors/community-manager-self-care.md:278
+msgid ""
+"Identify what is important to you and reflect upon if your current "
+"lifestyle, or work life balance mirrors that. If they don’t, then "
+"prioritize what you wish to enjoy more, block out time in your schedule, "
+"and commit to it."
+msgstr "明确对你而言重要的事物，并反思当前的生活方式或工作与生活的平衡是否与之相符。若不相符，则优先安排你希望更多享受的事情，在日程中预留时间，并坚持执行。"
+
+#: ../../growing-contributors/community-manager-self-care.md:280
+msgid ""
+"Also evaluate your options and consider what the next steps would be to "
+"resolve the stressors you have. This could be coming to a solution or "
+"compromises with your line manager to reduce workload or other concerns "
+"you have. There may be a point that the only way to remove certain "
+"stressors in your life is to leave your job to improve your health."
+msgstr "同时评估你的选择，考虑解决压力源的下一步行动。这可能包括与直属经理达成解决方案或妥协，以减轻工作量或其他顾虑。有时，消除生活中某些压力源的唯一方法可能是离职以改善健康状况。"
+
+#: ../../growing-contributors/community-manager-self-care.md:282
+msgid "Practice self-care"
+msgstr "练习自我健康管理"
+
+#: ../../growing-contributors/community-manager-self-care.md:284
+msgid ""
+"Take the time to commit yourself fully to what ever self-care activity "
+"you want to enjoy and do it. Try and practice self-care daily, detaching "
+"yourself from as much work as possible and devote yourself to some \"me\""
+" time."
+msgstr "全身心投入你想享受的任何自我健康管理活动，并付诸实践。尝试每天练习自我健康管理，尽可能从工作中抽离，给自己一些\"独处时光\"。"
+
+#: ../../growing-contributors/community-manager-self-care.md:286
+msgid "Seek professional help"
+msgstr "寻求专业帮助"
+
+#: ../../growing-contributors/community-manager-self-care.md:288
+msgid ""
+"If all the other options have little or no affect on your physical or "
+"mental well being, or you feel you require immediate assistance, then do "
+"seek professional help as a matter of urgency."
+msgstr "如果其他方法对你的身心健康收效甚微或毫无作用，或者你感到需要立即援助，请务必紧急寻求专业帮助。"
+
+#: ../../growing-contributors/community-manager-self-care.md:290
+msgid "Work-life balance"
+msgstr "工作与生活的平衡"
+
+#: ../../growing-contributors/community-manager-self-care.md:292
+msgid ""
+"A healthy work-life balance is having a clear distinction between our "
+"personal and work lives without allowing one to dominate the other. Both "
+"are equally important and neither should be undervalued. We can find "
+"ourselves in unhealthy mindsets when forced to be stuck in either one "
+"extreme or the other, withholding an important sense of purpose and "
+"enjoyment from that part of our lives."
+msgstr "健康的工作生活平衡意味着在个人生活与职业生活之间划清界限，不让任何一方占据主导。两者同等重要，都不应被轻视。当我们被迫陷入任何一个极端时，就可能陷入不健康的心态，从而失去生活中那一部分应有的目标感和快乐。"
+
+#: ../../growing-contributors/community-manager-self-care.md:294
+msgid ""
+"It has also become more difficult in this day and age to detach ourselves"
+" physically from our work life. Technology has provided us such a "
+"convenience that we are in almost constant connection to it, and thus in "
+"connection to our online communities. It is a common place to check "
+"emails at all hours, or respond to members of communities on our social "
+"media network."
+msgstr "在这个时代，我们越来越难以从物理上脱离工作生活。科技带来的便利让我们几乎时刻保持在线状态，也因此与线上社群紧密相连。不分昼夜查看邮件或在社交媒体上回复社群成员，已成为普遍现象。"
+
+#: ../../growing-contributors/community-manager-self-care.md:296
+msgid ""
+"As well as this physical difficulty we may also have the emotional "
+"difficulty of switching off from work. We can feel it’s a requirement of "
+"our role to be available 24/7 and be responsive as a reflection of a "
+"caring and active community. This is often not the case, and in fact is "
+"counter productive in building a sustainable community and providing "
+"quality interactions with our members. Leaders don’t need to respond to "
+"all messages to be great."
+msgstr ""
+"除了物理层面的困难，我们在情感上也可能难以从工作中抽离。我们常误以为 24 "
+"小时待命、即时响应是体现关怀和活跃社群的职责要求。但事实往往并非如此，这种做法反而会阻碍可持续社群的构建以及与成员的高质量互动。优秀的领导者无需回复所有信息也能成就卓越。"
+
+#: ../../growing-contributors/community-manager-self-care.md:298
+msgid ""
+"Each person’s work life balance is different with each their own "
+"prioritizes. This is where self-care activities play a big part in "
+"establishing the distinction between work and personal life. Make a clear"
+" differentiation of what you view as work, like answering community "
+"requests or emails, arranging calls or meetings, etc. and the hours you "
+"aim to dedicate to work; anything outside of that communicate to yourself"
+" and to others that is your personal time. By dedicating a consistent and"
+" explicit downtime, we begin to develop a habit that our body and mind "
+"anticipates and begins to look forward to, making it easier to develop "
+"and maintain a good habit."
+msgstr "每个人的工作与生活平衡点各不相同，优先级也因人而异。此时，自我健康管理活动在划分工作与个人生活的界限中起着关键作用。你需要明确界定哪些行为属于工作范畴——比如回复社区请求或邮件、安排电话会议等——并设定专注工作的时段；除此之外的时间，请向自己和他人明确传达这是属于你的私人时间。通过坚持规划明确的下班时间，我们会逐渐形成身心都能预期并期待的习惯，从而更易于培养和维持这种良性作息。"
+
+#: ../../growing-contributors/community-manager-self-care.md:300
+msgid "Addiction"
+msgstr "成瘾"
+
+#: ../../growing-contributors/community-manager-self-care.md:302
+msgid ""
+"Work addiction, often referred to as workaholism, can affect anyone who "
+"is deeply embedded in an online community and often justifies their "
+"extensive work hours as commitment to the project. The inability to stop "
+"is often driven by the compulsive need to achieve status and success, or "
+"in some cases to escape emotional stress. Work addiction can be a vicious"
+" cycle where the feeling of achievement is an addictive \"high\" at the "
+"cost of our mental and physical well being, often not noticed until too "
+"late."
+msgstr "工作成瘾（通常被称为\"工作狂\"）可能影响任何深度参与网络社区的人，他们常将超长工作时间美化为对项目的奉献。这种难以停止的状态往往源于对地位成就的强迫性追求，或是逃避情感压力的需要。工作成瘾会形成恶性循环：以身心健康为代价换取的成就感如同令人上瘾的\"兴奋剂\"，往往等到察觉时为时已晚。"
+
+#: ../../growing-contributors/community-manager-self-care.md:304
+msgid ""
+"Work addiction, like other addictions, is difficult to acknowledge there "
+"is a problem to begin with. People suffering from work addiction are "
+"often in denial, convincing themselves work is a pleasure. Eventually "
+"this over compensation of effort and time, neglect of personal "
+"relationships and well being, leads to the inevitable experience of "
+"burnout."
+msgstr "工作成瘾与其他成瘾行为一样，起初很难意识到问题的存在。受工作成瘾困扰的人往往自我否认，说服自己工作是种乐趣。但这种过度投入时间精力、忽视人际关系与健康的状态，终将不可避免地导致崩溃。"
+
+#: ../../growing-contributors/community-manager-self-care.md:306
+msgid ""
+"It’s important we develop a healthy relationship with our role itself "
+"without feeling the need to be on the pedal at full gas. Try and assess "
+"what truly drives your motivations to achieve and does this require you "
+"to be online the amount of time you are. Do you find that you feed off "
+"external praise as form of validation of your work? Do feel that if you "
+"walked away from the community it would fall apart? Identify those "
+"moments of pleasure, whether it’s completing a task, or receiving a "
+"compliment from a community member or boss, and evaluate whether they are"
+" needed in the same doses you are currently experiencing them at."
+msgstr "关键在于建立与工作角色的健康关系，而非时刻保持全速运转。试着评估：真正驱动你取得成就的动机是什么？这种成就是否需要你保持当前的在线时长？你是否依赖外界赞扬来确认工作价值？是否觉得离开后社区就会崩溃？识别那些愉悦时刻——无论是完成任务，还是获得社区成员或上司的称赞——并评估是否仍需维持当前的体验强度。"
+
+#: ../../growing-contributors/community-manager-self-care.md:308
+msgid ""
+"We can also find that this need to achieve is a reaction to a heavy "
+"workload from the lack of resources within the team trying to prove to "
+"others the value the role and team brings to the project or company."
+msgstr "我们也可以发现，这种需要证明的需求实际上是对团队资源不足导致工作负担过重的反应——试图向他人证明该角色及团队为项目或公司带来的价值。"
+
+#: ../../growing-contributors/community-manager-self-care.md:310
+msgid ""
+"Reconsider these goals with the aim to reduce your workload. Are they "
+"achievable and maintainable with the current resources without "
+"sacrificing quality and a good work-life balance? If they aren’t, then "
+"consider prioritizing and communicating the most impactful goals that the"
+" team can achieve. Delegate any other tasks to suitable members or "
+"establish more flexible timelines, and anticipate time for possible "
+"firefighting as part of those deadlines."
+msgstr "重新审视这些目标，以减少工作量。在当前资源下，能否在不牺牲质量和良好工作生活平衡的前提下实现并维持这些目标？如果无法做到，请优先考虑并传达团队能达成的最具影响力的目标。其他任务可委派给合适的成员或设定更灵活的时间节点，同时预留出处理突发问题的时间作为截止日期的一部分。"
+
+#: ../../growing-contributors/community-manager-self-care.md:312
+msgid ""
+"Not only does this help to set reasonable expectations for the team "
+"members to achieve, but also promotes that a healthy work-life balance is"
+" an integral part of their schedule. This predictable schedule also helps"
+" you to provide better forecasting to the company or community."
+msgstr "这不仅有助于为团队成员设定合理的预期目标，更强调健康的工作生活平衡是他们日程安排中不可或缺的部分。这种可预测的时间安排也能让你为公司或社区提供更准确的前景预测。"
+
+#: ../../growing-contributors/community-manager-self-care.md:314
+msgid "Maintain boundaries"
+msgstr "维持边界"
+
+#: ../../growing-contributors/community-manager-self-care.md:316
+msgid ""
+"When reflecting upon our work-life balance, it is important to establish "
+"clear boundaries between the two. As we’ve said earlier, due to our "
+"nature of work, we find ourselves participating within the community, and"
+" this begins to eat into our personal time, leaving nothing else. This is"
+" tolerable only on a temporary basis and only when we are required for an"
+" intervention, but this should not be the norm. Boundaries help us "
+"establish where our work ends, and pleasure begins. We’re not saying that"
+" work isn’t pleasurable, but having a variety of activities other than "
+"work helps stimulate our minds and provide alternative creative outlets."
+msgstr "在思考工作与生活平衡时，明确划分两者界限至关重要。正如前文所述，由于工作性质特殊，我们常会发现自己过度投入社区事务，以致个人时间被蚕食殆尽。这种情况仅在需要紧急干预时暂时容忍，绝不应成为常态。界限能帮助我们划定工作终点与生活起点的分界线。我们并非认为工作缺乏乐趣，但工作之外拥有多元活动才能激发思维活力，提供更多创意出口。"
+
+#: ../../growing-contributors/community-manager-self-care.md:318
+msgid ""
+"These boundaries can also help the community acknowledge and accept your "
+"expectations of them as well of what they can expect from you. Be as "
+"transparent as possible by defining your available hours, and an "
+"escalation process for obtaining help outside of those hours. Highlight "
+"the importance of documenting community processes so members feel more "
+"informed on what they should do in incidences, with or without requiring "
+"assistance. The aim is to establish a consistent schedule, and to have "
+"the team and community respect it. Although they may not do so on every "
+"occasion, you will be able to use your boundaries to help prevent the "
+"feeling of guilt as you begin to embrace personal time as your own, as "
+"well as respecting others."
+msgstr "这些界限也能帮助社区认可并接受你对他们的期望，以及他们能从你这里获得什么。尽可能保持透明，明确你的可用时间，并制定在非工作时间获取帮助的升级流程。强调记录社区流程的重要性，让成员们在遇到问题时（无论是否需要协助）都能更清楚地知道该做什么。目的是建立一个稳定的时间安排，并让团队和社区都予以尊重。虽然他们可能不会每次都做到，但你可以利用这些界限来避免内疚感，开始将个人时间视为自己的权利，同时也尊重他人的时间。"
+
+#: ../../growing-contributors/community-manager-self-care.md:320
+msgid ""
+"Of course if there are any serious incidences that require your "
+"intervention during down-time, ensure you put into place mechanisms for "
+"the team to handle them rather than you being the only one who ‘can "
+"handle it.' These mechanisms can be an escalation process or a team "
+"effort to respond and review the response collectively. This helps "
+"encourages the mentality that everyone can lighten the load, especially "
+"when it eats into yours and their personal time."
+msgstr "当然，如果在休息时间出现需要你干预的严重事件，务必建立机制让团队能够处理，而不是只有你\"才能搞定\"。这些机制可以是升级流程，或是团队协作共同响应和评估处理方案。这有助于培养\"人人都能分担压力\"的心态，尤其是在问题侵占你和他人的个人时间时。"
+
+#: ../../growing-contributors/community-manager-self-care.md:322
+msgid ""
+"Maintaining personal boundaries is also extremely important as well. Our "
+"role often asks us to help members with their workload as well as "
+"interpersonal communication matters between themselves and other team "
+"members. But we need to be aware and recognize that we can’t solve every "
+"interpersonal issue or conflict–sometimes we just can’t become too "
+"involved."
+msgstr "维护个人边界同样至关重要。我们的职责常要求协助成员处理工作负荷及团队成员间的人际沟通问题。但必须清醒认识到，我们无法解决所有人际矛盾或冲突——有时过度介入反而适得其反。"
+
+#: ../../growing-contributors/community-manager-self-care.md:324
+msgid ""
+"As much as we don’t want to admit it, we must respect that we are not "
+"skilled or obligated to practice therapy if we feel it is required for a "
+"particular member. When the conversations or observations become more "
+"apparent in that direction, then aim to persuade them to seek medical or "
+"psychiatric help. Our role is to aid members, but there is only so much "
+"we can achieve from our position and that is OK."
+msgstr "尽管不愿承认，当发现某位成员明显需要专业心理干预时，我们必须尊重自身能力的边界。若对话或事态明显超出常规人际范畴，应引导其寻求专业医疗或精神科帮助。辅助成员是我们的职责，但明确职责边界才是对双方真正的负责。"
+
+#: ../../growing-contributors/community-manager-self-care.md:326
+msgid ""
+"It can be beneficial to partake in mental health training for you and "
+"your team to learn how to handle situations involving members in the "
+"community or team. This can help you apply a suitable process to follow "
+"upon if someone is beyond your ability and responsibility to help them."
+msgstr "建议你与团队参与心理健康相关培训，掌握处理社区或团队成员心理状况的应对方法。这能帮助建立标准化流程，当遇到超出能力范围的个案时，可遵循既定的专业指引妥善处置。"
+
+#: ../../growing-contributors/community-manager-self-care.md:328
+msgid "Sustainability"
+msgstr "可持续性"
+
+#: ../../growing-contributors/community-manager-self-care.md:330
+msgid ""
+"Sustainability is an extremely important goal to have for a community, "
+"often seen as a contributing factor to the project’s own success. This "
+"should always be at the forefront of our minds when developing tools and "
+"processes for the community, with the aim for the community to become "
+"self-reliant, self-driven, and empowered. But there is a lot of work to "
+"be done to achieve this, and we need to ensure we and our team are able "
+"to keep up."
+msgstr "可持续性是社区至关重要的目标，常被视为项目自身成功的推动因素。在开发社区工具与流程时，我们应始终将此铭记于心，致力于让社区实现自力更生、自我驱动和赋能。但要达成这一目标仍需付出大量努力，我们必须确保自身与团队能够持续跟进。"
+
+#: ../../growing-contributors/community-manager-self-care.md:332
+msgid ""
+"Things become unsustainable when we have set unrealistic expectations "
+"either upon ourselves or on the community. When it comes to ourselves we "
+"can underestimate our project timelines because we have attributed our "
+"motivation as part of the estimation: the drive that will get us over the"
+" last hurdle. Motivation is not an unlimited supply, and can fluctuate "
+"drastically due to external and internal factors. Try to extract "
+"motivation as a factor—although you may feel extremely excited about a "
+"project, don’t let that cloud your judgment on how long a project will "
+"take to complete. If not, you may see it negatively affecting your work "
+"life balance."
+msgstr "当我们对自己或社区设定不切实际的期望时，事情就会变得难以为继。就自身而言，我们可能因将个人动力纳入评估而低估项目周期——那种能推动我们跨越最后障碍的激情。但动力并非取之不竭，它会因内外因素剧烈波动。请将动力视为独立变量——即使你对项目充满热情，也别让这份激情影响你对项目耗时的客观判断。否则，你可能会发现工作与生活的平衡正因此受到损害。"
+
+#: ../../growing-contributors/community-manager-self-care.md:334
+msgid ""
+"We tend to also inaccurately assume the motivation of others in the "
+"community. By definition community member are volunteers and, yes, we are"
+" fortunate to have those exceptional members that go above and beyond "
+"what is required. However, we should not expect the same of all, in fact "
+"we should expect delays and anticipate them."
+msgstr "我们常常会错误地揣测社区中其他人的动机。从定义上说，社区成员都是志愿者，当然我们很幸运能拥有那些超越职责要求的杰出成员。但我们不应期待所有人都如此，事实上我们应该预见到工作延迟并为此做好准备。"
+
+#: ../../growing-contributors/community-manager-self-care.md:336
+msgid ""
+"By beginning to form clear boundaries, reduce your workload expectations,"
+" and improve estimations, you start to deliver on realistic schedules. "
+"Imagine you achieve a task within a week, rather than it taking triple "
+"that amount of time, because: you identified it as a priority; delegated "
+"other lower tasks to the team (or set the expectation it wouldn’t done at"
+" all); only worked within your allocated time; and were refreshed from "
+"recharging your mental well being with dedicated offline time. This "
+"combination of activities and processes was key to achieving success, "
+"thus triggering the event of providing and receiving continuous rewards, "
+"and helping towards reducing the probability of members developing "
+"burnout."
+msgstr "通过建立清晰的边界、降低工作负荷预期并改进时间预估，你开始能够兑现切实可行的时间表。想象你在一周内完成任务而非耗费三倍时间，这是因为：你将其明确为优先事项；将次要任务分派给团队（或明确告知某些工作无需完成）；仅在分配时间内专注工作；并通过专门离线时间来恢复心理能量。这种工作流程与方法的组合是实现成功的关键，既能持续提供和获得正向反馈，也有助于降低成员产生过劳的可能性。"
+
+#: ../../growing-contributors/community-manager-self-care.md:338
+msgid ""
+"The only thing that is ever consistent is time, so be aware that you may "
+"find the same rewards you gave yourself and others, change over time. "
+"Take time out to frequently reflect on what drives you and your "
+"community, positively review how much you have progressed, and assess "
+"what resources you have to adjust project goals accordingly without "
+"interfering, if possible, with a healthy work life balance."
+msgstr "唯一永恒不变的只有时间，因此要意识到你为自己和他人设定的奖励机制可能会随时间而改变。定期抽空反思驱动你及社区的动力源泉，积极审视已取得的进展，并评估现有资源以相应调整项目目标——在可能的情况下，尽量不影响健康的工作生活平衡。"
+
+#: ../../growing-contributors/community-manager-self-care.md:340
+msgid "Self-reflection"
+msgstr "自我反思"
+
+#: ../../growing-contributors/community-manager-self-care.md:342
+msgid "Through the looking glass"
+msgstr "以人为鉴"
+
+#: ../../growing-contributors/community-manager-self-care.md:344
+msgid ""
+"An important aspect of being a manager or leader is to provide good and "
+"constructive feedback to those that are on our team, as well as the "
+"community as a whole. We understand that feedback from upper line "
+"managers/other leaders and those that report directly to us is extremely "
+"important to understand their perception of us as a person and our "
+"activities representing them: if they truly reflect our efforts."
+msgstr "作为管理者或领导者，关键职责在于为团队成员乃至整个社区提供优质且富有建设性的反馈。我们深知来自上级管理者/其他领导者以及直接下属的反馈至关重要，这能帮助我们了解他们眼中作为个人代表的我们及其活动是否真实反映了我们的付出：即这些行为是否真正体现了我们的努力。"
+
+#: ../../growing-contributors/community-manager-self-care.md:346
+msgid ""
+"Retrospectives are now almost integral in software development teams to "
+"continuously improve individual or team performance and morale, and "
+"identify problems that need solving. However, we find we don’t often do a"
+" retrospective for ourselves, with ourselves."
+msgstr "回顾会议现在几乎是软件开发团队中不可或缺的一部分，用于持续提升个人或团队的表现和士气，并识别需要解决的问题。然而，我们发现我们很少为自己、与自己做回顾。"
+
+#: ../../growing-contributors/community-manager-self-care.md:348
+msgid ""
+"Introspection is the examination of one’s own conscious thoughts and "
+"feelings. This can refer to the mental state or in a spiritual sense, "
+"one’s soul. Self-reflection, introspection, and self-care are all "
+"intertwined with the aim to promote and sustain a positive direction for "
+"mental growth and development."
+msgstr "内省是指对自身意识思维和感受的检视。这既可以指心理状态，也可以从灵性层面理解为对灵魂的探求。自我反思、内省与自我健康管理相互交织，共同致力于推动并维持心智成长与发展的积极方向。"
+
+#: ../../growing-contributors/community-manager-self-care.md:350
+msgid ""
+"Introspection is extremely important for ourselves to evaluate our "
+"purpose and happiness we get from our actions, thoughts, and behavior. "
+"Since work is a big part of our lives, we want to ensure our role within "
+"the community and at our company aligns with our values. Or else we will "
+"find ourselves becoming more and more dissatisfied by the role’s "
+"insufficient rewards."
+msgstr "自省对我们至关重要，它能帮助我们评估自身行为、思想和行动背后的动机与获得感。鉴于工作是生活的重要组成部分，我们需要确保自己在社区及公司中的角色与个人价值观相符。否则，当角色带来的回报与预期不符时，不满情绪便会与日俱增。"
+
+#: ../../growing-contributors/community-manager-self-care.md:352
+msgid ""
+"But first we need to know what our values are, what qualities we enjoy "
+"out of the role, and the characteristics of the people we love to work "
+"with."
+msgstr "但首先我们需要明确自己的价值观、从这一角色中获得的乐趣特质，以及我们喜欢共事者的特点。"
+
+#: ../../growing-contributors/community-manager-self-care.md:354
+msgid ""
+"Take some time to truly answer these, as gaining this self-awareness does"
+" not happen over night. Use these answers to help you reflect on how you "
+"feel when you do the things you do, both positively and negatively. "
+"Journaling is often a good, yet simple, practice you can do to clarify "
+"your thoughts."
+msgstr "花些时间认真回答这些问题，因为这种自我认知并非一蹴而就。利用这些答案来反思你在日常行为中的感受，无论是积极的还是消极的。写日记通常是厘清思绪的一种简单而有效的方式。"
+
+#: ../../growing-contributors/community-manager-self-care.md:356
+msgid ""
+"Practicing self-reflection can be difficult to begin with due to "
+"previously discussed inner restrictions we place upon ourselves as "
+"community leaders: the need of being invincible; distorted perception of "
+"our worth; and lack of visible support. However, in creating a routine of"
+" introspection and self-reflection as part of our self-care, we will "
+"begin to exercise more control over our emotions: have inner clarity on "
+"our long term goals, and ability to identify more solutions-focused "
+"activities rather than the previously emotionally driven ones."
+msgstr "作为社区领导者，我们往往会给自己设置前文提及的内在限制：追求无懈可击、对自身价值的扭曲认知以及缺乏可见的支持体系。这些都使得自我反思的实践在初期尤为困难。但若能将内省与自我反思作为自我健康管理的日常功课，我们将逐渐掌握情绪的主动权：既能在长远目标上保持内心澄明，又能专注于以解决问题为导向的行动，而非受情绪驱使的旧有模式。"
+
+#: ../../growing-contributors/community-manager-self-care.md:358
+msgid "Tackling imposter syndrome"
+msgstr "应对冒充者综合征"
+
+#: ../../growing-contributors/community-manager-self-care.md:360
+msgid ""
+"This term was first defined by psychologists Dr. Pauline Clance and Dr. "
+"Suzanne Imes[^18] in the 1970s as the internal experience one feels, "
+"despite overwhelming amount of evidence proving otherwise, that they are "
+"incompetent and that their success was a product of luck or fraud within "
+"their field of expertise."
+msgstr ""
+"该术语最初由心理学家Dr. Pauline Clance和Dr. Suzanne Imes[^18]在 20 世纪 70 "
+"年代提出，定义为个体内心的一种体验——尽管存在大量反证，他们仍坚信自己能力不足，并认为自己在专业领域的成功只是运气或欺骗的产物。"
+
+#: ../../growing-contributors/community-manager-self-care.md:362
+msgid ""
+"Often those that experience impostor syndrome have a hard time "
+"internalizing and accepting their success by minimizing positive feedback"
+" and comparing other’s work to their own. This more frequently happens if"
+" we have started a new job, taken on new responsibilities or roles, or "
+"returned from a recent career break. In order to compensate for this "
+"chronic self-doubt we begin to work late, procrastinate, or try to "
+"justify our position in unnecessary ways."
+msgstr "冒充者综合征患者往往难以内化和接纳自身成就，他们习惯弱化积极反馈，并将他人工作与自身进行比较。当我们开始新工作、承担新职责或角色、或是结束职业空窗期重返岗位时，这种情况更易发生。为补偿这种长期自我怀疑，我们开始加班工作、拖延事务，或以不必要的方式试图证明自身价值的合理性。"
+
+#: ../../growing-contributors/community-manager-self-care.md:364
+msgid ""
+"Dr. Valerie Young further categorized these types of flawed thinking[^19]"
+" of what sufferers believe it takes to be competent into the following "
+"subgroups:"
+msgstr "Dr. Valerie Young进一步将患者认为胜任所需具备的这些错误思维类型划分[^19]为以下几种子类："
+
+#: ../../growing-contributors/community-manager-self-care.md:366
+msgid "Perfectionist"
+msgstr "完美主义者"
+
+#: ../../growing-contributors/community-manager-self-care.md:368
+msgid ""
+"Perfectionism and imposter syndrome tend to go hand in hand. When a "
+"perfectionist doesn’t achieve their unreasonable high standards they "
+"question their abilities and thus if they deserve to be in the position "
+"they are in. If they do successfully achieve their goal, there always "
+"seems to be that unattainable objective they expected to have reached or "
+"knowledge they expected to have but didn’t."
+msgstr "完美主义与冒名顶替综合征往往相伴而生。当完美主义者未能达到他们不合理的高标准时，就会质疑自己的能力，进而怀疑自己是否配得上现有的职位。即便他们成功实现了目标，似乎总存在某些他们预期达到却未能企及的目标，或是他们以为自己应该掌握却未能获得的知识。"
+
+#: ../../growing-contributors/community-manager-self-care.md:370
+msgid "Natural Genius"
+msgstr "天才"
+
+#: ../../growing-contributors/community-manager-self-care.md:372
+msgid ""
+"These sufferers feel that the natural ability to achieve a task is a "
+"direct correlation to their competence. If they take a long time to "
+"master something they feel that it has less merit. Not only do they have "
+"high standards but they also have to complete it without breaking too "
+"much of a sweat."
+msgstr "这些受困者认为，完成一项任务的天然能力直接等同于他们的个人价值。若需耗费过长时间掌握某件事，他们便会觉得这件事不值得投入。他们不仅设定严苛标准，还要求自己必须毫不费力地达成目标。"
+
+#: ../../growing-contributors/community-manager-self-care.md:374
+msgid "Soloist"
+msgstr "独行侠"
+
+#: ../../growing-contributors/community-manager-self-care.md:376
+msgid ""
+"These are those that shy away from asking for help because they fear that"
+" would expose them for who they believe others to see them as – a fraud. "
+"Although being independent is good, it can lead to sub par results "
+"without acknowledging that two heads are often better than one."
+msgstr "这类人羞于寻求帮助，唯恐暴露他们在他人眼中的真实形象——一个冒牌货。尽管独立自主是美德，但若拒绝承认\"三个臭皮匠顶个诸葛亮\"的道理，往往会导致平庸的成果。"
+
+#: ../../growing-contributors/community-manager-self-care.md:378
+msgid "Expert"
+msgstr "专家"
+
+#: ../../growing-contributors/community-manager-self-care.md:380
+msgid ""
+"People with this complex of impostor syndrome often dismiss their success"
+" because they don’t know everything there is to know about the topic or "
+"role. Often these people dislike to be put on the spot in case there is "
+"some aspect they were unaware of and thus exposed as a fraud."
+msgstr "患有这种冒名顶替综合征的人常常否定自己的成就，因为他们认为自己尚未掌握该领域或角色的全部知识。这类人通常不愿被置于聚光灯下，唯恐暴露出自己未知的方面而被视为骗子。"
+
+#: ../../growing-contributors/community-manager-self-care.md:382
+msgid "Superhuman"
+msgstr "超人"
+
+#: ../../growing-contributors/community-manager-self-care.md:384
+msgid ""
+"Usually these people often over compare themselves to others in their "
+"industry, the seemly high achievers, and push themselves to work harder "
+"and longer to measure up to them. They also tend to heavily rely on "
+"external validation."
+msgstr "这类人往往会过度与行业内的佼佼者进行比较，并强迫自己投入更多时间和精力以追赶他人。他们往往极度依赖外部认可来确认自我价值。"
+
+#: ../../growing-contributors/community-manager-self-care.md:386
+msgid ""
+"Since our role as community managers is relatively new and less "
+"established than other roles within the tech industry, we can find "
+"ourselves struggling to easily define and confirm our decisions due to "
+"the lack of expertise and documentation in this field. We can find "
+"ourselves feeling more aware of being identified as a fraud especially "
+"when the company or project has never had a community manager before."
+msgstr "由于社区管理者这个角色在科技行业中相对新颖且尚未完全确立，我们常因该领域专业知识和文献的匮乏而难以明确界定和验证自身决策。当公司或项目此前从未设立过社区管理者职位时，我们更容易产生\"即将被识破\"的焦虑感。"
+
+#: ../../growing-contributors/community-manager-self-care.md:388
+msgid ""
+"However, there are ways to help keep impostor syndrome in check and "
+"increase your self confidence."
+msgstr "不过，有些方法可以帮助抑制冒名顶替综合征并增强自信心。"
+
+#: ../../growing-contributors/community-manager-self-care.md:390
+msgid "Celebrate successes"
+msgstr "庆祝成功"
+
+#: ../../growing-contributors/community-manager-self-care.md:392
+msgid ""
+"Frequently write down our successes and enjoy them. Journaling is a good "
+"way to have comparisons from earlier successes and how they lead up to "
+"our current ones. Include our own account of successes but better yet "
+"include testimonials from others, be it from community members responding"
+" to our thread posts, or colleagues praising our work. This will help "
+"support that feeling that we are contributing value in our role and "
+"others confirmed it."
+msgstr "经常记录并享受我们的成功。写日记是个好方法，可以对比早期的成功经历，看看它们如何促成当前的成就。不仅要记录自己对成功的描述，更好的是加入他人的评价，无论是社区成员对我们发帖的回应，还是同事对我们工作的赞赏。这有助于强化我们在角色中创造价值的感受，并得到他人证实。"
+
+#: ../../growing-contributors/community-manager-self-care.md:394
+msgid ""
+"\"We don’t attach to people or things, we attach to uninvestigated "
+"concepts that we believe to be true in the moment\""
+msgstr "\"我们并非执着于人或物，而是执着于那些未经审视、当下信以为真的观念\""
+
+#: ../../growing-contributors/community-manager-self-care.md:396
+msgid "— Byron Katie"
+msgstr "— Byron Katie"
+
+#: ../../growing-contributors/community-manager-self-care.md:398
+msgid "Change your perspective"
+msgstr "改变你的视角"
+
+#: ../../growing-contributors/community-manager-self-care.md:400
+msgid ""
+"We are hindered by our fear of being exposed as a fraud, but usually we "
+"don’t have the proof that confirms that is the case. We often wrongly "
+"assume and interpret actions of others as a direct cause and effect to "
+"things we have done or said. This is because we are viewing the situation"
+" from our perspective and only from ours."
+msgstr "我们常因害怕被揭穿是冒牌货而止步不前，但通常并没有确凿证据能证实这种担忧。我们总是错误地将他人的行为归因于自己言行造成的直接后果，这是因为我们仅从单一视角——即自己的立场——来解读情境。"
+
+#: ../../growing-contributors/community-manager-self-care.md:402
+msgid ""
+"Concentrate on what value your work brings to the subject or community "
+"and visualize that success. Imagining good things happening can give you "
+"the confidence, and motivation, to commit to the task at hand and "
+"overcome the fear."
+msgstr "专注于你的工作能为该主题或社区带来什么价值，并设想成功的景象。想象美好的结果能赋予你信心和动力，从而全身心投入手头的任务并克服恐惧。"
+
+#: ../../growing-contributors/community-manager-self-care.md:404
+msgid "Working in progress"
+msgstr "进行中的作品：学习、改进与成长"
+
+#: ../../growing-contributors/community-manager-self-care.md:406
+msgid ""
+"We are always learning, improving, and progressing. Treat our successes "
+"as continuously developing projects, adding refinements into each "
+"iteration. Not only will we be able to record multiple successes but also"
+" help acknowledge that perfectionism is impossible and mistakes are "
+"opportunities for better learning."
+msgstr "我们始终在学习、改进和进步。将成功视为持续发展的项目目标，在每次迭代中不断完善。这样不仅能记录多次成功，还能帮助我们认识到完美主义不可取，错误反而是更好的学习机会。"
+
+#: ../../growing-contributors/community-manager-self-care.md:408
+msgid "Network of support"
+msgstr "支持网络"
+
+#: ../../growing-contributors/community-manager-self-care.md:410
+msgid ""
+"We understand the power of a community, the ability to bring people "
+"together and with the right directions—and a whole lot of love—we can "
+"move mountains. So why do we feel we can’t have the same mentality toward"
+" helping ourselves?"
+msgstr "我们深知社区的力量，它能将人们凝聚在一起。在正确的引导和满满的爱意之下，我们甚至可以移山填海。但为什么我们总觉得，对自己却无法抱持同样的心态呢？"
+
+#: ../../growing-contributors/community-manager-self-care.md:412
+msgid ""
+"During stressful and tough times, whether it’s just a bad day, or more "
+"chronic episodes of illness, research has shown that having a "
+"strong—though not required to be large—social support network is "
+"beneficial to our well being[^20] Without a social support network it can"
+" feel lonely and isolating which can lead into further depression and "
+"anxiety[^21]. Often it’s our social support network, even if we don’t "
+"think we have one, that first spots there is a change with our behavior "
+"before we do."
+msgstr ""
+"无论是遭遇糟糕的一天，还是长期与疾病抗争，研究表明：拥有一个紧密（未必庞大）的社会支持网络对身心健康至关重要[^20]。若缺乏这样的网络，孤独与隔绝感便会滋生，进而加剧抑郁和焦虑[^21]。往往正是这个支持网络——即便我们自以为孤立无援——最先察觉我们行为举止的异常，甚至早于我们自己的觉察。"
+
+#: ../../growing-contributors/community-manager-self-care.md:414
+msgid ""
+"A social support network is made up of friends, family, and peers[^22]. "
+"Although this is different from a support group, which is more formal and"
+" often prescribed, a social support network is something we can develop "
+"as part of our community and team structure to help tackle stress, and "
+"promote self-care."
+msgstr ""
+"社交支持网络由朋友、家人和同伴组成[^22]。虽然这与更正式且通常有组织安排的支持小组不同，但社交支持网络是我们作为社区和团队结构的一部分可以构建的，以帮助应对压力并促进自我健康管理。"
+
+#: ../../growing-contributors/community-manager-self-care.md:416
+msgid ""
+"Look towards those around you who you have a good relationship with and "
+"you feel you can confide in them. When you are feeling stressed or want "
+"to simply vent your frustrations, come to rely on your social support "
+"network to let go in a safe and healthy way. This unburdening of tension "
+"helps untangle your emotions, seek clarity on an aspect of decision "
+"making, or just lightens your mood by the sheer enjoyment of speaking "
+"with them."
+msgstr "看看你周围那些与你关系良好、让你感到可以信任的人。当你感到压力或只是想发泄不满时，依靠你的社交支持网络，以安全健康的方式释放情绪。这种压力的释放能帮助你理清情绪，在决策时获得更清晰的思路，或者仅仅通过与他们的交谈就让你心情愉悦。"
+
+#: ../../growing-contributors/community-manager-self-care.md:418
+msgid ""
+"We may find that those within the community, whom we spend most of our "
+"time with, grow to be included in our social support network and that "
+"each individual provides us with a unique form of support to help in "
+"different ways in our lives. But also remember that we should also serve "
+"as a form of support to others."
+msgstr "我们可能会发现，社区中的那些朝夕相处的伙伴，逐渐成为了我们社会支持网络的一部分。每个人都以独特的方式为我们提供支持，在生活中给予不同形式的帮助。但同样要记住，我们也应当成为他人支持网络中的一环。"
+
+#: ../../growing-contributors/community-manager-self-care.md:420
+msgid ""
+"The more education and communicating with our members about the benefits "
+"of self-care, the more likely we will see it being practiced and "
+"encouraged by others. This in turns helps create a more caring and "
+"accepting atmosphere in the community. Education can be in the form of "
+"discussions promoting self-care, celebrating mental health "
+"campaigns[^23], adding to the community guidelines[^24] when on-boarding "
+"team members[^25] to speak to the team if their workload or other aspects"
+" is affecting their health, or organizing training for team members on "
+"mental health awareness."
+msgstr "越是向成员普及自我健康管理的益处并加强沟通，就越能看到这种行为被实践和鼓励。这反过来有助于在社区中营造更加关怀与包容的氛围。教育可以采取多种形式：开展倡导自我健康管理的讨论、举办心理健康宣传活动[^23]，在新成员加入[^25]时将相关条款加入社区指南[^24]（如鼓励团队成员在工作量或其他因素影响健康时及时沟通），或组织心理健康意识培训。"
+
+#: ../../growing-contributors/community-manager-self-care.md:422
+msgid ""
+"If you see a member on the team or community showing symptoms of burnout "
+"then reach out to them and let them know you are concerned for their well"
+" being. Identify that you are there to support them and more often they "
+"will respond positively and work together to alleviate their stress[^26]."
+msgstr "如果你发现团队或社区中某位成员出现过劳症状，请主动联系并表达对其健康的关切。表明你随时准备提供支持，大多数情况下他们会积极回应，并共同协作缓解压力[^26]。"
+
+#: ../../growing-contributors/community-manager-self-care.md:424
+msgid ""
+"However, it is important to make clear here that if we feel that we are "
+"unable to assist a community member’s emotional stress beyond our role’s "
+"capacity, then encourage that they seek professional health advice "
+"immediately. We may find ourselves feeling guilty we are unable to "
+"provide support, but we need to remind ourselves that we are not "
+"professionally trained[^27] and thus could provide—though well "
+"intended—ill advice. Remember that other emotions affect those around "
+"them including how member’s stress can affect ours."
+msgstr ""
+"不过，这里必须明确的是，如果我们感到自己无法超越角色能力范围来缓解社区成员的情绪压力时，应鼓励其立即寻求专业医疗建议。我们可能会因无力提供支持而产生愧疚感，但需要提醒自己：我们并非受过专业训练的人员[^27]，即便出于好意，也可能给出不当建议。要记住，其他情绪会影响周围人——包括成员的压力如何反过来影响我们自身。"
+
+#: ../../growing-contributors/community-manager-self-care.md:426
+msgid ""
+"Similarly in our own direct reports' one-to-ones ensure you also have "
+"regular one-to-ones with your line manager to highlight any problems you "
+"have achieving your workload or effecting your well being. Be as direct "
+"as you are with helping others, as you are with yourself."
+msgstr "同样地，在与直属下属进行一对一沟通时，也要确保定期与你的直属上级开展一对一交流，及时反馈你在完成工作量或保持身心健康方面遇到的任何问题。帮助他人时要像对待自己一样坦诚直接。"
+
+#: ../../growing-contributors/community-manager-self-care.md:428
+msgid "Resources"
+msgstr "资源"
+
+#: ../../growing-contributors/community-manager-self-care.md:430
+msgid "**High-Octane Women: How Superachievers Can Avoid Burnout**"
+msgstr "**High-Octane Women: How Superachievers Can Avoid Burnout**"
+
+#: ../../growing-contributors/community-manager-self-care.md:432
+msgid "by _Sherrie Bourg Carter Psy.D_"
+msgstr "作者：*Sherrie Bourg Carter Psy.D*"
+
+#: ../../growing-contributors/community-manager-self-care.md:433
+msgid ""
+"[Burnout, Your first ten "
+"steps](https://www.theburnoutproject.com.au/product/burnoutbookpaperback/)"
+msgstr ""
+"[Burnout, Your first ten "
+"steps](https://www.theburnoutproject.com.au/product/burnoutbookpaperback/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:435
+msgid "by _Amy Imms M.D_"
+msgstr "作者：*Amy Imms M.D*"
+
+#: ../../growing-contributors/community-manager-self-care.md:436
+msgid "**Burn-out : The High Cost of High Achievement**"
+msgstr "**Burn-out : The High Cost of High Achievement**"
+
+#: ../../growing-contributors/community-manager-self-care.md:438
+msgid "by _Dr Herbert Freudenberger and Geraldine Richelson_"
+msgstr "作者：*Dr Herbert Freudenberger and Geraldine Richelson*"
+
+#: ../../growing-contributors/community-manager-self-care.md:439
+msgid ""
+"**Women’s Burnout: How to Spot It, How to Reverse It, and How to Prevent "
+"It**"
+msgstr ""
+"**Women's Burnout: How to Spot It, How to Reverse It, and How to Prevent "
+"It**"
+
+#: ../../growing-contributors/community-manager-self-care.md:441
+msgid "by _Dr Herbert Freudenberger and Dr Gail North_"
+msgstr "作者：*Dr Herbert Freudenberger and Dr Gail North*"
+
+#: ../../growing-contributors/community-manager-self-care.md:442
+msgid "**The Secret Thoughts of Successful Women**"
+msgstr "**The Secret Thoughts of Successful Women**"
+
+#: ../../growing-contributors/community-manager-self-care.md:444
+msgid "by _Dr Valerie Young_"
+msgstr "作者：*Dr Valerie Young*"
+
+#: ../../growing-contributors/community-manager-self-care.md:445
+msgid ""
+"**The imposter phenomenon in high achieving women: Dynamics and "
+"therapeutic intervention.**"
+msgstr ""
+"**The imposter phenomenon in high achieving women: Dynamics and "
+"therapeutic intervention.**"
+
+#: ../../growing-contributors/community-manager-self-care.md:447
+msgid "by _Dr Pauline Clance and Dr Suzanne Imes_"
+msgstr "作者：*Dr Pauline Clance and Dr Suzanne Imes*"
+
+#: ../../growing-contributors/community-manager-self-care.md:449
+msgid ""
+"World Health Organization, [website](https://www.who.int/news-room/fact-"
+"sheets/detail/self-care-health-interventions)"
+msgstr ""
+"World Health Organization, [website](https://www.who.int/news-room/fact-"
+"sheets/detail/self-care-health-interventions)"
+
+#: ../../growing-contributors/community-manager-self-care.md:451
+msgid ""
+"The Community Roundtable, [2019 State of Community Management "
+"Survey](https://communityroundtable.com/state-of-community-management"
+"/burn-out-risk-is-high-for-online-community-managers/)"
+msgstr ""
+"The Community Roundtable, [2019 State of Community Management "
+"Survey](https://communityroundtable.com/state-of-community-management"
+"/burn-out-risk-is-high-for-online-community-managers/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:453
+msgid ""
+"Sherrie Bourg Carter Psy.D, [Emotions Are Contagious - Choose Your "
+"Company Wisely](https://www.psychologytoday.com/us/blog/high-octane-"
+"women/201210/emotions-are-contagious-choose-your-company-wisely)"
+msgstr ""
+"Sherrie Bourg Carter Psy.D, [Emotions Are Contagious - Choose Your "
+"Company Wisely](https://www.psychologytoday.com/us/blog/high-octane-"
+"women/201210/emotions-are-contagious-choose-your-company-wisely)"
+
+#: ../../growing-contributors/community-manager-self-care.md:455
+msgid ""
+"Principles of Social Psychology, [The Role of Affect: Moods and "
+"Emotions](https://opentextbc.ca/socialpsychology/chapter/the-role-of-"
+"affect-moods-and-emotions/)"
+msgstr ""
+"Principles of Social Psychology, [The Role of Affect: Moods and "
+"Emotions](https://opentextbc.ca/socialpsychology/chapter/the-role-of-"
+"affect-moods-and-emotions/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:457
+msgid ""
+"Alex Budak, [In-Control vs. Under-Control "
+"Leadership](https://www.huffpost.com/entry/in-control-vs-under-control-"
+"leadership_b_12590650)"
+msgstr ""
+"Alex Budak, [In-Control vs. Under-Control "
+"Leadership](https://www.huffpost.com/entry/in-control-vs-under-control-"
+"leadership_b_12590650)"
+
+#: ../../growing-contributors/community-manager-self-care.md:459
+msgid ""
+"Psychology Today , [Why Do We Like People Who Are Similar to "
+"Us?](https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-"
+"do-we-people-who-are-similar-us)"
+msgstr ""
+"Psychology Today , [Why Do We Like People Who Are Similar to "
+"Us?](https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-"
+"do-we-people-who-are-similar-us)"
+
+#: ../../growing-contributors/community-manager-self-care.md:461
+msgid ""
+"World Health Organization, "
+"[website](https://www.who.int/mental_health/evidence/burn-out/en/)"
+msgstr ""
+"World Health Organization, "
+"[website](https://www.who.int/mental_health/evidence/burn-out/en/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:463
+msgid ""
+"Herbert J. Freudenberger, [Staff Burn-"
+"Out](https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x)"
+msgstr ""
+"Herbert J. Freudenberger, [Staff Burn-"
+"Out](https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x)"
+
+#: ../../growing-contributors/community-manager-self-care.md:465
+msgid ""
+"Team Blind, [Close to 60 Percent of Surveyed Tech Workers Are Burnt "
+"Ou](https://www.teamblind.com/blog/index.php/2018/05/29/close-to-60"
+"-percent-of-surveyed-tech-workers-are-burnt-out-credit-karma-tops-the-"
+"list-for-most-employees-suffering-from-burnout/)t"
+msgstr ""
+"Team Blind, [Close to 60 Percent of Surveyed Tech Workers Are Burnt "
+"Out](https://www.teamblind.com/blog/index.php/2018/05/29/close-to-60"
+"-percent-of-surveyed-tech-workers-are-burnt-out-credit-karma-tops-the-"
+"list-for-most-employees-suffering-from-burnout/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:467
+msgid ""
+"Dr Herbert Freudenberger and Geraldine Richelson, \"Burn-out : The High "
+"Cost of High Achievement\""
+msgstr ""
+"Dr Herbert Freudenberger and Geraldine Richelson, \"Burn-out : The High "
+"Cost of High Achievement\""
+
+#: ../../growing-contributors/community-manager-self-care.md:469
+msgid ""
+"Maslach, C., & Leiter, M. P. (2008), [Early predictors of job burnout and"
+" engagement. Journal of Applied Psychology, 93(3), "
+"498–512](https://doi.apa.org/doi/10.1037/0021-9010.93.3.498)"
+msgstr ""
+"Maslach, C., & Leiter, M. P. (2008), [Early predictors of job burnout and"
+" engagement. Journal of Applied Psychology, 93(3), "
+"498–512](https://doi.apa.org/doi/10.1037/0021-9010.93.3.498)"
+
+#: ../../growing-contributors/community-manager-self-care.md:471
+msgid ""
+"R Bianchi, L Janin [Burnout, depression and paranoid ideation: a cluster-"
+"analytic study](https://academic.oup.com/occmed/article/69/1/35/5151234)"
+msgstr ""
+"R Bianchi, L Janin [Burnout, depression and paranoid ideation: a cluster-"
+"analytic study](https://academic.oup.com/occmed/article/69/1/35/5151234)"
+
+#: ../../growing-contributors/community-manager-self-care.md:473
+msgid ""
+"Dr Herbert Freudenberger and Dr Gail North, \"Women’s Burnout: How to "
+"Spot It, How to Reverse It, and How to Prevent It\""
+msgstr ""
+"Dr Herbert Freudenberger and Dr Gail North, \"Women's Burnout: How to "
+"Spot It, How to Reverse It, and How to Prevent It\""
+
+#: ../../growing-contributors/community-manager-self-care.md:475
+msgid ""
+"Freudenberger’s 12 stages, [Freudenberger’s 12 "
+"stages](https://www.burnoutgeese.com/freudenberger-burnout.html)"
+msgstr ""
+"Freudenberger's 12 stages, [Freudenberger's 12 "
+"stages](https://www.burnoutgeese.com/freudenberger-burnout.html)"
+
+#: ../../growing-contributors/community-manager-self-care.md:477
+msgid ""
+"Adeva [What causes employee burnout in the tech "
+"industry](https://adevait.com/blog/workplace/burnout-tech-industry#2"
+"-what-causes-employee-burnout-in-the-tech-industry)"
+msgstr ""
+"Adeva [What causes employee burnout in the tech "
+"industry](https://adevait.com/blog/workplace/burnout-tech-industry#2"
+"-what-causes-employee-burnout-in-the-tech-industry)"
+
+#: ../../growing-contributors/community-manager-self-care.md:479
+msgid ""
+"The American Institute of Stress: Survey, [The AIS Workplace Stress "
+"Survey](https://www.stress.org/workplace-stress)"
+msgstr ""
+"The American Institute of Stress: Survey, [The AIS Workplace Stress "
+"Survey](https://www.stress.org/workplace-stress)"
+
+#: ../../growing-contributors/community-manager-self-care.md:481
+msgid ""
+"Pyschology Today, [When Life Loses Its Meaning: The Heavy Price of High "
+"Achievement](https://www.psychologytoday.com/us/blog/high-octane-"
+"women/201109/when-life-loses-its-meaning-the-heavy-price-high-"
+"achievement)"
+msgstr ""
+"Psychology Today, [When Life Loses Its Meaning: The Heavy Price of High "
+"Achievement](https://www.psychologytoday.com/us/blog/high-octane-"
+"women/201109/when-life-loses-its-meaning-the-heavy-price-high-"
+"achievement)"
+
+#: ../../growing-contributors/community-manager-self-care.md:483
+msgid ""
+"Dr Pauline Clance and Dr Suzanne Imes, \"The imposter phenomenon in high "
+"achieving women: Dynamics and therapeutic intervention.\""
+msgstr ""
+"Dr Pauline Clance and Dr Suzanne Imes, \"The imposter phenomenon in high "
+"achieving women: Dynamics and therapeutic intervention.\""
+
+#: ../../growing-contributors/community-manager-self-care.md:485
+msgid "Dr Valerie Young, \"The Secret Thoughts of Successful Women\""
+msgstr "Dr Valerie Young, \"The Secret Thoughts of Successful Women\""
+
+#: ../../growing-contributors/community-manager-self-care.md:487
+msgid ""
+"American Pyschological Association, [Manage stress: Strengthen your "
+"support network](https://www.apa.org/topics/manage-stress-social-support)"
+msgstr ""
+"American Psychological Association, [Manage stress: Strengthen your "
+"support network](https://www.apa.org/topics/manage-stress-social-support)"
+
+#: ../../growing-contributors/community-manager-self-care.md:489
+msgid ""
+"Siv Grav, Ove Hellzèn, Ulla Romild, Eystein Stordal, [Association between"
+" social support and depression in the general population: the HUNT study,"
+" a cross‐sectional "
+"survey](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2011.03868.x)"
+msgstr ""
+"Siv Grav, Ove Hellzèn, Ulla Romild, Eystein Stordal, [Association between"
+" social support and depression in the general population: the HUNT study,"
+" a cross‐sectional "
+"survey](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2011.03868.x)"
+
+#: ../../growing-contributors/community-manager-self-care.md:491
+msgid ""
+"Mayo Clinic, [Social support: Tap this tool to beat "
+"stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management"
+"/in-depth/social-support/art-20044445)"
+msgstr ""
+"Mayo Clinic, [Social support: Tap this tool to beat "
+"stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management"
+"/in-depth/social-support/art-20044445)"
+
+#: ../../growing-contributors/community-manager-self-care.md:493
+msgid ""
+"Mental Health Foundation [Mental Health Awareness "
+"Week](https://www.mentalhealth.org.uk/campaigns/mental-health-awareness-"
+"week)"
+msgstr ""
+"Mental Health Foundation [Mental Health Awareness "
+"Week](https://www.mentalhealth.org.uk/campaigns/mental-health-awareness-"
+"week)"
+
+#: ../../growing-contributors/community-manager-self-care.md:495
+msgid ""
+"Ubuntu [Ubuntu "
+"Burnout](https://wiki.ubuntu.com/BuildingCommunity/Burnout/)"
+msgstr ""
+"Ubuntu [Ubuntu "
+"Burnout](https://wiki.ubuntu.com/BuildingCommunity/Burnout/)"
+
+#: ../../growing-contributors/community-manager-self-care.md:497
+msgid ""
+"Ubuntu Burnout Help, [Ubuntu Burnout "
+"Hehelp](https://wiki.ubuntu.com/BuildingCommunity/Burnout/Help)"
+msgstr ""
+"Ubuntu Burnout Help, [Ubuntu Burnout "
+"Help](https://wiki.ubuntu.com/BuildingCommunity/Burnout/Help)"
+
+#: ../../growing-contributors/community-manager-self-care.md:499
+msgid "Jono Bacon, _Detecting and Treating Burnout_, \"The Art of Community\""
+msgstr "Jono Bacon, *Detecting and Treating Burnout*, \"The Art of Community\""
+
+#: ../../growing-contributors/community-manager-self-care.md:501
+msgid ""
+"Chartered Management Institute [How to Talk About Depression at "
+"Work](https://www.managers.org.uk/insights/news/2019/september/how-to-"
+"talk-about-depression-at-work)"
+msgstr ""
+"Chartered Management Institute [How to Talk About Depression at "
+"Work](https://www.managers.org.uk/insights/news/2019/september/how-to-"
+"talk-about-depression-at-work)"

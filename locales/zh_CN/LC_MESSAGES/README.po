@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../README.md:1
+msgid "The Open Source Way"
+msgstr "开源之道"
+
+#: ../../README.md:3
+msgid ""
+"[The Open Source Way](https://www.theopensourceway.org/) is a (somewhat "
+"opinionated) guidebook for anyone interested in managing open source "
+"communities."
+msgstr "[开源之道](https://www.theopensourceway.org/) 是一本带有一定观点立场的指南，面向所有对开源社区管理感兴趣的人。"
+
+#: ../../README.md:5
+msgid ""
+"It collects best practices for initiating, nurturing, growing, and "
+"maintaining groups of passionate contributors."
+msgstr "它汇集了关于如何发起、培育、发展并维护一群热情贡献者的最佳实践。"
+
+#: ../../README.md:7
+msgid "Translations and localizations"
+msgstr "翻译与本地化"
+
+#: ../../README.md:8
+msgid "The Open Source Way is available in the following languages:"
+msgstr "《开源之道》提供以下语言版本："
+
+#: ../../README.md:9
+msgid "[English](https://github.com/theopensourceway/guidebook) (en_US)"
+msgstr "[英语](https://github.com/theopensourceway/guidebook) (en_US)"
+
+#: ../../README.md:10
+msgid ""
+"[Chinese](https://github.com/theopensourceway/guidebook/tree/main/l10n/cn) "
+"(CN)"
+msgstr "[中文](https://github.com/theopensourceway/guidebook/tree/main/l10n/cn) (CN)"
