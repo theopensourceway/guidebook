@@ -20,11 +20,11 @@ Following some basic guidelines for coordinating release announcements can ensur
 
 Follow or adapt this process for a major point release (X.0):
 
-1.  No less than three weeks from release date:
+1. No less than three weeks from release date:
 
     a.  Create a collaborative document (Etherpad, Google Doc) to include highlighted features for the release announcement, press release, and blog post.
 
-2.  Two weeks from release date:
+2. Two weeks from release date:
 
     a.  Generate a changelog outlining notable changes to the release that will need to be documented and included within the main changelog file.
 
@@ -32,17 +32,17 @@ Follow or adapt this process for a major point release (X.0):
 
     c.  Create press release and send to your organization's media relations team for vetting.
 
-3.  One week from release date:
+3. One week from release date:
 
     a.  Schedule social media content for distribution before, during, and after release date.
 
-4.  Three days from release date:
+4. Three days from release date:
 
     a.  Confirm release manager and engineering lead have signed off on release announcement and blog post.
 
     b.  Confirm media relations staff have signed off on press release.
 
-5.  Two days from release date:
+5. Two days from release date:
 
     a.  Complete all final QA/smoke tests.
 
@@ -50,11 +50,11 @@ Follow or adapt this process for a major point release (X.0):
 
     c.  Stage all documentation and review it for display issues.
 
-6.  One day before release date:
+6. One day before release date:
 
     a.  Send copies of press release to relevant media outlets.
 
-7.  Day of release:
+7. Day of release:
 
     a.  Make all code and documentation visible to the world.
 
@@ -66,11 +66,11 @@ Follow or adapt this process for a major point release (X.0):
 
 Follow or adapt this process for a Y point release (X.Y):
 
-1.  No less than 2 weeks from release date:
+1. No less than 2 weeks from release date:
 
     a.  Create a collaborative document (Etherpad, Google Doc) to include highlighted features for the release announcement and blog post.
 
-2.  One week from release date:
+2. One week from release date:
 
     a.  Schedule social media content for distribution before, during, and after release date.
 
@@ -78,7 +78,7 @@ Follow or adapt this process for a Y point release (X.Y):
 
     c.  Merge any relevant content from the updated changelog into the release announcement and blog post.
 
-3.  Two days from release date:
+3. Two days from release date:
 
     a.  Ensure the release manager and engineering lead have signed off on release announcement and blog post.
 
@@ -88,7 +88,7 @@ Follow or adapt this process for a Y point release (X.Y):
 
     d.  Stage all documentation and review it for display issues.
 
-4.  Day of release:
+4. Day of release:
 
     a.  Make all code and documentation visible to the world.
 
@@ -100,7 +100,7 @@ Follow or adapt this process for a Y point release (X.Y):
 
 Follow or adapt this process for a minor Z point release (X.Y.Z):
 
-1.  No less than one week from release date:
+1. No less than one week from release date:
 
     a.  Schedule social media content for distribution before, during, and after release date.
 
@@ -108,7 +108,7 @@ Follow or adapt this process for a minor Z point release (X.Y.Z):
 
     c.  Merge any relevant content from the updated changelog into the release announcement and blog post.
 
-2.  Two days from release date:
+2. Two days from release date:
 
     a.  Ensure the release manager and engineering lead have signed off on release announcement and blog post.
 
@@ -118,7 +118,7 @@ Follow or adapt this process for a minor Z point release (X.Y.Z):
 
     d.  Stage all documentation and review it for display issues.
 
-3.  Day of release:
+3. Day of release:
 
     a.  Make all release artifacts and documentation visible to the world, if not already (release may be synced to mirrors ahead of actual release announcement).
 
@@ -126,7 +126,7 @@ Follow or adapt this process for a minor Z point release (X.Y.Z):
 
 ## After all major releases and significant point releases
 
-1.  Conduct a retrospective to see what, if anything, could be done to improve the next release cycle.
+1. Conduct a retrospective to see what, if anything, could be done to improve the next release cycle.
 
 ## Writing a press release/release announcement
 Writing and distributing a release announcement would seem relatively straightforward; however, some strategies for doing this work are more effective than others. Specifically, you should write your release announcement in a way that makes it most likely for a media outlet to pick it up.

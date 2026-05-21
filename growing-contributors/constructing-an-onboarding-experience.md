@@ -77,23 +77,23 @@ Your project will have any number of contributor pathways specific to it, but th
 
 *Community-focused* pathways are opportunities for contribution that may not require specialized technical knowledge on the part of participants. These are pathways focused on helping new contributors document the project, raise awareness of and market the project, plan community meetings and events, etc.—all extraordinarily important aspects of a project's eventual success. Examples include:
 
-1.  Documenting workflow and governance processes
-2.  Onboarding and mentoring new members
-3.  Localizing content into various languages
-4.  Copywriting (for website, newsletters, blogs)
-5.  Managing social media
-6.  Organizing events
+1. Documenting workflow and governance processes
+2. Onboarding and mentoring new members
+3. Localizing content into various languages
+4. Copywriting (for website, newsletters, blogs)
+5. Managing social media
+6. Organizing events
 
 *Technically focused* contributor pathways, on the other hand, are contributions requiring specialized knowledge of software development (often in a particular computing language). These pathways are focused on enchancing or refining the body of software a community maintains. Examples include:
 
-1.  Adding new features and documentation
-2.  Fixing existing bugs and triaging issues
-3.  Refactoring existing work to improve it
-4.  Performing quality assurance
-5.  Improving user interface and user experience
-6.  Release engineering
-7.  Creating and maintaining project roadmap
-8.  Code and user interface localization
+1. Adding new features and documentation
+2. Fixing existing bugs and triaging issues
+3. Refactoring existing work to improve it
+4. Performing quality assurance
+5. Improving user interface and user experience
+6. Release engineering
+7. Creating and maintaining project roadmap
+8. Code and user interface localization
 
 When assessing your project's contributor pathways, ask yourself: Does your project currently offer new (and existing) contributors opportunities to contribute rewardingly to (or even take ownership of) work in each of these areas? If not, one general way to begin expanding your project is by making concerted efforts to formalize, refine, document, and advertise these contributor pathways.
 
@@ -101,6 +101,6 @@ We call these "pathways" because they allow participants to deepen investment in
 
 ## Resources: Onboarding examples from open source communities
 
-1.  [OpenStack Upstream Institute](https://docs.openstack.org/upstream-training/)
-2.  [Kubernetes Contributor Experience Special Interest Group](https://github.com/kubernetes/community/tree/master/sig-contributor-experience)
-3.  [GitLab Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/)
+1. [OpenStack Upstream Institute](https://docs.openstack.org/upstream-training/)
+2. [Kubernetes Contributor Experience Special Interest Group](https://github.com/kubernetes/community/tree/master/sig-contributor-experience)
+3. [GitLab Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/)

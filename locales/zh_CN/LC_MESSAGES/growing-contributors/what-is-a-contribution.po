@@ -1,0 +1,183 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../growing-contributors/what-is-a-contribution.md:7
+msgid "What Is a Contribution?"
+msgstr "什么是贡献？"
+
+#: ../../growing-contributors/what-is-a-contribution.md:9
+msgid ""
+"There is a common misunderstanding that only code and possibly documentation"
+" are a \"true\" contribution to an open source project. This terrible idea "
+"has a name that deserves to stay a part of history, \"code is king.\" Let's "
+"have no more of that."
+msgstr "们普遍存在一种误解，认为只有代码和文档才能算作对开源项目的\"真正\"贡献。这种糟糕的观念有个应当被历史淘汰的名称——\"代码为王\"。让我们彻底摒弃这种想法。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:11
+msgid ""
+"In truth, there are exponentially more ways to contribute than just those "
+"two ways. And exponentially more value for the project and the diverse group"
+" of contributors making those contributions."
+msgstr "事实上，贡献方式远不止这两种，其呈现指数级增长态势。项目及其多元化的贡献者群体通过这些贡献所获得的价值，同样呈指数级增长。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:13
+msgid ""
+"**An open source contribution**   Any original, intentional, and substantive"
+" object given freely to an open source community, under the licensing of "
+"that community. A contribution can come from an individual or a community."
+msgstr "**开源贡献**   在社区许可下，自愿无偿提供给开源社区的原创性、实质性成果。贡献可来自个人或群体。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:16
+msgid ""
+"**An open source contributor**   Any individual person involved in making "
+"Contributions to the community. Communities are interpersonal by their "
+"nature. They consist of humans, not organizations. Organizations can send "
+"their members, staff, leaders, and so forth out to make contributions to a "
+"community as a contributor."
+msgstr "**开源贡献者**   任何为社区做出贡献的个人。社区本质上是人际关系的集合，由人而非组织构成。组织可以派遣其成员、员工、领导者等以贡献者身份参与社区建设"
+
+#: ../../growing-contributors/what-is-a-contribution.md:19
+msgid "Examples of specific contributions (objects):"
+msgstr "具体贡献形式示例（对象）："
+
+#: ../../growing-contributors/what-is-a-contribution.md:21
+msgid "An idea."
+msgstr "一个想法。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:22
+msgid "A design suggestion."
+msgstr "一个设计建议。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:23
+msgid "Creating or improving a process."
+msgstr "创建或改进流程。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:24
+msgid "Performing any sustained effort."
+msgstr "执行任何持续性的工作"
+
+#: ../../growing-contributors/what-is-a-contribution.md:25
+msgid ""
+"A piece of content, such as a document, release announcement, interview, "
+"how-to article, operations page, and so forth."
+msgstr "内容作品，例如文档、版本发布公告、访谈、操作指南文章、运维页面等"
+
+#: ../../growing-contributors/what-is-a-contribution.md:26
+msgid ""
+"Code, a type of content that instructs machines to do things, regardless of "
+"the type of code."
+msgstr "代码，一种指示机器执行操作的内容形式，无论代码类型如何"
+
+#: ../../growing-contributors/what-is-a-contribution.md:27
+msgid "Physical materials, such as servers or contributor gifts."
+msgstr "实体物资，例如服务器或贡献者礼品。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:28
+msgid ""
+"Monetary, where possible and welcome. (This is not always an easy or even "
+"possible way to contribute to many open source projects.)"
+msgstr "资金支持（在可行且受欢迎的情况下）。（对于许多开源项目而言，这并非总是容易甚至可行的贡献方式。）"
+
+#: ../../growing-contributors/what-is-a-contribution.md:29
+msgid "Being a moderator on a forum."
+msgstr "担任论坛版主。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:30
+msgid "Helping at an event"
+msgstr "在活动中提供协助"
+
+#: ../../growing-contributors/what-is-a-contribution.md:31
+msgid "Being the manager for a release."
+msgstr "担任版本版本经理"
+
+#: ../../growing-contributors/what-is-a-contribution.md:32
+msgid "A website design."
+msgstr "一份网站设计。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:33
+msgid "An automation script."
+msgstr "一个自动化脚本。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:34
+msgid "A test suite."
+msgstr "一套测试用例集。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:35
+msgid "Testing and bug reporting."
+msgstr "测试和错误报告。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:36
+msgid "Build a relationship with between two projects."
+msgstr "建立两个项目间的合作关系"
+
+#: ../../growing-contributors/what-is-a-contribution.md:37
+msgid "Write a marketing plan."
+msgstr "撰写营销方案"
+
+#: ../../growing-contributors/what-is-a-contribution.md:38
+msgid "Creating a roadmap."
+msgstr "制定路线图"
+
+#: ../../growing-contributors/what-is-a-contribution.md:39
+msgid "Performing project management (PM) skills for an effort in the community."
+msgstr "在社区项目中施展项目管理(PM)技能"
+
+#: ../../growing-contributors/what-is-a-contribution.md:40
+msgid "Doing quantitative or qualitative analysis."
+msgstr "进行定量或定性分析。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:41
+msgid "Creating a logo."
+msgstr "设计一个标志。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:42
+msgid "Establishing a project's Code of Conduct."
+msgstr "制定项目行为准则"
+
+#: ../../growing-contributors/what-is-a-contribution.md:43
+msgid "Helping the project with legal considerations."
+msgstr "为项目提供法律方面的支持。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:44
+msgid "Building a contributor/maintainer/leader recruiting process."
+msgstr "建立贡献者/维护者/领导者的招募流程。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:45
+msgid "And so forth."
+msgstr "诸如此类。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:47
+msgid ""
+"Practically any skill you might learn in a job role, from customer service "
+"to product management, can underly a contribution. Any need you can imagine "
+"another community having, might be a need of an open source community and "
+"can form the basis of a contribution."
+msgstr "从客户服务到产品管理，你在工作岗位上学到的几乎所有技能都能成为贡献的基础。你能想象到的其他社区可能存在的任何需求，都可能是开源社区的需求，并能构成贡献的基础。"
+
+#: ../../growing-contributors/what-is-a-contribution.md:49
+msgid ""
+"It is useful to be mindful of the breadth and depth of types of "
+"contributions. As part of the practice of community management, you will "
+"have to be aware of the many ways people contribute to a project. Then you "
+"can thank them for their contribution, connecting their action from the "
+"individual back to the whole and the greater effort."
+msgstr "关注贡献类型的广度和深度很有裨益。作为社区管理实践的一部分，你需要意识到人们为项目做贡献的多种方式。这样你才能感谢他们的贡献，将他们的个人行动与整体及更宏大的努力联系起来。"
