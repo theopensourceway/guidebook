@@ -102,5 +102,5 @@ We call these "pathways" because they allow participants to deepen investment in
 ## Resources: Onboarding examples from open source communities
 
 1.  [OpenStack Upstream Institute](https://docs.openstack.org/upstream-training/)
-2.  [Kubernetes Contributor Experience Special Interest Group](https://github.com/kubernetes/community/tree/master/sig-contributor-experience)
-3.  [GitLab Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/)
+2.  [Kubernetes Contributor Experience Special Interest Group](https://github.com/kubernetes/community/tree/main/sig-contributor-experience)
+3.  [GitLab Merge Request Coach](https://handbook.gitlab.com/job-description-library/expert/merge-request-coach/)

@@ -17,7 +17,7 @@ So from this introduction you should take two important points:
 
 In particular, this guide is a living document that endeavors to gather and spread a diverse group of voices who are similarly (and somewhat-opinionatedly) collecting the best ways to create and manage an open source software community.
 
-These voices are all part of [this community of practice around open source software community management](https://theopensourceway.org).
+These voices are all part of [this community of practice around open source software community management](https://www.theopensourceway.org/).
 
 ## The shape of things (i.e., assumptions we are making)
 When you look at this guide's table of contents, notice the organizational flow: from user to participant to contributor. This arrangement specifically tracks our view of how a community comes about and grows. And it all starts with a need. If you've worked in open source projects and communities, you've likely seen the cycle many times. It goes something like this:
@@ -56,7 +56,7 @@ You can see this pathway to project success doesn't necessarily emphasize expert
 
 In this journey, there are many best practices we recommend, including how to put together a plan for measuring your community's progress. We also list some specific areas to be careful of and watch out for, including a robust discussion on self-care and mental health considerations for community managers themselves.
 
-Our best way of more-deeply conveying all this information is with stories. Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in [The Open Source Way community](https://theopensourceway.org) to gather all these stories of why.
+Our best way of more-deeply conveying all this information is with stories. Aside from stories that naturally arise in the body of the chapter, there are other areas in the guidebook and in [The Open Source Way community](https://www.theopensourceway.org/) to gather all these stories of why.
 
 ## Structure of this guide
 Each section of this guide consists of one or more chapters.

@@ -74,7 +74,7 @@ If creating an inclusive community sounds overwhelming, remember that the commun
 
 ### Step one: Stop saying you're a meritocracy
 
-The first step to a more inclusive open source project involves understanding the meritocracy myth: The more you believe in meritocracy, the more biased your project is [likely to be](https://www2.deloitte.com/au/en/blog/diversity-inclusion-blog/2019/meritocracy-unraveling-paradox.html).
+The first step to a more inclusive open source project involves understanding the meritocracy myth: The more you believe in meritocracy, the more biased your project is likely to be.
 
 Why? Purely meritocratic projects [don't acknowledge](https://gap.hks.harvard.edu/paradox-meritocracy-organizations) that people enter on unequal playing fields. If an open source maintainer isn't aware that women often have less time to contribute, or that LGBTQ+ contributors are more likely to endure online abuse, they won't take steps to make the community more inclusive. As a result, they risk losing the diverse contributors they worked hard to recruit.
 

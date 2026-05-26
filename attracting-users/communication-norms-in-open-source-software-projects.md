@@ -79,7 +79,7 @@ In this description—just a single paragraph—we learn:
 
 Let's take another example from a popular project: Kubernetes.
 
-When visiting the project home page, [kubernetes.io](http://kubernetes.io/), a visitor immediately sees the following explanation:
+When visiting the project home page, [kubernetes.io](https://kubernetes.io/), a visitor immediately sees the following explanation:
 
 > Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications. It groups containers that make up an application into logical units for easy management and discovery. Kubernetes builds upon 15 years of experience of running production workloads at Google, combined with best-of-breed ideas and [practices from the community](https://kubernetes.io/).
 
@@ -159,7 +159,7 @@ Do yourself and your community a favor and make your issue tracker very easy to 
 
 Not everyone who uses your software will be familiar with your community's conventions for filing a useful bug report. To save you and the bug reporter time, offer an issue template to ensure you receive the information you need to reproduce the reported error and effectively triage it. For example, you may need to know what version of the software or what operating system was in use when an error occurred. If common information is required for reproducing errors, ask for it in an issue template.
 
-Common fields in issue templates include a summary of the issue, steps to reproduce it, the actual behavior the user observes, the intended behavior for the software, and a request for log files or screenshots to help guide the issue reviewer in better understanding the bug report. Several issue trackers support templates for bug reports, including [GitHub](https://docs.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository), [GitLab](https://docs.gitlab.com/ee/user/project/description_templates.html), [Redmine](https://www.redmine.org/plugins/redmine_issue_templates), and [Trac](https://trac-hacks.org/wiki/TracTicketTemplatePlugin).
+Common fields in issue templates include a summary of the issue, steps to reproduce it, the actual behavior the user observes, the intended behavior for the software, and a request for log files or screenshots to help guide the issue reviewer in better understanding the bug report. Several issue trackers support templates for bug reports, including [GitHub](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository), [GitLab](https://docs.gitlab.com/user/project/description_templates/), [Redmine](https://www.redmine.org/plugins/redmine_issue_templates), and [Trac](https://trac-hacks.org/wiki/TracTicketTemplatePlugin).
 
 If you find yourself asking for the same information over and over again in response to different bug reports, then congratulations. You have uncovered an area of your template in need of improvement.
 
@@ -322,7 +322,7 @@ When a project launches or consists of a small group of people working together,
 
 The most effective way to achieve communication in open source projects is to show others kindness and courtesy, and to assume good intent upon first contact with people you've never met. Though this chapter contains any number of helpful best practices for effective communication, simply acting with graciousness to other people is the most important step one can take to communicate well. Remember there is a human being reading what you have written, and remember to treat them with the same respect you want for yourself.
 
-[^guides]: For a sample style guide, see [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/) or the [style guide for contributing to Mozilla Firefox](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html), a project that employs multiple programming languages in its development.
+[^guides]: For a sample style guide, see [PEP 8 — Style Guide for Python Code](https://peps.python.org/pep-0008/) or the [style guide for contributing to Mozilla Firefox](https://firefox-source-docs.mozilla.org/code-quality/coding-style/index.html), a project that employs multiple programming languages in its development.
 
 [^not-working]: The authors are grateful for the work of Kent C.Dodds and Sara Drasner in their article [An Open Source Etiquette Guidebook](https://css-tricks.com/open-source-etiquette-guidebook/).
 

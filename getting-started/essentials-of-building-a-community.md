@@ -34,12 +34,12 @@ When you (and possibly your organization) are considering forming an open source
 
 Questions like these will help you determine whether forming a community is the appropriate approach for you and your team. For example, organizations like a university and a branch of the armed forces would have two very different approaches to getting things done. Their reasons for forming any kind of community may be vastly different (or unexpectedly aligned).
 
-Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively ([community](getting-started/community-101.md)).
+Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively ([community](community-101.md).
 
 Other considerations you may face when forming an open source community include:
 
 * You are interested in the benefits of open collaboration and innovation. You might already have or are planning a new technology, and open source is a way to find like-minded collaborators. Or you may just have a feeling that this is the right approach for your plans.
-* Attracting enthusiasts to your project is a key part of your [growth strategy](getting-started/creating-an-open-source-product-strategy.md), and you've identified that open source contributors of all types are good enthusiasts for you.
+* Attracting enthusiasts to your project is a key part of your [growth strategy](building-a-strategy.md), and you've identified that open source contributors of all types are good enthusiasts for you.
 * The scientific method is core to your mission, purpose, and/or practices, and you see the benefit of positioning your software toolchain, infrastructure, and other resources as something your users should be able to contribute to and become maintainers of.
 * Your organization is one that is open, collaborative, and communal by nature. You may create right-sized open source projects, where the users and contributors are closely aligned in some way. For example, collaborators at a university: If there is no legal barrier to starting a project, why not start one? You never know who might find it and benefit from it in the future.
 
@@ -55,7 +55,7 @@ If you or your organization find these opportunities appealing—and you're will
 ## Setting goals and strategy
 When you decide to initiate a community-driven project, some of your first considerations will be the mission, vision, goals, and strategic direction of that project. Articulating these things—and writing them down somewhere the entire community can review and comment on them—will likely occupy most of your attention in the project's early days.
 
-[Setting effective strategic goals for your project](getting-started/setting-goals.md) involves asking key questions like:
+[Setting effective strategic goals for your project](building-a-strategy.md) involves asking key questions like:
 
 1. What is the project?
 1. Who are the project's users?
@@ -70,12 +70,12 @@ The more thoroughly you can answer these questions at the project's outset, the 
 ## Recruiting project members
 An effective community requires more than simply opening the door and waiting for people to join. Leaders must look at the skills and knowledge the project needs, research who might provide these, and work to ensure these participants both find the project and consider it appealing enough to join.
 
-To make sure a useful product results from your efforts, consider inviting representatives from any groups who are potentially affected by the project. Affected groups who may benefit from representation include potential users, other technical projects affected by your work (such as projects that depend on yours, or build on it), and people who are currently under-represented in your project's leadership. Project leaders must take explicit action to determine [who stakeholders are](getting-started/setting-goals.md) and to engage representatives of those stakeholders.
+To make sure a useful product results from your efforts, consider inviting representatives from any groups who are potentially affected by the project. Affected groups who may benefit from representation include potential users, other technical projects affected by your work (such as projects that depend on yours, or build on it), and people who are currently under-represented in your project's leadership. Project leaders must take explicit action to determine [who stakeholders are](building-a-strategy.md) and to engage representatives of those stakeholders.
 
 The principle behind such engagement is that users, and other groups who may be affected indirectly by a project, have needs that are often hidden from outsiders. Bringing in representatives of all affected groups helps the project produce a more useful product that all can enjoy, and that is fair to all. There is a practical motivation for early engagement too: you avoid the risk that someone will denounce your project at a late stage and prevent its adoption.
 
 ### Onboarding new members
-Leading an open source community often involves taking some responsibility for the project's [onboarding experience](growing-contributors/constructing-an-onboarding-experience.md): the experience new members have when they arrive at the project and seek to get involved.
+Leading an open source community often involves taking some responsibility for the project's [onboarding experience](../growing-contributors/constructing-an-onboarding-experience.md): the experience new members have when they arrive at the project and seek to get involved.
 
 Onboarding project members often includes the work of:
 
@@ -92,7 +92,7 @@ Building a diverse community can also lead to a more innovative and resilient pr
 
 > A diverse, inclusive organization is an organization that's more innovative: It can see more angles on potential problems, speak more readily to the complexity of those problems, imagine more intelligent and multi-faceted solutions, and spot the biases in what they're creating. It's also an organization that's harder to disrupt: Enlisting diverse perspectives means focusing additional sets of uniquely-trained eyes on the horizon, scanning for what may lie ahead. While it's impossible to predict all the changes that will impact your organization in a month, a year, or five years, tapping a broader spectrum of insights means you'll be more nimble and resilient when encountering change. And a general spirit of inclusivity throughout the organization ensures that everyone feels both capable of and comfortable with speaking up when they spot potential threats.
 
-That "general spirit of inclusivity" is critical for [building open source communities with diverse memberships](attracting-users/building-diverse-open-source-communities-by-making-them-includive-first.md). Although a code of conduct is critical to welcoming diverse groups, it is insufficient for building a diverse community, because it addresses only *negative behavior*; it does not necessarily speak to ways leaders and other project members should actively seek out representatives of excluded groups. Some steps include:
+That "general spirit of inclusivity" is critical for [building open source communities with diverse memberships](../attracting-users/building-diverse-open-source-communities-by-making-them-includive-first.md). Although a code of conduct is critical to welcoming diverse groups, it is insufficient for building a diverse community, because it addresses only *negative behavior*; it does not necessarily speak to ways leaders and other project members should actively seek out representatives of excluded groups. Some steps include:
 
 * Inviting potentially affected members of under-represented groups onto leadership. People identified as "minorities" tend to get many such requests, and often feel frustrated because their recommendations haven't been followed in other projects. So the person inviting them has to be able to explain the impact of the project and show evidence that their recommendations will be taken seriously.
 * Asking project members to identify members of the excluded groups and invite them to the project, or connect them with project leaders.
@@ -100,7 +100,7 @@ That "general spirit of inclusivity" is critical for [building open source commu
 Although a diversity committee may help to promote the importance of diversity on a project, diversity is the responsibility of every project member and should be considered in every project decision.
 
 ## Nurturing contributors
-Project leaders should watch for ways they can invite members to play larger volunteer roles in the project, hopefully [turning the project's *users* into *contributors*](growing-contributors/from-users-to-contributors.md). When a member shows interest or initiative, the leader should encourage it through a conversation. Invitations to do more might sound like:
+Project leaders should watch for ways they can invite members to play larger volunteer roles in the project, hopefully [turning the project's *users* into *contributors*](../growing-contributors/from-users-to-contributors.md). When a member shows interest or initiative, the leader should encourage it through a conversation. Invitations to do more might sound like:
 
 * "I see that you took a strong interest in the proposed shutdown feature. Would you join the team working on it? We expect it to require an hourly weekly meeting for four weeks, plus some time for development."
 * "You mentioned when you joined our group that you had deployed our product at your company. Could you meet with our marketing team for half an hour to explain how you presented the product and won approval?"
@@ -111,7 +111,7 @@ Note that each request includes an estimate of the time involved. Not every invi
 As with recruitment and other aspects of managing members, development must be done with special and conscious attention to encouraging women and members of other historically excluded groups to flex their muscles in new responsibilities. Never assume that a certain type of person is suited (or not suited) to a particular task. When in doubt, ask.
 
 ## Guiding decisions and resolving conflicts
-Every open source project operates according to a [governance model](growing-contributors/project-and-community-governance.md). That model is rarely unchanged throughout the project's history; instead, it evolves as the community grows and its participants determine the best ways to divide work and allocate decision-making responsibility.
+Every open source project operates according to a [governance model](../growing-contributors/project-and-community-governance.md). That model is rarely unchanged throughout the project's history; instead, it evolves as the community grows and its participants determine the best ways to divide work and allocate decision-making responsibility.
 
 Most open source project governance models aim to secure community consensus on key decisions, because open source projects tend to operate best through consensus. "Even when open source governance focuses on membership and voting, consensus is always there, like oxygen in the air," [writes long-time community manager Karsten Wade](https://allthingsopen.org/articles/consensus-and-the-open-source-ai-definition). "People participate by consent—they can walk away if they don't like a decision. Votes usually follow socialization, not directives from leadership. Most decisions are already in agreement before a vote is even called." While achieving consensus isn't possible in all cases, it remains a goal that motivates inclusive behavior from project participants.
 
@@ -120,14 +120,14 @@ Every project operates with different governance practices and mechanisms. For i
 Community leaders should therefore understand—and work to deliberately architect and refine—the project's governance model so project participants have a genuine sense of agency when working to impact the project's direction.
 
 ## Recognizing and rewarding community members
-[Volunteers come to an open source project for many reasons](guiding-participants/why-people-participate-in-open-source-communities.md). Experts want to create standards around their practices, students come to hone their skills, and everyone wants to make better technology for the world. But at all levels, people appreciate being rewarded for their work and will contribute more if they feel rewarded.
+[Volunteers come to an open source project for many reasons](../guiding-participants/why-people-participate-in-open-source-communities.md). Experts want to create standards around their practices, students come to hone their skills, and everyone wants to make better technology for the world. But at all levels, people appreciate being rewarded for their work and will contribute more if they feel rewarded.
 
-Leading an open source project often involves developing a system for those rewards. A community's reward system should reflect the project's mission and vision and connect with contributors' motivations for joining. For exmaple, a badging system [might help reward contributors seeking public recognition for their good work](guiding-participants/incentivizing-and-rewarding-participants.md) and help you identify community members who might be able to contribute at higher levels—even become project leaders themselves.
+Leading an open source project often involves developing a system for those rewards. A community's reward system should reflect the project's mission and vision and connect with contributors' motivations for joining. For exmaple, a badging system [might help reward contributors seeking public recognition for their good work](../guiding-participants/incentivizing-and-rewarding-participants.md) and help you identify community members who might be able to contribute at higher levels—even become project leaders themselves.
 
 ## Building project leadership
 Getting volunteers to rise into leadership roles is difficult work. Most joined the project to contribute their technical skills or play some other specific role as an individual contributor. They may afraid of the time commitment involved with taking on a leadership role, or see the tasks as boring distractions from what they *really* love to do. On top of this, leaders are busy dealing with the needs of the project and have trouble finding time to recruit and mentor new leaders. Yet these tasks are critical to long-term projects.
 
-Recruiting leaders is a critical aspect of open source community building. As a project leader, your success depends largely on your ability to cultivate and empower additional project leaders (who then do the same in turn, creating a [culture of mentorship](growing-contributors/creating-a-culture-of-mentorship.md) in the project). When identifying candidates for these roles, look for members who are asking deep questions, proposing new directions for the project or new ways of marketing it, or other informal aspects of leadership. You can engage them in two ways: you can describe an open leadership role and ask directly whether they would be willing to step into it, or start a dialog where you find out what they want from the project and then encourage them to take on leadership in order to achieve these goals.
+Recruiting leaders is a critical aspect of open source community building. As a project leader, your success depends largely on your ability to cultivate and empower additional project leaders (who then do the same in turn, creating a [culture of mentorship](../growing-contributors/creating-a-culture-of-mentorship.md) in the project). When identifying candidates for these roles, look for members who are asking deep questions, proposing new directions for the project or new ways of marketing it, or other informal aspects of leadership. You can engage them in two ways: you can describe an open leadership role and ask directly whether they would be willing to step into it, or start a dialog where you find out what they want from the project and then encourage them to take on leadership in order to achieve these goals.
 
 Serving in a leadership position is both a time commitment and a serious responsibility, but it's a wonderful chance for growth that everyone should do. Here are some possible incentives you can offer people whom you invite to play a leadership role in your project:
 
@@ -164,13 +164,13 @@ A statement that violates the code of conduct should therefore be handled in two
 ## Managing progress and measuring growth
 Hopefully, your investments in an open source software community will lead that community to grow and thrive. As a community grows, leaders must consciously (and conscientiously) manage that growth to ensure the community remains healthy and sustainable.
 
-[Measuring community growth and be tricky](measuring-success/understanding-community-metrics.md), but the benefits of doing so are worth the effort required. Metrics play several valuable roles, including:
+[Measuring community growth and be tricky](../measuring-success/understanding-community-metrics.md), but the benefits of doing so are worth the effort required. Metrics play several valuable roles, including:
 
 * Revealing who has contributed, and thus contributing to members' morale and their desire to contribute
 * Gauging the effectiveness of the project (e.g., new product features, the rate of addressing bug reports)
 * Gauging the health of the project and identifying aspects that need work
 
-[Healthy communities](measuring-success/defining-healthy-communities.md) highlight people's contributions, because most of them are not being paid to do and have no personal benefit except recognition of their effort. Furthermore, when you know who has contributed the most, you can help people take on new leadership roles and responsibilities. Luckily, software and other text-based projects provide tools that automatically measure certain types of contributions. Use source control, the bug tracker, and other tools to track a few metrics you think are key. 
+[Healthy communities](../measuring-success/defining-healthy-communities.md) highlight people's contributions, because most of them are not being paid to do and have no personal benefit except recognition of their effort. Furthermore, when you know who has contributed the most, you can help people take on new leadership roles and responsibilities. Luckily, software and other text-based projects provide tools that automatically measure certain types of contributions. Use source control, the bug tracker, and other tools to track a few metrics you think are key. 
 
 Some of these key metrics might include:
 

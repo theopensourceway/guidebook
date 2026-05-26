@@ -113,7 +113,7 @@ It's not just promising there will be a map and directions, it is showing the ac
 
 Even people who are very experienced at mentoring benefit from having guidelines for how to mentor and work with mentoring subjects (mentees), mentoring ethics, and so forth.
 
-As a deeper reference when creating a mentoring program, there is [an upstream guide to mentoring itself](https://www.mentorship.guide/). You can use materials from that project to create the elements your mentoring program needs.
+As a deeper reference when creating a mentoring program, there is [an upstream guide to mentoring itself](https://mentorship.guide/). You can use materials from that project to create the elements your mentoring program needs.
 
 Mentors have a special role of trust—the project trusts them to represent the community, and the mentees (mentoring subjects) trust the mentor to lead them down the right path. Mentors need to conduct themselves with an appropriate standard, and there needs to be a way to keep them accountable to that standard and report problems or abuses of conduct by mentors. Such a Code of Conduct needs to be visible up front and prominent for everyone looking at your mentoring program.
 

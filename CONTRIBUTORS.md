@@ -39,7 +39,7 @@
   * Author(s): [Andy Oram](mailto:andyo@praxagora.com), [Karsten Wade](mailto:kwade@redhat.com)
 * Community Manager Self-Care
   * Author(s): [Ashley Nicolson](mailto:ashjayne.nicolson@gmail.com)
-  * Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), [Dr. Karen Hixson](https://www.karenhixsonlpc.com/) (subject matter expert (SME) reviewer), Editorial team
+  * Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), [Dr. Karen Hixson](https://www.drhixson.com/) (subject matter expert (SME) reviewer), Editorial team
 * Defining Healthy Communities
   * Author(s): [Karsten Wade](mailto:kwade@redhat.com)
 * Understanding Community Metrics
