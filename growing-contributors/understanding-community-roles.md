@@ -36,13 +36,13 @@ If no one is working on a document, and the community or project leaders support
 
 At this point, make a formal announcement, such as by creating an issue. A due date is recommended, to provide some pressure to finish the document. Remember that a document needs to be reviewed, which could add several weeks to the project. It is also useful to create milestones, which could include:
 
-1.  Start writing
-2.  Circulate first draft
-3.  End of review period for first draft
-4.  Circulate final draft
-5.  End of review period for final draft
-6.  Submitted for approval
-7.  Approved and published
+1. Start writing
+2. Circulate first draft
+3. End of review period for first draft
+4. Circulate final draft
+5. End of review period for final draft
+6. Submitted for approval
+7. Approved and published
 
 To be accepted into a project, the leadership or advisor group responsible for the project must approve it. These leaders should be liberal in approving documentation projects, because any new document that is relevant to a project will usually prove useful to at least some members.
 

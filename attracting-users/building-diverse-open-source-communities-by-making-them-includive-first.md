@@ -144,9 +144,9 @@ Rather than keeping Redis's prior BDFL style, Gottlieb and Agra built a new, lig
 
 Regardless of your own project's governance model, you must include a way to train key contributors to assume leadership roles. This achieves three key goals:
 
-1.  Helping new contributors learn how they can grow
-2.  Rewarding contributors who own key aspects of the project
-3.  Preventing maintainer burnout
+1. Helping new contributors learn how they can grow
+2. Rewarding contributors who own key aspects of the project
+3. Preventing maintainer burnout
 
 This last point is noteworthy: Sanfilippo said when he stepped down from Redis that despite his passion for coding, he never aspired to maintain a project. Without new leaders to step up—and documentation sharing how contributors can assume such roles—maintainers risk either working on projects when they no longer want to or having the project stall. Likewise, the project risks missing an opportunity to give interested contributors a chance to step up.
 

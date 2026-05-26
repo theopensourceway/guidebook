@@ -1,0 +1,1126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../getting-started/building-a-strategy.md:7
+msgid "Building a Strategy"
+msgstr "构建战略"
+
+#: ../../getting-started/building-a-strategy.md:8
+msgid ""
+"Launching an open source project does not guarantee its success. Successful "
+"open source software projects require more than accessible code and a "
+"willingness to collaborate. The most popular and effective projects have "
+"communities that thoroughly understand their partner and contributor "
+"ecosystems, set clear goals, and structure their collaboration with these "
+"goals squarely in mind."
+msgstr "启动开源项目并不能确保其成功。成功的开源软件项目需要的远不只是可供访问的代码和协作意愿。那些最受欢迎且高效的项目背后，都有着深刻理解其合作伙伴及贡献者生态系统的社区，这些社区设定清晰目标，并基于这些目标精心构建协作体系。"
+
+#: ../../getting-started/building-a-strategy.md:10
+msgid ""
+"That is, they have clear and effective strategies. As Karl Fogel writes"
+"[^fogel-producing-oss] in _Producing Open Source Software_:"
+msgstr "换言之，它们拥有明确有效的策略。正如卡尔·福格尔在《开源软件开发之道》中所写[^fogel-producing-oss]："
+
+#: ../../getting-started/building-a-strategy.md:12
+msgid ""
+"The hardest part about launching a free software project is transforming a "
+"private vision into a public one. You or your organization may know "
+"perfectly well what you want, but expressing that goal comprehensively to "
+"the world is a fair amount of work. It is essential, however, that you take "
+"the time to do it."
+msgstr "启动自由软件项目最困难的部分，是将私人愿景转化为公共愿景。您或您的组织可能非常清楚自己想要什么，但向全世界全面传达这一目标需要付出相当多的努力。然而，花时间完成这项工作至关重要。"
+
+#: ../../getting-started/building-a-strategy.md:14
+msgid ""
+"In this chapter, we'll provide resources for doing that work. Along the way,"
+" we'll suggest a few guiding questions project leaders and maintainers "
+"should discuss in order to sketch strategies for their open source projects."
+" Answering these questions should clarify critical facets of the project and"
+" help maintainers determine _what to do_ (and, just as importantly, what "
+"_not_ to do) to guide their projects to success."
+msgstr "本章将提供开展这项工作的相关资源。我们将提出项目领导者与维护者需要探讨的几个指导性问题，以便为开源项目制定战略框架。通过回答这些问题，可以明确项目的关键要素，帮助维护者确定实现项目成功的行动纲领（同样重要的是，规避不当做法）。"
+
+#: ../../getting-started/building-a-strategy.md:16
+msgid ""
+"Moreover, some open source _projects_ eventually become open source "
+"_products_—that is, they play some role in an organization's revenue-"
+"generating activities. In this case, the strategies that guide them become "
+"even _more_ complex, as their success or failure impacts (and is impacted "
+"by) business decisions. So in this chapter we'll also discuss the additional"
+" work of developing an open source _product_ strategy, so open source "
+"communities in pursuit of marketplace success feel better equipped to "
+"achieve it."
+msgstr "值得一提的是，部分开源项目最终会演变为开源产品——即在组织创收活动中发挥特定作用。这种情况下，指导其发展的战略会变得更加复杂，因为项目的成败既影响着商业决策，也受商业决策影响。因此本章还将探讨制定开源产品战略的额外工作，使追求商业成功的开源社区能获得更充分的准备。"
+
+#: ../../getting-started/building-a-strategy.md:18
+msgid "What is a strategy?"
+msgstr "何为战略？"
+
+#: ../../getting-started/building-a-strategy.md:19
+msgid ""
+"Your open source strategy is a comprehensive and adaptable procedure for "
+"achieving an objective and overcoming obstacles that might prevent you from "
+"that achievement. Simply put, your strategy is your plan to architect, "
+"nurture, and grow a successful open source project."
+msgstr "开源战略是一套全面且灵活的实施方案，旨在达成目标并克服可能阻碍目标实现的障碍。简而言之，您的战略就是构建、培育和发展一个成功开源项目的蓝图。"
+
+#: ../../getting-started/building-a-strategy.md:21
+msgid ""
+"Today, people tend to overuse the term \"strategy\"—so much so that its "
+"meaning may have become somewhat diluted and imprecise. Your project's "
+"strategy is not merely a list technical capabilities, a series of long-term "
+"goals, or the community's vision of success. It is a coordinated plan of "
+"action informed by thoughtful analysis of your situation. In his seminal "
+"book on strategic thinking, Richard P. Rumelt[^rumelt-strategy] outlines "
+"three components of an effective strategy:"
+msgstr ""
+"如今人们常过度使用\"战略\"一词，以至于其含义已略显模糊和泛化。项目战略绝非简单的技术能力清单、长期目标罗列或是社区对成功的愿景勾勒，而是基于缜密现状分析形成的协同行动计划。理查德·P·鲁梅尔特"
+"[^rumelt-strategy]在其战略思维奠基著作中，阐明了有效战略的三大核心要素："
+
+#: ../../getting-started/building-a-strategy.md:23
+msgid ""
+"A **diagnosis**, which explains the precise nature of the problem a team or "
+"project is facing and distills its essence into something coherent and "
+"manageable"
+msgstr "**诊断分析**：解析团队或项目面临问题的本质特征，将其提炼为清晰可控的关键命题"
+
+#: ../../getting-started/building-a-strategy.md:24
+msgid ""
+"A **guiding policy**, which describes (in general terms) an approach to "
+"addressing that diagnosis"
+msgstr "**指导方针**：概括性描述应对上述诊断的核心策略框架"
+
+#: ../../getting-started/building-a-strategy.md:25
+msgid ""
+"A set of **coherent actions**, which a team must execute in coordinated "
+"fashion to implement the guiding policy and see it to fruition"
+msgstr "团队成员必须协调执行的一套**连贯行动**，以实现指导方针并见证其开花结果"
+
+#: ../../getting-started/building-a-strategy.md:27
+msgid ""
+"Rumelt calls these the \"kernel\" of good strategy because they are all "
+"necessary ingredients in any recipe for success. The work of identifying the"
+" kernel of a good strategy for an open source project can be difficult, "
+"time-consuming, and full of debate among maintainers, contributions, and "
+"other project stakeholders. But that work is absolutely essential for "
+"building a project that endures. We'll therefore organize our advice on "
+"setting an open source strategy according to Rumelt's three-part "
+"architecture."
+msgstr "鲁梅尔特将这些称为好战略的\"内核\"，因为它们是任何成功配方中都不可或缺的要素。为一个开源项目识别优秀战略内核的工作可能充满挑战、耗时费力，并会在维护者、贡献者和其他项目利益相关方之间引发激烈辩论。但这项努力对于打造持久项目至关重要。因此我们将依照鲁梅尔特的三段式架构来组织关于制定开源战略的建议。"
+
+#: ../../getting-started/building-a-strategy.md:29
+msgid "Building an open source strategy"
+msgstr "构建开源战略"
+
+#: ../../getting-started/building-a-strategy.md:30
+msgid ""
+"Building a strategy for your open source project involves the work of what "
+"open source consultant Emily Omier calls \"positioning[^positioning].\" For "
+"Omier, positioning an open source project involves \"controlling the "
+"assumptions that people make about your project and narrowing down the "
+"audience of potential users as much as possible\" (p. 5). When architecting "
+"a strategy for your open source project, you'll need to _position_ your "
+"project with, against, and alongside other open source projects in an "
+"(increasingly crowded) ecosystem. You'll also need to navigate various "
+"audiences and locate the various groups of people who might (or might not) "
+"_use_ your project. So to build a strategy, you'll need to take stock—not "
+"only of your technology's capabilities but also of its relationships "
+"(current or potential) in a larger web of open source projects, products, "
+"and communities."
+msgstr ""
+"为开源项目制定战略涉及开源顾问 Emily Omier "
+"所称的\"定位[^positioning]\"工作。在她看来，开源项目定位需要\"控制人们对项目的预设认知，并尽可能精确锁定潜在用户群体\"(第 5 "
+"页)。当您为开源项目设计战略时，需要在一个（日益拥挤的）生态系统中明确您项目与其他开源项目的参照关系——既可能是协同共进，也可能是竞争对立。此外，您还需审视不同受众群体，精准识别那些可能（或不可能）使用您项目的各类人群。因此制定战略时，不仅需要评估技术能力，更要理清该项目在整个开源项目、产品和社区构成的宏大网络中所处的位置及其（现有或潜在的）关联。"
+
+#: ../../getting-started/building-a-strategy.md:32
+msgid ""
+"In the following sections, we provide some of those stock-taking resources, "
+"including key questions project maintainers can be asking as they make "
+"strategic decisions."
+msgstr "后续章节我们将提供若干评估工具，包括项目维护者进行战略决策时应该思考的关键问题。"
+
+#: ../../getting-started/building-a-strategy.md:34
+msgid "Locating the problem(s)"
+msgstr "问题定位"
+
+#: ../../getting-started/building-a-strategy.md:35
+msgid ""
+"The initial work of developing an open source strategy involves identifying "
+"problems. Better yet, we might say that it involves identifying "
+"_challenges_. People who use software (developers and everyday computer "
+"users alike) often face challenges they need help overcoming. Ideally, your "
+"open source project helps them do that. But your project and its community "
+"will also face their own challenges—that is, challenges to _getting "
+"recognized, adopted and embraced_ by those users. So when you're thinking "
+"about your project's related problems, you'll need to think in two "
+"registers:"
+msgstr "制定开源战略的初步工作在于识别问题。更准确地说，这其实是识别挑战的过程。软件使用者（无论是开发者还是普通计算机用户）常会遇到需要协助克服的挑战。理想状态下，你的开源项目能帮助他们应对这些挑战。但你的项目及其社区自身也面临挑战——即如何获得这些用户的认可、采用与支持。因此，在思考项目相关问题时，你需要从两个维度考量："
+
+#: ../../getting-started/building-a-strategy.md:37
+msgid ""
+"**The problem your project solves.** This is the problem you and your "
+"community are designing your project to address for users. It is often a "
+"technical problem."
+msgstr "**项目解决的实质问题。**这是你和社区设计项目时要为用户解决的核心问题，通常属于技术性问题。"
+
+#: ../../getting-started/building-a-strategy.md:38
+msgid ""
+"**The problem of getting adopted.** This is the problem of, for example, "
+"becoming visible to users, or getting adopted and embraced by those users. "
+"It is often a social (and in some cases, an economic) problem."
+msgstr "**项目推广面临的挑战。**这类挑战涉及如何让用户发现项目、接受并支持项目，通常属于社会性（有时是经济性）问题。"
+
+#: ../../getting-started/building-a-strategy.md:40
+msgid ""
+"To build an effective open source stategy, you'll need to clarify _both_ "
+"these types of problems. To elucidate the problems your project both "
+"_solves_ and _faces_, you will need to develop what Rumelt calls a "
+"\"diagnosis.\" A good diagnosis, Rumelt writes, \"names or classifies the "
+"situation, linking facts to patterns and suggesting that more attention be "
+"paid to some issues and less to others\" (p. 79). Or—put another way—it is "
+"the answer to a singular question: \"What's going on here?\""
+msgstr ""
+"要制定有效的开源战略，你需要理清这两类问题。为了阐明你的项目既能解决又面临的问题，你需要形成如鲁梅尔特所言的\"诊断\"。鲁梅尔特写道，良好的诊断\"能对现状进行命名或分类，将事实与模式联系起来，并建议某些问题需要更多关注，而其他问题则可减少关注\"(第"
+" 79 页)。换言之，这就是对核心问题的解答：\"现状究竟如何？\""
+
+#: ../../getting-started/building-a-strategy.md:42
+msgid ""
+"What are the situational forces _giving rise_ to your project? Why is it "
+"necessary in the first place? And what forces or factors could inhibit that "
+"project from finding an audience or gaining traction in some part of the "
+"open source ecosystem?"
+msgstr "哪些环境因素促成了你的项目诞生？它存在的首要必要性是什么？又有哪些力量或因素可能阻碍项目在开源生态系统的某个领域获得受众或发展动力？"
+
+#: ../../getting-started/building-a-strategy.md:44
+msgid ""
+"Answering these questions is of paramount importance for devising a "
+"successful open source strategy. But answering them outright is difficult. "
+"We therefore suggest first answering questions more immediate and graspable,"
+" like:"
+msgstr "回答这些问题对于设计成功的开源战略至关重要。但直接给出答案很困难。因此我们建议先回答更直接易懂的问题，例如："
+
+#: ../../getting-started/building-a-strategy.md:46
+#: ../../getting-started/building-a-strategy.md:50
+msgid "What is the project?"
+msgstr "这个项目是什么？"
+
+#: ../../getting-started/building-a-strategy.md:47
+#: ../../getting-started/building-a-strategy.md:62
+msgid "Who are the project's users?"
+msgstr "项目的用户群体是谁？"
+
+#: ../../getting-started/building-a-strategy.md:48
+#: ../../getting-started/building-a-strategy.md:80
+msgid "What alternatives to your project already exist?"
+msgstr "现有哪些可替代你们项目的方案？"
+
+#: ../../getting-started/building-a-strategy.md:51
+msgid ""
+"This is a deceptively simple question. Its answers typically aren't so "
+"simple."
+msgstr "这是个看似简单却暗藏玄机的问题。其答案往往并不简单。"
+
+#: ../../getting-started/building-a-strategy.md:53
+msgid ""
+"Too often, open source projects describe themselves in terminology "
+"unfamiliar to many potential users, or they focus on _how_ they do what they"
+" do, rather than on the _problems_ they can solve. When formulating "
+"potential answers to this question, focus them on _how the project helps its"
+" users_. Ask questions like:"
+msgstr "开源项目常常使用许多潜在用户不熟悉的术语来描述自身，或者过于强调实现原理而非实际能解决的问题。在构思这个问题的可能答案时，应将重点放在项目如何帮助使用者上。试着提出这些问题："
+
+#: ../../getting-started/building-a-strategy.md:55
+msgid "What problem does this project solve?"
+msgstr "这个项目解决了什么问题？"
+
+#: ../../getting-started/building-a-strategy.md:56
+msgid ""
+"How would you describe your project to a potential user of the project in "
+"the most succinct terms possible?"
+msgstr "如何用最简洁的语言向潜在用户描述你的项目？"
+
+#: ../../getting-started/building-a-strategy.md:58
+msgid ""
+"For example, let's imagine we're asking an [Istio](https://istio.io/) "
+"developer what Istio is. The most basic answer is \"it's a service mesh.\" "
+"One might argue, however, that most container application developers don't "
+"entirely understand what a \"service mesh\" is. So the shorthand "
+"description—\"It's a service mesh!\"—doesn't help a novice understand "
+"whether or how to use it. A better explanation might involve describing "
+"Istio[^istio] in terms of an application data plane and control plane (if "
+"you're talking to someone with a background in networking, for example), or "
+"perhaps a concept of traffic cops assigned to components of an application "
+"(if I am explaining the project to someone entirely unfamiliar with the "
+"concept of a service mesh)."
+msgstr ""
+"举个例子，假设我们询问一位 [Istio](https://istio.io/) 开发者什么是 "
+"Istio。最基础的答案是\"它是一个服务网格\"。但有人可能反驳说，大多数容器应用开发者并不完全理解\"服务网格\"是什么。因此这个简化描述——\"它是个服务网格！\"——并不能帮助新手判断是否或如何使用它。更好的解释可能是：根据谈话对象背景来描述"
+" "
+"Istio[^istio]——对具有网络知识的人可以解释为应用数据平面和控制平面；而对完全不熟悉服务网格概念的人，则可以比喻为给应用组件分配交通警察的概念。"
+
+#: ../../getting-started/building-a-strategy.md:60
+msgid ""
+"Ask as many follow-up questions as your community needs in order to develop "
+"a simple, straightforward understanding of project and what it _can do_—that"
+" is, not just _how it functions_, but _what difference it makes_ for someone"
+" who would choose to adopt and use it."
+msgstr "请根据社区需要提出更多后续问题，以便形成一种简单、直接的项目理解：不仅理解项目_如何运作_，也理解它_能做什么_。"
+
+#: ../../getting-started/building-a-strategy.md:63
+msgid ""
+"Many open source projects do not clearly understand who uses their projects "
+"and what those users do with the project's tools. Consider using the concept"
+" of \"personas\" to characterize archetypal groups of key users, and be sure"
+" to think in terms of \"jobs to be done.\""
+msgstr "许多开源项目并不清楚谁在使用他们的项目，以及用户如何使用项目工具。可以考虑运用\"用户画像\"概念来刻画典型关键用户群体，务必从\"待完成工作\"的角度进行思考。"
+
+#: ../../getting-started/building-a-strategy.md:65
+msgid ""
+"For example, you might categorize a project's potential or current users "
+"with a number of criteria:"
+msgstr "举例来说，您可以从以下几个标准来划分项目的潜在或现有用户："
+
+#: ../../getting-started/building-a-strategy.md:67
+msgid "Is the project more useful to an individual or to an organization?"
+msgstr "该项目对个人还是组织更有用处？"
+
+#: ../../getting-started/building-a-strategy.md:68
+msgid ""
+"Is your project particularly useful in a specific industry vertical or "
+"business domain?"
+msgstr "您的项目是否在某个特定行业领域或业务范畴尤为实用？"
+
+#: ../../getting-started/building-a-strategy.md:69
+msgid ""
+"What size organization will find your project most useful? Are you targeting"
+" sysadmins in large enterprises, or the small and medium business space?"
+msgstr "什么规模的组织会认为您的项目最有用？您的目标用户是大企业的系统管理员，还是中小企业群体？"
+
+#: ../../getting-started/building-a-strategy.md:70
+msgid ""
+"What are the job titles of the people who will be downloading, installing "
+"and using your project? Are they the same people? Or are the users different"
+" from the project administrators?"
+msgstr "下载、安装和使用您项目的人员通常担任什么职位？他们是同一批人吗？或者说项目使用者与管理员是否为不同角色？"
+
+#: ../../getting-started/building-a-strategy.md:72
+msgid ""
+"Answers to these questions will influence the priorities your community sets"
+" for structuring the project, promoting it, and even the degree of "
+"engineering effort you'll invest into certain features. For example, if your"
+" project runs in a datacenter or on a cluster of servers, your audience will"
+" typically be a business audience—people running IT professionally (or as a "
+"volunteer in a university). For a mobile application or a web development "
+"framework, the majority of your audience will be running your project on "
+"their personal computer, workstation, or mobile phone. Each of these groups "
+"has different resource prerequisites, and the problems motivating their use "
+"of the project and its tools are different. Mis-targetting the wrong "
+"categories of users could raise adoption challenges for your project."
+msgstr ""
+"这些问题的答案将影响社区为构建项目、推广项目所制定的优先级，甚至会影响你们对某些功能投入的工程力度。例如，如果你的项目运行在数据中心或服务器集群上，受众通常是商业用户——专业从事"
+" IT "
+"运维的人（或是大学的志愿者）。对于移动应用或网页开发框架，大多数用户会在个人电脑、工作站或手机上运行你的项目。这些群体拥有不同的资源条件，驱动他们使用项目及工具的需求也各不相同。错误定位用户类别可能会给项目的推广带来挑战。"
+
+#: ../../getting-started/building-a-strategy.md:74
+msgid ""
+"Moreover, anyone interested in developing an open source _product_ strategy "
+"should think additionally about the critical relationship between project "
+"_users_ and product _buyers_. So if your strategy involves commercial aims, "
+"you might also wish to ask something like:"
+msgstr "此外，任何对开源产品策略开发感兴趣的人都应当额外考虑项目用户与产品买家之间的关键关系。因此，如果策略涉及商业目标，你可能还需要思考这样的问题："
+
+#: ../../getting-started/building-a-strategy.md:76
+msgid ""
+"What is the relationship between the people who download and install open "
+"source projects and the people who evaluate and purchase commercial "
+"products?"
+msgstr "下载安装开源项目的人群与评估购买商业产品的人群之间存在怎样的关系？"
+
+#: ../../getting-started/building-a-strategy.md:78
+msgid ""
+"A company's path to adopting open source doesn't usually follow a straight "
+"path from using an upstream open source project to converting to an "
+"enterprise open source product. Open source adoption tends to be "
+"\"grassroots,\" bottom-up; enterprise open source products are often "
+"evaluated and purchased top-down. Those adopting an open source project "
+"inside a company can be valuable influencers when consulting on purchasing "
+"decisions—if they're connected to the purchasing process, or if the person "
+"responsible for purchasing is aware that the company is already using the "
+"product."
+msgstr "企业采用开源的道路通常不会遵循从使用上游开源项目到转为企业级开源产品的直线路径。开源采用往往是\"草根式\"、自下而上的；而企业级开源产品则多为自上而下进行评估和采购。那些在公司内部采用开源项目的人员可以成为采购决策时极具价值的影响者——前提是他们与采购流程有联系，或者负责采购的人员知晓公司已经在使用该产品。"
+
+#: ../../getting-started/building-a-strategy.md:81
+msgid ""
+"You can learn a lot about your project by assessing who that project "
+"competes with (or who you believe it _will_ compete with, if you haven't yet"
+" launched the project). Often, this involves paying attention to the other "
+"projects the people you identified in the _previous_ step of your analysis "
+"use to accomplish the same (or similar) tasks you identified in the _first_ "
+"step. Consider asking:"
+msgstr "通过评估项目的竞争对手（或你认为项目将与之竞争的对手，如果项目尚未启动），你可以了解到很多关于项目的信息。通常，这需要关注你在分析上一步中确定的人员所使用的其他项目，这些项目用于完成第一步中确定的相同或类似任务。可以考虑提出以下问题："
+
+#: ../../getting-started/building-a-strategy.md:83
+msgid "If your project doesn't have any competition, why is that the case?"
+msgstr "如果你的项目没有任何竞争者，为什么会这样？"
+
+#: ../../getting-started/building-a-strategy.md:84
+msgid "Does this project play a role in an area of emerging technology?"
+msgstr "该项目是否属于新兴技术领域并发挥作用？"
+
+#: ../../getting-started/building-a-strategy.md:85
+msgid ""
+"Are people using similar projects to do work they could accomplish with your"
+" project—just in a different way?"
+msgstr "人们是否在使用类似项目以不同的方式完成本可以用您的项目完成的工作？"
+
+#: ../../getting-started/building-a-strategy.md:86
+msgid ""
+"If other projects do the same job, how are they approaching the problem "
+"differently than you are?"
+msgstr "如果其他项目做着同样的工作，他们解决这个问题的方式与你有什么不同？"
+
+#: ../../getting-started/building-a-strategy.md:87
+msgid "What are people's motivations for using a competing project?"
+msgstr "人们选择使用竞品的动机是什么？"
+
+#: ../../getting-started/building-a-strategy.md:88
+msgid ""
+"If your project has open source competitors, is joining them (rather than "
+"trying to compete with them) an option? If not, why not?"
+msgstr "如果你的项目存在开源竞争对手，能否考虑加入他们（而非与之竞争）？若不可行，原因何在？"
+
+#: ../../getting-started/building-a-strategy.md:90
+msgid ""
+"Analyzing your competition can help you begin diagnosing the situation in "
+"which your project operates and plays a role. Answering a number of these "
+"key questions early in a project's strategic process will help when your "
+"community begins prioritizing features and deciding how to contact potential"
+" users (which we'll cover below, when we discuss developing coherent action "
+"plans). Perhaps, for example, you can piggyback on existing gatherings "
+"between people already interested in a competitor's technology and spread "
+"your message there."
+msgstr "分析竞争对手能帮助你初步评估项目所处环境及其扮演的角色。在项目战略规划初期回答这类关键问题，将为后续社区确定功能优先级和联系潜在用户（下文制定连贯行动纲领时将详述）提供决策依据。例如，你或许可以借助竞争对手技术爱好者现有的聚会场合，在那里传播你的项目理念。"
+
+#: ../../getting-started/building-a-strategy.md:92
+msgid ""
+"If your strategy involves creating an open source product, you might also "
+"pose a few questions about market competition and customers, like:"
+msgstr "如果你的战略涉及打造开源产品，你可能还要考虑市场竞争和客户相关的一些问题，例如："
+
+#: ../../getting-started/building-a-strategy.md:94
+msgid ""
+"If a competitor is an incumbent in the market, what can you tell about them "
+"and their customers?"
+msgstr "如果竞争对手是市场现有主导者，你能了解到哪些关于他们及其客户的信息？"
+
+#: ../../getting-started/building-a-strategy.md:95
+msgid "Who are your competitor's customers? What do they have in common?"
+msgstr "你的竞争对手的客户是谁？他们有什么共同点？"
+
+#: ../../getting-started/building-a-strategy.md:97
+msgid ""
+"Your answers here could directly impact your community architecture or go-"
+"to-market activities. If you're an upstart attempting to disrupt an "
+"established market, for instance, your goals and messaging may be anchored "
+"to your competition: \"cheaper than,\" \"an open source alternative to,\" "
+"\"simpler and faster than,\" and so on. If you're in a new market and your "
+"project is involved in a \"land grab\" to quickly gain market share, you'll "
+"need to focus on spreading your message quickly—which means a higher "
+"marketing budget or more aggressive community plan, and more focus on "
+"defining the problems you solve for potential users."
+msgstr "您的回答可能直接影响社区架构或市场推广策略。举例来说，若您作为新锐力量试图颠覆既有市场，目标与宣传可能需要围绕竞争对手展开，例如\"更低价\"、\"开源替代方案\"、\"更简洁快速\"等表述。若身处新兴市场且项目正处于\"圈地运动\"阶段，需要快速抢占市场份额，则必须注重信息传播效率——这意味着更高的营销预算、更激进的社区计划，以及更聚焦于向潜在用户阐明您能解决的痛点问题。"
+
+#: ../../getting-started/building-a-strategy.md:99
+msgid ""
+"Remember: _All_ software is a solution to a problem someone is experiencing."
+" In diagnosing the situation in which _your_ project takes shape, your first"
+" priority is understanding _what_ that software is, _which_ problems it "
+"solves (and _for whom_), _how_ it's related to other projects in the wider "
+"open source ecosystem, and _why_ users would choose your solution over "
+"others'."
+msgstr "请谨记：所有软件都是针对特定人群痛点的解决方案。在分析项目成型环境时，首要任务在于理解该软件的本质属性：它解决什么问题（为谁解决）、与开源生态系统中其他项目有何关联，以及用户为何选择您的方案而非其他替代品。"
+
+#: ../../getting-started/building-a-strategy.md:101
+msgid "Outlining your approach"
+msgstr "Outlining your approach"
+
+#: ../../getting-started/building-a-strategy.md:102
+msgid ""
+"Once you've diagnosed the problems you believe your project should solve and"
+" the problems you expect to encounter when attempting to popularize it, "
+"you'll have a clearer sense of what makes your project unique, who the "
+"project will appeal to, and why it is potentially so valuable to that group."
+" You'll also likely recognize some of the hurdles you'll need to overcome as"
+" you build and grow your project and community."
+msgstr "当你诊断出项目应当解决的问题以及在推广过程中可能遇到的挑战时，就会更清晰地认识到项目的独特之处、目标受众群体，以及它为何对该群体具有潜在的重要价值。同时，你可能也会意识到在项目建设和社区发展过程中需要克服的某些障碍。"
+
+#: ../../getting-started/building-a-strategy.md:104
+msgid ""
+"So your next challenge is establishing the overall approach to getting it in"
+" users' hands and responding to their needs and concerns. Choosing to open "
+"source your software unlocks key avenues and opportunities for you and your "
+"community—but you'll be much more successful if you collectively choose to "
+"traverse _one_ of those avenues rather than all of them."
+msgstr "因此，你的下一个挑战是建立将其交到用户手中并响应用户需求和关切的整体方法。选择开源你的软件为你和社区开辟了关键路径和机遇——但如果共同选择其中一条路径而非全部路径，你们将会取得更大的成功。"
+
+#: ../../getting-started/building-a-strategy.md:106
+msgid ""
+"Developing the proper strategic approach for your open source project is "
+"akin to articulating what Rumelt calls a _guiding policy._ An effective "
+"guiding policy, Rumelt writes, \"channels action in certain directions "
+"without defining exactly what shall be done\" (p. 84). In this case, a clear"
+" guiding policy focuses your communitiy's activities by helping it decide "
+"what kinds of things it _should_ and _shouldn't_ be doing (more on that in "
+"the next section on coordinated actions). An effective guiding policy, "
+"Rumelt writes, either _creates_ or _leverages_ sources of advantage. "
+"\"Indeed,\" he writes, \"the heart of the matter in strategy is usually "
+"advantage. Just as a lever uses mechanical advantage to multiply force, "
+"strategic advantage multiples the effectiveness of resources and/or "
+"actions\" (p. 85). Choosing to open source your software unlocks many "
+"potential sources of strategic advantage for your community (including your "
+"users). But you'll need to determine precisely _which_ of those advantages "
+"you wish to leverage. The questions we offer in this section should help you"
+" make that determination. These include:"
+msgstr ""
+"为开源项目制定恰当的战略方法，类似于阐述鲁梅尔特所说的指导方针。鲁梅尔特写道，有效的指导方针\"引导行动朝着特定方向发展，而非精确规定具体执行内容\"(第"
+" 84 "
+"页)。这种情况下，清晰的指导方针能通过帮助社区决定应该做和不该做的事项来聚焦其活动（更多关于协调行动的内容将在下一节详述）。正如鲁梅尔特所言，有效的指导方针要么创造优势来源，要么善用既有优势。\"事实上，\"他写道，\"战略的核心通常在于优势。正如杠杆利用机械优势放大力量，战略优势能倍增资源和/或行动的效力\"(第"
+" 85 页)。选择将软件开源能为社区（包括用户群体）解锁诸多潜在的战略优势来源。但您需要明确要发挥其中哪些优势。本节提供的问题将辅助您做出判断，包括："
+
+#: ../../getting-started/building-a-strategy.md:108
+#: ../../getting-started/building-a-strategy.md:111
+msgid "What are your goals with this project?"
+msgstr "你对该项目的目标是什么？"
+
+#: ../../getting-started/building-a-strategy.md:109
+msgid "How can you work with adjacent projects?"
+msgstr "如何与周边项目协作？"
+
+#: ../../getting-started/building-a-strategy.md:112
+msgid ""
+"The decision to license one's invention with an open source software license"
+" shouldn't be a trivial or arbitrary one. It should be one made with "
+"strategic intent. _What_, you must ask, _are the reasons I'm choosing to "
+"open source my software?_"
+msgstr "选择以开源软件许可协议授权自己的发明绝非轻率或随意的决定，而应当是基于战略意图的审慎选择。你必须叩问自己：我选择开源软件的深层动因究竟是什么？"
+
+#: ../../getting-started/building-a-strategy.md:114
+msgid ""
+"Surprisingly, many projects have difficulty answering this question. They've"
+" already decided that they want to open source their software, but they "
+"haven't given adequate thought to _why_. For these projects, \"open source\""
+" would seem to be an end in itself. But in truth, the decision to open "
+"source one's software should always be in service of some _other_ goal—it is"
+" a particular means to several potential ends. Any adequate and effective "
+"open source project strategy must make these ends clear and explicit."
+msgstr "令人意外的是，许多项目团队难以回答这个问题。他们早已决定要将软件开源，却未深入思考背后的原因。对这些项目而言，\"开源\"似乎本身就是终极目标。但实际上，开源决策始终应当服务于更高层次的目标——它是实现若干潜在结果的特定途径。任何完整有效的开源项目战略，都必须明确清晰地阐释这些终极目标。"
+
+#: ../../getting-started/building-a-strategy.md:116
+msgid ""
+"So before committing to creating and maintaining an open source project, "
+"understand _why_ open sourcing the project will help you, your community, or"
+" your organization achieve certain objectives. For example:"
+msgstr "因此在决定创建和维护一个开源项目之前，先要明白为什么开源这个项目能帮助你、你的社区或你的组织达成某些目标。例如："
+
+#: ../../getting-started/building-a-strategy.md:118
+msgid ""
+"Are you **seeking new perspectives** on your work? Open sourcing your "
+"project allows others to assess your work, offer feedback on it, and "
+"contribute to it in ways that can help you grow as a software developer."
+msgstr "你是否在**寻找工作的新视角**？开源你的项目能让其他人评估你的成果、提供反馈意见，并以多种方式贡献力量——这些都将助力你成长为更优秀的软件开发人员。"
+
+#: ../../getting-started/building-a-strategy.md:119
+msgid ""
+"Do you hope to **lower the development burden**? Open sourcing your project "
+"invites others to play key roles in developing and maintaining your project "
+"as it becomes more popular."
+msgstr "您是否希望**降低开发负担**？开源项目能吸引他人在项目日益流行时参与开发和维护，承担关键角色。"
+
+#: ../../getting-started/building-a-strategy.md:120
+msgid ""
+"Are you trying to **make your project more secure**? Open sourcing your "
+"software helps others spot issues and vulnerabilities you may not have "
+"noticed."
+msgstr "你正试图让**项目更安全**吗？开源软件能让他人发现你或许未察觉的问题与漏洞。"
+
+#: ../../getting-started/building-a-strategy.md:122
+msgid ""
+"Answering questions like these might require some introspection. But doing "
+"so will help you and any (current or nascent) community determine how it "
+"will design, plan, architect, and maintain the project."
+msgstr "回答这类问题可能需要一些自省。但这样做能帮助你与任何（现存或初生的）社区共同确定项目将如何设计、规划、架构及维护。"
+
+#: ../../getting-started/building-a-strategy.md:124
+msgid ""
+"The question of why one might open source a project is even more pressing in"
+" commercial contexts. When establishing an open source product strategy, "
+"your goal is to connect the benefits you'll obtain by open sourcing your "
+"software with a concrete business goal. To be sure, \"open source\" is not a"
+" business model. It is a licensing decision meant to unlock certain "
+"opportunities—like the chance to develop software more collaboratively with "
+"users, or to increase a project's potential reach by lowering acquisition "
+"costs. These opportunities are only valuable insofar as they relate to your "
+"organization's overall business goals."
+msgstr "在商业环境中，\"为何要开源项目\"这一问题更为紧迫。制定开源产品战略时，你的目标是将开源软件带来的益处与具体商业目标相衔接。需明确的是，\"开源\"并非商业模式，而是旨在释放特定机遇的许可决策——例如与用户更协作地开发软件，或通过降低获客成本扩大项目潜在覆盖范围。只有当这些机遇与组织整体商业目标相关时，它们才有价值。"
+
+#: ../../getting-started/building-a-strategy.md:126
+msgid ""
+"To understand any business rationale that makes an open source approach "
+"appealing, consider these economic principles:"
+msgstr "要理解使开源方法具有吸引力的商业逻辑，请考量这些经济学原理："
+
+#: ../../getting-started/building-a-strategy.md:128
+msgid ""
+"**Reducing the price of a good increases the demand for it.**   In the case "
+"of open source, lowering the cost of acquisition maximizes demand and, "
+"therefore, project adoption. Note that the cost of adoption is not only "
+"monetary; it also includes the time and effort needed to adopt and migrate "
+"from whatever solution you're currently using."
+msgstr ""
+"**降低商品价格会刺激其需求增长。** "
+"对开源项目而言，降低获取成本能最大化需求，从而推动项目采用率。值得注意的是，采用成本不仅指金钱开销，还包括从现有解决方案迁移所需投入的时间与精力。"
+
+#: ../../getting-started/building-a-strategy.md:131
+msgid ""
+"**When the price of one good decreases, demand for its substitutes also "
+"decreases.**   Open source projects can undermine established proprietary "
+"software companies by being convenient to adopt at a lower cost. This "
+"principle explains how open source can be an agent for market disruption. "
+"Disruption is an opportunity to capitalize on the adoption of alternatives "
+"and grow another market."
+msgstr ""
+"**当一种商品价格下降时，其替代品的需求也会随之减少。** "
+"开源项目因能以更低成本便捷采用，可以削弱老牌专有软件公司的市场地位。这一原理阐释了开源如何成为市场颠覆的推手。颠覆意味着抓住替代品采用的机遇，从而培育另一个市场。"
+
+#: ../../getting-started/building-a-strategy.md:134
+msgid ""
+"**All else being equal, when the price of a good decreases, demand for its "
+"complements increases.**   Every successful commercial open source strategy "
+"is based on this principle. If your goal is revenue, then you will need to "
+"determine the complements to the software that you'll be releasing as open "
+"source. Those complements should provide additional value to customers."
+msgstr ""
+"**在其他条件相同的情况下，当一种商品的价格下降时，其互补品的需求量会增加。** "
+"所有成功的商业开源战略都基于这一原则。如果您的目标是收益，那么您需要确定将作为开源发布的软件的互补品。这些互补品应当为客户提供额外价值。"
+
+#: ../../getting-started/building-a-strategy.md:137
+msgid "So are you trying to:"
+msgstr "您是否希望："
+
+#: ../../getting-started/building-a-strategy.md:139
+msgid "Grow a market?"
+msgstr "开拓市场？"
+
+#: ../../getting-started/building-a-strategy.md:140
+msgid "Disrupt a competitor?"
+msgstr "扰乱竞争对手？"
+
+#: ../../getting-started/building-a-strategy.md:141
+msgid "Promote a standard?"
+msgstr "推广一项标准？"
+
+#: ../../getting-started/building-a-strategy.md:142
+msgid "Increase demand for another product in your portfolio?"
+msgstr "提升产品组合中另一款产品的需求？"
+
+#: ../../getting-started/building-a-strategy.md:145
+msgid ""
+"Choosing to open source your software project could help you accomplish any "
+"of these goals. But each of these goals demands different approaches to "
+"project and community architecture. Mozilla has catalogued[^open-source-"
+"archetypes] the most common such architectures—what it calls \"[open source "
+"archetypes](https://blog.mozilla.org/wp-"
+"content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)\"—to more "
+"clearly illustrate how an organization's goals in open sourcing a project "
+"influence both the ways that project takes shape and the kinds of activities"
+" in which a community must engage to help it succeed."
+msgstr ""
+"选择将你的软件项目开源，或许能帮助你实现上述任一目标。但每个目标都要求对项目架构和社区建设采取不同的方式。Mozilla 整理[^open-"
+"source-archetypes]了最常见的此类架构——即其所谓的\"[开源原型](https://blog.mozilla.org/wp-"
+"content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf)\"——以更清晰地说明：组织对项目开源所设定的目标，将如何影响该项目的成型方式，以及社区需参与哪些活动来助力其成功。"
+
+#: ../../getting-started/building-a-strategy.md:147
+msgid ""
+"Understanding the reasons for open sourcing your project will help you, your"
+" organization, and your community clarify both the levels and types of "
+"investment required to achieve your goal. In other words, they'll be "
+"critical to the overall policy that guides your strategic actions."
+msgstr "理解项目开源的原因，有助于你、你的组织及社区明确实现目标所需的投入程度与类型。换句话说，这些认知对指导战略行动的整体政策至关重要。"
+
+#: ../../getting-started/building-a-strategy.md:149
+msgid "How can you work with adjacent projects and their communities?"
+msgstr "如何处理相邻项目及其社区的关系？"
+
+#: ../../getting-started/building-a-strategy.md:150
+msgid ""
+"As you've studied your user community, perhaps you've noticed that users "
+"frequently consume your project along with another, different project. Or "
+"perhaps you've seen that your project could be appealing to users who have "
+"already adopted a different approach to addressing their challenges. When "
+"either of these is the case, consider it an opportunity for expanding "
+"awareness of your project in its early stages and better understanding your "
+"users' needs."
+msgstr "在研究用户群体时，你或许注意到用户经常将你的项目与其他不同项目搭配使用。又或许你发现自己的项目可能会吸引那些已采用不同方式应对挑战的用户。当出现上述任一情况时，这都是在项目初期扩大知名度并更好地理解用户需求的良机。"
+
+#: ../../getting-started/building-a-strategy.md:152
+msgid ""
+"The objective here is to study the projects that sit \"adjacent\" to yours "
+"in a specific ecosystem of open source projects. For example, "
+"[Ceph](https://ceph.io/en/community/) can manage storage for "
+"[OpenStack](https://www.openstack.org/) or "
+"[Kubernetes](https://kubernetes.io/); for Ceph, then, OpenStack and "
+"Kubernetes are adjacent communities."
+msgstr ""
+"这里的目标是研究开源项目特定生态系统中与你项目\"相邻\"的项目。举例来说，[Ceph](https://ceph.io/en/community/) "
+"可以为 [OpenStack](https://www.openstack.org/) 或 "
+"[Kubernetes](https://kubernetes.io/) 管理存储；那么对 Ceph 而言，OpenStack 和 Kubernetes"
+" 就是相邻社区。"
+
+#: ../../getting-started/building-a-strategy.md:154
+msgid ""
+"Catering to adjacent projects to find an audience may affect your technology"
+" roadmap, the events you target, the effort you put into specific "
+"integration projects, and more. An adjacent project provides you with a "
+"potentially friendly audience who have the same problems your technology "
+"solves, so you can engage in some joint market research or UX testing, or "
+"coordinate joint events to meet and engage with potential users. This is "
+"also connected to understanding your competition; the communities important "
+"to them will also be important to you. Understanding these communities, "
+"their needs, and their dynamics can help you find footholds for your own "
+"project as you attempt to create space for it in a larger ecosystem. Your "
+"open source strategy should include analysis of these opportunities, and "
+"leveraging them should be part of the overall policy that guides your "
+"actions."
+msgstr "为相邻项目提供服务以寻找受众，可能会影响你的技术路线图、目标活动、在特定集成项目上的投入等等。相邻项目为你提供了一个潜在友好受众群体，他们面临着你的技术所能解决的相同问题，因此你可以参与一些联合市场调研或用户体验测试，或协调联合活动以接触潜在用户并与之互动。这也与了解竞争对手相关；对他们至关重要的社区对你同样重要。理解这些社区、其需求和动态，能帮助你在更大的生态系统中为自己的项目开辟空间并找到立足点。你的开源战略应包含对这些机遇的分析，而利用这些机遇应当成为指导你行动的总体策略的一部分。"
+
+#: ../../getting-started/building-a-strategy.md:156
+msgid "Determining your actions"
+msgstr "明确你的行动"
+
+#: ../../getting-started/building-a-strategy.md:157
+msgid ""
+"By now you've identified the specific problems that your project should "
+"address for a particular set of users, and you've outlined your overall "
+"approach to success for both your project and everyone investing in it. Now "
+"you'll need to decide what you and your community actually need to _do_ (and"
+" _not do_) to bring your overall strategy to fruition. In Rumelt's terms, "
+"you'll need to identify a series of \"coherent actions\" that you can "
+"execute to realize success."
+msgstr "到目前为止，您已经明确了项目需要为特定用户群体解决的具体问题，并规划了项目及所有参与者实现成功的整体路径。现在需要确定您和社区实际需要采取（及避免）哪些行动来落实整体战略。用鲁梅尔特的话说，您需要制定一系列可执行的\"连贯行动\"来实现成功。"
+
+#: ../../getting-started/building-a-strategy.md:159
+msgid ""
+"Identifying these actions is critical because it will sharpen your "
+"community's everyday, tactical work—that is, it will focus everyone on doing"
+" what matters most. Open source project maintainers don't often have the "
+"luxury of immediate, sustained contact with users who contribute to their "
+"projects. Instead, project contributions typically arrive unprompted from "
+"strangers who may not be working with the same rich degree of context that "
+"founders share. The best a project maintainer can hope to do is establish a "
+"scaffolding that helps volunteers acting autonomously to take action in ways"
+" that advance the project's overall goals."
+msgstr "明确这些行动至关重要，因为这将优化社区日常战术层面的工作——即让所有人专注于最有价值的事项。开源项目维护者通常难以与项目贡献者保持即时持续的沟通，更多时候会收到陌生人未经邀约的贡献，这些贡献者可能缺乏创始人共享的完整背景信息。项目维护者所能做的最佳实践，就是建立一套协作框架，帮助自主行动的志愿者以推进项目整体目标的方式开展贡献。"
+
+#: ../../getting-started/building-a-strategy.md:161
+msgid ""
+"In this section, then, we suggest posing the following action-focused "
+"questions as you develop your open source strategy:"
+msgstr "在制定开源战略时，我们建议从实际操作角度思考以下几个关键问题："
+
+#: ../../getting-started/building-a-strategy.md:163
+#: ../../getting-started/building-a-strategy.md:166
+msgid "How do you engage with your users?"
+msgstr "你如何与用户互动？"
+
+#: ../../getting-started/building-a-strategy.md:164
+#: ../../getting-started/building-a-strategy.md:183
+msgid "Who are your key stakeholders?"
+msgstr "谁是你的关键利益相关者？"
+
+#: ../../getting-started/building-a-strategy.md:167
+msgid ""
+"Once people begin turning up to your project, _engaging them_ is key to "
+"growing the project's user base and community. You can engage with users in "
+"multiple ways, each requiring different degrees of effort and resulting in "
+"differing outcomes. But determining where you should focus your efforts can "
+"be difficult, especially because the most precious resource project "
+"maintainers have is their time. Engaging users personally requires a good "
+"deal of it."
+msgstr "当人们开始参与你的项目时，与他们互动是扩大项目用户群和社区的关键。你可以通过多种方式与用户互动，每种方式所需投入程度不同，产生的效果也各异。但确定应该集中精力在何处可能很困难，尤其是因为项目维护者最宝贵的资源就是时间。亲自与用户互动需要耗费大量时间。"
+
+#: ../../getting-started/building-a-strategy.md:169
+msgid ""
+"So as your strategic approach matures, it's useful to take stock of all of "
+"the ways you're currently engaging with project users in order to identify "
+"blind spots and opportunities for improvement. Consider characterizing "
+"engagement techniques as \"low-,\" \"medium-,\" and \"high-touch\" "
+"(terminology we borrow from sales organizations). **Low-touch** methods "
+"involve relatively little interaction between potential users and community "
+"leads, while **high-touch** methods represent one-to-one or one-to-few "
+"efforts. The former tend to require significant time to establish and set in"
+" motion, but when configured require less intervention from human actos. The"
+" latter require less investment of time and energy \"up front,\" but can tax"
+" human actors significantly when executed. Here are some examples of the "
+"types of things you can categorize this way:"
+msgstr "随着战略方法日益成熟，盘点当前与项目用户互动的所有方式将有助于发现盲点与改进机会。不妨借鉴销售领域的术语，将互动技术划分为「低接触」「中接触」「高接触」三类：**低接触方式**中潜在用户与社区主导者互动极少，**高接触方式**则体现为一对一或一对少的深度投入。前者通常需投入大量时间进行前期部署，但一旦运转起来就较少需要人力介入；后者前期耗时耗力较少，但在执行阶段会给人手配置带来较大压力。以下是一些可归入此类别的典型事例："
+
+#: ../../getting-started/building-a-strategy.md:171
+msgid ""
+"**Low touch**: Website, documentation, online training, newsletters, "
+"podcasts, blogs"
+msgstr "**低接触**：网站、文档、在线培训、新闻简报、播客、博客"
+
+#: ../../getting-started/building-a-strategy.md:172
+msgid ""
+"**Medium touch**: Mailing list, bug tracker, community forum, conference "
+"presentation, webinars, user groups"
+msgstr "**中等接触度**：邮件列表、缺陷追踪系统、社区论坛、会议演讲、网络研讨会、用户小组"
+
+#: ../../getting-started/building-a-strategy.md:173
+msgid ""
+"**High touch**: Phone calls, one-on-one or one-to-few training, "
+"conversations at conferences, community meetings"
+msgstr "**高接触度**：电话沟通、一对一或小范围培训、会议交谈、社区聚会"
+
+#: ../../getting-started/building-a-strategy.md:175
+msgid ""
+"This kind of model may be useful to communities thinking about engagement "
+"activities and project goals. For instance:"
+msgstr "这种模式或许对思考参与度活动和项目目标的社区有所裨益。例如："
+
+#: ../../getting-started/building-a-strategy.md:177
+msgid ""
+"Low-touch activities are good for raising awareness of your project and "
+"getting people to look at it for the first time. Ensuring your web site and "
+"other materials clearly communicate what the project does, how it can help "
+"users, and how contributors can try it out and get started quickly is "
+"paramount. Likewise, working on your website, documentation, and promotional"
+" materials allows new users to act autonomously and without much help from a"
+" senior community member."
+msgstr "低接触度的活动有助于提高项目的知名度，吸引人们初次关注。确保网站和其他材料能清晰传达项目功能、如何帮助用户以及贡献者如何快速体验和上手，这一点至关重要。同样，通过完善网站、文档和宣传材料，可以让新用户自主行动，无需社区资深成员过多协助。"
+
+#: ../../getting-started/building-a-strategy.md:178
+msgid ""
+"Medium-touch activities are great for creating a \"center of gravity\" "
+"around your project—not only making communication with users possible but "
+"also enabling those users to help each other (hopefully generating a network"
+" effect). Your bug tracker, mailing list, and forum provide opportunities "
+"for community members to engage with your community, ask questions, and "
+"provide feedback. This kind of activity provides an opportunity to learn "
+"more about how people are using your project."
+msgstr "中度互动活动非常适合为您的项目打造一个\"引力中心\"——不仅让与用户的沟通成为可能，还使这些用户能够互相帮助（有望产生网络效应）。您的错误追踪系统、邮件列表和论坛为社区成员提供了参与社区、提出问题及提供反馈的平台。这类活动能让您更深入了解人们如何使用您的项目。"
+
+#: ../../getting-started/building-a-strategy.md:179
+msgid ""
+"High-touch activities are great for building relationships with key "
+"community users, gathering community case studies, and helping larger groups"
+" be productive with and become advocates for your project. High-effort "
+"activities like training, conference booth attendance and follow-up, and in-"
+"person conversations can be extremely valuable on a one-on-one basis—but "
+"those techniques do not scale well."
+msgstr "高频互动活动对于与核心社区用户建立联系、收集社区案例研究以及帮助更大群体高效利用项目并成为其倡导者具有显著效果。培训会议、展位驻场及后续跟进、面对面交流等高投入活动在一对一互动中极富价值，但这些方式难以规模化推广。"
+
+#: ../../getting-started/building-a-strategy.md:181
+msgid ""
+"Ideally, your project will have a healthy mix of each of these. A key "
+"consideration for groups crafting potential engagement pathways"
+"[^contributor-pathways] is _how someone unfamiliar with the project might "
+"start using it_ and, over time, gain seniority in the project to the point "
+"of becoming a core contributor."
+msgstr ""
+"理想情况下，项目应合理融合这些要素。设计潜在参与路径时需重点考虑[^contributor-"
+"pathways]：一个不熟悉项目的人如何开始使用它，并随着时间的推移在项目中获得资历，最终成为核心贡献者。"
+
+#: ../../getting-started/building-a-strategy.md:184
+msgid ""
+"When you've identified the actions that will be most important for helping "
+"your project succeed, you'll need to ensure you've got the right _people_ "
+"with the proper _tools_ to carry out those actions. Call these people your "
+"\"stakeholders\"; they're the people who care most about your project and "
+"are prepared to bring their (undoubtedly considerable) talents to it."
+msgstr "当你确定了最能帮助项目取得成功的关键行动后，就需要确保配备合适的人员和工具来执行这些任务。我们把这些人称为\"利益相关者\"——他们是最关心项目成败，并愿意将（毋庸置疑相当可观的）才能倾注其中的人。"
+
+#: ../../getting-started/building-a-strategy.md:186
+msgid ""
+"An open source project will include a number of stakeholders, including the "
+"maintainers who oversee the project and manage its resources, the developers"
+" who contribute code and other materials to a project (documentation, "
+"technical articles, social media announcements, etc.), and the users who "
+"provide feedback on the project and file issues they discover. Naturally, a "
+"successful project requires all of these. On top of that, you'll need to "
+"ensure that thees groups include members with the skills necessary for "
+"carrying out the actions you've identified will be critical to your project."
+" For instance, if your project exists to advance a new technical standard, "
+"and your policy is to focus on delivering libraries for developers in your "
+"target market, and this involves writing extensive documentation according "
+"to specific technical standards—then you want to be sure experienced "
+"[documentarians](https://www.writethedocs.org/documentarians/) are part of "
+"your community (or that you're allocating sufficient time and energy to "
+"locate and attract these people to the project if not)."
+msgstr "开源项目会涉及多方利益相关者：包括监督管理项目及统筹资源的维护者、向项目贡献代码及其他物料（文档、技术文章、社交媒体公告等）的开发者，以及为项目提供反馈并提交发现问题的使用者。成功项目自然离不开所有这些角色。更重要的是，你需要确保这些群体里包含具备执行关键行动计划所需技能的人才。例如，若你项目的目标是推进新技术标准，而策略是专注于为目标市场开发者提供程序库——这就要求根据特定技术标准编写大量文档——那么你就需要确保社区中有经验丰富的文档工程师（若尚无此类人才，则需投入足够时间和精力去寻找并吸引他们加入项目）。"
+
+#: ../../getting-started/building-a-strategy.md:188
+msgid ""
+"In the case of vendor-backed open source projects with commercial aims, your"
+" stakeholders also typically include people from inside your organization—an"
+" engineering lead, product management, product marketing, and a "
+"representative of the field (field engineer, sales). You may also want to "
+"include in this group someone from your content services or support "
+"organizations and someone from product security. This is the group of people"
+" you will brief to prepare a stakeholder review, and you should gather them "
+"once every six to 12 months to check in on the state of the project and "
+"ensure alignment on the goals and the required investments to achieve those "
+"goals. When working with stakeholders from your organization:"
+msgstr ""
+"对于带有商业目的、由供应商支持的开源项目，你的利益相关者通常还包括组织内部的人员——工程负责人、产品管理团队、产品营销团队以及一线代表（现场工程师、销售人员）。你可能还需要将内容服务或支持部门的成员以及产品安全代表纳入其中。这个群体正是你需要定期向其汇报以准备利益相关方审查的对象，应每"
+" 6 至 12 个月召集他们一次，共同审视项目进展，并就目标及实现这些目标所需的投入达成共识。与组织内的利益相关者合作时："
+
+#: ../../getting-started/building-a-strategy.md:190
+msgid ""
+"Strike a balance between involving too many people at an early stage and "
+"ensuring buy-in from a diverse group of people from the start."
+msgstr "在早期阶段参与人数过多与从一开始就确保多元化群体认同之间取得平衡。"
+
+#: ../../getting-started/building-a-strategy.md:191
+msgid ""
+"Organize your stakeholders using a model of growing, concentric circles. "
+"Identify a core team that shares draft proposals early and often and engages"
+" with additional groups to gain awareness of concerns or constraints. "
+"Involving these stakeholders early will help you catch and address deal-"
+"breaking issues early."
+msgstr "采用逐渐扩展的同心圆模式组织利益相关方。确定一个核心团队，频繁分享草案提案，并与更多群体接触以了解他们的关注点或限制条件。提早让这些利益相关方参与进来，有助于尽早发现和解决关键问题。"
+
+#: ../../getting-started/building-a-strategy.md:192
+msgid ""
+"Ensure that all stakeholders share an understanding of the problem your work"
+" is addressing and the ways your overall approach will help address that "
+"problem in a way that's beneficial to the organization. In short, make sure "
+"your stakeholders understand the project strategy and their roles in it."
+msgstr "确保所有利益相关方都理解你们工作要解决的问题，以及整体方法将如何以对组织有益的方式解决该问题。简而言之，务必让相关方理解项目战略及各自在其中扮演的角色。"
+
+#: ../../getting-started/building-a-strategy.md:194
+msgid "Recording your strategy"
+msgstr "记录你的战略"
+
+#: ../../getting-started/building-a-strategy.md:195
+msgid ""
+"Just as important as developing a strategy for your open source project is "
+"_writing that strategy down_ and publishing it somewhere your current and "
+"future users, developers, and maintainers can review it. After all, even the"
+" most brilliant strategy is useless if no one sees, understands, and follows"
+" it. Everyone in your community should be aware of the project's strategy "
+"and understand how their work advances it."
+msgstr "正如为开源项目制定战略同等重要的是，您需要将该战略撰写成文并发布在当前及未来的用户、开发者和维护者都能查阅的地方。毕竟，即便是最出色的战略，若无人知晓、理解并遵循，也将毫无价值。社区中的每位成员都应知晓项目战略，并明白自己的工作如何推动其实现。"
+
+#: ../../getting-started/building-a-strategy.md:197
+msgid ""
+"Luckily, if you've drafted your strategy according to the framwork we "
+"provide in this chapter, you've already begun articulating your strategy in "
+"a way that should help others see themselves as part of it. You'll have:"
+msgstr "幸运的是，如果您已按照本章提供的框架草拟战略，那么您已经开始以有助于他人视自身为战略组成部分的方式阐述战略。您将收获："
+
+#: ../../getting-started/building-a-strategy.md:199
+msgid ""
+"A concise (and precise) description of your project and the problem(s) it "
+"solves for users"
+msgstr "对你的项目及其为用户解决的问题的简明（且准确）描述"
+
+#: ../../getting-started/building-a-strategy.md:200
+msgid ""
+"A description of how your project solves that problem in a way other "
+"projects don't"
+msgstr "说明您的项目如何以其他项目无法实现的方式解决该问题"
+
+#: ../../getting-started/building-a-strategy.md:201
+msgid ""
+"A clear understanding of why an open source approach to this project is "
+"beneficial"
+msgstr "清晰阐述为何对该项目采用开源方法具有优势"
+
+#: ../../getting-started/building-a-strategy.md:202
+msgid "A sense of the users, developers, and maintainers contributing to the project"
+msgstr "了解参与项目的用户、开发者和维护者群体构成"
+
+#: ../../getting-started/building-a-strategy.md:203
+msgid ""
+"A list of activities in which you'll engage to grow awareness of your "
+"project and lower barriers to participating in it"
+msgstr "一系列旨在提升项目知名度并降低参与门槛的活动"
+
+#: ../../getting-started/building-a-strategy.md:205
+msgid ""
+"Consider releasing these materials as part of your projet's documentation so"
+" others can begin to understand your strategy—and start contributing to it. "
+"And don't stop there. Articulating a strategy is only the beginning, not an "
+"end."
+msgstr "可以考虑将这些材料作为项目文档的一部分发布，让其他人能开始理解你们的战略——并为之贡献力量。但这只是起点而非终点，战略表述仅仅是第一步。"
+
+#: ../../getting-started/building-a-strategy.md:207
+msgid ""
+"**Continually monitor and communicate progress toward project goals.** If "
+"fostering a diverse group of codevelopers is your community goal, then "
+"celebrate contributions from new participants and include growth figures in "
+"your monthly newsletter."
+msgstr "**持续关注并沟通项目目标的实现进度。**如果你们社区的目标是培育多元化的共同开发者群体，那么应当为新参与者的贡献喝彩，并在每月简报中加入增长数据。"
+
+#: ../../getting-started/building-a-strategy.md:208
+msgid ""
+"**Allocate resources in a way that makes success possible.** If your goal is"
+" to move an entire industry from a proprietary competitor to an open source "
+"project, and you have one person working part time to promote the open "
+"source project, then your chances of success are low."
+msgstr "**资源配置要为实现目标创造可能。**若你们的目标是将整个行业从专有竞争对手转向开源项目，却只安排一名兼职人员推广开源项目，那么成功几率将十分渺茫。"
+
+#: ../../getting-started/building-a-strategy.md:209
+msgid ""
+"**Ensure that your strategy is a living document.** Revisit it regularly "
+"with key stakeholders to ensure that your open source strategy stays fresh "
+"and relevant."
+msgstr "**确保你的战略是一份活的文件。**定期与关键利益相关者共同审视，以保证开源战略始终保持时效性和相关性。"
+
+#: ../../getting-started/building-a-strategy.md:211
+msgid ""
+"Additionally, if you're working in a commercial organization to develop and "
+"communicate an open source product strategy, we recommend drafting a "
+"document that contains the following elements:"
+msgstr "此外，若您在商业机构中负责制定并传达开源产品战略，我们建议您起草一份包含以下要素的文档："
+
+#: ../../getting-started/building-a-strategy.md:213
+msgid ""
+"**An elevator pitch**, or a high-level description of the open source "
+"project's goal and a short explanation of how the project benefits the "
+"sponsoring company. No two projects will have identical goals, so no two "
+"projects will share exactly the same product strategy."
+msgstr "**项目简述**，即对开源项目目标的高度概括性描述，并简要说明该项目如何使发起企业受益。每个项目的目标各不相同，因此任何两个项目的产品战略都不会完全一致。"
+
+#: ../../getting-started/building-a-strategy.md:214
+msgid ""
+"**A business rationale**, or a description of how success for the community "
+"project translates into success for the company or product team. For "
+"example, \"Wide adoption of this project will help people glean more benefit"
+" from our other products,\" or \"An open source reference implementation of "
+"a standard will encourage adoption of the standard by multiple companies, "
+"enabling a network effect for others building on top of the standard.\""
+msgstr "**商业逻辑**，即描述社区项目的成功如何转化为公司或产品团队的成功。例如：\"该项目的广泛采用将帮助人们从我们的其他产品中获得更多好处\"，或者\"标准的开源参考实现将鼓励多家公司采用该标准，从而为基于该标准构建产品的其他企业带来网络效应。\""
+
+#: ../../getting-started/building-a-strategy.md:215
+msgid ""
+"**A high-level execution plan,** or a list of your planned actions, "
+"including key performance indicators (KPIs) that will be important for "
+"determining success. Project goals suggest these KPIs. For example, if your "
+"goal is de facto standard implementation with wide adoption, then you might "
+"measure the number of vendors distributing standard-compliant "
+"implementations. If your goal is market education, then the performance of "
+"introductory documentation, learning paths, tutorials, and magazine articles"
+" will be your indicators of success."
+msgstr ""
+"**高层执行计划**，或你计划采取的行动列表，包括对衡量成功至关重要的关键绩效指标(KPI)。项目目标会提示这些 "
+"KPI。例如，若你的目标是实现被广泛采用的事实标准，则可衡量分发符合标准实现的供应商数量；若目标是市场教育，则入门文档、学习路径、教程和杂志文章的成效将成为成功指标。"
+
+#: ../../getting-started/building-a-strategy.md:217
+msgid ""
+"When the entire organization understands the project's goal and its "
+"relationship to the organization's commercial ambitions, reaching consensus "
+"on budget and resource allocation should be much easier."
+msgstr "当整个组织都理解项目目标及其与组织商业抱负的关联时，在预算和资源分配方面达成共识就会容易得多。"
+
+#: ../../getting-started/building-a-strategy.md:219
+msgid "Conclusion"
+msgstr "结论"
+
+#: ../../getting-started/building-a-strategy.md:220
+msgid ""
+"This chapter explained the importance of developing a strategy for your open"
+" source project. It outlined the elements of an effective open source "
+"strategy, and posed several questions you and your community can answer in "
+"order to hone a strategy for your own open source projects. After a fruitful"
+" strategic planning session, your team or community should share some "
+"understanding of the problems your project solves (and for whom). You will "
+"be able to communicate the value of your project in language that makes "
+"sense in your potential users' frame of reference. You will understand how "
+"your project fits into the broader open source ecosystem, and what you want "
+"to achieve with it there. And you will have identified the stakeholders who "
+"are capable of taking the actions required to bring about success. This "
+"chapter also explained how an effective open source _product_ strategy "
+"provides clarity on which markets you are targeting, establishes the "
+"business advantage of open sourcing your technology, elaborates the role the"
+" project plays in your entire business strategy and product portfolio, and "
+"ensures you are measuring the right results to gauge your success."
+msgstr "本章阐述了为开源项目制定战略的重要性，概述了有效开源战略的构成要素，并提出了一系列可供您和社区成员探讨的问题，以完善各自开源项目的战略规划。通过富有成效的战略规划会议后，您的团队或社区应当对项目解决的问题（及其受益群体）达成共识。您将能用潜在用户熟悉的语言传达项目的价值主张，清楚认知项目在整个开源生态中的定位及其发展目标，并识别出能够推动项目成功的关键利益相关方。本章还阐释了优质的开源产品战略如何明确目标市场定位，确立技术开源带来的商业优势，阐明项目在整体商业战略与产品组合中的角色，并确保通过正确的衡量标准来评估项目成效。"
+
+#: ../../getting-started/building-a-strategy.md:224
+msgid ""
+"[https://producingoss.com/en/producingoss-"
+"letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 13."
+msgstr ""
+"[https://producingoss.com/en/producingoss-"
+"letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 13."
+
+#: ../../getting-started/building-a-strategy.md:222
+msgid ""
+"Rumelt, R.P. (2011). Good strategy/bad strategy: The difference and why it "
+"matters. New York: Currency."
+msgstr ""
+"Rumelt, R.P. (2011). Good strategy/bad strategy: The difference and why it "
+"matters. New York: Currency."
+
+#: ../../getting-started/building-a-strategy.md:223
+msgid ""
+"Omier, E. (n.d.) Positioning free open source software: How maintainers of "
+"open source projects can use positioning strategically to accelerate "
+"theirproject’s growth, build a dedicated community, and build exceptional "
+"software. Available online at <https://www.emilyomier.com/free-e-book>."
+msgstr ""
+"Omier, E. (n.d.) Positioning free open source software: How maintainers of "
+"open source projects can use positioning strategically to accelerate "
+"theirproject’s growth, build a dedicated community, and build exceptional "
+"software. Available online at <https://www.emilyomier.com/free-e-book>."
+
+#: ../../getting-started/building-a-strategy.md:225
+msgid ""
+"Incidentally, at the time of this writing, Istio described itself this way: "
+"\"Istio extends Kubernetes to establish a programmable, application-aware "
+"network. Working with both Kubernetes and traditional workloads, Istio "
+"brings standard, universal traffic management, telemetry, and security to "
+"complex deployments.\""
+msgstr ""
+"顺便一提，在撰写本文时，Istio 是这样描述自己的：“Istio 扩展 Kubernetes，以建立可编程、具备应用感知能力的网络。通过同时支持 "
+"Kubernetes 和传统工作负载，Istio 为复杂部署带来标准化、通用的流量管理、遥测和安全能力。”"
+
+#: ../../getting-started/building-a-strategy.md:226
+msgid ""
+"Mozilla. (2018). Open source archetypes: A framework for purposeful open "
+"source. Available at: https://blog.mozilla.org/wp-"
+"content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf"
+msgstr ""
+"Mozilla. (2018). Open source archetypes: A framework for purposeful open "
+"source. Available at: <https://blog.mozilla.org/wp-"
+"content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf>"
+
+#: ../../getting-started/building-a-strategy.md:227
+msgid ""
+"See \"[Constructing an Onboarding Experience](growing-contributors"
+"/constructing-an-onboarding-experience.md),\" specifically the section on "
+"\"contributor pathways,\" for more on this."
+msgstr ""
+"更多内容请参见“[构建新用户引导体验](../growing-contributors/constructing-an-onboarding-"
+"experience.md)”，尤其是其中关于“贡献者路径”的小节。"

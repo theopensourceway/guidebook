@@ -1,0 +1,871 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C)
+# This file is distributed under the same license as the The Open Source Way
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Open Source Way \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../getting-started/essentials-of-building-a-community.md:7
+msgid "Essentials of Building a Community"
+msgstr "社区建设要点"
+
+#: ../../getting-started/essentials-of-building-a-community.md:8
+msgid ""
+"Companies and technologists working in isolation often forget this, but by "
+"starting an open source software project, you take a big step toward lining "
+"up the people you need to ensure that what you're making meets a "
+"demonstrated need, has features users want, and is easy to use. Working in "
+"open source helps remind technologists that community is critical to "
+"producing good technology and getting it accepted."
+msgstr "孤立工作的企业和技术人员常常会忽略这一点，但通过启动开源软件项目，你向集结所需人才迈出了一大步，确保你的成果能满足实际需求、具备用户想要的功能且易于使用。开源工作能提醒技术人员：社区对产出优秀技术和获得认可至关重要。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:10
+msgid ""
+"Because open source projects rely on [healthy communities](../measuring-"
+"success/defining-healthy-communities.md) to get things done, their members "
+"must consciously carry out the challenging work of community building, which"
+" often includes practices like:"
+msgstr ""
+"由于开源项目依赖[健康的社区](../measuring-success/defining-healthy-"
+"communities.md)来完成工作，其成员必须有意识地开展具有挑战性的社区建设工作，这通常包括以下实践："
+
+#: ../../getting-started/essentials-of-building-a-community.md:12
+msgid "Setting collective goals and strategy"
+msgstr "设定共同目标与战略"
+
+#: ../../getting-started/essentials-of-building-a-community.md:13
+msgid "Participating in community governance and preparing for leadership changes"
+msgstr "参与社区治理并为领导层更迭做准备"
+
+#: ../../getting-started/essentials-of-building-a-community.md:14
+msgid ""
+"Recruiting, training, and mentoring members, including diverse roles and "
+"demographic groups"
+msgstr "招募、培训和指导成员，涵盖多样化角色与人口群体"
+
+#: ../../getting-started/essentials-of-building-a-community.md:15
+#: ../../getting-started/essentials-of-building-a-community.md:113
+msgid "Guiding decisions and resolving conflicts"
+msgstr "引导决策与化解冲突"
+
+#: ../../getting-started/essentials-of-building-a-community.md:16
+msgid "Upholding positive norms"
+msgstr "维护积极规范"
+
+#: ../../getting-started/essentials-of-building-a-community.md:17
+#: ../../getting-started/essentials-of-building-a-community.md:122
+msgid "Recognizing and rewarding community members"
+msgstr "认可和奖励社区成员"
+
+#: ../../getting-started/essentials-of-building-a-community.md:18
+msgid "Bringing the community together for meetings and other events"
+msgstr "通过会议及其他活动凝聚社区力量"
+
+#: ../../getting-started/essentials-of-building-a-community.md:19
+msgid "Managing the community's growth and ensuring its sustainability"
+msgstr "管理社区发展并确保其可持续性"
+
+#: ../../getting-started/essentials-of-building-a-community.md:21
+msgid ""
+"This chapter summarizes the tasks that project leaders and members should "
+"carry out for a successful community, and lists some best practices for "
+"carrying out the tasks. Consider it a kind of \"community quick-start\" "
+"guide—an overview of several key topics we'll explore in more detail "
+"throughout this book. We present this truncated explanation at the start "
+"because we believe community leaders should establish best practices as soon"
+" as possible; trying to catch problems and define norms in a rearguard "
+"action is confusing for participants and may drive many away. But we "
+"recognize that reading the entire _Open Source Way_ guidebook before getting"
+" to work building a community might be untenable for many."
+msgstr "本章总结了项目领导者及成员为打造成功社区应执行的任务，并列出了实施这些任务的最佳实践。可视作一份\"社区快速入门\"指南——概述了本书后续将深入探讨的若干关键主题。我们在开篇提供这份精简说明，是因为我们认为社区领导者应尽早建立最佳实践；若等到问题出现后才试图补救和制定规范，不仅会让参与者困惑，更可能导致大量成员流失。但我们也理解，要求大家在着手建设社区前通读整本《开源之道》手册，对许多人而言可能并不现实。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:23
+msgid ""
+"Given the significant investments—of time, energy, materials resources, "
+"labor, and emotion—required to create and sustain communities, we recommend "
+"giving serious consideration to the question of whether you *can* or "
+"*should* attempt to create one in the first place. We'll begin there."
+msgstr "考虑到创建和维持社区所需的重大投资——时间、精力、物质资源、劳动和情感——我们建议首先认真评估你是否*具备条件*或*有必要*创建社区。这正是我们要探讨的起点。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:25
+msgid "Considering forming a community"
+msgstr "考虑建立社区"
+
+#: ../../getting-started/essentials-of-building-a-community.md:26
+msgid ""
+"Not every open source software project needs its own community. It is "
+"possible (and not uncommon) to have open source software maintained by "
+"people with no demonstrated interest in forming a community beyond "
+"themselves.  Conversely, any codebase may suddenly find itself at the center"
+" of a community that arises around it without any community-building action "
+"from maintainers whatsoever."
+msgstr "并非每个开源软件项目都需要自己的社区。存在（且并不罕见）这样的情况：开源软件由一些维护者管理，而这些维护者除了自身之外，并未表现出组建社区的意愿。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:29
+msgid ""
+"In short, simply *being* an open source project does not guarantee the "
+"project will have a community. But it *does* mean that *if* it has one, it "
+"can reap certain benefits particular to open source software."
+msgstr "简而言之，仅仅*作为*一个开源项目并不保证该项目会拥有社区。但这意味着*当*它*确实*拥有一个社区时，它可以收获开源软件特有的某些好处。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:31
+msgid ""
+"When forming an open source software community, you will face many of the "
+"same ethical and organizational considerations you would when forming any "
+"other community of practice. A community of practice is a group of people "
+"who share a common interest, who also get together to learn and practice "
+"within the common domain. An example of a community of practice might be "
+"hammer dulcimer players who have an annual gathering to share knowledge "
+"about the art and practice of being a hammer dulcimer player. Or it might be"
+" skateboarders gathering every week at the park to learn and practice new "
+"tricks."
+msgstr "在组建开源软件社区时，你将面临与组建任何其他实践社群相同的伦理和组织考量。实践社群是指一群拥有共同兴趣的人，他们聚集在一起在共同领域内学习和实践。例如，扬琴演奏者每年聚会分享演奏艺术与实践知识，或者滑板爱好者每周在公园聚集学习新技巧，这些都是实践社群的体现。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:33
+msgid ""
+"When you (and possibly your organization) are considering forming an open "
+"source software community, you must first ask yourselves some critical "
+"questions: Are you willing to form and be the caretakers for any other sort "
+"of community? Does doing so match your vision? Does it match your style of "
+"getting things done?"
+msgstr "当你（或你的所在组织）考虑组建开源软件社区时，首先需要回答几个关键问题：你是否愿意组建并维护其他类型的社群？这样做是否符合你的愿景？是否符合你一贯的处事风格？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:35
+msgid ""
+"Questions like these will help you determine whether forming a community is "
+"the appropriate approach for you and your team. For example, organizations "
+"like a university and a branch of the armed forces would have two very "
+"different approaches to getting things done. Their reasons for forming any "
+"kind of community may be vastly different (or unexpectedly aligned)."
+msgstr "这些问题将帮助你判断组建社区是否适合你和团队。例如，大学和军队分支这类组织在事务处理方式上会有截然不同的路径——他们组建任何形式社区的动机可能天差地别（也可能出人意料地一致）。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:37
+msgid ""
+"Open source software communities, like all communities of practice, can "
+"truly draw people together from wildly different worlds. In open source "
+"communities, people with common interests (shared practices) band together "
+"to learn and grow collaboratively ([community](getting-"
+"started/community-101.md))."
+msgstr ""
+"开源软件社区如同所有实践社群，确实能将来自迥异世界的人们凝聚在一起。在开源社区中，拥有共同兴趣（共享实践）的人们联合起来，通过协作实现学习与成长（[社区"
+"](getting-started/community-101.md)）。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:39
+msgid ""
+"Other considerations you may face when forming an open source community "
+"include:"
+msgstr "组建开源社区时你可能还需考虑："
+
+#: ../../getting-started/essentials-of-building-a-community.md:41
+msgid ""
+"You are interested in the benefits of open collaboration and innovation. You"
+" might already have or are planning a new technology, and open source is a "
+"way to find like-minded collaborators. Or you may just have a feeling that "
+"this is the right approach for your plans."
+msgstr "你希望获得开放协作与创新的红利。或许你已拥有或正在规划一项新技术，而开源是寻找志同道合者的途径。也可能你单纯觉得这种方式契合你的计划。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:42
+msgid ""
+"Attracting enthusiasts to your project is a key part of your [growth "
+"strategy](getting-started/creating-an-open-source-product-strategy.md), and "
+"you've identified that open source contributors of all types are good "
+"enthusiasts for you."
+msgstr ""
+"吸引爱好者加入你的项目是[增长战略](getting-started/creating-an-open-source-product-"
+"strategy.md)的关键部分，而你已经认识到各类开源贡献者都是理想的爱好者人选。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:43
+msgid ""
+"The scientific method is core to your mission, purpose, and/or practices, "
+"and you see the benefit of positioning your software toolchain, "
+"infrastructure, and other resources as something your users should be able "
+"to contribute to and become maintainers of."
+msgstr "科学方法是你使命、宗旨和/或实践的核心，你意识到将软件工具链、基础设施等资源定位为用户可参与贡献并成为维护者的价值所在。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:44
+msgid ""
+"Your organization is one that is open, collaborative, and communal by "
+"nature. You may create right-sized open source projects, where the users and"
+" contributors are closely aligned in some way. For example, collaborators at"
+" a university: If there is no legal barrier to starting a project, why not "
+"start one? You never know who might find it and benefit from it in the "
+"future."
+msgstr "你的组织本质上是开放、协作且具有社区属性的。你可以创建规模适中的开源项目，让用户与贡献者以某种方式紧密联结。例如大学里的合作者：如果没有法律障碍阻止项目启动，何不尝试发起一个？你永远不知道未来会有谁发现它并从中受益。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:46
+msgid ""
+"Building any community is not without its challenges. Take into account the "
+"following aspects of communities when defining best practices for an open "
+"source project:"
+msgstr "构建任何社区都非易事。在为开源项目定义最佳实践时，需考量社区的以下方面："
+
+#: ../../getting-started/essentials-of-building-a-community.md:48
+msgid ""
+"Many people joining are novices. Some need training in the technology being "
+"developed, some in tools, and most in how to interact effectively in the "
+"group."
+msgstr "许多人刚加入时还是新手。一些人需要接受所开发技术的培训，一些人需要学习工具使用，而大多数人则需要学习如何在团队中有效协作。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:49
+msgid ""
+"People like to be recognized for their contributions, especially if they are"
+" volunteers."
+msgstr "人们喜欢自己的贡献得到认可，尤其是作为志愿者时。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:50
+msgid ""
+"Non-technical contributions in advocacy and community-building are often "
+"unnoticed or undervalued."
+msgstr "在宣传和社区建设方面的非技术贡献常常被忽视或低估。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:51
+msgid ""
+"Diversity in gender, race, and ability make a big difference in how useful "
+"the product is to broad groups of users, but achieving this diversity is "
+"difficult."
+msgstr "性别、种族和能力方面的多样性对产品面向广大用户群体的实用性影响重大，但实现这种多样性却十分困难。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:53
+msgid ""
+"If you or your organization find these opportunities appealing—and you're "
+"willing to face the challenges that come with them—then building a community"
+" may be the right choice for you. Next, we'll examine more closely the work "
+"involved with making that choice."
+msgstr "如果你或你的组织对这些机遇心向往之，且愿意直面随之而来的挑战，那么构建社区或许是你的正确选择。接下来，我们将更深入地探讨做出这一选择所需付出的努力。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:55
+msgid "Setting goals and strategy"
+msgstr "设定目标与策略"
+
+#: ../../getting-started/essentials-of-building-a-community.md:56
+msgid ""
+"When you decide to initiate a community-driven project, some of your first "
+"considerations will be the mission, vision, goals, and strategic direction "
+"of that project. Articulating these things—and writing them down somewhere "
+"the entire community can review and comment on them—will likely occupy most "
+"of your attention in the project's early days."
+msgstr "当你决定启动一个社区驱动的项目时，首要考虑事项之一将是该项目的使命、愿景、目标和战略方向。明确阐述这些内容——并将其记录在整个社区都能查阅和评论的地方——很可能会占据项目初期的大部分精力。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:58
+msgid ""
+"[Setting effective strategic goals for your project](getting-started"
+"/setting-goals.md) involves asking key questions like:"
+msgstr "[为项目设定有效的战略目标](getting-started/setting-goals.md)需要提出关键问题，如："
+
+#: ../../getting-started/essentials-of-building-a-community.md:60
+msgid "What is the project?"
+msgstr "项目是什么？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:61
+msgid "Who are the project's users?"
+msgstr "项目的用户群体是谁？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:62
+msgid "How do you engage with your user base today?"
+msgstr "目前如何与用户群体互动？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:63
+msgid "What alternatives to your project already exist?"
+msgstr "你的项目存在哪些替代方案？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:64
+msgid "Can you work closely with adjacent projects?"
+msgstr "你能与相关的项目紧密合作吗？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:65
+msgid "What are your goals for the project?"
+msgstr "你对这个项目的目标是什么？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:66
+msgid "Who are your key stakeholders?"
+msgstr "谁是你的关键利益相关者？"
+
+#: ../../getting-started/essentials-of-building-a-community.md:68
+msgid ""
+"The more thoroughly you can answer these questions at the project's outset, "
+"the more likely you are to experience success."
+msgstr "在项目启动之初，这些问题思考得越透彻，成功的可能性就越大。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:70
+#: ../../getting-started/essentials-of-building-a-community.md:144
+msgid "Recruiting project members"
+msgstr "招募项目成员"
+
+#: ../../getting-started/essentials-of-building-a-community.md:71
+msgid ""
+"An effective community requires more than simply opening the door and "
+"waiting for people to join. Leaders must look at the skills and knowledge "
+"the project needs, research who might provide these, and work to ensure "
+"these participants both find the project and consider it appealing enough to"
+" join."
+msgstr "一个高效的社区绝非仅仅敞开大门坐等成员加入。领导者需要审视项目所需的技能与知识储备，研究潜在贡献者群体，并积极确保这些参与者既能发现项目，又认为其具备足够的吸引力而愿意加入。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:73
+msgid ""
+"To make sure a useful product results from your efforts, consider inviting "
+"representatives from any groups who are potentially affected by the project."
+" Affected groups who may benefit from representation include potential "
+"users, other technical projects affected by your work (such as projects that"
+" depend on yours, or build on it), and people who are currently under-"
+"represented in your project's leadership. Project leaders must take explicit"
+" action to determine [who stakeholders are](getting-started/setting-"
+"goals.md) and to engage representatives of those stakeholders."
+msgstr ""
+"为确保项目的努力能产出有用的成果，不妨邀请可能受项目影响的各群体代表参与。需要纳入代表的受益群体包括潜在用户、受项目影响的其他技术项目（例如依赖或基于该项目开发的项目），以及目前在项目领导层中代表性不足的群体。项目领导者必须采取明确行动，识别[利益相关方"
+"](getting-started/setting-goals.md)并吸纳其代表参与。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:75
+msgid ""
+"The principle behind such engagement is that users, and other groups who may"
+" be affected indirectly by a project, have needs that are often hidden from "
+"outsiders. Bringing in representatives of all affected groups helps the "
+"project produce a more useful product that all can enjoy, and that is fair "
+"to all. There is a practical motivation for early engagement too: you avoid "
+"the risk that someone will denounce your project at a late stage and prevent"
+" its adoption."
+msgstr "这种参与方式背后的核心理念在于，用户及其他可能间接受项目影响的群体，其需求往往不为外界所察觉。让所有相关群体的代表参与其中，有助于项目打造出更具实用价值的产品，使各方都能受益并确保公平性。早期参与还具有现实意义：它能规避项目后期遭人反对而无法落地的风险。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:77
+msgid "Onboarding new members"
+msgstr "新成员入职引导"
+
+#: ../../getting-started/essentials-of-building-a-community.md:78
+msgid ""
+"Leading an open source community often involves taking some responsibility "
+"for the project's [onboarding experience](growing-contributors/constructing-"
+"an-onboarding-experience.md): the experience new members have when they "
+"arrive at the project and seek to get involved."
+msgstr ""
+"领导开源社区通常需要为项目的[入门体验](growing-contributors/constructing-an-onboarding-"
+"experience.md)承担一些责任：即新成员加入项目并寻求参与时所获得的体验。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:80
+msgid "Onboarding project members often includes the work of:"
+msgstr "新成员加入项目通常涉及以下工作："
+
+#: ../../getting-started/essentials-of-building-a-community.md:82
+msgid "Offering some history of the project"
+msgstr "介绍项目的历史背景"
+
+#: ../../getting-started/essentials-of-building-a-community.md:83
+msgid ""
+"Explaining current project needs and any important debates over project "
+"direction"
+msgstr "阐述当前项目需求及关于项目方向的重要讨论"
+
+#: ../../getting-started/essentials-of-building-a-community.md:84
+msgid "Helping people locate project communication channels"
+msgstr "帮助人们找到项目沟通渠道"
+
+#: ../../getting-started/essentials-of-building-a-community.md:85
+msgid "Motivating members by explaining the benefits of contributing to the project"
+msgstr "通过解释贡献于项目的好处来激励成员"
+
+#: ../../getting-started/essentials-of-building-a-community.md:86
+msgid "Clarifying meeting times and other time commitments"
+msgstr "明确会议时间及其他时间承诺"
+
+#: ../../getting-started/essentials-of-building-a-community.md:88
+msgid "Building an inclusive project with diverse membership"
+msgstr "构建具有多元化成员的包容性项目"
+
+#: ../../getting-started/essentials-of-building-a-community.md:89
+msgid ""
+"Leaders and team members of most technical projects lack diversity in race "
+"and nationality, in gender (a category that covers men, women, and people "
+"who identify as LGBTQ+), and in ability (for instance, blindness, dexterity,"
+" or ability to process abstract information). Even if the dominant group "
+"tries to be sensitive to the needs of other demographics, they probably "
+"don't entirely understand the physical and cultural situations of other "
+"demographics enough to represent their needs adequately. Results of the "
+"project may turn out implicitly discriminatory unless members of excluded "
+"communities are brought into the design."
+msgstr ""
+"大多数技术项目的领导者和团队成员在种族与国籍、性别（涵盖男性、女性及 "
+"LGBTQ+群体）以及能力（例如视力障碍、操作灵活性或抽象信息处理能力）方面缺乏多样性。即便主导群体试图对其他人群的需求保持敏感，他们很可能仍无法充分理解其他群体的生理与文化处境，因而难以充分代表这些需求。若将被边缘化的社群成员排除在项目设计之外，最终成果可能会隐含歧视性倾向。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:91
+msgid ""
+"Building a diverse community can also lead to a more innovative and "
+"resilient project. As [DeLisa Alexander, former Chief People Officer of Red "
+"Hat, writes](https://opensource.com/open-organization/19/5/inclusivity-"
+"solution-innovation):"
+msgstr ""
+"构建多元化的社区还能催生更具创新性和韧性的项目。正如[红帽前首席人事官DeLisa "
+"Alexander所写](https://opensource.com/open-organization/19/5/inclusivity-"
+"solution-innovation)："
+
+#: ../../getting-started/essentials-of-building-a-community.md:93
+msgid ""
+"A diverse, inclusive organization is an organization that's more innovative:"
+" It can see more angles on potential problems, speak more readily to the "
+"complexity of those problems, imagine more intelligent and multi-faceted "
+"solutions, and spot the biases in what they're creating. It's also an "
+"organization that's harder to disrupt: Enlisting diverse perspectives means "
+"focusing additional sets of uniquely-trained eyes on the horizon, scanning "
+"for what may lie ahead. While it's impossible to predict all the changes "
+"that will impact your organization in a month, a year, or five years, "
+"tapping a broader spectrum of insights means you'll be more nimble and "
+"resilient when encountering change. And a general spirit of inclusivity "
+"throughout the organization ensures that everyone feels both capable of and "
+"comfortable with speaking up when they spot potential threats."
+msgstr "一个多元包容的组织更具创新力：它能从更多角度审视潜在问题，更自如地应对问题的复杂性，构想出更智能且多层次的解决方案，并察觉自身创造物中的偏见。这样的组织也更具抗风险能力：汇集多元视角意味着让更多经过独特训练的目光共同关注未来动向。虽然无法预知一个月、一年或五年后所有可能影响组织的变化，但汲取更广泛的见解意味着遭遇变革时能更敏捷坚韧。而贯穿整个组织的包容精神，能确保每个人在发现潜在威胁时既敢于发声又感到自在。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:95
+msgid ""
+"That \"general spirit of inclusivity\" is critical for [building open source"
+" communities with diverse memberships](attracting-users/building-diverse-"
+"open-source-communities-by-making-them-includive-first.md). Although a code "
+"of conduct is critical to welcoming diverse groups, it is insufficient for "
+"building a diverse community, because it addresses only *negative behavior*;"
+" it does not necessarily speak to ways leaders and other project members "
+"should actively seek out representatives of excluded groups. Some steps "
+"include:"
+msgstr ""
+"\"普遍包容精神\"对于[构建成员多样化的开源社区](attracting-users/building-diverse-open-source-"
+"communities-by-making-them-includive-"
+"first.md)至关重要。虽然行为准则对吸纳多元群体具有关键作用，但仅靠准则不足以建立多元化社区——因为它仅能约束*负面行为*，并未明确要求领导者及其他项目成员应如何主动寻找被边缘化群体的代表。可采取的措施包括："
+
+#: ../../getting-started/essentials-of-building-a-community.md:97
+msgid ""
+"Inviting potentially affected members of under-represented groups onto "
+"leadership. People identified as \"minorities\" tend to get many such "
+"requests, and often feel frustrated because their recommendations haven't "
+"been followed in other projects. So the person inviting them has to be able "
+"to explain the impact of the project and show evidence that their "
+"recommendations will be taken seriously."
+msgstr "邀请代表性不足群体中可能受影响的成员加入领导层。被认定为\"少数群体\"的人往往会收到大量此类请求，且常因其他项目中自己的建议未被采纳而感到沮丧。因此邀请方必须能够说明项目的影响力，并提供证据表明他们的建议将得到认真对待。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:98
+msgid ""
+"Asking project members to identify members of the excluded groups and invite"
+" them to the project, or connect them with project leaders."
+msgstr "请项目成员识别被排除群体的成员，邀请他们加入项目，或将其引荐给项目负责人。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:100
+msgid ""
+"Although a diversity committee may help to promote the importance of "
+"diversity on a project, diversity is the responsibility of every project "
+"member and should be considered in every project decision."
+msgstr "虽然多元化委员会可能有助于推动项目中多样性的重要性，但多样性是每个项目成员的责任，应在每个项目决策中予以考量。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:102
+msgid "Nurturing contributors"
+msgstr "培养贡献者"
+
+#: ../../getting-started/essentials-of-building-a-community.md:103
+msgid ""
+"Project leaders should watch for ways they can invite members to play larger"
+" volunteer roles in the project, hopefully [turning the project's *users* "
+"into *contributors*](growing-contributors/from-users-to-contributors.md). "
+"When a member shows interest or initiative, the leader should encourage it "
+"through a conversation. Invitations to do more might sound like:"
+msgstr ""
+"项目领导者应当留意机会，尽可能[将项目的*用户*转变为*贡献者*](growing-contributors/from-users-to-"
+"contributors.md)。当成员表现出兴趣或主动性时，领导者应该通过对话予以鼓励。这类邀请可以这样表达："
+
+#: ../../getting-started/essentials-of-building-a-community.md:105
+msgid ""
+"\"I see that you took a strong interest in the proposed shutdown feature. "
+"Would you join the team working on it? We expect it to require an hourly "
+"weekly meeting for four weeks, plus some time for development.\""
+msgstr "\"我注意到你对提议的关闭功能表现出浓厚兴趣。你愿意加入负责该功能的开发团队吗？我们预计需要每周召开一小时会议，持续四周，另外还需要一些开发时间。\""
+
+#: ../../getting-started/essentials-of-building-a-community.md:106
+msgid ""
+"\"You mentioned when you joined our group that you had deployed our product "
+"at your company. Could you meet with our marketing team for half an hour to "
+"explain how you presented the product and won approval?\""
+msgstr "\"你加入我们团队时曾提到，你在自己公司部署过我们的产品。能否抽半小时与市场团队交流，分享你是如何推介产品并获得批准的经验？\""
+
+#: ../../getting-started/essentials-of-building-a-community.md:107
+msgid ""
+"\"I know that in the past you've had success implementing a similar solution"
+" with a different group. Would you consider acting as a subject matter "
+"expert for our team working on the same issues? They meet next week for an "
+"hour.\""
+msgstr "\"我知道你过去曾成功为另一个团队实施过类似的解决方案。你是否愿意担任我们团队处理相同问题时的主题专家？他们下周将进行一小时的会议。\""
+
+#: ../../getting-started/essentials-of-building-a-community.md:109
+msgid ""
+"Note that each request includes an estimate of the time involved. Not every "
+"invitation to contribute must include this sense of time commitment, because"
+" it might be substantial enough to deter participation. Better to hook them "
+"on the important of the task they're being asked to perform. Then their "
+"excitement—and hopefully a positive experience working with others—will "
+"carry them along."
+msgstr "请注意，每个请求都附带了预估的时间投入。并非每次贡献邀请都需要强调时间承诺，因为这可能因耗时过长而阻碍参与。更好的做法是让他们对所承担任务的重要性产生兴趣。随后，他们的热情——以及与他人协作的愉快体验——将推动他们持续参与。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:111
+msgid ""
+"As with recruitment and other aspects of managing members, development must "
+"be done with special and conscious attention to encouraging women and "
+"members of other historically excluded groups to flex their muscles in new "
+"responsibilities. Never assume that a certain type of person is suited (or "
+"not suited) to a particular task. When in doubt, ask."
+msgstr "如同招募和管理成员的其他环节一样，在培养成员时必须特别且有意识地关注鼓励女性及其他历史上被边缘化的群体在新职责中施展才能。切勿假定某类人适合（或不适合）某项特定任务。如有疑虑，主动询问。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:114
+msgid ""
+"Every open source project operates according to a [governance model"
+"](growing-contributors/project-and-community-governance.md). That model is "
+"rarely unchanged throughout the project's history; instead, it evolves as "
+"the community grows and its participants determine the best ways to divide "
+"work and allocate decision-making responsibility."
+msgstr ""
+"每个开源项目都依照某种[治理模式](growing-contributors/project-and-community-"
+"governance.md)运作。该模式在项目发展历程中很少一成不变，而是随着社区的壮大及参与者对工作分配与决策责任划分方式的不断探索，逐步演进完善。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:116
+msgid ""
+"Most open source project governance models aim to secure community consensus"
+" on key decisions, because open source projects tend to operate best through"
+" consensus. \"Even when open source governance focuses on membership and "
+"voting, consensus is always there, like oxygen in the air,\" [writes long-"
+"time community manager Karsten Wade](https://allthingsopen.org/articles"
+"/consensus-and-the-open-source-ai-definition). \"People participate by "
+"consent—they can walk away if they don't like a decision. Votes usually "
+"follow socialization, not directives from leadership. Most decisions are "
+"already in agreement before a vote is even called.\" While achieving "
+"consensus isn't possible in all cases, it remains a goal that motivates "
+"inclusive behavior from project participants."
+msgstr ""
+"大多数开源项目治理模式都致力于在关键决策上达成社区共识，因为开源项目往往通过共识机制运行得最为顺畅。\"即便当开源治理聚焦于成员资格和投票时，共识始终存在，就像空气中的氧气一样，\"[资深社区管理者"
+" Karsten Wade 写道](https://allthingsopen.org/articles/consensus-and-the-open-"
+"source-ai-"
+"definition)。\"人们基于认同参与其中——如果不同意某项决定，他们随时可以退出。投票通常发生在充分讨论之后，而非领导层的指令之下。大多数决策在正式投票前就已形成一致意见。\"虽然达成共识并非在所有情况下都可行，但它始终是激励项目参与者采取包容行为的核心目标。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:118
+msgid ""
+"Every project operates with different governance practices and mechanisms. "
+"For instance, voting can be useful to gauge the mood of the community, but "
+"may not be definitive in the way it might be for, say, a parliamentary vote."
+" Other projects relegate decision-making power to a single authority "
+"(usually the founder of the project, and sometimes called a **benevolent "
+"dictator**), but this model doesn't always work well over time. That is why "
+"many projects form technical and community steering committees to distribute"
+" decision-making responsibility."
+msgstr "每个项目都采用不同的治理实践和机制。例如，投票有助于了解社区的情绪，但可能不会像议会投票那样具有决定性。其他项目则将决策权交给单一权威（通常是项目创始人，有时被称为**仁慈的独裁者**），但这种模式长期来看并不总是有效。正因如此，许多项目会组建技术和社区指导委员会来分担决策责任。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:120
+msgid ""
+"Community leaders should therefore understand—and work to deliberately "
+"architect and refine—the project's governance model so project participants "
+"have a genuine sense of agency when working to impact the project's "
+"direction."
+msgstr "因此，社区领导者应当理解并持续优化项目的治理模式，让参与者在影响项目发展方向时能真正掌握主动权。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:123
+msgid ""
+"[Volunteers come to an open source project for many reasons](guiding-"
+"participants/why-people-participate-in-open-source-communities.md). Experts "
+"want to create standards around their practices, students come to hone their"
+" skills, and everyone wants to make better technology for the world. But at "
+"all levels, people appreciate being rewarded for their work and will "
+"contribute more if they feel rewarded."
+msgstr ""
+"[志愿者参与开源项目的动机多种多样](guiding-participants/why-people-participate-in-open-"
+"source-"
+"communities.md)。专家希望围绕自身实践建立行业标准，学生前来磨炼技能，而所有人都渴望为世界创造更优质的技术。但无论处于何种层级，人们都珍视自己劳动获得的回报——当感受到被认同时，他们便会贡献更多力量。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:125
+msgid ""
+"Leading an open source project often involves developing a system for those "
+"rewards. A community's reward system should reflect the project's mission "
+"and vision and connect with contributors' motivations for joining. For "
+"exmaple, a badging system [might help reward contributors seeking public "
+"recognition for their good work](guiding-participants/incentivizing-and-"
+"rewarding-participants.md) and help you identify community members who might"
+" be able to contribute at higher levels—even become project leaders "
+"themselves."
+msgstr ""
+"领导开源项目通常需要建立一套奖励机制。社区的奖励体系应体现项目的使命与愿景，并与贡献者参与的动机相契合。例如，徽章系统[既能嘉奖那些追求工作成果获得公开认可的贡献者"
+"](guiding-participants/incentivizing-and-rewarding-"
+"participants.md)，也能帮助识别具备潜力承担更高阶任务——甚至成为项目领军人物的社区成员。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:127
+msgid "Building project leadership"
+msgstr "培养项目领导者"
+
+#: ../../getting-started/essentials-of-building-a-community.md:128
+msgid ""
+"Getting volunteers to rise into leadership roles is difficult work. Most "
+"joined the project to contribute their technical skills or play some other "
+"specific role as an individual contributor. They may afraid of the time "
+"commitment involved with taking on a leadership role, or see the tasks as "
+"boring distractions from what they *really* love to do. On top of this, "
+"leaders are busy dealing with the needs of the project and have trouble "
+"finding time to recruit and mentor new leaders. Yet these tasks are critical"
+" to long-term projects."
+msgstr "让志愿者晋升至领导岗位是项艰巨的工作。多数人加入项目是为了贡献技术能力或担任其他特定角色作为个人贡献者。他们可能担心承担领导职责需要投入大量时间，或认为这些任务枯燥乏味，会分散他们*真正*热爱之事的精力。除此之外，领导者们忙于处理项目需求，难以抽身招募和指导新领导者。然而这些工作对长期项目至关重要。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:130
+msgid ""
+"Recruiting leaders is a critical aspect of open source community building. "
+"As a project leader, your success depends largely on your ability to "
+"cultivate and empower additional project leaders (who then do the same in "
+"turn, creating a [culture of mentorship](growing-contributors/creating-a"
+"-culture-of-mentorship.md) in the project). When identifying candidates for "
+"these roles, look for members who are asking deep questions, proposing new "
+"directions for the project or new ways of marketing it, or other informal "
+"aspects of leadership. You can engage them in two ways: you can describe an "
+"open leadership role and ask directly whether they would be willing to step "
+"into it, or start a dialog where you find out what they want from the "
+"project and then encourage them to take on leadership in order to achieve "
+"these goals."
+msgstr ""
+"招募领导者是开源社区建设的关键环节。作为项目负责人，你的成功很大程度上取决于培养和赋能更多项目领导者的能力（这些继任者又将延续这一传统，在项目中形成[指导者文化"
+"](growing-contributors/creating-a-culture-of-"
+"mentorship.md)）。在物色这些角色的人选时，要关注那些提出深刻问题、为项目规划新方向或提出创新推广方式的成员，以及其他展现非正式领导者的特质。你可以通过两种方式与他们接触：直接描述空缺的领导岗位并询问其任职意愿；或是开启对话了解他们对项目的期待，进而鼓励他们通过承担领导职责来实现这些目标。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:132
+msgid ""
+"Serving in a leadership position is both a time commitment and a serious "
+"responsibility, but it's a wonderful chance for growth that everyone should "
+"do. Here are some possible incentives you can offer people whom you invite "
+"to play a leadership role in your project:"
+msgstr "担任领导职务既需要时间投入，也意味着重大责任，但这是每个人都应把握的绝佳成长机会。以下是为项目领导角色人选提供的潜在激励方案："
+
+#: ../../getting-started/essentials-of-building-a-community.md:134
+msgid ""
+"They have a far vaster scope for implementing the changes they want in the "
+"project."
+msgstr "他们在项目中实现所需变更的空间要广阔得多。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:135
+msgid "They can see deeper into the purpose and impact of the project."
+msgstr "他们能更深入地理解项目的宗旨与影响力。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:136
+msgid ""
+"They interact intimately with project leaders, whom they presumably respect "
+"and even would like to emulate."
+msgstr "他们与项目领导者密切互动，这些领导者很可能是他们敬重甚至想要效仿的对象。。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:137
+msgid "They learn new skills for project management and dealing with communities."
+msgstr "他们掌握了项目管理与社区协作的新技能。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:138
+msgid ""
+"Their expertise and contributions are recognized by the community and by "
+"outsiders, providing more networking opportunities and personal career "
+"growth."
+msgstr "他们的专业能力与贡献获得社区内外的认可，由此带来更多人脉资源与职业发展机遇。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:140
+msgid ""
+"Often, the first question a volunteer asks is, \"How much time must I "
+"spend?\" When responding, don't necessarily stress the time required for the"
+" role. Try to help the volunteer think of the benefits to the project if "
+"they become leaders, or of the enhanced position they'll have and the "
+"benefits it will bring them (and possibly their organization). Don't be "
+"afraid to flatter members by explaining how important they are—it's all "
+"true!"
+msgstr "志愿者常问的第一个问题是：\"我需要投入多少时间？\"回答时不必强调该角色所需的时间投入。试着引导志愿者思考：如果他们成为领导者能为项目带来哪些益处，或是他们将获得的更高地位及其带来的好处（可能还包括对其组织的益处）。不妨大方赞美成员们的重要性——这完全属实！"
+
+#: ../../getting-started/essentials-of-building-a-community.md:142
+msgid ""
+"Many open source software projects tend to focus on cultivating *technical* "
+"leadership, which people usually take on after making technical "
+"contributions (e.g., committing code to the project). But there are many "
+"leadership roles, including:"
+msgstr "许多开源软件项目往往侧重于培养*技术*领导者，这类角色通常由做出技术贡献（例如向项目提交代码）的人员担任。但实际上领导职能涵盖多种类型，包括："
+
+#: ../../getting-started/essentials-of-building-a-community.md:145
+msgid "Mentoring project members"
+msgstr "指导项目成员"
+
+#: ../../getting-started/essentials-of-building-a-community.md:146
+msgid "Resolving conflicts according to the project's governance model"
+msgstr "根据项目治理模式解决冲突"
+
+#: ../../getting-started/essentials-of-building-a-community.md:147
+msgid "Managing key project resources and assisting others who wish to use them"
+msgstr "管理关键项目资源并协助其他希望使用这些资源的人员"
+
+#: ../../getting-started/essentials-of-building-a-community.md:149
+msgid "Upholding community values and norms"
+msgstr "维护社区价值观和规范"
+
+#: ../../getting-started/essentials-of-building-a-community.md:150
+msgid ""
+"When people with shared values work together for any duration, they develop "
+"norms that implicitly govern how they collaborate. These norms are the "
+"bedrock of any durable community, including open source software "
+"communities. Leading such a community will involve upholding community "
+"values and demonstrating those norms."
+msgstr "当拥有共同价值观的人们无论合作多久，都会形成一套隐性的协作规范。这些规范是任何持久社群的基石，开源软件社区也不例外。领导这样的社区意味着要坚守社区价值观，并以身作则践行这些规范。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:152
+msgid ""
+"Abuse of community norms should be addressed right away. Ideally, if someone"
+" violates norms for good behavior, other members will politely mention that "
+"and the violator will change his or her behavior. But in case no one speaks "
+"up, or the violator starts a flame war over the behavior (which could "
+"exhaust the group and cause even more damage than the original offense), a "
+"moderator is needed. And this moderator must have the authority to enforce "
+"the norms, even by banning someone if necessary. (That should be very rare.)"
+msgstr "一旦发现违反社区规范的行为，应立即处理。理想情况下，若有成员违背良好行为准则，其他成员会礼貌指出，违规者也会改正自身行为。但若无人发声，或违规者因此挑起骂战（这可能耗尽团队精力，造成的损害甚至超过最初违规行为），此时便需要调解员介入。该调解员必须拥有执行规范的权限，必要时甚至可实施禁言处罚（此类情况应极为罕见）。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:154
+msgid ""
+"It's tempting to divide this moderator role among many people, but there are"
+" dangers to doing so. They may react differently to an ambiguous violation "
+"of the code of conduct, and might even get into a flame war of their own, "
+"which is extremely destructive. It's better to have one moderator at a time "
+"(alternating moderators if the job is big), but have the community steering "
+"committee review decisions without burdening the membership with the debate."
+msgstr "将调解员职责分散给多人看似诱人，但这样做存在风险。面对行为准则的模糊违规行为时，不同调解员可能作出相左的裁决，甚至引发内部骂战，造成极大破坏性。更理想的做法是每次只设一名调解员（若工作量过大可轮换人选），同时由社区指导委员会在不牵涉全体成员参与争论的前提下复核相关决定。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:156
+msgid ""
+"When the code of conduct is violated in a way that threatens the "
+"participation of a community member, or that threatens to degrade the level "
+"of discussion, the top priority of the community—and a moderator monitoring "
+"the discussion—is to uphold norms and make sure the threat is removed. This "
+"usually requires an unambiguous criticism of the offensive statement. "
+"However, there are different ways to do this, and an approach that is "
+"empathetic to all sides may produce happier outcomes."
+msgstr "当行为准则被违反，威胁到社区成员的参与或可能降低讨论质量时，社区及负责监督讨论的版主首要任务是维护规范并消除威胁。这通常需要对冒犯性言论进行明确批评。然而，处理方式有多种选择，采用兼顾各方感受的方法往往能带来更理想的结果。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:158
+msgid ""
+"Remember that volunteers almost invariably join a project with good "
+"intentions, and that many have excellent skills to offer. Offensive "
+"statements usually emerge either from strong feelings or from ignorance. "
+"While stating that the offensive statement cannot be tolerated, a moderator "
+"or mentor can talk directly to the person who made the statement to figure "
+"out what triggered it. Usually, the person can be kept in the community and "
+"guided toward a better form of interaction."
+msgstr "请记住，志愿者几乎总是怀着善意加入项目，其中许多人具备出色的技能可供贡献。冒犯性言论通常源于强烈情绪或无知。虽然必须表明不能容忍此类言论，但版主或指导者可以直接与发表言论者沟通，了解触发原因。通常情况下，可以通过引导让该成员继续留在社区，并学会更好的互动方式"
+
+#: ../../getting-started/essentials-of-building-a-community.md:160
+msgid ""
+"To repair the damage of the offensive statement, leaders—and hopefully other"
+" community members—must declare it out of bounds. But the person who made "
+"the statement should—after a personal discussion with a leader—apologize and"
+" promise to avoid future behavior of that sort. If such an apology is not "
+"forthcoming, the person who made the statement may have to be banned at "
+"least temporarily."
+msgstr "为弥补冒犯性言论造成的伤害，领导者（最好还有其他社区成员）必须明确声明该言论越界。但发表该言论的人应在与领导者私下沟通后，主动道歉并承诺避免今后再有类似行为。若未能及时道歉，则可能需要对发表该言论者实施至少临时性封禁。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:162
+msgid ""
+"A statement that violates the code of conduct should therefore be handled in"
+" two stages. First, a leader or moderator must declare that the statement "
+"violates the code of conduct and is not permitted. Then a leader should "
+"privately contact the person who made the statement and elicit why it was "
+"made. Was the person in the heat of a strong opinion? Did they deliberately "
+"want to provoke or discourage other members of the group? Did they honestly "
+"not realize that the statement was offensive? After determining the reason "
+"for the statement, the leader should engage with the person who made it and "
+"help them learn how to be in the community productively. The person may have"
+" to be banned, though, if they refuse intervention or insist on their "
+"\"right\" to violate the code of conduct."
+msgstr "因此，违反行为准则的言论应分两个阶段处理。首先，领导者或版主必须声明该言论违反准则且不被允许。随后，领导者应私下联系发表该言论的人，了解其动机：是因情绪激动而口不择言？是蓄意挑衅或打压其他成员？还是确实未意识到言论具有冒犯性？在查明原因后，领导者应与当事人沟通，引导其学会如何在社区中发挥建设性作用。但若对方拒绝改正或坚持其\"权利\"继续违反准则，则可能面临封禁。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:164
+msgid "Managing progress and measuring growth"
+msgstr "管理进展和衡量增长"
+
+#: ../../getting-started/essentials-of-building-a-community.md:165
+msgid ""
+"Hopefully, your investments in an open source software community will lead "
+"that community to grow and thrive. As a community grows, leaders must "
+"consciously (and conscientiously) manage that growth to ensure the community"
+" remains healthy and sustainable."
+msgstr "希望你对开源软件社区的投入能推动该社区发展壮大。随着社区规模扩大，领导者必须有意识（且尽责地）管理这种增长，以确保社区保持健康与可持续性。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:167
+msgid ""
+"[Measuring community growth and be tricky](measuring-success/understanding-"
+"community-metrics.md), but the benefits of doing so are worth the effort "
+"required. Metrics play several valuable roles, including:"
+msgstr ""
+"[衡量社区增长可能颇具挑战性](measuring-success/understanding-community-"
+"metrics.md)，但由此带来的收益值得付出努力。指标发挥着多重重要作用，包括："
+
+#: ../../getting-started/essentials-of-building-a-community.md:169
+msgid ""
+"Revealing who has contributed, and thus contributing to members' morale and "
+"their desire to contribute"
+msgstr "彰显贡献者身份，从而提升成员士气与参与意"
+
+#: ../../getting-started/essentials-of-building-a-community.md:170
+msgid ""
+"Gauging the effectiveness of the project (e.g., new product features, the "
+"rate of addressing bug reports)"
+msgstr "评估项目成效（例如新增产品功能、缺陷报告的解决速度）"
+
+#: ../../getting-started/essentials-of-building-a-community.md:171
+msgid "Gauging the health of the project and identifying aspects that need work"
+msgstr "评估项目健康状况并识别待改进环节"
+
+#: ../../getting-started/essentials-of-building-a-community.md:173
+msgid ""
+"[Healthy communities](measuring-success/defining-healthy-communities.md) "
+"highlight people's contributions, because most of them are not being paid to"
+" do and have no personal benefit except recognition of their effort. "
+"Furthermore, when you know who has contributed the most, you can help people"
+" take on new leadership roles and responsibilities. Luckily, software and "
+"other text-based projects provide tools that automatically measure certain "
+"types of contributions. Use source control, the bug tracker, and other tools"
+" to track a few metrics you think are key."
+msgstr ""
+"[健康的社区](measuring-success/defining-healthy-"
+"communities.md)会突出人们的贡献，因为大多数贡献者并非有偿参与，除了对其努力的认可外并无个人利益。此外，当了解谁贡献最多时，你就能帮助人们承担新的领导角色与责任。幸运的是，软件及其他文本类项目提供了能自动衡量特定贡献类型的工具。利用版本控制、缺陷追踪器等工具来监测你认为关键的若干指标。"
+
+#: ../../getting-started/essentials-of-building-a-community.md:175
+msgid "Some of these key metrics might include:"
+msgstr "其中一些关键指标可能包括："
+
+#: ../../getting-started/essentials-of-building-a-community.md:177
+msgid ""
+"The number of bugs fixed and the number of changes accepted over a specific "
+"time period (it's not bad for a project to have a lot of bug reports. every "
+"project has bugs, so a steady stream of bug reports shows that people are "
+"using the product—but the bugs should get fixed!)"
+msgstr "特定时间段内修复的缺陷数量和采纳的变更数量（项目存在大量缺陷报告并非坏事。每个项目都有缺陷，因此持续不断的缺陷报告表明人们正在使用该产品——但缺陷应当被及时修复！）"
+
+#: ../../getting-started/essentials-of-building-a-community.md:178
+msgid ""
+"Numbers of project downloads (many people download a product to try it out "
+"and then discard it, so use other measures if possible to gauge the real "
+"growth of the user base—for instance, the number of people participating on "
+"forums and the number of questions asked)"
+msgstr "项目下载量（许多人下载产品试用后便弃之不用，因此应尽可能采用其他指标衡量用户群体的实际增长——例如论坛参与人数及提问数量）"
+
+#: ../../getting-started/essentials-of-building-a-community.md:179
+msgid ""
+"Your community's mix of contributor experience (have the right mix of "
+"project members, some who have been on the project for a long time and can "
+"provide institutional memory, along with more recent recruits who provide "
+"new energy)"
+msgstr "社区贡献者的经验结构（保持合理的项目成员结构，既要有长期参与项目、能提供组织记忆的资深成员，也要有注入新活力的新进成员）"
+
+#: ../../getting-started/essentials-of-building-a-community.md:181
+msgid "Conclusion"
+msgstr "结论"
+
+#: ../../getting-started/essentials-of-building-a-community.md:182
+msgid ""
+"This chapter offered an overview of essential considerations one should make"
+" when determining whether to start an open source software community and "
+"deciding how best to architect that community."
+msgstr "本章概述了在决定是否启动开源软件社区以及如何构建该社区时，所需考量的关键因素。"

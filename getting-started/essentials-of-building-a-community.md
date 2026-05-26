@@ -174,9 +174,9 @@ Hopefully, your investments in an open source software community will lead that 
 
 Some of these key metrics might include:
 
-- The number of bugs fixed and the number of changes accepted over a specific time period (it's not bad for a project to have a lot of bug reports. every project has bugs, so a steady stream of bug reports shows that people are using the product—but the bugs should get fixed!)
-- Numbers of project downloads (many people download a product to try it out and then discard it, so use other measures if possible to gauge the real growth of the user base—for instance, the number of people participating on forums and the number of questions asked)
-- Your community's mix of contributor experience (have the right mix of project members, some who have been on the project for a long time and can provide institutional memory, along with more recent recruits who provide new energy)
+* The number of bugs fixed and the number of changes accepted over a specific time period (it's not bad for a project to have a lot of bug reports. every project has bugs, so a steady stream of bug reports shows that people are using the product—but the bugs should get fixed!)
+* Numbers of project downloads (many people download a product to try it out and then discard it, so use other measures if possible to gauge the real growth of the user base—for instance, the number of people participating on forums and the number of questions asked)
+* Your community's mix of contributor experience (have the right mix of project members, some who have been on the project for a long time and can provide institutional memory, along with more recent recruits who provide new energy)
 
 ## Conclusion
 This chapter offered an overview of essential considerations one should make when determining whether to start an open source software community and deciding how best to architect that community.
