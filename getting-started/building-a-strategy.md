@@ -224,4 +224,4 @@ This chapter explained the importance of developing a strategy for your open sou
 [^fogel-producing-oss]: [https://producingoss.com/en/producingoss-letter.pdf](https://producingoss.com/en/producingoss-letter.pdf), page 13.
 [^istio]: Incidentally, at the time of this writing, Istio described itself this way: "Istio extends Kubernetes to establish a programmable, application-aware network. Working with both Kubernetes and traditional workloads, Istio brings standard, universal traffic management, telemetry, and security to complex deployments."
 [^open-source-archetypes]: Mozilla. (2018). Open source archetypes: A framework for purposeful open source. Available at: https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf
-[^contributor-pathways]: See "[Constructing an Onboarding Experience](growing-contributors/constructing-an-onboarding-experience.md)," specifically the section on "contributor pathways," for more on this.
+[^contributor-pathways]: See "[Constructing an Onboarding Experience](../growing-contributors/constructing-an-onboarding-experience.md)," specifically the section on "contributor pathways," for more on this.

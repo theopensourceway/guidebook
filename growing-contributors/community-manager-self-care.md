@@ -458,7 +458,7 @@ Similarly in our own direct reports' one-to-ones ensure you also have regular on
 
 [^6]: Psychology Today , [Why Do We Like People Who Are Similar to Us?](https://www.psychologytoday.com/gb/blog/close-encounters/201812/why-do-we-people-who-are-similar-us)
 
-[^7]: World Health Organization, [website](https://www.who.int/mental_health/evidence/burn-out/en/)
+[^7]: World Health Organization, [website](https://www.who.int/news/item/28-05-2019-burn-out-an-occupational-phenomenon-international-classification-of-diseases)
 
 [^8]: Herbert J. Freudenberger, [Staff Burn-Out](https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1974.tb00706.x)
 
@@ -484,13 +484,13 @@ Similarly in our own direct reports' one-to-ones ensure you also have regular on
 
 [^19]: Dr Valerie Young, "The Secret Thoughts of Successful Women"
 
-[^20]: American Pyschological Association, [Manage stress: Strengthen your support network](https://www.apa.org/topics/manage-stress-social-support)
+[^20]: American Pyschological Association, [Manage stress: Strengthen your support network](https://www.apa.org/topics/stress/manage-social-support)
 
 [^21]: Siv Grav, Ove Hellzèn, Ulla Romild, Eystein Stordal, [Association between social support and depression in the general population: the HUNT study, a cross‐sectional survey](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2702.2011.03868.x)
 
 [^22]: Mayo Clinic, [Social support: Tap this tool to beat stress](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/social-support/art-20044445)
 
-[^23]: Mental Health Foundation [Mental Health Awareness Week](https://www.mentalhealth.org.uk/campaigns/mental-health-awareness-week)
+[^23]: Mental Health Foundation [Mental Health Awareness Week](https://www.mentalhealth.org.uk/our-work/public-engagement/mental-health-awareness-week)
 
 [^24]: Ubuntu [Ubuntu Burnout](https://wiki.ubuntu.com/BuildingCommunity/Burnout/)
 

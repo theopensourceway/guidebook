@@ -20,7 +20,7 @@ So it's a way of recognizing that all people are of equal value in the world, an
 
 It's never too early to think of how you can make a contribution to a project or group you'd like to join. By doing so, you catapult the project further ahead in meeting your needs and the needs of all its users. Furthermore, you can get recognition, improve your skills in a safe environment, and build your network through the people you work with.
 
-This document covers several roles played by contributors. It may be interesting to see how roles are similarly or differently defined by the [CRediT](<http://credit.niso.org/>) project for academic papers.
+This document covers several roles played by contributors. It may be interesting to see how roles are similarly or differently defined by the [CRediT](https://credit.niso.org/) project for academic papers.
 
 ### Writing documents
 
