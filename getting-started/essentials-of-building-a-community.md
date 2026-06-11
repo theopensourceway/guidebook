@@ -34,7 +34,7 @@ When you (and possibly your organization) are considering forming an open source
 
 Questions like these will help you determine whether forming a community is the appropriate approach for you and your team. For example, organizations like a university and a branch of the armed forces would have two very different approaches to getting things done. Their reasons for forming any kind of community may be vastly different (or unexpectedly aligned).
 
-Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively ([community](community-101.md).
+Open source software communities, like all communities of practice, can truly draw people together from wildly different worlds. In open source communities, people with common interests (shared practices) band together to learn and grow collaboratively ([community](community-101.md)).
 
 Other considerations you may face when forming an open source community include:
 
