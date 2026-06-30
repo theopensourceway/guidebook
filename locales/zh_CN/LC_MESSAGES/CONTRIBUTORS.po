@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The Open Source Way \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"POT-Creation-Date: 1970-01-01 00:00+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -42,8 +42,9 @@ msgstr "社区入门指南"
 
 #: ../../CONTRIBUTORS.md:8
 msgid ""
-"Author(s): [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com), [Dave "
-"Neary](mailto:dneary@redhat.com), [Karsten Wade](mailto:kwade@redhat.com)"
+"Author(s): [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com), "
+"[Dave Neary](mailto:dneary@redhat.com), [Karsten "
+"Wade](mailto:kwade@redhat.com)"
 msgstr ""
 "作者：[Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com), [Dave "
 "Neary](mailto:dneary@redhat.com), [Karsten Wade](mailto:kwade@redhat.com)"
@@ -98,8 +99,8 @@ msgstr "作者：[Leslie Hawthorn](mailto:lhawthor@redhat.com)"
 
 #: ../../CONTRIBUTORS.md:18
 msgid ""
-"Editor(s)/Reviewer(s): [Paula Dickerson](mailto:pdickers@redhat.com) (lead),"
-" Editorial team"
+"Editor(s)/Reviewer(s): [Paula Dickerson](mailto:pdickers@redhat.com) "
+"(lead), Editorial team"
 msgstr "编辑/审阅：[Paula Dickerson](mailto:pdickers@redhat.com) (主编), 编辑团队"
 
 #: ../../CONTRIBUTORS.md:19
@@ -220,12 +221,12 @@ msgstr "作者：[Ashley Nicolson](mailto:ashjayne.nicolson@gmail.com)"
 
 #: ../../CONTRIBUTORS.md:42
 msgid ""
-"Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), [Dr. "
-"Karen Hixson](https://www.karenhixsonlpc.com/) (subject matter expert (SME) "
-"reviewer), Editorial team"
+"Editor(s)/Reviewer(s): [Karsten Wade](mailto:kwade@redhat.com) (lead), "
+"[Dr. Karen Hixson](https://www.drhixson.com/) (subject matter expert "
+"(SME) reviewer), Editorial team"
 msgstr ""
 "编辑/审阅：[Karsten Wade](mailto:kwade@redhat.com) (主编), [Dr. Karen "
-"Hixson](https://www.karenhixsonlpc.com/) (主题专家 (SME) 审阅), 编辑团队"
+"Hixson](https://www.drhixson.com/) (主题专家 (SME) 审阅), 编辑团队"
 
 #: ../../CONTRIBUTORS.md:43
 msgid "Defining Healthy Communities"
@@ -241,8 +242,9 @@ msgid ""
 "Proffitt](mailto:bkp@redhat.com), [Bryan "
 "Behrenshausen](mailto:bryan.behrenshausen@sas.com)"
 msgstr ""
-"作者：[Ray Paik](mailto:ray@cube.dev), [Brian Proffitt](mailto:bkp@redhat.com),"
-" [Bryan Behrenshausen](mailto:bryan.behrenshausen@sas.com)"
+"作者：[Ray Paik](mailto:ray@cube.dev), [Brian "
+"Proffitt](mailto:bkp@redhat.com), [Bryan "
+"Behrenshausen](mailto:bryan.behrenshausen@sas.com)"
 
 #: ../../CONTRIBUTORS.md:47
 msgid ""

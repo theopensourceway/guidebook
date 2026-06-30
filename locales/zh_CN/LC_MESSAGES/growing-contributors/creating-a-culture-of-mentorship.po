@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The Open Source Way \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 1970-01-01 00:00+0000\n"
+"POT-Creation-Date: 1970-01-01 00:00+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -27,9 +27,9 @@ msgstr "建立指导者文化"
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:9
 msgid ""
 "This chapter discusses mentorship, a concept important to open source "
-"maintainers interested in creating sustainable projects and communities. It "
-"examines what mentoring is, why it's important, and how you might begin "
-"cultivating a culture of mentorship in your open source community."
+"maintainers interested in creating sustainable projects and communities. "
+"It examines what mentoring is, why it's important, and how you might "
+"begin cultivating a culture of mentorship in your open source community."
 msgstr "本章探讨了指导关系这一对开源维护者至关重要的概念，这些维护者致力于创建可持续发展的项目和社区。我们将解析指导关系的定义、其重要性，以及如何在开源社区中培养指导者文化。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:11
@@ -38,20 +38,20 @@ msgstr "什么是指导关系？"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:13
 msgid ""
-"Mentorship means different things to different people, depending on their "
-"situation, context, culture, and more. To some, for example, mentorship is a"
-" formal activity involving a schedule and agenda. To others, mentorship is "
-"an informal process among peers; it can even be a one-time conversation. If "
-"you ask people to define \"mentorship,\" you will most likely receive wide-"
-"ranging responses."
+"Mentorship means different things to different people, depending on their"
+" situation, context, culture, and more. To some, for example, mentorship "
+"is a formal activity involving a schedule and agenda. To others, "
+"mentorship is an informal process among peers; it can even be a one-time "
+"conversation. If you ask people to define \"mentorship,\" you will most "
+"likely receive wide-ranging responses."
 msgstr "对于不同处境、背景和文化的人而言，指导关系有着不同的含义。例如，有人将其视为包含时间表和议程的正式活动，也有人认为它是同行间的非正式交流过程，甚至可能只是一次性对话。如果你请人们定义\"指导关系\"，很可能会得到五花八门的答案。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:15
 msgid ""
-"That is what makes mentorship such an important and powerful concept: it is "
-"both universal and personal. It's universal insofar as it has potential to "
-"be a positive experience for anyone, yet personal insofar as it occurs "
-"differently for every individual and in every relationship."
+"That is what makes mentorship such an important and powerful concept: it "
+"is both universal and personal. It's universal insofar as it has "
+"potential to be a positive experience for anyone, yet personal insofar as"
+" it occurs differently for every individual and in every relationship."
 msgstr "这正是指导关系如此重要且强大的原因：它既具有普适性又充满个性化。其普适性体现在任何人都可能从中获得积极体验，而个性化则表现为每个个体和每段师徒关系都会呈现独特的发展轨迹。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:17
@@ -76,8 +76,8 @@ msgstr "它使你获益"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:25
 msgid ""
-"Mentoring can be a personally rewarding experience. The help and guidance "
-"you offer can have valuable, lasting benefits. For example:"
+"Mentoring can be a personally rewarding experience. The help and guidance"
+" you offer can have valuable, lasting benefits. For example:"
 msgstr "指导他人可以带来个人成就感。你提供的帮助和指引可能产生宝贵而持久的影响，例如："
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:27
@@ -114,12 +114,12 @@ msgstr "它使他人获益"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:37
 msgid ""
-"Mentorship helps contributors navigating different stages of their careers "
-"or different life circumstances. Mentorship has the potential for positive "
-"impact (big and small, yet valuable just the same), whether it occurs among "
-"people in a specific project of initiative, in general as people get started"
-" with the project, and as people grow and advance in their educations and "
-"careers."
+"Mentorship helps contributors navigating different stages of their "
+"careers or different life circumstances. Mentorship has the potential for"
+" positive impact (big and small, yet valuable just the same), whether it "
+"occurs among people in a specific project of initiative, in general as "
+"people get started with the project, and as people grow and advance in "
+"their educations and careers."
 msgstr "指导关系度能帮助贡献者在职业生涯的不同阶段或不同生活境遇中找准方向。无论是在特定项目或倡议中的人际互动，还是人们初次接触项目时的引导，抑或在个人教育与职业发展过程中的成长，指导者关系都可能产生积极的（或大或小但同样珍贵的）影响。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:39
@@ -128,11 +128,11 @@ msgstr "它使社区获益"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:41
 msgid ""
-"Mentoriship has a cumulative effect on community coherence and identity. It "
-"might begin between two people, when one person mentors another. But that "
-"person may mentor someone else in turn—and the positive ripple effect "
-"continues. It might even become a sort of \"boomerang of help\" that returns"
-" to you when you need a helping hand or some advice."
+"Mentoriship has a cumulative effect on community coherence and identity. "
+"It might begin between two people, when one person mentors another. But "
+"that person may mentor someone else in turn—and the positive ripple "
+"effect continues. It might even become a sort of \"boomerang of help\" "
+"that returns to you when you need a helping hand or some advice."
 msgstr "指导关系对社区凝聚力和认同感具有累积效应。它可能始于两个人之间，当一个人指导另一个人时。但被指导者可能转而指导其他人——这种积极的涟漪效应会持续扩散。它甚至可能形成一种\"帮助的回旋镖\"，当你需要援手或建议时，这份善意会回馈到你身上。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:43
@@ -147,9 +147,10 @@ msgstr "它使项目获益"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:47
 msgid ""
-"Creating a culture of mentorship—or even a sopecific mentoring program—is "
-"important and valuable to the long-term health of an open source project. "
-"The rest of this chapter will discuss those benefits specifically."
+"Creating a culture of mentorship—or even a sopecific mentoring program—is"
+" important and valuable to the long-term health of an open source "
+"project. The rest of this chapter will discuss those benefits "
+"specifically."
 msgstr "在开源项目中培养指导者文化——甚至建立专门的指导计划——对项目的长期健康发展至关重要且极具价值。本章后续内容将具体探讨这些益处。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:49
@@ -158,25 +159,25 @@ msgstr "指导的形式和风格"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:51
 msgid ""
-"Recall that mentorship is an act, experience, and opportunity to share what "
-"you can, when you can, how you can."
+"Recall that mentorship is an act, experience, and opportunity to share "
+"what you can, when you can, how you can."
 msgstr "请记住，指导是一种行为、一种体验，也是在能力范围内以各种方式分享知识的机会。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:53
 msgid ""
 "In an open source project, this can manifest in various ways. It can be "
-"informal, formal, peer-to-peer, mentor-to-mentee, and other variants. The "
-"relationship dynamics can also differ, such to one-to-one, one-to-many, and "
-"many-to-many. The how and when communication occurs also varies, such as "
-"asynchronous or synchronous. The kinds of questions being asked and the "
-"responses can also influence how mentorship occurs."
+"informal, formal, peer-to-peer, mentor-to-mentee, and other variants. The"
+" relationship dynamics can also differ, such to one-to-one, one-to-many, "
+"and many-to-many. The how and when communication occurs also varies, such"
+" as asynchronous or synchronous. The kinds of questions being asked and "
+"the responses can also influence how mentorship occurs."
 msgstr "在开源项目中，这种关系可以表现为多种形式。它可以是非正式的、正式的、同伴互助式的、师徒式的，以及其他变体。关系动态也各不相同，如一对一、一对多和多对多。交流方式与时机同样存在差异，比如异步或同步沟通。所提问题的类型及回应方式也会影响指导者关系的具体形态。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:55
 msgid ""
-"Another thing to keep in mind is how people mentor and the different roles "
-"they assume. Below are some type of styles (not an exhaustive list, there "
-"are plenty)."
+"Another thing to keep in mind is how people mentor and the different "
+"roles they assume. Below are some type of styles (not an exhaustive list,"
+" there are plenty)."
 msgstr "还需注意的是人们的指导方式及其承担的不同角色。以下是几种典型风格（并非详尽列举，实际类型更为丰富）。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:57
@@ -243,10 +244,10 @@ msgstr "分享文章、书籍、媒体资源、活动及项目等信息。为大
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:82
 msgid ""
-"In summary, it is beneficial to acknowledge that mentorship can go beyond "
-"traditionally providing guidance. There are various ways to mentor and in "
-"doing so, it provides valuable and lasting benefits for the contributors, "
-"open source project, and community."
+"In summary, it is beneficial to acknowledge that mentorship can go beyond"
+" traditionally providing guidance. There are various ways to mentor and "
+"in doing so, it provides valuable and lasting benefits for the "
+"contributors, open source project, and community."
 msgstr "总之，应当认识到指导者关系可以超越传统的指导模式。多元化的指导方式能为贡献者、开源项目及社区创造持久而宝贵的价值。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:84
@@ -256,65 +257,65 @@ msgstr "指导新贡献者"
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:86
 msgid ""
 "Part of starting, or growing, a successful open source community is "
-"designing the community to be sustainable. This means the project needs to "
-"be able to reliably, and repeatedly, bring in new people and help them "
-"become ongoing contributors. Let's talk about how mentoring new contributors"
-" is crucial to enabling a community to be sustainable."
+"designing the community to be sustainable. This means the project needs "
+"to be able to reliably, and repeatedly, bring in new people and help them"
+" become ongoing contributors. Let's talk about how mentoring new "
+"contributors is crucial to enabling a community to be sustainable."
 msgstr "创建或发展一个成功的开源社区，其关键在于设计具有可持续性的社区。这意味着项目需要能够可靠且持续地吸引新人，并帮助他们成为长期贡献者。让我们探讨如何通过指导新贡献者来确保社区的可持续发展。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:88
 msgid ""
 "If this matches your projects's version of sustainable, then a mentoring "
-"program is absolutely crucial. It's at the center of how to take a project "
-"from \"three people who know and do everything\" to make it something many "
-"people can contribute to in a self-sustaining fashion."
+"program is absolutely crucial. It's at the center of how to take a "
+"project from \"three people who know and do everything\" to make it "
+"something many people can contribute to in a self-sustaining fashion."
 msgstr "如若这与贵项目的可持续发展理念相契合，那么建立指导者计划便至关重要。该计划能将项目从\"仅由三人包揽全部事务\"的状态，转变为让众多贡献者以自我维系的方式参与其中的核心机制。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:90
 msgid ""
-"Self-sustainability is an important focus for a mentoring program. And don't"
-" think anyone goes from \"mentoring people\" to \"a mentoring program\" by "
-"accident. Here's the argument:"
+"Self-sustainability is an important focus for a mentoring program. And "
+"don't think anyone goes from \"mentoring people\" to \"a mentoring "
+"program\" by accident. Here's the argument:"
 msgstr "自我可持续性是指导者计划的重要关注点。不要以为有人会偶然从\"指导他人\"发展到\"建立指导者计划\"。以下是论证依据："
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:92
 msgid ""
-"If we can agree that lowering the barriers for entry into a project is key "
-"to bringing in new people; and"
+"If we can agree that lowering the barriers for entry into a project is "
+"key to bringing in new people; and"
 msgstr "如果我们能达成共识：降低项目准入门槛是吸引新成员的关键；"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:93
 msgid ""
-"If we can agree that people coming into a new project benefit from having "
-"one or more people they feel permitted and even encouraged to ask questions "
-"and learn from; and"
+"If we can agree that people coming into a new project benefit from having"
+" one or more people they feel permitted and even encouraged to ask "
+"questions and learn from; and"
 msgstr "如果我们认同，新加入项目的人员若能获得一位或多位可自由提问并从中学习的引导者，将受益匪浅；"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:94
 msgid ""
-"If we can agree new people having lackluster or negative interactions with "
-"existing project members is likely to drive the new people away; and"
+"If we can agree new people having lackluster or negative interactions "
+"with existing project members is likely to drive the new people away; and"
 msgstr "如果我们能达成共识，新人与现有项目成员之间平淡或负面的互动很可能会让新人望而却步；"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:95
 msgid ""
-"If we can agree that having a person (mentor, friend) for new people to turn"
-" to is a way to prevent the driving-away and especially prevent *silent "
-"segfaults* (people just disappearing with no explanation);"
+"If we can agree that having a person (mentor, friend) for new people to "
+"turn to is a way to prevent the driving-away and especially prevent "
+"*silent segfaults* (people just disappearing with no explanation);"
 msgstr "如果我们认同为新成员配备一位指导者（指导者、朋友）能有效防止人才流失，尤其是避免无声的\"程序崩溃\"（成员毫无征兆地消失）；"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:96
 msgid ""
 "Then we can see that doing mentoring with even a tiny bit of repeatable "
-"process support is going to yield better, more satisfying results than an "
-"ad-hoc process."
+"process support is going to yield better, more satisfying results than an"
+" ad-hoc process."
 msgstr "由此可见，即便是采用最基础的流程化支持来进行指导关系培养，其效果和满意度也远胜于临时性的随意安排。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:98
 msgid ""
 "Once you agree that even a lightweight program is better than an ad-hoc "
-"process, we're going in the right direction. With this in mind, here are a "
-"few absolute must-have elements to include in your mentoring program."
+"process, we're going in the right direction. With this in mind, here are "
+"a few absolute must-have elements to include in your mentoring program."
 msgstr "一旦你认同轻量级方案优于临时流程，我们就走在了正确的道路上。基于这一认知，以下是构建指导者计划时必须包含的几个核心要素。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:100
@@ -327,31 +328,31 @@ msgstr "即便是轻量级的内容，也要记录下来并初步尝试。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:104
 msgid ""
-"For that first e.g. six months, get a handful of volunteers to try out the "
-"program. This gives time to work out the kinks in processes, and to attract "
-"more mentors for when you make the program more prominent."
+"For that first e.g. six months, get a handful of volunteers to try out "
+"the program. This gives time to work out the kinks in processes, and to "
+"attract more mentors for when you make the program more prominent."
 msgstr "在最初的六个月里，招募少量志愿者试行该项目。这有助于完善流程中的细节问题，同时为项目扩大规模时吸引更多指导者储备人才。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:106
 msgid ""
-"When you have a process you have tried and tested once or twice, put up a "
-"\"Mentoring\" section on your project website and include links to all the "
-"elements of your mentoring program. Make sure people who have even the "
-"slightest inkling of getting involved in the project can look ahead and see "
-"how they are going to be taken care of as a new contributor."
+"When you have a process you have tried and tested once or twice, put up a"
+" \"Mentoring\" section on your project website and include links to all "
+"the elements of your mentoring program. Make sure people who have even "
+"the slightest inkling of getting involved in the project can look ahead "
+"and see how they are going to be taken care of as a new contributor."
 msgstr "当你已经对某个流程进行过一两次实践验证后，请在项目网站上设立\"指导者计划\"专区，并附上所有指导者计划相关内容的链接。确保那些对参与项目哪怕只有一丝兴趣的人，都能提前了解作为新贡献者将获得怎样的支持。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:108
 msgid ""
-"After each full mentoring period (refer to time commitment, below), conduct "
-"a retrospective to learn from the mentoring period and improve the process "
-"iteratively."
+"After each full mentoring period (refer to time commitment, below), "
+"conduct a retrospective to learn from the mentoring period and improve "
+"the process iteratively."
 msgstr "在每个完整的指导周期结束后（参考下方的时间投入说明），进行一次回顾总结，从指导过程中汲取经验并持续优化流程。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:110
 msgid ""
-"It's not just promising there will be a map and directions, it is showing "
-"the actual map and idea of what the directions will be."
+"It's not just promising there will be a map and directions, it is showing"
+" the actual map and idea of what the directions will be."
 msgstr "这不仅仅是承诺会有地图和指引，而是展示实际的地图以及指引将呈现的构想。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:112
@@ -368,34 +369,34 @@ msgstr "即便是经验丰富的指导者，也能从明确的指导准则中获
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:116
 msgid ""
 "As a deeper reference when creating a mentoring program, there is [an "
-"upstream guide to mentoring itself](https://www.mentorship.guide/). You can "
+"upstream guide to mentoring itself](https://mentorship.guide/). You can "
 "use materials from that project to create the elements your mentoring "
 "program needs."
-msgstr "在创建指导者计划时，有一份[关于指导关系度的上游指南](https://www.mentorship.guide/)可作为深度参考。你可以利用该项目的材料来构建你指导者计划所需的各项要素。"
+msgstr "在创建指导者计划时，有一份[关于指导关系度的上游指南](https://mentorship.guide/)可作为深度参考。你可以利用该项目的材料来构建你指导者计划所需的各项要素。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:118
 msgid ""
-"Mentors have a special role of trust—the project trusts them to represent "
-"the community, and the mentees (mentoring subjects) trust the mentor to lead"
-" them down the right path. Mentors need to conduct themselves with an "
-"appropriate standard, and there needs to be a way to keep them accountable "
-"to that standard and report problems or abuses of conduct by mentors. Such a"
-" Code of Conduct needs to be visible up front and prominent for everyone "
-"looking at your mentoring program."
+"Mentors have a special role of trust—the project trusts them to represent"
+" the community, and the mentees (mentoring subjects) trust the mentor to "
+"lead them down the right path. Mentors need to conduct themselves with an"
+" appropriate standard, and there needs to be a way to keep them "
+"accountable to that standard and report problems or abuses of conduct by "
+"mentors. Such a Code of Conduct needs to be visible up front and "
+"prominent for everyone looking at your mentoring program."
 msgstr "指导者肩负着特殊的信任角色——项目方信任他们能代表社区，而被指导者（学习者）则信任指导者能引领他们走上正确道路。指导者需以恰当的行为标准要求自己，同时必须建立机制确保其遵守该标准，并能够举报指导者的不当行为或滥用职权现象。这份行为准则必须公开醒目地展示，让所有关注你指导者计划的人都能清楚看到。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:120
 msgid ""
-"Not having a Code of Conduct for your mentors, or making it hard to find, is"
-" a warning signal to potential new contributors that this project should be "
-"avoided."
+"Not having a Code of Conduct for your mentors, or making it hard to find,"
+" is a warning signal to potential new contributors that this project "
+"should be avoided."
 msgstr "若你的项目缺少指导者行为准则，或将其隐藏得难以查找，这等于向潜在的新贡献者发出警示信号：应当避开这个项目。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:122
 msgid ""
-"If your project already has a Code of Conduct, make sure it is sufficient to"
-" cover the mentoring program, and make sure all participants are aware of "
-"its existence."
+"If your project already has a Code of Conduct, make sure it is sufficient"
+" to cover the mentoring program, and make sure all participants are aware"
+" of its existence."
 msgstr "如果项目已有行为准则，请确保其内容足以覆盖指导者计划，并让所有参与者都知晓该准则的存在。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:124
@@ -404,36 +405,36 @@ msgstr "指导者培养指导者"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:126
 msgid ""
-"It's one thing to have a few mentors and to start a mentoring program. But "
-"to make it sustainable, the mentoring program needs to doing more than "
-"attracting mentors, it needs to be creating new mentors."
+"It's one thing to have a few mentors and to start a mentoring program. "
+"But to make it sustainable, the mentoring program needs to doing more "
+"than attracting mentors, it needs to be creating new mentors."
 msgstr "拥有几位指导者并启动一个指导者计划是一回事。但要使其可持续发展，该计划不仅要吸引指导者，还需要培养出新的指导者。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:128
 msgid ""
-"The core idea is to make sure that your mentors are also teaching explicitly"
-" and by example \"how to be a mentor.\" Your mentors should be thinking "
-"overall and in specific instances, How can I help this person be successful "
-"at mentoring other contributors? That way new mentors are made of people who"
-" have had positive experiences as mentees and are also encouraged in their "
-"own mentoring activities beyond."
+"The core idea is to make sure that your mentors are also teaching "
+"explicitly and by example \"how to be a mentor.\" Your mentors should be "
+"thinking overall and in specific instances, How can I help this person be"
+" successful at mentoring other contributors? That way new mentors are "
+"made of people who have had positive experiences as mentees and are also "
+"encouraged in their own mentoring activities beyond."
 msgstr "核心理念是确保你的指导者们既通过明确指导也以身作则地传授\"如何成为指导者\"。指导者们应当从整体和具体案例出发思考：我如何帮助这个人成功指导其他贡献者？这样，新指导者将由那些作为学习者有过积极体验，并在自身指导活动中持续获得激励的人担任。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:130
 msgid ""
-"A new contributor who is mentored well can immediately turn around and offer"
-" similar mentoring lessons to other contributors, new and existing alike. "
-"Even the same day."
+"A new contributor who is mentored well can immediately turn around and "
+"offer similar mentoring lessons to other contributors, new and existing "
+"alike. Even the same day."
 msgstr "得到良好指导的新贡献者可以立即转身为其他贡献者（无论新人还是资深成员）提供类似的指导。甚至当天就能实现。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:132
 msgid ""
-"Whenever you are answering a question for a new contributor, how you answer "
-"that question is where mentoring comes in. You can answer in such a way that"
-" this new contributor feels empowered to share their new-found knowledge. If"
-" they take in the lesson of not just what was conveyed but how it was "
-"conveyed, they carry this simple lesson of mentoring forward with their own "
-"interactions across the project."
+"Whenever you are answering a question for a new contributor, how you "
+"answer that question is where mentoring comes in. You can answer in such "
+"a way that this new contributor feels empowered to share their new-found "
+"knowledge. If they take in the lesson of not just what was conveyed but "
+"how it was conveyed, they carry this simple lesson of mentoring forward "
+"with their own interactions across the project."
 msgstr "每当为新贡献者解答问题时，你的回应方式正是指导艺术的体现。你可以赋能的方式回答，让这位新贡献者感受到分享新知识的自信。如果他们不仅吸收了传递的内容，更领悟了传递的方式，就能将这种简单的指导之道融入自己在项目中的每一次互动。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:134
@@ -442,8 +443,8 @@ msgstr "学习者简单规范"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:136
 msgid ""
-"Unlike your mentors, you want the fewest demands and lightest burdens for "
-"your mentees."
+"Unlike your mentors, you want the fewest demands and lightest burdens for"
+" your mentees."
 msgstr "与指导者不同，你希望为学习者设置最简要求和最轻负担。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:138
@@ -462,11 +463,11 @@ msgstr "学习者可能需要承担的工作/精力投入。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:142
 msgid ""
-"Clarify the relationship, e.g., a mentor is specifically not a friendship "
-"role; the mentoring may be time-bound (six months, etc.) or otherwise have a"
-" box once left means the mentoring has concluded; mentors are volunteers and"
-" deserve equal respect; mentors are held to a Code of Conduct that mentees "
-"should know and follow as well. And so forth."
+"Clarify the relationship, e.g., a mentor is specifically not a friendship"
+" role; the mentoring may be time-bound (six months, etc.) or otherwise "
+"have a box once left means the mentoring has concluded; mentors are "
+"volunteers and deserve equal respect; mentors are held to a Code of "
+"Conduct that mentees should know and follow as well. And so forth."
 msgstr "明确关系定位，例如指导者角色明确区别于朋友关系；指导可能设有时限（如六个月等），或存在明确边界，一旦跨越即意味着指导关系终结；指导者均为志愿者，应获得同等尊重；指导者需遵守行为准则，学习者亦应知晓并遵循。诸如此类。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:143
@@ -477,9 +478,9 @@ msgstr "在这个特定项目中，常规的指导者/学习者关系是怎样�
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:145
 msgid ""
-"You are looking for a balance where mentees know what is expected of them, "
-"while leaving space for the mentor to help grow that understanding of "
-"project norms, from technical to cultural."
+"You are looking for a balance where mentees know what is expected of "
+"them, while leaving space for the mentor to help grow that understanding "
+"of project norms, from technical to cultural."
 msgstr "你需要寻求一种平衡：既让学习者清楚预期责任，又为指导者留出空间，帮助学习者从技术规范到文化理念逐步深化对项目准则的理解。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:147
@@ -488,9 +489,9 @@ msgstr "任命负责指导计划的指定个人或团队"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:149
 msgid ""
-"For everything from people being stuck, through to disappearing mentors, to "
-"Code of Conduct violations, there needs to be a clear and obvious person or "
-"persons to contact."
+"For everything from people being stuck, through to disappearing mentors, "
+"to Code of Conduct violations, there needs to be a clear and obvious "
+"person or persons to contact."
 msgstr "无论是遇到困难的人员、失联的指导者，还是违反行为准则的情况，都必须有明确且显而易见的联系人可供联系。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:151
@@ -502,10 +503,10 @@ msgstr "这些联系信息及其用途应在指导计划网页上显著展示。
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:153
 msgid ""
 "This group will be one of the rare areas of your project that maintains "
-"privacy and a well-understood barrier to transparency for specific topics. "
-"Mentors need to be able to talk with other mentors to seek guidance; this "
-"group can provide that private space. It can also help with any sensitive "
-"matters that arise."
+"privacy and a well-understood barrier to transparency for specific "
+"topics. Mentors need to be able to talk with other mentors to seek "
+"guidance; this group can provide that private space. It can also help "
+"with any sensitive matters that arise."
 msgstr "该小组将成为项目中少数几个对特定问题保持隐私性并设有明确透明度界限的领域。指导者们需要与其他指导者交流以寻求指导；这个小组能提供这样的私密空间。它还能协助处理任何出现的敏感问题。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:155
@@ -520,32 +521,33 @@ msgstr "为指导关系定合理的时间与精力投入计划"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:159
 msgid ""
-"Mentoring relationships can last years or be completed in a weekend. Make a "
-"reasonable schedule, perhaps one that is tied to your release schedule or "
-"other rhythms such as specific conferences or events you organize around."
+"Mentoring relationships can last years or be completed in a weekend. Make"
+" a reasonable schedule, perhaps one that is tied to your release schedule"
+" or other rhythms such as specific conferences or events you organize "
+"around."
 msgstr "指导者关系可能持续数年，也可能在一个周末内完成。建议制定合理的时间表，可将其与项目发布周期或其他节奏（如特定会议或活动）相挂钩。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:161
 msgid ""
-"For some projects' experience, the six-month commitment seems to work well. "
-"It is enough time to get to know each other, talk through how to help as a "
-"mentor/be helped as a mentee, and then some months in the middle for the "
-"mentees to actually get feedback on real activities."
+"For some projects' experience, the six-month commitment seems to work "
+"well. It is enough time to get to know each other, talk through how to "
+"help as a mentor/be helped as a mentee, and then some months in the "
+"middle for the mentees to actually get feedback on real activities."
 msgstr "根据部分项目经验，六个月周期效果良好。这段时间足以让双方相互了解，探讨指导者如何提供帮助/学习者如何获得指导，中间数月则能让学习者在实际活动中获得真实反馈。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:163
 msgid ""
-"Especially if you are starting out, you want to attract mentors. If there is"
-" too long of a time and effort commitment, or if there is not clear closure "
-"to a round of mentoring, many potential mentors will not join or even "
-"inquire further about your program."
+"Especially if you are starting out, you want to attract mentors. If there"
+" is too long of a time and effort commitment, or if there is not clear "
+"closure to a round of mentoring, many potential mentors will not join or "
+"even inquire further about your program."
 msgstr "尤其是当你刚开始时，你需要吸引指导者参与。如果时间精力投入周期过长，或是一轮指导缺乏明确的结束节点，许多潜在指导者就会望而却步，甚至不再进一步询问你的项目详情。。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:165
 msgid ""
-"Making the time and effort commitment nebulous is like sprinkling mentoring "
-"repellant on your project. Be clear on what participants are getting into, "
-"and your mentoring program can be on a path to success."
+"Making the time and effort commitment nebulous is like sprinkling "
+"mentoring repellant on your project. Be clear on what participants are "
+"getting into, and your mentoring program can be on a path to success."
 msgstr "对时间和精力的承诺含糊其辞，就像在项目上撒了驱赶指导者的药剂。明确参与者需要付出什么，你的指导者计划才能走向成功。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:167
@@ -554,66 +556,67 @@ msgstr "指导新任社区管理者"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:169
 msgid ""
-"This section was informed by a meeting of community managers, talking about "
-"their experiences around mentoring and new community managers."
+"This section was informed by a meeting of community managers, talking "
+"about their experiences around mentoring and new community managers."
 msgstr "本节内容源自社区管理者们的一次讨论，他们分享了关于指导及新任社区管理者的经验。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:171
 msgid ""
-"In the early days of open source, projects did not have community managers. "
-"Collaboration among developers was a given, and if you were lucky, some "
-"people in your community enjoyed tasks other than software development, like"
-" tending to infrastructure, organizing events, or leading a marketing team. "
-"As open source has matured, there are many more projects created from within"
-" large companies, and these things are no longer a given. Increasingly, "
-"people inside those companies are designated the Community Manager or "
-"Community Architect, and are tasked with ensuring that projects run well as "
-"collaborative, multi-vendor efforts."
+"In the early days of open source, projects did not have community "
+"managers. Collaboration among developers was a given, and if you were "
+"lucky, some people in your community enjoyed tasks other than software "
+"development, like tending to infrastructure, organizing events, or "
+"leading a marketing team. As open source has matured, there are many more"
+" projects created from within large companies, and these things are no "
+"longer a given. Increasingly, people inside those companies are "
+"designated the Community Manager or Community Architect, and are tasked "
+"with ensuring that projects run well as collaborative, multi-vendor "
+"efforts."
 msgstr "在开源的早期，项目并没有社区管理者。开发者之间的协作被视为理所当然，如果你足够幸运，社区中会有一些人喜欢软件开发之外的工作，比如维护基础设施、组织活动或领导营销团队。随着开源的成熟，越来越多项目由大公司内部创立，这些角色不再自然而然地存在。越来越多公司内部人员被指定为社区管理者或社区架构师，他们的职责是确保项目作为多方协作的成果顺利运行。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:173
 msgid ""
 "Much has been written here about what a community manager may or may not "
-"do—but if one thing is certain, it is that projects evolve, and the role of "
-"community manager evolves with them."
+"do—but if one thing is certain, it is that projects evolve, and the role "
+"of community manager evolves with them."
 msgstr "关于社区管理者可能或不可能做什么，这里已经写了很多——但有一点是确定的：项目会发展，社区管理者的角色也会随之演变。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:175
 msgid ""
 "In the life of a project, a time may come when the original community "
-"manager is moving on—to a different job, a different role in the project, or"
-" just taking a back seat because of life."
+"manager is moving on—to a different job, a different role in the project,"
+" or just taking a back seat because of life."
 msgstr "在项目的生命周期中，可能会出现这样的情况：最初的社区管理者要离开了——可能是换工作、在项目中担任不同角色，或者只是因为生活原因退居二线。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:177
 msgid ""
-"During these transition periods, a new community manager may emerge in the "
-"project."
+"During these transition periods, a new community manager may emerge in "
+"the project."
 msgstr "在这些过渡期间，项目中可能会出现新的社区管理者。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:179
 msgid ""
-"During this period, it can be tempting, as the outgoing community manager, "
-"to jump in and start helping the new community person come up to speed. The "
-"risk, however, is that you deprive the new person of an opportunity to make "
-"the role their own. They will certainly have a different conception of the "
-"most important jobs to be done, and a different skill set to bring to bear "
-"on the project."
+"During this period, it can be tempting, as the outgoing community "
+"manager, to jump in and start helping the new community person come up to"
+" speed. The risk, however, is that you deprive the new person of an "
+"opportunity to make the role their own. They will certainly have a "
+"different conception of the most important jobs to be done, and a "
+"different skill set to bring to bear on the project."
 msgstr "作为即将离任的社区管理者，在这个时期很容易忍不住插手，开始帮助新人快速入门。然而这样做的风险是，你剥夺了新人让这个角色打上自己烙印的机会。他们肯定会对最重要的工作任务有不同的理解，也会为项目带来不同的技能组合。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:181
 msgid ""
-"As a mentor, it is important to strike a balance between being a resource, "
-"sharing relevant history, and saying how things have been done."
+"As a mentor, it is important to strike a balance between being a "
+"resource, sharing relevant history, and saying how things have been done."
 msgstr "作为指导者，关键在于在提供资源支持、分享相关历史经验与传授既有工作方法之间取得平衡。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:183
 msgid ""
-"What is the best way for more experienced community managers successfully "
-"mentor newer community managers? How can you help them to be successful, "
-"allowing them the very valuable space to try new things, even if they will "
-"potentially fail along the way? How do you balance scoping the role, while "
-"allowing them to define the role in the way that they see fit?"
+"What is the best way for more experienced community managers successfully"
+" mentor newer community managers? How can you help them to be successful,"
+" allowing them the very valuable space to try new things, even if they "
+"will potentially fail along the way? How do you balance scoping the role,"
+" while allowing them to define the role in the way that they see fit?"
 msgstr "资深社区管理者如何才能最有效地指导新任社区管理者？如何帮助他们获得成功，同时给予宝贵的尝试空间——即使过程中可能会遭遇失败？如何在界定职责范围的同时，允许他们按照自己的理解来定义角色？"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:185
@@ -622,25 +625,25 @@ msgstr "绘制水域图"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:187
 msgid ""
-"One of the things that is most useful when you are coming into a new role is"
-" a list of the people with whom you will be working."
+"One of the things that is most useful when you are coming into a new role"
+" is a list of the people with whom you will be working."
 msgstr "接手新角色时，最有用的准备之一就是获得你将合作的人员名单。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:189
 msgid ""
-"If there are stakeholders who might be able to help you, or people you will "
-"work with who have concerns about community goals, this information will "
-"enable a new person to come into the role and avoid any pitfalls or faux-"
-"pas."
+"If there are stakeholders who might be able to help you, or people you "
+"will work with who have concerns about community goals, this information "
+"will enable a new person to come into the role and avoid any pitfalls or "
+"faux-pas."
 msgstr "如果有利益相关者可能帮助你，或者你将与之合作的人对社区目标存有疑虑，这些信息能让新接手者顺利过渡，避免任何陷阱或失礼行为。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:191
 msgid ""
-"As the outgoing community manager, one of the most valuable things you can "
-"do for the new community manager is to introduce them to people who you have"
-" worked with, to smooth the transition, and ensure that they don't have to "
-"spend minutes explaining who they are and why they are turning up in places "
-"where they are not expected."
+"As the outgoing community manager, one of the most valuable things you "
+"can do for the new community manager is to introduce them to people who "
+"you have worked with, to smooth the transition, and ensure that they "
+"don't have to spend minutes explaining who they are and why they are "
+"turning up in places where they are not expected."
 msgstr "作为即将离任的社区管理者，你能为新任社区管理者做的最有价值的事情之一，就是引荐他们与你共事过的人。这能平稳过渡，确保他们无需费时解释自己的身份以及为何出现在意料之外的场合。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:193
@@ -649,24 +652,24 @@ msgstr "给予失败的空间"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:195
 msgid ""
-"A common theme among people who have had bad mentorship experiences is the "
-"omnipresent micro-manager. One community manager described an experience "
-"where they took on a community role from someone who was stretched too thin."
-" However, everything that they did in the role resulted in email correcting "
-"them and telling them how they should have done the task differently. As a "
-"result, they drifted away from taking on the role. One question more than "
-"any can make a person in a new role feel small and inadequate: \"Why didn't "
-"you just...?\""
+"A common theme among people who have had bad mentorship experiences is "
+"the omnipresent micro-manager. One community manager described an "
+"experience where they took on a community role from someone who was "
+"stretched too thin. However, everything that they did in the role "
+"resulted in email correcting them and telling them how they should have "
+"done the task differently. As a result, they drifted away from taking on "
+"the role. One question more than any can make a person in a new role feel"
+" small and inadequate: \"Why didn't you just...?\""
 msgstr "在糟糕指导者经历中，一个普遍现象是无所不在的微观管理者。有位社区管理者分享道，他们从一位分身乏术的成员手中接任社区职务，但每项工作都会收到纠正邮件，被告知应该如何以不同方式完成任务。最终他们逐渐淡出了这个角色。有个问题尤其会让新任职者感到渺小与无能：\"你为什么不直接...？\""
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:197
 msgid ""
-"A new person in any role will do things differently than the person who went"
-" before. There can be a few reasons for that. Maybe they don't know how to "
-"do it the way it was done in the past. There may be reasons which led to you"
-" doing things the way you did, but they're unaware of the history. It's also"
-" possible that they bring a different skill set and perspective to the role,"
-" and their way is just as valid and just as good."
+"A new person in any role will do things differently than the person who "
+"went before. There can be a few reasons for that. Maybe they don't know "
+"how to do it the way it was done in the past. There may be reasons which "
+"led to you doing things the way you did, but they're unaware of the "
+"history. It's also possible that they bring a different skill set and "
+"perspective to the role, and their way is just as valid and just as good."
 msgstr "任何岗位的新人都可能以不同于前任的方式行事。这背后可能有几个原因。也许他们不清楚过去的工作方式；或许某些历史因素促成了你当初的做法，而他们对此并不了解。当然，也可能是他们带来了不同的技能组合与视角——他们的方法同样合理且有效。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:199
@@ -682,18 +685,18 @@ msgstr "你必须给予新上任者以自由，让他们能够以不同的方式
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:203
 msgid ""
-"As a mentor, one of the hardest things is to watch someone struggle to do "
-"something which you have done in the past. That does not mean that you "
+"As a mentor, one of the hardest things is to watch someone struggle to do"
+" something which you have done in the past. That does not mean that you "
 "should completely abandon your new community manager. Instead of telling "
-"them what to do, ensure that you have good documentation for tasks they will"
-" need to do in the role, and point them at the documentation."
+"them what to do, ensure that you have good documentation for tasks they "
+"will need to do in the role, and point them at the documentation."
 msgstr "作为指导者，最困难的事情之一就是看着他人苦苦挣扎于你曾经做过的事情。但这并不意味着你应该完全放弃你的新社区管理者。与其告诉他们该做什么，不如确保你为他们将在角色中需要执行的任务准备了良好的文档，并将他们引导至相关文档。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:205
 msgid ""
 "This gives them guided experience, while showing up any places where "
-"documentation is lacking and also giving them the freedom to tweak things "
-"along the way."
+"documentation is lacking and also giving them the freedom to tweak things"
+" along the way."
 msgstr "这既为他们提供了有指导的实践经验，又暴露了文档可能存在的不足之处，同时也给予他们在过程中自由调整的空间。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:207
@@ -703,36 +706,37 @@ msgstr "帮助他们获得可见性"
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:209
 msgid ""
 "Ironically for the most public-facing people in a project, people in "
-"community roles can see their careers suffer for lack of visibility. More "
-"than one person mentioned seeing their careers suffer because their "
+"community roles can see their careers suffer for lack of visibility. More"
+" than one person mentioned seeing their careers suffer because their "
 "management chain was unaware of the work they were doing, or did not "
 "understand its value."
 msgstr "颇具讽刺意味的是，作为项目中最面向公众的群体，从事社区工作的人员却常因工作缺乏可见性而遭遇职业发展困境。不止一人提到，由于管理层不了解他们从事的工作或未能认识其价值，导致职业晋升受阻。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:211
 msgid ""
-"As the experienced community manager, one of the best gifts you can offer a "
-"junior community person is being a credible cheerleader for their work."
+"As the experienced community manager, one of the best gifts you can offer"
+" a junior community person is being a credible cheerleader for their "
+"work."
 msgstr "作为经验丰富的社区管理者，你能给予新人最宝贵的馈赠之一，就是为他们的工作成果提供可信的背书。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:213
 msgid ""
-"New community managers can get stretched thin, or can focus their efforts on"
-" tasks that do not provide a significant impact on the community."
+"New community managers can get stretched thin, or can focus their efforts"
+" on tasks that do not provide a significant impact on the community."
 msgstr "新任社区管理者往往容易陷入精力分散的困境，或将精力集中在那些对社区发展影响甚微的事务上。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:215
 msgid ""
-"As a mentor, you have an opportunity to help them channel their efforts on "
-"aspects of the role that provide value to the sponsoring company, in "
+"As a mentor, you have an opportunity to help them channel their efforts "
+"on aspects of the role that provide value to the sponsoring company, in "
 "addition to benefiting the community."
 msgstr "作为指导者，你既能引导他们将精力投入到对社区有益的工作中，同时也能帮助他们聚焦那些能为赞助企业创造价值的职责领域。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:217
 msgid ""
-"You may also have the ability to communicate their successes in a way that "
-"will help their management chain understand the value that they bring to the"
-" project."
+"You may also have the ability to communicate their successes in a way "
+"that will help their management chain understand the value that they "
+"bring to the project."
 msgstr "你可能还需要具备一种能力，即通过恰当的方式传达他们的成就，帮助管理层理解他们为项目带来的价值。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:219
@@ -741,11 +745,11 @@ msgstr "上手指南"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:221
 msgid ""
-"Guiding a new community manager through their first few months on the job "
-"can be a very rewarding experience. As the experienced person, you can help "
-"them be effective and successful, give them confidence in their ability to "
-"execute in a new role, and increase the amount of community knowledge in "
-"your company and in the industry."
+"Guiding a new community manager through their first few months on the job"
+" can be a very rewarding experience. As the experienced person, you can "
+"help them be effective and successful, give them confidence in their "
+"ability to execute in a new role, and increase the amount of community "
+"knowledge in your company and in the industry."
 msgstr "指导一位新任社区管理者度过最初几个月的工作期，可能会带来非常丰厚的回报。作为经验丰富的前辈，你能帮助他们高效且成功地开展工作，增强他们对新角色执行能力的信心，同时提升公司和行业内社区知识的储备总量。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:223
@@ -756,8 +760,8 @@ msgstr "一个新晋社区管理者的指导者计划前 30 天会是什么样�
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:225
 msgid ""
-"Maintain a weekly one-on-one call so that they can ask you for advice and "
-"help as they feel the need."
+"Maintain a weekly one-on-one call so that they can ask you for advice and"
+" help as they feel the need."
 msgstr "保持每周一次的一对一通话，以便他们在需要时能随时向你寻求建议和帮助。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:227
@@ -775,15 +779,15 @@ msgstr "找出他们将接手的三个重复性任务，并提供你管理这些
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:231
 msgid ""
-"Help them identify two high-value, high-visibility projects to deliver in "
-"their first month, and communicate their work when they are delivered."
+"Help them identify two high-value, high-visibility projects to deliver in"
+" their first month, and communicate their work when they are delivered."
 msgstr "帮助他们确定两项高价值、高曝光度的项目，在其入职第一个月内完成交付，并在项目完成时及时传达工作成果。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:233
 msgid ""
-"Beyond the first month, you should be fading increasingly into the shadows, "
-"moving your one-on-one calls to every two weeks, and providing guidance on-"
-"demand only."
+"Beyond the first month, you should be fading increasingly into the "
+"shadows, moving your one-on-one calls to every two weeks, and providing "
+"guidance on-demand only."
 msgstr "第一个月之后，你应该逐渐退居幕后，将一对一沟通调整为每两周一次，并仅在需要时提供指导。"
 
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:235
@@ -799,8 +803,8 @@ msgstr "结论"
 #: ../../growing-contributors/creating-a-culture-of-mentorship.md:239
 msgid ""
 "This chapter discussed what mentoring is, why it is vitally important to "
-"your open source project, and how it helps you and others. Then it described"
-" why and how to make a mentoring program for your community. Finally, the "
-"chapter concludes with why and how to mentor a new community manager who is "
-"taking a role you already are familiar with."
+"your open source project, and how it helps you and others. Then it "
+"described why and how to make a mentoring program for your community. "
+"Finally, the chapter concludes with why and how to mentor a new community"
+" manager who is taking a role you already are familiar with."
 msgstr "本章探讨了指导的含义、它对开源项目至关重要的原因，以及它如何惠及你与他人。接着阐述了为何及如何为社区制定指导计划。最后，本章以指导新任社区管理者为例作结——当你对相关职责已驾轻就熟时，该如何引导新人胜任角色。"
