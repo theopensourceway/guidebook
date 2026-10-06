@@ -135,7 +135,7 @@ They understand the importance of creating sustainability around open source com
 In open source software, marketing is the act of promoting the community and its software efforts. Other practices, such as market research and advertising, do not typically happen in the community itself.
 
 **What does a marketer do?**  
-Works with different parts of the project to help them ini understanding what their users want and need, then to simplify and amplify those messages out to the world. Feedback from users in open source often goes directly to the development team, in the form of bug reports and user help. Unlike in a closed software development method, the contributors closest to the content and code tend to have a high level of knowledge about the user base. Marketers can help gather, clarify, organize, and prioritize that information into feature sets and roadmaps.
+Works with different parts of the project to help them in understanding what their users want and need, then to simplify and amplify those messages out to the world. Feedback from users in open source often goes directly to the development team, in the form of bug reports and user help. Unlike in a closed software development method, the contributors closest to the content and code tend to have a high level of knowledge about the user base. Marketers can help gather, clarify, organize, and prioritize that information into feature sets and roadmaps.
 
 **Why do people like this role?**  
 People who are interested in the modern world of marketing beyond the "it's all digital" point-of-view can see the aspects of truth, openness, and transparency that are hallmarks of some brands in the world, mirrored in the very processes of open source development.
