@@ -105,7 +105,7 @@ Translation the software interface and documentation into a different language. 
 Works with tools and processes to translate the software interface, documentation, marketing material, release notes, etc. into one or more languages. Many projects use a common process or model, so learning how to translate in one software project may be a reusable skill in another project. Linux distributions such as Fedora Linux have translators who work on all parts of the operating system, translating it into many dozens of languages.
 
 **Why do people like this role?**  
-One way many people have contributed to the spreading of open source softwae is by translating the software and documentation into their local language. They use this as a way to bring the benefits of free and open source software to their locale.
+One way many people have contributed to the spreading of open source software is by translating the software and documentation into their local language. They use this as a way to bring the benefits of free and open source software to their locale.
 
 ### Helping administer project systems
 
@@ -135,7 +135,7 @@ They understand the importance of creating sustainability around open source com
 In open source software, marketing is the act of promoting the community and its software efforts. Other practices, such as market research and advertising, do not typically happen in the community itself.
 
 **What does a marketer do?**  
-Works with different parts of the project to help them ini understanding what their users want and need, then to simplify and amplify those messages out to the world. Feedback from users in open source often goes directly to the development team, in the form of bug reports and user help. Unlike in a closed software development method, the contributors closest to the content and code tend to have a high level of knowledge about the user base. Marketers can help gather, clarify, organize, and prioritize that information into feature sets and roadmaps.
+Works with different parts of the project to help them in understanding what their users want and need, then to simplify and amplify those messages out to the world. Feedback from users in open source often goes directly to the development team, in the form of bug reports and user help. Unlike in a closed software development method, the contributors closest to the content and code tend to have a high level of knowledge about the user base. Marketers can help gather, clarify, organize, and prioritize that information into feature sets and roadmaps.
 
 **Why do people like this role?**  
 People who are interested in the modern world of marketing beyond the "it's all digital" point-of-view can see the aspects of truth, openness, and transparency that are hallmarks of some brands in the world, mirrored in the very processes of open source development.
@@ -146,7 +146,7 @@ People who are interested in the modern world of marketing beyond the "it's all 
 This is the work involved in connecting with users, participants, and potential contributors, as well as the world in general. These connections are for more than marketing, it may involve aspects of recruiting, user help, feedback gathering, audience analysis, tech support, and so forth.
 
 **What does an outreach coordinator do?**  
-Works directly with creators in the project (code, content, design, marketing, etc.) and acts as a two-way conduit from the project into various forums. The forums might be web-based or mailing lists the project maintains, they may be blogs and tech journalists, they may be websites users go for asking and answering questions. A person doing outreach is knowledgeable to some degree about nearly every aspect of the project, able to identify and establish conections from those parts of the project to the outside world.
+Works directly with creators in the project (code, content, design, marketing, etc.) and acts as a two-way conduit from the project into various forums. The forums might be web-based or mailing lists the project maintains, they may be blogs and tech journalists, they may be websites users go for asking and answering questions. A person doing outreach is knowledgeable to some degree about nearly every aspect of the project, able to identify and establish connections from those parts of the project to the outside world.
 
 **Why do people like this role?**  
 This role involves getting to know people and processes, and communicating about them. It's an opportunity to be the proxy for people who otherwise might not get heard from in the project, helping to bring those voices to the forefront.
@@ -157,10 +157,10 @@ This role involves getting to know people and processes, and communicating about
 With the success of an open source project hinging as much on the community as the code base, most projects have people formally or informally doing the role of designing and helping maintain the community itself as a top priority.
 
 **What does a community architect do?**  
-As a core part of their role, this person would be aware of and oversee or directly implement the many best practices in this guidebook. When this role is comprised of multiple people or is only part-time staffed, people involved tend to focus on the practices most germain to the project. In this way a project that is light on community management/enablement resources can still get the key parts done, eventually.
+As a core part of their role, this person would be aware of and oversee or directly implement the many best practices in this guidebook. When this role is comprised of multiple people or is only part-time staffed, people involved tend to focus on the practices most germane to the project. In this way a project that is light on community management/enablement resources can still get the key parts done, eventually.
 
 **Why do people like this role?**  
-This role is for people who enjoy communicating, collaborating, and connecting other people. It's helpful if you get as much joy out of watching other people succeed—while helping celebrate that success, of course—as you do outy out of your own successes. The role is also attractive to people who are interested and skilled at doing a lot of many varied things (a jack-of-all-trades
+This role is for people who enjoy communicating, collaborating, and connecting other people. It's helpful if you get as much joy out of watching other people succeed—while helping celebrate that success, of course—as you do out of your own successes. The role is also attractive to people who are interested and skilled at doing a lot of many varied things (a jack-of-all-trades
 
 ## Other technical roles
 
